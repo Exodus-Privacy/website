@@ -9,7 +9,6 @@ $ ->
 
 	navs = $('nav').find('a[href^="#"]').toArray()
 	navs = navs.map (nav) ->
-		# console.info nav
 		href = $.attr nav, 'href'
 		anchor = $(href)
 		[$(nav), anchor]
@@ -18,10 +17,8 @@ $ ->
 		top = $(window).scrollTop()
 		last = undefined
 		$.each navs, (_, nav) ->
-			# console.info nav
 			[nav, anchor] = nav
-			# console.info nav
-			# console.info anchor
+			return if anchor.size() <= 0
 			nav.removeClass 'active'
 			if ( top + 1 >= anchor.offset().top )
 				last = nav
