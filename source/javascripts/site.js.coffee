@@ -1,5 +1,6 @@
 #= require jquery
 #= require _holder
+#= require _asciinema-player
 
 $ ->
 	$(document).on 'click', 'a[href^="#"]', (event) ->
