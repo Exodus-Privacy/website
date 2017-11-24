@@ -146,7 +146,12 @@ a.btn,  a.btn:hover, a.btn:focus {
 
 a.button {
 	img {
-		height: 50px;
 		max-width: 140px;
+	}
+
+	&.large {
+		img {
+			max-width: 140px;
+		}
 	}
 }
