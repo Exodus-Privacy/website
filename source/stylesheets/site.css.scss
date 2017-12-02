@@ -65,6 +65,10 @@ a.btn,  a.btn:hover, a.btn:focus {
 	margin-left: auto;
 }
 
+.container {
+	padding: 5em 0;
+}
+
 .cover {
 	margin-top: 50px;
 }
@@ -142,6 +146,9 @@ a.btn,  a.btn:hover, a.btn:focus {
 	.cover-container {
 		width: 42rem;
 	}
+	a {
+		word-wrap: break-word;
+	}
 }
 
 a.button {
@@ -167,6 +174,10 @@ a.button {
 }
 .press-lead a:hover {
 	color: whitesmoke;
+}
+
+.press-lead-justify {
+	text-align: justify;
 }
 
 .img-icon {
