@@ -101,7 +101,7 @@ a.btn,  a.btn:hover, a.btn:focus {
 		}
 
 		a + a {
-			margin-left: 1rem;
+			margin-left: 2rem;
 		}
 	}
 
@@ -189,4 +189,14 @@ a.button {
 
 .padding-btn {
 	padding: 1em;
+}
+
+#partners {
+	table {
+		margin: auto;
+
+		td {
+			width: 25%;
+		}
+	}
 }
