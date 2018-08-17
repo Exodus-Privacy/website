@@ -47,14 +47,14 @@ Exodus Privacy is a French (1901 law) non-profit organization.This organization 
         <i class="far fa-3x fa-envelope-open mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>contact@exodus-privacy.eu.org</code></h6>
-            <a href="mailto://contact@exodus-privacy.eu.org" class="btn btn-sm btn-primary">Contact us!</a>
+            <a href="mailto:contact@exodus-privacy.eu.org" class="btn btn-sm btn-primary">Contact us!</a>
         </div>
     </div>
     <div class="col-md-5 text-center">
         <i class="fa fa-3x fa-envelope mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>press@exodus-privacy.eu.org</code><a href="/media/press-gpg-key.asc"> GPG <i class="fa fa-key"></i></a></h6>
-            <a href="irc://irc.freenode.org/exodus-privacy" class="btn btn-sm btn-primary">Contact us securely!</a>
+            <a href="mailto:press@exodus-privacy.eu.org" class="btn btn-sm btn-primary">Contact us securely!</a>
         </div>
     </div>
 </div>
