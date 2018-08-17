@@ -1,0 +1,33 @@
+<footer>
+  <!--navigation-->
+  {{ if .IsPage }} 
+  {{ if or ( .NextInSection ) ( .PrevInSection ) }}
+  <nav>
+    <ul class="pagination">
+      {{ if .PrevInSection }}
+      <li class="page-item">
+        <a href="{{ .PrevInSection.Permalink }}" title="{{ .PrevInSection.Title }} " class="page-link">
+          <span aria-hidden="true">&larr;</span>{{ .Site.Data.Strings.previous }}
+        </a>
+      </li>
+      {{end}} 
+      {{ if .NextInSection }}
+      <li class="page-item">
+        <a href="{{ .NextInSection.Permalink }}" title="{{ .NextInSection.Title }}" class="page-link">
+          {{ .Site.Data.Strings.next }}
+          <span aria-hidden="true">&rarr;</span>
+        </a>
+      </li>
+      {{end}}
+    </ul>
+  </nav>
+  {{ end }} 
+  {{ end }}
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="pt-4">
+        {{ if ne .Site.DisqusShortname "" }} {{ template "_internal/disqus.html" . }} {{ end }}
+      </div>
+    </div>
+  </div>
+</footer>

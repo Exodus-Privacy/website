@@ -1,0 +1,11 @@
+{{ partial "head" . }}
+<div id="main-content" class="container">
+  <header>
+    {{ partial "content/h1-title" . }}
+  </header>
+  {{ range $index, .Paginator.Pages }}
+    {{ .Render "section.li" }}
+  {{ end }}
+  {{ partial "content/pagination" . }}
+</div>
+{{ partial "foot" . }}

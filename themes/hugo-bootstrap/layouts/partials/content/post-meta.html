@@ -1,0 +1,47 @@
+<div class="post-meta">
+  <div class="post-meta-item">
+    <i class="fa fa-calendar"></i>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format .Site.Data.Formats.date }}</time>
+
+    {{ with .Params.author }}
+      &middot; {{ $.Site.Data.Strings.byauthor }} {{ . }}
+    {{ end }}
+    &middot; {{ .ReadingTime }} {{ .Site.Data.Strings.metaReadinMinutes }}
+    &middot; {{ .WordCount }} {{ .Site.Data.Strings.words }}
+  </div>
+
+  {{ if isset .Params "categories" }}
+      {{ $categoriesLen := len .Params.categories }}
+      {{ if gt $categoriesLen 0 }}
+      <div class="post-meta-item">
+          <i class="fa fa-folder-open-o"></i>
+          {{ range $k, $v := .Params.categories }}
+          <a class="article-category-link" href="{{ (print "categories/" (. | urlize | lower) "/") | relURL }}">{{ . }}</a>
+          {{ if lt $k (sub $categoriesLen 1) }}&middot;{{ end }}
+          {{ end }}
+      </div>
+      {{ end }}
+  {{ end }}
+
+  {{ if isset .Params "tags" }}
+      {{ $tagsLen := len .Params.tags }}
+      {{ if gt $tagsLen 0 }}
+        <div class="post-meta-item">
+          <i class="fa fa-tags"></i>
+          {{ range $k, $v := .Params.tags }}
+          <a href="{{ (print "tags/" (. | urlize | lower) "/") | relURL }}">{{ . }}</a>
+          {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
+          {{ end }}
+        </div>
+      {{ end }}
+  {{ end }}
+  {{ if not (eq .Site.DisqusShortname "") }}
+  <div class="post-meta-item">
+    &nbsp;<i class="fa fa-comment-o"></i>
+    <a href="{{ .Permalink }}#disqus_thread" class="article-comment-link">
+         Comments
+    </a>
+  </div>
+  {{end}}
+
+</div>

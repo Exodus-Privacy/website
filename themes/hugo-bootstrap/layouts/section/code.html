@@ -1,0 +1,11 @@
+{{ partial "head" . }}
+<section id="main-content" class="container main_content section">
+  <header>
+    {{ partial "content/h1-title" . }}
+  </header>
+  {{ range $index, .Paginator.Pages.ByTitle }}
+    {{ .Render "section.li" }}
+  {{ end }}
+  {{ partial "content/pagination" . }}
+</section>
+{{ partial "foot" . }}

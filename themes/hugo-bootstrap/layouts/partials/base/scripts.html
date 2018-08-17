@@ -1,0 +1,15 @@
+
+<script src="{{ "assets/js/jquery.min.js" | relURL }}"></script>
+<script src="{{ "assets/js/popper.min.js" | relURL }}"></script>
+<script src="{{ "assets/js/bootstrap.min.js" | relURL }}"></script>
+<script src="{{ "assets/js/highlight.pack.js" | relURL }}"></script>
+<!-- <script src="{{ "assets/js/all.min.js" | relURL }}"></script> -->
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+{{ with .Site.DisqusShortname }}
+<script id="dsq-count-scr" src="//{{ . }}.disqus.com/count.js" async></script>
+{{ end }}
+
+<script src="{{ "assets/js/script.js" | relURL }}"></script>
+

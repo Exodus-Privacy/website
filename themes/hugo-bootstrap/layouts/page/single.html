@@ -1,0 +1,12 @@
+{{ partial "head" . }}
+<div class="container p-b-2">
+  <div class="row">
+    <div class="col-xs-12 col-md-9 post-container">
+      {{ .Render "single.content" }}
+    </div>
+      <div class="col-xs-12 col-md-3">
+        {{ partial "content/sidebar" .}}
+      </div>
+  </div>
+</div>
+{{ partial "foot" . }}

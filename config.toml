@@ -1,0 +1,43 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Exodus Privacy"
+relativeURLs = true
+canonifyurls = true
+paginate = 25
+theme = "hugo-bootstrap"
+copyright = "Exodus Privacy - French non-profit"
+
+[[menu.main]]
+    name = "What"
+    url = "/page/what/"
+    weight = 1
+[[menu.main]]
+    name = "Who"
+    url = "/page/who/"
+    weight = 2
+[[menu.main]]
+    name = "Contribute"
+    url = "/page/contribute/"
+    weight = 3
+[[menu.main]]
+    name = "Supporters"
+    url = "/page/supporters/"
+    weight = 4
+[[menu.main]]
+    name = "Press"
+    url = "/page/press/"
+    weight = 5
+[[menu.main]]
+    name = "News"
+    url = "/post/"
+    weight = 9
+
+[params]
+    navbarBgColorClass = "bg-primary"
+    showBlogHeader = true
+
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true

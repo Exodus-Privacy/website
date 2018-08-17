@@ -1,0 +1,20 @@
+<footer class="footer text-white {{ .Site.Params.navbarBgColorClass | default .Site.Data.Defaults.navbarBgColorClass }}">
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-md-12">
+        <p class="small text-center">
+          {{now.Format "2006"}} - {{ with .Site.Copyright }}{{ . | markdownify}}{{ end }}
+        </p>
+        {{ if .Site.Menus.footer }}
+        <p class="text-center small">
+          {{ $footerMenuLen := len .Site.Menus.footer}} {{ if gt $footerMenuLen 0 }} {{ range $k, $v := .Site.Menus.footer }}
+          <span class="p-l-1 p-r-1">
+                <a href="{{.URL}}" class="text-capitalize no-decoration text-white">{{ .Name }}</a>
+              </span>
+              {{ if lt $k (sub $footerMenuLen 1) }}&middot;{{ end }} {{ end }} {{ end }}
+        </p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</footer>

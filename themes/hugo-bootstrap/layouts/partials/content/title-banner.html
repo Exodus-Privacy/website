@@ -1,0 +1,11 @@
+{{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
+<a href="{{ .Permalink }}" itemprop="url">
+    {{if or (in (substr .Params.banner 0 7) "http://") (in (substr .Params.banner 0 8) "https://")}}
+      <img src="{{ .Params.banner }}" class="img-fluid" alt="Generic responsive image">
+    {{ else if  (in (substr .Params.banner 0 1) "/" ) }}
+      <img src="{{ .Params.banner | relURL }}" class="img-fluid" alt="Generic responsive image">
+    {{ else }}
+      <img src="{{ .Permalink }}{{ .Params.banner }}" class="img-fluid" alt="Generic responsive image">
+    {{end}}
+</a>
+{{ end }}

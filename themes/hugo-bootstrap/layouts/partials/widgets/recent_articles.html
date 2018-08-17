@@ -1,0 +1,36 @@
+{{ if .Site.Params.widgets.recent_articles }}
+<div class="card card-block mt-5">
+  <h4 class="card-title">Recent post</h4>
+  <div class="card-text">
+    <div class="widget">
+      <ul id="recent-post">
+        {{ range first 10 (where .Site.RegularPages "Type" "post") }}
+        <li>
+          <div class="item-thumbnail">
+              <a href="{{ .Permalink }}" class="thumbnail">
+              {{ if isset .Params "banner" }}
+                  {{if or (in (substr .Params.banner 0 7) "http://") (in (substr .Params.banner 0 8) "https://")}}
+                  <span style="background-image:url({{ .Params.banner }})"
+                    alt="{{ .Title | markdownify }}" class="thumbnail-image"></span>
+                  {{ else if  (in (substr .Params.banner 0 1) "/" ) }}
+                  <span style="background-image:url({{ .Params.banner | relURL }})"
+                    alt="{{ .Title | markdownify }}" class="thumbnail-image"></span>
+                  {{ else }}
+                  <span style="background-image:url({{ .Permalink }}{{ .Params.banner }})"
+                    alt="{{ .Title | markdownify }}" class="thumbnail-image"></span>
+                  {{end}}
+              {{else}}
+                  <i class="far fa-file btn btn-lg"></i>
+              {{ end }}
+              </a>
+          </div>
+            <div class="item-inner">
+              <p class="item-title"><a href="{{ .RelPermalink }}" class="title">{{ .Title | markdownify}}</a></p>
+            </div>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+{{ end }}
