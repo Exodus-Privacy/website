@@ -79,14 +79,14 @@ Exodus Privacy main interest is to make people aware of the tracking done by mob
   <i class="fab fa-4x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
   <div class="card-body">
     <h5 class="card-title"><code>@exodus</code></h5>
-    <a href="#" class="btn btn-primary">Follow us!</a>
+    <a href="https://framapiaf.org/@exodus" class="btn btn-primary">Follow us!</a>
   </div>
 </div>
 <div class="col-md-4 text-center">
   <i class="fab fa-4x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
   <div class="card-body">
     <h5 class="card-title"><code>@ExodusPrivacy</code></h5>
-    <a href="#" class="btn btn-primary">Follow us!</a>
+    <a href="https://twitter.com/ExodusPrivacy" class="btn btn-primary">Follow us!</a>
   </div>
 </div>
 <div class="col-md-4 text-center">
