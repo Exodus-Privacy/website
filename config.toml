@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://exodus-privacy.eu.org/"
 languageCode = "en-us"
 title = "Exodus Privacy"
 relativeURLs = true
