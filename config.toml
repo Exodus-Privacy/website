@@ -39,5 +39,5 @@ copyright = "Exodus Privacy - French non-profit"
 [params.widgets]
     recent_articles = true
     categories = true
-    tags = true
+    tags = false
     tag_cloud = true
