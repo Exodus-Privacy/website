@@ -17,4 +17,4 @@ The add-on is available on:
 
 You can download Exodify directly from your browser in the add-on preferences or see the project source at [https://github.com/FacettsOpen/exodify](https://github.com/FacettsOpen/exodify) 
 
-Note: This is a non-exhautive list, we can only list known projects. If you want to be in this list please [email us](mailto://bureau@xodus-privacy.eu.org). 
+Note: This is a non-exhautive list, we can only list known projects. If you want to be in this list please [email us](mailto:bureau@xodus-privacy.eu.org). 
