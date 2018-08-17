@@ -61,7 +61,7 @@ Exodus Privacy is a French (1901 law) non-profit organization.This organization 
 
 ## Contributors
 <div class="row justify-content-md-center">
-    <div class="col-md-2 mt-3 text-center">
+    <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>U+039b</code></h6>
@@ -69,7 +69,7 @@ Exodus Privacy is a French (1901 law) non-profit organization.This organization 
             <a href="https://twitter.com/U039b"><i class="fab fa-2x fa-twitter"></i></a>
         </div>
     </div>
-    <div class="col-md-2 mt-3 text-center">
+    <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>Lovis_IX</code></h6>
@@ -77,7 +77,7 @@ Exodus Privacy is a French (1901 law) non-profit organization.This organization 
             <a href="https://twitter.com/jfoucry"><i class="fab fa-2x fa-twitter"></i></a>
         </div>
     </div>
-    <div class="col-md-2 mt-3 text-center">
+    <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>MeTaL_PoU</code></h6>
@@ -85,14 +85,14 @@ Exodus Privacy is a French (1901 law) non-profit organization.This organization 
             <a href="https://twitter.com/metal_pou"><i class="fab fa-2x fa-twitter"></i></a>
         </div>
     </div>
-    <div class="col-md-2 mt-3 text-center">
+    <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>Gu1nn3zz</code></h6>
             -
         </div>
     </div>
-    <div class="col-md-2 mt-3 text-center">
+    <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>Codimp</code></h6>
