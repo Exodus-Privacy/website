@@ -9,7 +9,7 @@
     <ul class="nav navbar-nav ml-auto">
       {{ $currentNode := . }} {{ range .Site.Menus.main }}
       <li class="nav-item">
-        <a class="nav-link menu-item" href="{{.URL}}">
+        <a class="nav-link menu-item" href="/">
           {{ .Pre }}
           <span class="text-capitalize no-decoration {{ $.Site.Params.navbarLinkFgColorClass | default $.Site.Data.Defaults.navbarLinkFgColorClass }}">{{ .Name }}</span>
         </a>
