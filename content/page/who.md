@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Who we are
-Exodus Privacy is a French (1901 law) non-profit organization.This organization is managed by hacktivists who want to protect privacy everywhere.
+Exodus Privacy is a French (1901 law) non-profit organization. This organization is managed by hacktivists who want to protect privacy everywhere.
 
 ## To reach us, choose your way:
 <div class="row">

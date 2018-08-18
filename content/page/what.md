@@ -40,7 +40,7 @@ draft: false
 
 <a name="exodus"></a>
 ## εxodus - the privacy auditing platform for Android applications
-εxodus analyzes Android applications in order to list the embedded trackers. A tracker is a piece of software meant to collect data about you or your usages. We do not guarantee the exhaustiveness of this list. So, εxodus reports tell you what are the ingredients of the cake.
+εxodus analyzes Android applications in order to list the embedded trackers. A tracker is a piece of software meant to collect data about you or your usages. So, εxodus reports tell you what are the ingredients of the cake. εxodus does not decompile applications, its analysis technic is legal.
 
 The [εxodus website](http://reports.exodus-privacy.eu.org/) allows you to:
 
@@ -51,7 +51,7 @@ The [εxodus website](http://reports.exodus-privacy.eu.org/) allows you to:
 {{< fig src="/media/report-overview.png" caption="Overview of a report" >}}
 </center>
 
-Each report will tell you what are the trackers embedded into the application. By clicking on a tracker's name, we will be redirected to the details of the tracker and the list of application using it. If the tracker description is empty or inaccurate, feel-free to help us to improve it. 
+Each report will tell you what are the trackers embedded into the application. By clicking on a tracker's name, we will be redirected to the details of the tracker and the list of application using it. If the tracker description is empty or inaccurate, feel-free to help us to improve it by submitting improvements or creating an issue on [Github](https://github.com/exodus-privacy/). 
 
 <center>
 {{< fig src="/media/report-trackers.png" caption="Overview of the detected trackers list" >}}
@@ -66,7 +66,7 @@ If you are curious or want to help us to improve εxodus, you can file issues or
 
 <a name="android-app"></a>
 ## εxodus Android application
-This application is meant to list the applications you have installed from Google Play and tells you what are the trackers used by each application. The application does not not analyze the installed applications on you smartphone but uses the reports available on the [εxodus platform](https://reports.exodus-privacy.eu.org) and [does not contain trackers](https://reports.exodus-privacy.eu.org/reports/search/org.eu.exodus_privacy.exodusprivacy).
+This application is meant to list the applications you have installed from Google Play and tells you what are the trackers used by each application. The application does not analyze the installed applications on you smartphone but retrieves the reports available on the [εxodus platform](https://reports.exodus-privacy.eu.org) and [does not contain trackers](https://reports.exodus-privacy.eu.org/reports/search/org.eu.exodus_privacy.exodusprivacy).
 <center>
 {{< fig src="/media/exodus-app.png" caption="Overview of the εxodus Android application" >}}
 </center>
