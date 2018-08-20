@@ -24,7 +24,7 @@ draft: true
  Donators              ║ -2.08255mBTC, -100.00Ğ, -1348.90€ 
  Paypal                ║                            -0.28€ 
  Paypal:Fee            ║                            41.04€ 
- People:Jacques Foucry ║                           152.00€ 
+ People:Membre         ║                           152.00€ 
  Société Générale      ║                            34.00€ 
  Stripe:Fee            ║                           180.78€ 
 ───────────────────────╫───────────────────────────────────
@@ -43,8 +43,8 @@ draft: true
  Donators              ║ -300.00Ğ, -19.86€ 
  Paypal                ║                 0 
  Paypal:Fee            ║                 0 
- People:Jacques Foucry ║                 0 
- People:Maxime Auvy    ║           259.00€ 
+ People:Membre         ║                 0 
+ People:Membre         ║           259.00€ 
  Société Générale      ║            10.20€ 
  Stripe:Fee            ║                 0 
 ───────────────────────╫───────────────────
@@ -64,8 +64,8 @@ draft: true
  Donators              ║ -59.64€ 
  Paypal                ║       0 
  Paypal:Fee            ║       0 
- People:Jacques Foucry ║       0 
- People:Maxime Auvy    ║       0 
+ People:Membre         ║       0 
+ People:Membre         ║       0 
  Société Générale      ║  10.20€ 
  Stripe:Fee            ║   1.02€ 
 ───────────────────────╫─────────
@@ -84,8 +84,8 @@ draft: true
  Donators              ║ -15216.32€ 
  Paypal                ║          0 
  Paypal:Fee            ║      6.64€ 
- People:Jacques Foucry ║          0 
- People:Maxime Auvy    ║          0 
+ People:Membre         ║          0 
+ People:Membre         ║          0 
  Société Générale      ║     11.20€ 
  Stripe:Fee            ║      2.19€ 
 ───────────────────────╫────────────
@@ -104,9 +104,9 @@ draft: true
  Donators              ║ -159.13€ 
  Paypal                ║        0 
  Paypal:Fee            ║    4.70€ 
- People:Esther Onfroy  ║  336.25€ 
- People:Jacques Foucry ║        0 
- People:Maxime Auvy    ║        0 
+ People:Membre         ║  336.25€ 
+ People:Membre         ║        0 
+ People:Membre         ║        0 
  Société Générale      ║   10.20€ 
  Stripe:Fee            ║    2.99€ 
 ───────────────────────╫──────────
@@ -130,9 +130,9 @@ draft: true
  Donators                       ║  -44.23€ 
  Paypal                         ║        0 
  Paypal:Fee                     ║        0 
- People:Esther Onfroy           ║        0 
- People:Jacques Foucry          ║  192.03€ 
- People:Maxime Auvy             ║        0 
+ People:Membre                  ║        0 
+ People:Membre                  ║  192.03€ 
+ People:Membre                  ║        0 
  Société Générale               ║   10.20€ 
  Stripe:Fee                     ║        0 
 ────────────────────────────────╫──────────
@@ -158,9 +158,9 @@ draft: true
  Donators                       ║  -54.98€ 
  Paypal                         ║        0 
  Paypal:Fee                     ║    0.63€ 
- People:Esther Onfroy           ║        0 
- People:Jacques Foucry          ║   47.76€ 
- People:Maxime Auvy             ║        0 
+ People:Membre                  ║        0 
+ People:Membre                  ║   47.76€ 
+ People:Membre                  ║        0 
  Société Générale               ║   10.20€ 
  Stripe:Fee                     ║        0 
 ────────────────────────────────╫──────────
