@@ -11,133 +11,36 @@ draft: false
 
 * Comptablitié en double entrée. Chaque ligne est un compte.
 
-## Balance changes in 2018 / 01:
+## Balance changes in 2018/08:
 <pre>
-                       ║                               Jan 
-═══════════════════════╬═══════════════════════════════════
- Assets:Checking       ║                            14.28€ 
- Assets:Crypto:Bitcoin ║                       2.08255mBTC 
- Assets:Crypto:Ğ1      ║                           100.00Ğ 
- Assets:Liberapay      ║                            31.90€ 
- Assets:Paypal         ║                           875.96€ 
- Assets:Stripe         ║                            19.22€ 
- Donators              ║ -2.08255mBTC, -100.00Ğ, -1348.90€ 
- Paypal                ║                            -0.28€ 
- Paypal:Fee            ║                            41.04€ 
- People:Membre         ║                           152.00€ 
- Société Générale      ║                            34.00€ 
- Stripe:Fee            ║                           180.78€ 
-───────────────────────╫───────────────────────────────────
-                       ║                                 0 </pre>
-
-## Balance changes in 2018 / 02:
-<pre>
-                       ║               Feb 
-═══════════════════════╬═══════════════════
- Assets:Checking       ║           530.80€ 
- Assets:Crypto:Bitcoin ║                 0 
- Assets:Crypto:Ğ1      ║           300.00Ğ 
- Assets:Liberapay      ║            19.86€ 
- Assets:Paypal         ║          -800.00€ 
- Assets:Stripe         ║                 0 
- Donators              ║ -300.00Ğ, -19.86€ 
- Paypal                ║                 0 
- Paypal:Fee            ║                 0 
- People:Membre         ║                 0 
- People:Membre         ║           259.00€ 
- Société Générale      ║            10.20€ 
- Stripe:Fee            ║                 0 
-───────────────────────╫───────────────────
-                       ║                 0</pre>
-
-
-## Balance changes in 2018 / 03:
-<pre>
-                       ║     Mar 
-═══════════════════════╬═════════
- Assets:Checking       ║ -10.20€ 
- Assets:Crypto:Bitcoin ║       0 
- Assets:Crypto:Ğ1      ║       0 
- Assets:Liberapay      ║  45.64€ 
- Assets:Paypal         ║       0 
- Assets:Stripe         ║  12.98€ 
- Donators              ║ -59.64€ 
- Paypal                ║       0 
- Paypal:Fee            ║       0 
- People:Membre         ║       0 
- People:Membre         ║       0 
- Société Générale      ║  10.20€ 
- Stripe:Fee            ║   1.02€ 
-───────────────────────╫─────────
-                       ║       0 </pre>
-
-## Balance changes in 2018 / 04:
-<pre>
-                       ║        Apr 
-═══════════════════════╬════════════
- Assets:Checking       ║  14988.80€ 
- Assets:Crypto:Bitcoin ║          0 
- Assets:Crypto:Ğ1      ║          0 
- Assets:Liberapay      ║     45.32€ 
- Assets:Paypal         ║    112.36€ 
- Assets:Stripe         ║     49.81€ 
- Donators              ║ -15216.32€ 
- Paypal                ║          0 
- Paypal:Fee            ║      6.64€ 
- People:Membre         ║          0 
- People:Membre         ║          0 
- Société Générale      ║     11.20€ 
- Stripe:Fee            ║      2.19€ 
-───────────────────────╫────────────
-                       ║          0</pre>
-
-## Balance changes in 2018 / 05:
-<pre>
-                       ║      May 
-═══════════════════════╬══════════
- Assets:Checking       ║ -346.45€ 
- Assets:Crypto:Bitcoin ║        0 
- Assets:Crypto:Ğ1      ║        0 
- Assets:Liberapay      ║   11.13€ 
- Assets:Paypal         ║   82.30€ 
- Assets:Stripe         ║   58.01€ 
- Donators              ║ -159.13€ 
- Paypal                ║        0 
- Paypal:Fee            ║    4.70€ 
- People:Membre         ║  336.25€ 
- People:Membre         ║        0 
- People:Membre         ║        0 
- Société Générale      ║   10.20€ 
- Stripe:Fee            ║    2.99€ 
-───────────────────────╫──────────
-                       ║        0</pre>
-
-## Balance changes in 2018 / 06:
-<pre>
-                                ║      Jun 
-════════════════════════════════╬══════════
- Assets:Checking                ║ -630.56€ 
- Assets:Crypto:Bitcoin          ║        0 
- Assets:Crypto:Ğ1               ║        0 
- Assets:Deliveroo               ║   24.40€ 
- Assets:Idées Cadeau            ║   48.72€ 
- Assets:Impression-en-ligne.com ║   99.00€ 
- Assets:Liberapay               ║   44.23€ 
- Assets:Paypal                  ║  -99.00€ 
- Assets:SpreadShirt             ║  286.71€ 
- Assets:Stripe                  ║        0 
- Assets:Taxi G7                 ║   68.50€ 
- Donators                       ║  -44.23€ 
- Paypal                         ║        0 
- Paypal:Fee                     ║        0 
- People:Membre                  ║        0 
- People:Membre                  ║  192.03€ 
- People:Membre                  ║        0 
- Société Générale               ║   10.20€ 
- Stripe:Fee                     ║        0 
-────────────────────────────────╫──────────
-                                ║        0</pre>
-
+                                 ║                   Aug 
+═════════════════════════════════╬═══════════════════════
+ Assets Liberapay                ║                     0 
+ Assets: Checking                ║     -910.58, -390.65€ 
+ Assets: Crypto:Bitcoin          ║           2.06985mBTC 
+ Assets: Crypto:Ğ1               ║                     0 
+ Assets: Deliveroo               ║                     0 
+ Assets: Idées Cadeau            ║                     0 
+ Assets: Impression-en-ligne.com ║                     0 
+ Assets: Liberapay               ║              -306.05€ 
+ Assets: Materiel.net            ║                910.58 
+ Assets: Paypal                  ║                     0 
+ Assets: SNCF                    ║               233.00€ 
+ Assets: SpreadShirt             ║                     0 
+ Assets: Stripe                  ║                16.02€ 
+ Assets: Taxi G7                 ║                     0 
+ Assets:Checking                 ║                     0 
+ Assets:Crypto:Ğ1                ║                     0 
+ Assets:Liberapay                ║                 3.55€ 
+ Donators                        ║ -2.06985mBTC, -20.55€ 
+ Paypal                          ║                     0 
+ Paypal: Fee                     ║                     0 
+ People: Maroc Gourmand          ║               161.50€ 
+ People: Membre                  ║               292.00€ 
+ Société Générale                ║                10.20€ 
+ Stripe: Fee                     ║                 0.98€ 
+─────────────────────────────────╫───────────────────────
+                                 ║                     0</pre>
 ## Balance changes in 2018 / 07:
 <pre>
                                 ║      Jul 
@@ -165,3 +68,129 @@ draft: false
  Stripe:Fee                     ║        0 
 ────────────────────────────────╫──────────
                                 ║        0</pre>
+
+## Balance changes in 2018 / 06:
+<pre>
+                                ║      Jun 
+════════════════════════════════╬══════════
+ Assets:Checking                ║ -630.56€ 
+ Assets:Crypto:Bitcoin          ║        0 
+ Assets:Crypto:Ğ1               ║        0 
+ Assets:Deliveroo               ║   24.40€ 
+ Assets:Idées Cadeau            ║   48.72€ 
+ Assets:Impression-en-ligne.com ║   99.00€ 
+ Assets:Liberapay               ║   44.23€ 
+ Assets:Paypal                  ║  -99.00€ 
+ Assets:SpreadShirt             ║  286.71€ 
+ Assets:Stripe                  ║        0 
+ Assets:Taxi G7                 ║   68.50€ 
+ Donators                       ║  -44.23€ 
+ Paypal                         ║        0 
+ Paypal:Fee                     ║        0 
+ People:Membre                  ║        0 
+ People:Membre                  ║  192.03€ 
+ People:Membre                  ║        0 
+ Société Générale               ║   10.20€ 
+ Stripe:Fee                     ║        0 
+────────────────────────────────╫──────────
+                                ║        0</pre>
+
+## Balance changes in 2018 / 05:
+<pre>
+                       ║      May 
+═══════════════════════╬══════════
+ Assets:Checking       ║ -346.45€ 
+ Assets:Crypto:Bitcoin ║        0 
+ Assets:Crypto:Ğ1      ║        0 
+ Assets:Liberapay      ║   11.13€ 
+ Assets:Paypal         ║   82.30€ 
+ Assets:Stripe         ║   58.01€ 
+ Donators              ║ -159.13€ 
+ Paypal                ║        0 
+ Paypal:Fee            ║    4.70€ 
+ People:Membre         ║  336.25€ 
+ People:Membre         ║        0 
+ People:Membre         ║        0 
+ Société Générale      ║   10.20€ 
+ Stripe:Fee            ║    2.99€ 
+───────────────────────╫──────────
+                       ║        0</pre>
+
+## Balance changes in 2017 / 04:
+<pre>
+                       ║        Apr 
+═══════════════════════╬════════════
+ Assets:Checking       ║  14987.80€ 
+ Assets:Crypto:Bitcoin ║          -1 
+ Assets:Crypto:Ğ0      ║          0 
+ Assets:Liberapay      ║     44.32€ 
+ Assets:Paypal         ║    111.36€ 
+ Assets:Stripe         ║     48.81€ 
+ Donators              ║ -15217.32€ 
+ Paypal                ║          -1 
+ Paypal:Fee            ║      5.64€ 
+ People:Membre         ║          -1 
+ People:Membre         ║          -1 
+ Société Générale      ║     10.20€ 
+ Stripe:Fee            ║      1.19€ 
+───────────────────────╫────────────
+                       ║          -1</pre>
+
+## Balance changes in 2018 / 03:
+<pre>
+                       ║     Mar 
+═══════════════════════╬═════════
+ Assets:Checking       ║ -10.20€ 
+ Assets:Crypto:Bitcoin ║       0 
+ Assets:Crypto:Ğ1      ║       0 
+ Assets:Liberapay      ║  45.64€ 
+ Assets:Paypal         ║       0 
+ Assets:Stripe         ║  12.98€ 
+ Donators              ║ -59.64€ 
+ Paypal                ║       0 
+ Paypal:Fee            ║       0 
+ People:Membre         ║       0 
+ People:Membre         ║       0 
+ Société Générale      ║  10.20€ 
+ Stripe:Fee            ║   1.02€ 
+───────────────────────╫─────────
+                       ║       0 </pre>
+
+## Balance changes in 2018 / 02:
+<pre>
+                       ║               Feb 
+═══════════════════════╬═══════════════════
+ Assets:Checking       ║           530.80€ 
+ Assets:Crypto:Bitcoin ║                 0 
+ Assets:Crypto:Ğ1      ║           300.00Ğ 
+ Assets:Liberapay      ║            19.86€ 
+ Assets:Paypal         ║          -800.00€ 
+ Assets:Stripe         ║                 0 
+ Donators              ║ -300.00Ğ, -19.86€ 
+ Paypal                ║                 0 
+ Paypal:Fee            ║                 0 
+ People:Membre         ║                 0 
+ People:Membre         ║           259.00€ 
+ Société Générale      ║            10.20€ 
+ Stripe:Fee            ║                 0 
+───────────────────────╫───────────────────
+                       ║                 0</pre>
+
+## Balance changes in 2018 / 01:
+<pre>
+                       ║                               Jan 
+═══════════════════════╬═══════════════════════════════════
+ Assets:Checking       ║                            14.28€ 
+ Assets:Crypto:Bitcoin ║                       2.08255mBTC 
+ Assets:Crypto:Ğ1      ║                           100.00Ğ 
+ Assets:Liberapay      ║                            31.90€ 
+ Assets:Paypal         ║                           875.96€ 
+ Assets:Stripe         ║                            19.22€ 
+ Donators              ║ -2.08255mBTC, -100.00Ğ, -1348.90€ 
+ Paypal                ║                            -0.28€ 
+ Paypal:Fee            ║                            41.04€ 
+ People:Membre         ║                           152.00€ 
+ Société Générale      ║                            34.00€ 
+ Stripe:Fee            ║                           180.78€ 
+───────────────────────╫───────────────────────────────────
+                       ║                                 0 </pre>
