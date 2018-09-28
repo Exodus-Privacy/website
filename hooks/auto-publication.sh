@@ -54,7 +54,7 @@ if [ ! -d "${GIT_CLONE}" ] ; then
 fi
 
 # Chech if there is change
-if [ ! $(/usr/bin/git diff-index --quiet HEAD --) ]; then
+if [ $(/usr/bin/git diff-index --quiet HEAD --) ]; then
 	/usr/bin/git pull "${GIT_REPO}"
 else
 	echo "Nothing to do exiting"
