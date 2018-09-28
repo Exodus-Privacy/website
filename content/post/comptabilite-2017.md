@@ -1,5 +1,5 @@
 ---
-title: "Comptabilité Novembre 2017"
+title: "Comptabilité 2017"
 date: 2018-08-20
 draft: false
 ---

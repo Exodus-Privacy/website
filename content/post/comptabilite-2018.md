@@ -11,7 +11,7 @@ draft: false
 
 * Comptablitié en double entrée. Chaque ligne est un compte.
 
-## Balance changes in 2018/08:
+## Balance changes in 2018 / 08:
 <pre>
                                  ║                   Aug 
 ═════════════════════════════════╬═══════════════════════
