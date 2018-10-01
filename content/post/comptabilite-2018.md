@@ -4,14 +4,12 @@ date: 2018-08-20T22:05:50+02:00
 draft: false
 ---
 
-# Comptabilité 2018
-
 * Logiciel utilisé : hlegder
 * Commande utilisée : `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
-## Balance changes in 2018/08:
+## Balance changes in 2018 / 08:
 <pre>
                                  ║                   Aug 
 ═════════════════════════════════╬═══════════════════════
@@ -116,7 +114,7 @@ draft: false
 ───────────────────────╫──────────
                        ║        0</pre>
 
-## Balance changes in 2017 / 04:
+## Balance changes in 2018 / 04:
 <pre>
                        ║        Apr 
 ═══════════════════════╬════════════

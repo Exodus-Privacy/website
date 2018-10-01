@@ -44,7 +44,7 @@ GIT_CLONE="${WORKING_DIRECTORY}"/site
 
 
 # Create temporary folder
-mkdir -p "${PUBLIC_WWW}"
+/bin/mkdir -p "${PUBLIC_WWW}"
 
 # If Clone does not alredy exist, clone
 # in the website user home folder
@@ -54,16 +54,13 @@ if [ ! -d "${GIT_CLONE}" ] ; then
 fi
 
 # Chech if there is change
+cd "${GIT_CLONE}" || exit 255
 if [ ! $(/usr/bin/git diff-index --quiet HEAD --) ]; then
 	/usr/bin/git pull "${GIT_REPO}"
 else
 	echo "Nothing to do exiting"
 	exit 0
 fi
-
-
-# Go to clone directory exit in case of error (directory does not exist)
-cd "${GIT_CLONE}" || exit 255
 
 # Checkout hugo branch
 /usr/bin/git checkout hugo
@@ -73,12 +70,14 @@ current_date=$(/bin/date "+%Y-%m-%d")
 WEBSITE_FOLDER=$(/bin/echo "${current_date}"_"${current_ref}")
 
 # Launch hugo site build in temporary folder
-/usr/local/bin/hugo --config "$GIT_CLONE"/config.toml -s "$GIT_CLONE" -d "$PUBLIC_WWW" -b "http://${MY_DOMAIN}"
+/usr/bin/hugo --config "$GIT_CLONE"/config.toml -s "$GIT_CLONE" -d "$PUBLIC_WWW" -b "http://${MY_DOMAIN}"
 
-# Rsync new website
-/bin/cp-r "${PUBLIC_WWW}"/* "${WEBSITE_FOLDER}"/.
+# copy new website
+/bin/mkdir "${WEBSITE_PATH}/${WEBSITE_FOLDER}"
+/bin/cp -r "${PUBLIC_WWW}"/* "${WEBSITE_PATH}/${WEBSITE_FOLDER}"/.
 
 # Make prod symlink
-/bin/rm "${WEBSITE_FOLDER}"/current; /bin/ln -s "${WEBSITE_PATH}"/"${WEBSITE_FOLDER}" current
+/bin/rm "${WEBSITE_PATH}"/current; /bin/ln -s "${WEBSITE_PATH}"/"${WEBSITE_FOLDER}" ${WEBSITE_PATH}/current
 
 exit 0
+
