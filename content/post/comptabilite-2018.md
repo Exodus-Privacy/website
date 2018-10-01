@@ -9,7 +9,7 @@ draft: false
 * Logiciel utilisé : hlegder
 * Commande utilisée : `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
 
-* Comptablitié en double entrée. Chaque ligne est un compte.
+* Comptabilité en double entrée. Chaque ligne est un compte.
 
 ## Balance changes in 2018/08:
 <pre>
