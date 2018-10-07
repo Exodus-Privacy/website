@@ -4,4 +4,8 @@
 .sass-cache
 build/
 .rakeTasks
+<<<<<<< HEAD
 public/
+=======
+current/
+>>>>>>> pr-6
