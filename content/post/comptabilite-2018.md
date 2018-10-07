@@ -9,8 +9,6 @@ draft: false
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
-<<<<<<< HEAD
-=======
 ## Balance changes in 2018 / 09:
 <pre>
                                  ║      Sep 
@@ -47,7 +45,6 @@ draft: false
 ─────────────────────────────────╫──────────
                                  ║        0 </pre>
 
->>>>>>> pr-6
 ## Balance changes in 2018 / 08:
 <pre>
                                  ║                   Aug 
