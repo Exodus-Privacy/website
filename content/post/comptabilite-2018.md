@@ -9,8 +9,8 @@ draft: false
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
-## Balance changes in 2018/10:
-</pre>
+## Balance changes in 2018 / 10:
+<pre>
                                  ║     Oct 
 ═════════════════════════════════╬═════════
  Assets Liberapay                ║       0 
