@@ -44,6 +44,7 @@ draft: false
  Stripe: Fee                     ║       0 
 ─────────────────────────────────╫─────────
                                  ║       0</pre>
+                      
 ## Balance changes in 2018 / 09:
 <pre>
                                  ║      Sep 
@@ -110,6 +111,7 @@ draft: false
  Stripe: Fee                     ║                 0.98€ 
 ─────────────────────────────────╫───────────────────────
                                  ║                     0</pre>
+                                 
 ## Balance changes in 2018 / 07:
 <pre>
                                 ║      Jul 
