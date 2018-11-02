@@ -79,8 +79,3 @@ WEBSITE_FOLDER=$(/bin/echo "${current_date}"_"${current_ref}")
 /bin/rm "${WEBSITE_PATH}"/current; /bin/ln -s "${WEBSITE_PATH}"/"${WEBSITE_FOLDER}" ${WEBSITE_PATH}/current
 
 exit 0
-
-<<<<<<< HEAD
-=======
-exit 0
->>>>>>> pr-6
