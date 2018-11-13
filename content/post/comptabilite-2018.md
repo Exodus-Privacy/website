@@ -7,7 +7,79 @@ draft: false
 * Logiciel utilisé : hlegder
 * Commande utilisée : `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
 
-* Comptablitié en double entrée. Chaque ligne est un compte.
+* Comptabilité en double entrée. Chaque ligne est un compte.
+
+## Balance changes in 2018 / 10:
+<pre>
+                                 ║     Oct 
+═════════════════════════════════╬═════════
+ Assets Liberapay                ║       0 
+ Assets: App Exodus              ║       0 
+ Assets: Au Trappiste            ║  77.80€ 
+ Assets: Checking                ║ -39.82€ 
+ Assets: Crypto:Bitcoin          ║       0 
+ Assets: Crypto:Ğ1               ║       0 
+ Assets: Deliveroo               ║       0 
+ Assets: Donator                 ║ -79.69€ 
+ Assets: Donators                ║       0 
+ Assets: Fee                     ║   1.51€ 
+ Assets: Idées Cadeau            ║       0 
+ Assets: Impression-en-ligne.com ║       0 
+ Assets: Liberapay               ║  11.33€ 
+ Assets: Materiel.net            ║       0 
+ Assets: OVH                     ║       0 
+ Assets: Paypal                  ║  58.74€ 
+ Assets: SNCF                    ║       0 
+ Assets: Société Générale        ║  10.20€ 
+ Assets: SpreadShirt             ║       0 
+ Assets: Stripe                  ║       0 
+ Assets: Taxi G7                 ║       0 
+ Donators                        ║ -73.33€ 
+ Paypal                          ║       0 
+ Paypal: Fee                     ║   3.26€ 
+ People: Framasoft               ║  10.00€ 
+ People: Maroc Gourmand          ║       0 
+ People: Membre                  ║  20.00€ 
+ Société Générale                ║       0 
+ Stripe: Fee                     ║       0 
+─────────────────────────────────╫─────────
+                                 ║       0</pre>
+                      
+## Balance changes in 2018 / 09:
+<pre>
+                                 ║      Sep 
+═════════════════════════════════╬══════════
+ Assets Liberapay                ║        0 
+ Assets: App Exodus              ║  159.00€ 
+ Assets: Checking                ║ -343.05€ 
+ Assets: Crypto:Bitcoin          ║        0 
+ Assets: Crypto:Ğ1               ║        0 
+ Assets: Deliveroo               ║        0 
+ Assets: Donators                ║   -4.24€ 
+ Assets: Idées Cadeau            ║        0 
+ Assets: Impression-en-ligne.com ║        0 
+ Assets: Liberapay               ║        0 
+ Assets: Materiel.net            ║        0 
+ Assets: OVH                     ║    1.19€ 
+ Assets: Paypal                  ║    0.72€ 
+ Assets: SNCF                    ║        0 
+ Assets: Société Générale        ║   10.20€ 
+ Assets: SpreadShirt             ║        0 
+ Assets: Stripe                  ║        0 
+ Assets: Taxi G7                 ║   24.60€ 
+ Assets:Checking                 ║        0 
+ Assets:Crypto:Ğ1                ║        0 
+ Assets:Liberapay                ║        0 
+ Donators                        ║   -1.00€ 
+ Paypal                          ║        0 
+ Paypal: Fee                     ║    0.28€ 
+ People: Framasoft               ║   10.00€ 
+ People: Maroc Gourmand          ║        0 
+ People: Membre                  ║  142.30€ 
+ Société Générale                ║        0 
+ Stripe: Fee                     ║        0 
+─────────────────────────────────╫──────────
+                                 ║        0 </pre>
 
 ## Balance changes in 2018 / 08:
 <pre>
@@ -39,6 +111,7 @@ draft: false
  Stripe: Fee                     ║                 0.98€ 
 ─────────────────────────────────╫───────────────────────
                                  ║                     0</pre>
+                                 
 ## Balance changes in 2018 / 07:
 <pre>
                                 ║      Jul 

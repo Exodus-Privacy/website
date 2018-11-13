@@ -20,13 +20,17 @@ copyright = "Exodus Privacy - French non-profit"
     url = "/page/contribute/"
     weight = 3
 [[menu.main]]
+    name = "Code of conduct"
+    url = "/page/coc/"
+    weight = 4
+[[menu.main]]
     name = "Supporters"
     url = "/page/supporters/"
-    weight = 4
+    weight = 5
 [[menu.main]]
     name = "Press"
     url = "/page/press/"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "News"
     url = "/post/"

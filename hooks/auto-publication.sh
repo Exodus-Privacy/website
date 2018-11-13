@@ -54,8 +54,7 @@ if [ ! -d "${GIT_CLONE}" ] ; then
 fi
 
 # Chech if there is change
-cd "${GIT_CLONE}" || exit 255
-if [ ! $(/usr/bin/git diff-index --quiet HEAD --) ]; then
+if [ $(/usr/bin/git diff-index --quiet HEAD --) ]; then
 	/usr/bin/git pull "${GIT_REPO}"
 else
 	echo "Nothing to do exiting"
@@ -80,4 +79,3 @@ WEBSITE_FOLDER=$(/bin/echo "${current_date}"_"${current_ref}")
 /bin/rm "${WEBSITE_PATH}"/current; /bin/ln -s "${WEBSITE_PATH}"/"${WEBSITE_FOLDER}" ${WEBSITE_PATH}/current
 
 exit 0
-
