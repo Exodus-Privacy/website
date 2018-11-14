@@ -9,6 +9,9 @@ draft: false
 
 * **Le Monde** on *Nov 9 2018* - [La CNIL épingle Vectaury, une start-up de ciblage publicitaire](https://www.lemonde.fr/pixels/article/2018/11/09/la-cnil-epingle-vectaury-une-start-up-de-ciblage-publicitaire_5381237_4408996.html)
 * **Numerama** on *Oct 23 2018* - [Ciblage publicitaire non consenti : la CNIL met en demeure Singlespot](https://www.numerama.com/politique/433865-ciblage-publicitaire-non-consenti-la-cnil-met-en-demeure-singlespot.html)
+* **Le Canard enchaîné** on *Oct 2018* - #Vie privée, c'est terminé (Les dossiers du Canard n°149)
+* **Numerama** on *14 Jul 2018* - [https://www.numerama.com/pop-culture/393078-mouchards-histoire-de-lart-high-tech-5-chaines-youtube-a-suivre-en-juillet-2018.html](https://www.numerama.com/pop-culture/393078-mouchards-histoire-de-lart-high-tech-5-chaines-youtube-a-suivre-en-juillet-2018.html)
+* **Geek Junior** on *Jun 12 2018* - [Combien de pisteurs dans les applications que tu utilises ? Exodus Privacy te le dit](https://www.geekjunior.fr/combien-pisteurs-applications-utilises-exodus-privacy-22542/)
 * **BFM TV** on *Apr 20 2018* - [Sans votre accord, des applications offrent vos données les plus intimes à Facebook](http://bfmbusiness.bfmtv.com/hightech/sans-votre-accord-des-applications-offrent-vos-donnees-les-plus-intimes-a-facebook-1424638.html)
 * **Numerama** on *Apr 7 2018* - [Exodus Privacy : comment voir les permissions et les trackers des applications sur Android](https://www.numerama.com/tech/340529-exodus-privacy-comment-voir-les-permissions-et-les-trackers-des-applications-sur-android.html)
 * **La revue européenne des médias et du numérique** on *Apr 6 2018* - [Trackers](http://la-rem.eu/2018/04/06/trackers/)
@@ -27,6 +30,7 @@ draft: false
 * **Le Monde** on *Nov 24 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
 
 ## English press
+* **BoingBoing** on *14 Aug 2018* - [EBGAP: Error Between Google and Privacy](https://boingboing.net/2018/08/14/goober.html)
 * **BoingBoing** on *Jan 24 2018* - [Love, sex, and trackers - Tinder and other dating apps are spies in your bedroom](https://boingboing.net/2018/01/24/love-sex-and-trackers-tind.html)
 * **Wired** on *Jan 21 2018* - [Want to Avoid the Scourge of Malware on your Android? Try the F-Droid App Store](https://www.wired.com/story/android-users-to-avoid-malware-ditch-googles-app-store/)
 * **MotherBoard** on *Dec 14 2017* - [The Targets of Mobile Apps: Your Health, Your Ancestors](https://motherboard.vice.com/en_us/article/3kpagb/the-targets-of-mobile-apps-your-health-your-ancestors-and-your-baby)
