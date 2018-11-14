@@ -7,6 +7,8 @@ draft: false
 
 ## French press
 
+* **Le Monde** on *Nov 9 2018* - [La CNIL épingle Vectaury, une start-up de ciblage publicitaire](https://www.lemonde.fr/pixels/article/2018/11/09/la-cnil-epingle-vectaury-une-start-up-de-ciblage-publicitaire_5381237_4408996.html)
+* **Numerama** on *Oct 23 2018* - [Ciblage publicitaire non consenti : la CNIL met en demeure Singlespot](https://www.numerama.com/politique/433865-ciblage-publicitaire-non-consenti-la-cnil-met-en-demeure-singlespot.html)
 * **BFM TV** on *Apr 20 2018* - [Sans votre accord, des applications offrent vos données les plus intimes à Facebook](http://bfmbusiness.bfmtv.com/hightech/sans-votre-accord-des-applications-offrent-vos-donnees-les-plus-intimes-a-facebook-1424638.html)
 * **Numerama** on *Apr 7 2018* - [Exodus Privacy : comment voir les permissions et les trackers des applications sur Android](https://www.numerama.com/tech/340529-exodus-privacy-comment-voir-les-permissions-et-les-trackers-des-applications-sur-android.html)
 * **La revue européenne des médias et du numérique** on *Apr 6 2018* - [Trackers](http://la-rem.eu/2018/04/06/trackers/)
