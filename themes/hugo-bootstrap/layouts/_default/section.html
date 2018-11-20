@@ -3,8 +3,7 @@
   <header>
     {{ partial "content/h1-title" . }}
   </header>
-  {{ $paginator := .Paginate (where .Pages "Type" "post") }}
-  {{ range $paginator.Pages }}
+  {{ range .Paginator.Pages }}
     {{ .Render "section.li" }}
   {{ end }}
   {{ partial "content/pagination" . }}
