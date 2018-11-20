@@ -4,7 +4,8 @@
     {{ partial "content/h1-title" . }}
   </header>
   <ul class="container">
-    {{ range $index, .Paginator.Pages }}
+    {{ $paginator := .Paginate (where .Pages "Type" "post") }}
+    {{ range $paginator.Pages }}
       <li>{{ partial "content/title-link" . }}</li>
     {{ end }}
   </ul>
