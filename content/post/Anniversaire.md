@@ -13,7 +13,7 @@ Le 24 novembre 2017, Exodus Privacy rendait publique la [plateforme εxodus](htt
 * plus de 1000 vues sur 3 vidéos publiées sur 2 plateformes : [Peertube](https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos) et [Youtube](https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ)
 * plus de 13000 secondes de conférences, notamment à [la journée du conseil scientifique de l'Afnic](https://www.youtube.com/watch?v=SlibjEJKO6Y&feature=youtu.be#t=6h21m09s), [Pas Sage en Seine](https://passageenseine.fr/) ou [les Rencontres mondiales du logiciel libre](http://www.canalc2.tv/video/15194)
 * 148 Mo de base de données
-* 400 Go d'APK dans les sauvegardes
+* 750 Go d'APK dans les sauvegardes
 * 3 comptes de réseaux sociaux sur [Mastodon](https://framapiaf.org/@exodus), [Twitter](https://twitter.com/ExodusPrivacy) et [Facebook](https://facebook.com/exodusprivacy), avec plus de 4000 publications
 * beaucoup d'[articles de presse](https://exodus-privacy.eu.org/page/press/) dans plus de 20 langues qui mentionnent les travaux d'Exodus Privacy
 * plein d'URLs : [notre site](https://exodus-privacy.eu.org), [la plateforme εxodus](https://reports.exodus-privacy.eu.org/), [notre forum](https://forum.exodus-privacy.eu.org/), [le dépôt Github](https://github.com/Exodus-Privacy), [notre blog](https://exodus-privacy.eu.org/post/), ...
@@ -38,7 +38,7 @@ On 24th of November 2017, Exodus Privacy was publishing [the εxodus platform](h
 * more than 1000 views on 3 videos, uploaded on 2 platforms: [Peertube](https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos) and [Youtube](https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ)
 * more than 13000 seconds of public talks, [for the Afnic](https://www.youtube.com/watch?v=SlibjEJKO6Y&feature=youtu.be#t=6h21m09s), [Pas Sage en Seine](https://passageenseine.fr/) or [the RMLL](http://www.canalc2.tv/video/15194)
 * 148 MB of database
-* 400 GB of APK in the backups
+* 750 GB of APK in the backups
 * 3 social media accounts on [Mastodon](https://framapiaf.org/@exodus), [Twitter](https://twitter.com/ExodusPrivacy) and [Facebook](https://facebook.com/exodusprivacy), with more than 4000 publications
 * a lot of [press articles](https://exodus-privacy.eu.org/page/press/) in more than 20 languages are talking about Exodus Privacy
 * a bunch of URLs: [our website](https://exodus-privacy.eu.org), the [εxodus platform](https://reports.exodus-privacy.eu.org/), our [forum](https://forum.exodus-privacy.eu.org/), our [Github deposit](https://github.com/Exodus-Privacy), [our blog](https://exodus-privacy.eu.org/post/), ...
