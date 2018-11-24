@@ -4,7 +4,7 @@ date: 2018-11-24 10:01:00
 draft: false
 ---
 
-À l'occasion du [premier anniversaire](https://exodus-privacy.eu.org/post/anniversaire/) de l'ouverture de sa plate-forme d'analyse, a été créé un programme permettant de comparer le nombre de pisteurs présents dans une ou plusieurs applications, avant et après l'entrée en application du RGPD (Règlement Général sur la Protection des Données), le 25 mai 2018. Pour en savoir plus sur celui-ci, nous vous conseillons [cet article de NextInpact](https://www.nextinpact.com/news/106135-le-rgpd-explique-ligne-par-ligne-articles-1-a-23.html).
+À l'occasion du [premier anniversaire](https://exodus-privacy.eu.org/post/anniversaire/) de l'ouverture de sa plate-forme d'analyse, a été créé un programme permettant de comparer le nombre de pisteurs présents dans une ou plusieurs applications, avant et après l'entrée en application du RGPD (Règlement Général sur la Protection des Données), le 25 mai 2018. Pour en savoir plus sur celui-ci, nous vous conseillons [cet article de NextInpact](https://www.nextinpact.com/news/106135-le-rgpd-explique-ligne-par-ligne-articles-1-a-23.htm).
 
 Nous avons sélectionné les 85 applications les plus téléchargées dans le monde pour lesquelles nous disposons d'analyses afin d'estimer si l'entrée en application du RGPD a eu un impact sur le nombre de pisteurs présents dans ces applications. Pour réaliser cette petite étude, nous avons choisi de comparer le nombre de pisteurs détectés lors de l'analyse la plus récente avant le 25 mai et le nombre de pisteurs détectés lors de l'analyse la plus récente après le 25 mai. Les applications pour lesquelles aucune analyse n'a été faite avant ou après le 25 mai sont ignorées.
 
