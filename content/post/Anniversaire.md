@@ -9,7 +9,7 @@ Le 24 novembre 2017, Exodus Privacy rendait publique la [plateforme εxodus](htt
 
 * 152 pisteurs découverts
 * plus de 37000 applications analysées, dans de nombreuses langues, dont l'hébreu, le japonais, le coréen, ...
-* plus de 41000 rapports générés
+* plus de 42000 rapports générés
 * plus de 1000 vues sur 3 vidéos publiées sur 2 plateformes : [Peertube](https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos) et [Youtube](https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ)
 * plus de 13000 secondes de conférences, notamment à [la journée du conseil scientifique de l'Afnic](https://www.youtube.com/watch?v=SlibjEJKO6Y&feature=youtu.be#t=6h21m09s), [Pas Sage en Seine](https://passageenseine.fr/) ou [les Rencontres mondiales du logiciel libre](http://www.canalc2.tv/video/15194)
 * 148 Mo de base de données
@@ -34,7 +34,7 @@ On 24th of November 2017, Exodus Privacy was publishing [the εxodus platform](h
 
 * 152 discovered trackers
 * more than 37000 analyzed applications, in a lot of languages, like Japanese, Korean, Hebrew, ...
-* more than 41000 generated reports
+* more than 42000 generated reports
 * more than 1000 views on 3 videos, uploaded on 2 platforms: [Peertube](https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos) and [Youtube](https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ)
 * more than 13000 seconds of public talks, [for the Afnic](https://www.youtube.com/watch?v=SlibjEJKO6Y&feature=youtu.be#t=6h21m09s), [Pas Sage en Seine](https://passageenseine.fr/) or [the RMLL](http://www.canalc2.tv/video/15194)
 * 148 MB of database
