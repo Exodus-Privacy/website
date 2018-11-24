@@ -1,5 +1,5 @@
 ---
-title: "First εxodus's birthday [FR/EN]"
+title: "First εxodus birthday [FR/EN]"
 date: 2018-11-24 09:01:00
 draft: false
 ---
