@@ -7,31 +7,31 @@ paginate = 25
 theme = "hugo-bootstrap"
 copyright = "Exodus Privacy - French non-profit"
 
-[[languages.en.menu.main]]
+[[language.en.menu.main]]
     name = "What"
     url = "/page/what/"
     weight = 1
-[[languages.en.menu.main]]
+[[language.en.menu.main]]
     name = "Who"
     url = "/page/who/"
     weight = 2
-[[languages.en.menu.main]]
+[[language.en.menu.main]]
     name = "Contribute"
     url = "/page/contribute/"
     weight = 3
-[[languages.en.menu.main]]
+[[language.en.menu.main]]
     name = "Code of conduct"
     url = "/page/coc/"
     weight = 4
-[[languages.en.menu.main]]
+[[language.en.menu.main]]
     name = "Supporters"
     url = "/page/supporters/"
     weight = 5
-[[languages.en.menu.main]]
+[[language.en.menu.main]]
     name = "Press"
     url = "/page/press/"
     weight = 6
-[[languages.en.menu.main]]
+[[language.en.menu.main]]
     name = "News"
     url = "/post/"
     weight = 9

@@ -1,0 +1,81 @@
+baseURL = "https://exodus-privacy.eu.org/"
+languageCode = "en-us"
+title = "Exodus Privacy"
+relativeURLs = true
+canonifyurls = true
+paginate = 25
+theme = "hugo-bootstrap"
+copyright = "Exodus Privacy - French non-profit"
+
+[languages]
+[languages.en]
+weight = 0
+
+[[language.en.menu.main]]
+    name = "What"
+    url = "/page/what/"
+    weight = 1
+[[language.en.menu.main]]
+    name = "Who"
+    url = "/page/who/"
+    weight = 2
+[[language.en.menu.main]]
+    name = "Contribute"
+    url = "/page/contribute/"
+    weight = 3
+[[language.en.menu.main]]
+    name = "Code of conduct"
+    url = "/page/coc/"
+    weight = 4
+[[language.en.menu.main]]
+    name = "Supporters"
+    url = "/page/supporters/"
+    weight = 5
+[[language.en.menu.main]]
+    name = "Press"
+    url = "/page/press/"
+    weight = 6
+[[language.en.menu.main]]
+    name = "News"
+    url = "/post/"
+    weight = 9
+
+[languages.fr]
+[[language.fr.menu.main]]
+    name = "Quoi"
+    url = "/page/who/"
+    weight = 1
+[[language.fr.menu.main]]
+    name = "Qui"
+    url = "/page/what/"
+    weight = 2
+[[language.fr.menu.main]]
+    name = "Contribuer"
+    url = "/page/contribute/"
+    weight = 3
+[[language.fr.menu.main]]
+    name = "Code de conduite"
+    url = "/page/coc/"
+    weight = 4
+[[language.fr.menu.main]]
+    name = "Supporteurs"
+    url = "/page/supporters/"
+    weight = 5
+[[language.fr.menu.main]]
+    name = "Presse"
+    url = "/page/press/"
+    weight = 6
+[[language.fr.menu.main]]
+    name = "Nouvelles"
+    url = "/post/"
+    weight = 9
+
+[params]
+    navbarBgColorClass = "bg-primary"
+    showBlogHeader = true
+
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = false
+    tag_cloud = true
