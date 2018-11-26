@@ -6,3 +6,9 @@ other = "Analyzes privacy concerns in Android applications."
 
 [discover]
 other = "Discover what we do"
+
+[recentPosts]
+other = "Recent posts"
+
+[tagCloud]
+other = "Tag cloud"

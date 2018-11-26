@@ -2,7 +2,7 @@
 {{ if isset .Site.Taxonomies "tags" }}
 {{ if not (eq (len .Site.Taxonomies.tags) 0) }}
 <div class="card card-block">
-  <h4 class="card-title">TAG CLOUD</h4>
+  <h4 class="card-title">{{ i18n "tagCloud" }}</h4>
   <p class="card-text">
     {{ range $name, $items := .Site.Taxonomies.tags }}
         <a href="{{ (print "tags/" ($name | urlize | lower) "/") | relURL }}" class="badge badge-primary">
