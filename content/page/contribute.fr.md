@@ -3,7 +3,7 @@ title: "Contribuer"
 date: 2018-01-11 16:53:09
 draft: false
 ---
-# Comment contribuer ?
+# Comment contribuer
 
 <div class="row">
     <div class="col-md-4 text-center">
@@ -12,12 +12,6 @@ draft: false
             <p class="card-text">Si vous aimez coder en Python ou en Java, jettez un œil <i class="fab fa-github text-primary"></i> <a href="https://github.com/exodus-privacy/exodus">dépôt εxodus </a> ou celui de <i class="fab fa-github text-primary"></i><a href="https://github.com/Exodus-Privacy/exodus-android-app">l’application εxodus</a>.</p>
         </div>
     </div>
-    <!-- <div class="col-md-4 text-center">
-        <div class="card-body">
-            <h3 class="card-title">I love <i class="fab fa-android text-primary"></i></h3>
-            <p class="card-text">If you prefer to code in Java for Android, have a look to the <a href="https://github.com/exodus-privacy/exodus-android-app">εxodus Android app <i class="fab fa-github text-primary"></i> repository</a></p>
-        </div>
-    </div> -->
     <div class="col-md-4 text-center">
         <div class="card-body">
             <h3 class="card-title">J’ <i class="far fa-heart text-primary"></i> créer</h3>
@@ -26,7 +20,7 @@ draft: false
     </div>
     <div class="col-md-4 text-center">
         <div class="card-body">
-            <h3 class="card-title">Pas de <i class="far fa-clock text-primary"></i> mais <i class="fas fa-dollar-euro text-primary"></i></h3>
+            <h3 class="card-title">Pas <i class="far fa-clock text-primary"></i> mais <i class="fas fa-euro-sign text-primary"></i></h3>
             <p class="card-text">Vous pouvez nous aider à financer l’hébergement de εxodus et les frais de déplacements pour animer des conférences en <a href="#help-us-to-finance-exodus-privacy">donnant de l’argent</a>.</p>
         </div>
     </div>
@@ -35,7 +29,7 @@ draft: false
 <p>Si vous ne savez pas par où commencer, comment utiliser GitHub ou bien si vous voulez simplement discuter avec l’équipe, ouvrez un compte sur <a href="https://forum.exodus-privacy.eu.org/">notre forum</a> ou passez sur <a href="/page/who#main-contributors">IRC</a>.</p>
 
 
-<h2>Aidez-nous à financer Exodus Privacy</h2>
+<h2>Nous aider à financer Exodus Privacy</h2>
 
 <div class="row">
     <div class="col-md-6 text-center">
@@ -77,8 +71,8 @@ draft: false
 
 <div></div>
 
-<h2>Nous aidez à nous faire connaître</h2>
-Le but principal d’Exodus Privacy est de <b>avertir les utilisateurs des pisteurs présents dans les applications mobiles</b>.Pour ce faire nous avons des comptes sur 3 réseaux sociaux et 2 chaînes vidéos : 
+<h2>Nous aider à nous faire connaître</h2>
+Le but principal d’Exodus Privacy est d'<b>avertir les utilisateurs des pisteurs présents dans les applications mobiles</b>. Pour ce faire nous avons des comptes sur 3 réseaux sociaux et 2 chaînes vidéos :
 <div class="row">
     <div class="col-md-4 text-center">
         <i class="fab fa-4x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
@@ -118,5 +112,3 @@ Le but principal d’Exodus Privacy est de <b>avertir les utilisateurs des piste
         </div>
     </div>
 </div>
-
-

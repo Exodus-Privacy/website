@@ -6,43 +6,79 @@ canonifyurls = true
 paginate = 25
 theme = "hugo-bootstrap"
 copyright = "Exodus Privacy - French non-profit"
+defaultContentLanguageInSubdir= true
 
-[[languages.en.menu.main]]
-    name = "What"
-    url = "/page/what/"
-    weight = 1
-[[languages.en.menu.main]]
-    name = "Who"
-    url = "/page/who/"
-    weight = 2
-[[languages.en.menu.main]]
-    name = "Contribute"
-    url = "/page/contribute/"
-    weight = 3
-[[languages.en.menu.main]]
-    name = "Code of conduct"
-    url = "/page/coc/"
-    weight = 4
-[[languages.en.menu.main]]
-    name = "Supporters"
-    url = "/page/supporters/"
-    weight = 5
-[[languages.en.menu.main]]
-    name = "Press"
-    url = "/page/press/"
-    weight = 6
-[[languages.en.menu.main]]
-    name = "News"
-    url = "/post/"
-    weight = 9
+[languages]
 
+[languages.en]
+languageName = "English"
+[[languages.en.menu.main]]
+name = "What"
+url = "/page/what/"
+weight = 1
+[[languages.en.menu.main]]
+name = "Who"
+url = "/page/who/"
+weight = 2
+[[languages.en.menu.main]]
+name = "Contribute"
+url = "/page/contribute/"
+weight = 3
+[[languages.en.menu.main]]
+name = "Code of conduct"
+url = "/page/coc/"
+weight = 4
+[[languages.en.menu.main]]
+name = "Supporters"
+url = "/page/supporters/"
+weight = 5
+[[languages.en.menu.main]]
+name = "Press"
+url = "/page/press/"
+weight = 6
+[[languages.en.menu.main]]
+name = "News"
+url = "/post/"
+weight = 9
+
+[languages.fr]
+languageName = "Français"
+copyright = "Exodus Privacy - Association française à but non-lucratif"
+[[languages.fr.menu.main]]
+name = "Qui"
+url = "/page/who/"
+weight = 1
+[[languages.fr.menu.main]]
+name = "Quoi"
+url = "/page/what/"
+weight = 2
+[[languages.fr.menu.main]]
+name = "Contribuer"
+url = "/page/contribute/"
+weight = 3
+[[languages.fr.menu.main]]
+name = "Code de conduite"
+url = "/page/coc/"
+weight = 4
+[[languages.fr.menu.main]]
+name = "Supporteurs"
+url = "/page/supporters/"
+weight = 5
+[[languages.fr.menu.main]]
+name = "Presse"
+url = "/page/press/"
+weight = 6
+[[languages.fr.menu.main]]
+name = "Nouvelles"
+url = "/post/"
+weight = 9
 
 [params]
-    navbarBgColorClass = "bg-primary"
-    showBlogHeader = true
+navbarBgColorClass = "bg-primary"
+showBlogHeader = true
 
 [params.widgets]
-    recent_articles = true
-    categories = true
-    tags = false
-    tag_cloud = true
+recent_articles = true
+categories = true
+tags = false
+tag_cloud = true

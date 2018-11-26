@@ -3,7 +3,7 @@ title: "Quoi"
 date: 2018-01-11 17:33:02
 draft: false
 ---
-# What Exodus Privacy does
+# Ce que fait Exodus Privacy
 
 <div class="row">
 <div class="col-md-4 text-center">
@@ -11,7 +11,7 @@ draft: false
   <div class="card-body">
     <h5 class="card-title">εxodus</h5>
     <p class="card-text">Découvert les ingrédients de la recette !</p>
-    <a href="https://reports.exodus-privacy.eu.org/search/" class="btn btn-primary">Browse reports</a>
+    <a href="https://reports.exodus-privacy.eu.org/search/" class="btn btn-primary">Parcourir les rapports</a>
     <p class="mt-3"><a href="#exodus">plus de détails</a></p>
   </div>
 </div>
@@ -42,7 +42,7 @@ draft: false
 ## εxodus - la plateforme d’audit de la vie privée des applications Android
 εxodus analyse les applications Android dans le but de lister les pisteurs embarqués. Un pisteur est un bout de logiciel dont le but est la collecte de données à propos de vous et de vos usages. Ainsi, les rapports d’εxodus vous révéle les ingrédients de la recette. εxodus ne décompile pas les applications, sa technique d’analyse est légale.
 
-Le [site we d’εxodus](http://reports.exodus-privacy.eu.org/) vous permet de :
+Le [site web d’εxodus](http://reports.exodus-privacy.eu.org/) vous permet de :
 
 * rechercher le rapport d’une application Android, grâce à son [moteur de recherche](https://reports.exodus-privacy.eu.org/search/)
 * analyser une application Android en [soumettant son identifiant](https://reports.exodus-privacy.eu.org/analysis/submit/)
