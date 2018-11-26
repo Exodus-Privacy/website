@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-## Presse Francophone
+## Presse francophone
 
 * **Le Monde** on *Nov 9 2018* - [La CNIL épingle Vectaury, une start-up de ciblage publicitaire](https://www.lemonde.fr/pixels/article/2018/11/09/la-cnil-epingle-vectaury-une-start-up-de-ciblage-publicitaire_5381237_4408996.html)
 * **Numerama** on *Oct 23 2018* - [Ciblage publicitaire non consenti : la CNIL met en demeure Singlespot](https://www.numerama.com/politique/433865-ciblage-publicitaire-non-consenti-la-cnil-met-en-demeure-singlespot.html)
@@ -29,7 +29,7 @@ draft: false
 * **Next Inpact** on *Nov 25 2017* - [Rencontre avec Exodus Privacy, qui révèle les trackers](https://www.nextinpact.com/news/105655-rencontre-avec-exodus-privacy-qui-revele-trackers-applications-android.htm)
 * **Le Monde** on *Nov 24 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
 
-## Presse Anglophone
+## Presse anglophone
 * **BoingBoing** on *Aug 14 2018* - [EBGAP: Error Between Google and Privacy](https://boingboing.net/2018/08/14/goober.html)
 * **BoingBoing** on *Jan 24 2018* - [Love, sex, and trackers - Tinder and other dating apps are spies in your bedroom](https://boingboing.net/2018/01/24/love-sex-and-trackers-tind.html)
 * **Wired** on *Jan 21 2018* - [Want to Avoid the Scourge of Malware on your Android? Try the F-Droid App Store](https://www.wired.com/story/android-users-to-avoid-malware-ditch-googles-app-store/)

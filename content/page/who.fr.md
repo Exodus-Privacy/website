@@ -5,9 +5,9 @@ draft: false
 ---
 
 # Qui nous sommes
-Exodus Privacy est une association française à but non-lucratif, régie la loi de 1901. Cette organisation est animée par des hacktivistes dont le but est la protection de la vie privée.
+Exodus Privacy est une association française à but non-lucratif, régie par la loi de 1901. Cette organisation est animée par des hacktivistes dont le but est la protection de la vie privée.
 
-## Contributeurs principaux
+## Principaux contributeurs
 <div class="row justify-content-md-center">
     <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
@@ -101,14 +101,14 @@ Exodus Privacy est une association française à but non-lucratif, régie la loi
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>@exodus</code></h6>
-            <a href="#" class="btn btn-sm btn-primary">Suivez-nous !</a>
+            <a href="https://framapiaf.org/@exodus" class="btn btn-sm btn-primary">Suivez-nous !</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>@ExodusPrivacy</code></h6>
-            <a href="#" class="btn btn-sm btn-primary">Suivez-nous !</a>
+            <a href="https://twitter.com/ExodusPrivacy" class="btn btn-sm btn-primary">Suivez-nous !</a>
         </div>
     </div>
     <div class="col-md-4 text-center">

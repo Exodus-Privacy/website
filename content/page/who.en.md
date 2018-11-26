@@ -13,7 +13,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>MeTaL_PoU</code></h6>
-            <a href="https://mastodon.opportunis.me/@MeTaL_PoU"><i class="fab fa-2x fa-mastodon"></i></a> 
+            <a href="https://mastodon.opportunis.me/@MeTaL_PoU"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/metal_pou"><i class="fab fa-2x fa-twitter"></i></a>
             <p class="small">President of Exodus Privacy and creates pedagogic contents.</p>
         </div>
@@ -22,7 +22,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>Lovis_IX</code></h6>
-            <a href="https://mastodon.tamanoir.foucry.net/@Lovis_IX"><i class="fab fa-2x fa-mastodon"></i></a> 
+            <a href="https://mastodon.tamanoir.foucry.net/@Lovis_IX"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/jfoucry"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/jfoucry"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">King of our servers and backups.</p>
@@ -32,7 +32,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>U039b</code></h6>
-            <a href="https://mastodon.social/@U039b"><i class="fab fa-2x fa-mastodon"></i></a> 
+            <a href="https://mastodon.social/@U039b"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/U039b"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/U039b"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">Lead dev of εxodus.</p>
@@ -50,7 +50,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>dashcom</code></h6>
-            <a href="https://mamot.fr/@dashcom"><i class="fab fa-2x fa-mastodon"></i></a> 
+            <a href="https://mamot.fr/@dashcom"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/dashcom_"><i class="fab fa-2x fa-twitter"></i></a>
             <p class="small">In charge of communication.</p>
         </div>
@@ -59,7 +59,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>Codimp</code></h6>
-            <a href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a> 
+            <a href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/codeurimpulsif"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/codeurimpulsif"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">Master of εxodus's infrastructure.</p>
@@ -101,14 +101,14 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>@exodus</code></h6>
-            <a href="#" class="btn btn-sm btn-primary">Follow us!</a>
+            <a href="https://framapiaf.org/@exodus" class="btn btn-sm btn-primary">Follow us!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>@ExodusPrivacy</code></h6>
-            <a href="#" class="btn btn-sm btn-primary">Follow us!</a>
+            <a href="https://twitter.com/ExodusPrivacy" class="btn btn-sm btn-primary">Follow us!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
