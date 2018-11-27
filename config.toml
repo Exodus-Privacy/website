@@ -61,7 +61,7 @@ name = "Code de conduite"
 url = "/page/coc/"
 weight = 4
 [[languages.fr.menu.main]]
-name = "Supporteurs"
+name = "Partenaires"
 url = "/page/supporters/"
 weight = 5
 [[languages.fr.menu.main]]

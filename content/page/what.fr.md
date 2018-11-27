@@ -10,7 +10,7 @@ draft: false
   <img src="/media/logo.png" width="60px" class="mt-3 ml-auto mr-auto"/>
   <div class="card-body">
     <h5 class="card-title">εxodus</h5>
-    <p class="card-text">Découvert les ingrédients de la recette !</p>
+    <p class="card-text">Découvert les ingrédients du gâteau !</p>
     <a href="https://reports.exodus-privacy.eu.org/search/" class="btn btn-primary">Parcourir les rapports</a>
     <p class="mt-3"><a href="#exodus">plus de détails</a></p>
   </div>
@@ -18,7 +18,7 @@ draft: false
 <div class="col-md-4 text-center">
   <i class="fab fa-4x fa-android mt-2 ml-auto mr-auto text-primary"></i>
   <div class="card-body">
-    <h5 class="card-title">Mobile app</h5>
+    <h5 class="card-title">Application mobile</h5>
     <p class="card-text">Gardez un œil sur votre ordiphone !</p>
     <a href="https://play.google.com/store/apps/détails?id=org.eu.exodus_privacy.exodusprivacy" class="btn btn-primary">Google Play</a>
     <a href="https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/" class="btn btn-primary">F-Droid</a>
@@ -40,7 +40,7 @@ draft: false
 
 <a name="exodus"></a>
 ## εxodus - la plateforme d’audit de la vie privée des applications Android
-εxodus analyse les applications Android dans le but de lister les pisteurs embarqués. Un pisteur est un bout de logiciel dont le but est la collecte de données à propos de vous et de vos usages. Ainsi, les rapports d’εxodus vous révéle les ingrédients de la recette. εxodus ne décompile pas les applications, sa technique d’analyse est légale.
+εxodus analyse les applications Android dans le but de lister les pisteurs embarqués. Un pisteur est un bout de logiciel dont le but est la collecte de données à propos de vous et de vos usages. Ainsi, les rapports d’εxodus vous révéle les ingrédients du gâteau. εxodus ne décompile pas les applications, sa technique d’analyse est légale.
 
 Le [site web d’εxodus](http://reports.exodus-privacy.eu.org/) vous permet de :
 
@@ -51,18 +51,18 @@ Le [site web d’εxodus](http://reports.exodus-privacy.eu.org/) vous permet de 
 {{< fig src="/media/report-overview.png" caption="Aperçus d’un rapport" >}}
 </center>
 
-Chaque rapport vous indique quels sont les pisteurs embarqués dans l’application. En cliquant sur le nom d’un pisteur, vous serez redirigé vers les détails de ce pisteur et la liste des applications qui l’utilisent. Si la description du pisteur est vide ou incomplète, n’ésitez pas à soumettre vos améliorations ou à créer un ticket sur [Github](https://github.com/exodus-privacy/).
+Chaque rapport vous indique quels sont les pisteurs embarqués dans l’application. En cliquant sur le nom d’un pisteur, vous serez redirigé vers les détails de ce pisteur et la liste des applications qui l’utilisent. Si la description du pisteur est vide ou incomplète, n’hésitez pas à soumettre vos améliorations ou à créer un ticket sur [Github](https://github.com/exodus-privacy/).
 
 <center>
 {{< fig src="/media/report-trackers.png" caption="Aperçus de la liste de pisteurs détectés" >}}
 </center>
-Un rapport vous donne aussi la liste des permissions requises par l’application pour fonctionner correctement sur votre ordiphone. Certaines de ces permissions sont labellisées comme *dangereuse* (*dangerous*), cela signifie que, du point de vue de Google, l’application pourrait faire des *choses sales* en utilisant ces permissions. εxodus utilise la classification des permissions de Google.
+Un rapport vous donne aussi la liste des permissions requises par l’application pour fonctionner correctement sur votre ordiphone. Certaines de ces permissions sont labellisées comme *dangereuse* (*"Dangerous"*), cela signifie que, du point de vue de Google, l’application pourrait faire de *mauvaises choses* en utilisant ces permissions. εxodus utilise la classification des permissions de Google.
 
 <center>
 {{< fig src="/media/report-perms.png" caption="Aperçus de la liste des permissions" >}}
 </center>
 
-Si vous êtes curieux ou si vous voulez nous aider à améliorer εxodus, vous pouvez ouvrir un ticket ou proposer des améliorations sur le dépôt <i class="fab fa-github"></i> de notre <a href="https://github.com/exodus-privacy/"> projet</a>.
+Si vous êtes curieux ou si vous voulez nous aider à améliorer εxodus, vous pouvez ouvrir un ticket ou proposer des améliorations sur le dépôt de notre <a href="https://github.com/exodus-privacy/">projet <i class="fab fa-github"></i></a>.
 
 <a name="android-app"></a>
 ## L’application Android d’εxodus
@@ -98,7 +98,7 @@ Le but principal d’Exodus Privacy est d’avertir les utilisateurs du pistage 
 </div>
 </div>
 
-Nous avons également créé des vidéos de vulgarisation explicant comment et pourquoi les pisteurs sont présents dans les ordiphones. Ces vidéos sont disponibles sur 2 platerfomes :
+Nous avons également créé des vidéos de vulgarisation expliquant comment et pourquoi les pisteurs sont présents dans les ordiphones. Ces vidéos sont disponibles sur 2 plateformes :
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <img src="/media/peertube.svg" height="56px" class="mt-3 ml-auto mr-auto"/>
