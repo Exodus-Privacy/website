@@ -1,5 +1,5 @@
 ---
-title: "Supporteurs"
+title: "Partenaires"
 date: 2018-08-17 17:03:06
 draft: false
 ---

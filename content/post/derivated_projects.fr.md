@@ -4,7 +4,7 @@ date: 2018-03-19 15:53:46
 draft: false
 ---
 
-Quelques fans on mis à profit leur talent pour créer des outils qui utilisent les données d’Exodus Privacy (_via_ l’API).
+Quelques fans ont mis à profit leur talent pour créer des outils qui utilisent les données d’Exodus Privacy (_via_ l’API).
 
 * Exodify: une extension pour navigateur pour voir la liste des pisteurs embarqués dans une application Android© depuis l’inteface web du Google Play. Vous pouvez également accéder directement aux rapports d’Exodus Privacy directement depuis le Google Play Store.
 
