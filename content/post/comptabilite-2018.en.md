@@ -11,6 +11,46 @@ draft: false
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
+## Balance changes in 2018 / 11:
+<pre>
+                                 ║      Nov
+═════════════════════════════════╬══════════
+ Assets Liberapay                ║        0
+ Assets: App Exodus              ║        0
+ Assets: Au Trappiste            ║  147.50€
+ Assets: Checking                ║ -245.50€
+ Assets: Checking:               ║  -12.45€
+ Assets: Crypto:Bitcoin          ║        0
+ Assets: Crypto:Ğ1               ║        0
+ Assets: Deliveroo               ║        0
+ Assets: Donator                 ║  -26.13€
+ Assets: Donators                ║  -45.80€
+ Assets: Fee Paypal              ║    1.55€
+ Assets: Fee Stripe              ║    1.90€
+ Assets: Idées Cadeau            ║        0
+ Assets: Impression-en-ligne.com ║        0
+ Assets: Liberapay               ║        0
+ Assets: Materiel.net            ║        0
+ Assets: OVH                     ║    2.40€
+ Assets: Paypal                  ║   29.45€
+ Assets: SNCF                    ║   49.00€
+ Assets: Société Générale        ║   10.20€
+ Assets: SpreadShirt             ║        0
+ Assets: Starbucks               ║   12.45€
+ Assets: Stripe                  ║   39.03€
+ Assets: Taxi G7                 ║        0
+ Assets: Yvonne                  ║    6.40€
+ Donators                        ║        0
+ Paypal                          ║        0
+ Paypal: Fee Paypal              ║        0
+ People: Framasoft               ║   10.00€
+ People: Maroc Gourmand          ║        0
+ People: Membre                  ║   20.00€
+ Société Générale                ║        0
+ Stripe: Fee Stripe              ║        0
+─────────────────────────────────╫──────────
+                                 ║        0</pre>
+
 ## Balance changes in 2018 / 10:
 <pre>
                                  ║     Oct
