@@ -26,7 +26,7 @@ draft: false
     </div>
 </div>
 
-<p>Si vous ne savez pas par où commencer, comment utiliser GitHub ou bien si vous voulez simplement discuter avec l’équipe, n'hésitez pas à ouvrir un compte sur <a href="https://forum.exodus-privacy.eu.org/">notre forum</a> ou à passer sur <a href="/page/who#main-contributors">IRC</a>.</p>
+<p>Si vous ne savez pas par où commencer, comment utiliser GitHub ou bien si vous voulez simplement discuter avec l’équipe, n’hésitez pas à ouvrir un compte sur <a href="https://forum.exodus-privacy.eu.org/">notre forum</a> ou à passer sur <a href="/page/who#main-contributors">IRC</a>.</p>
 
 
 <a name="finance"></a>
@@ -74,7 +74,7 @@ draft: false
 
 ## Nous aider à nous faire connaître
 
-Le but principal d’Exodus Privacy est d'<b>avertir les utilisateurs du pistage effectué par les applications mobiles</b>. Pour ce faire, nous animons 3 comptes sur les réseaux sociaux et 2 chaînes vidéos :
+Le but principal d’Exodus Privacy est d’<b>avertir les utilisateurs du pistage effectué par les applications mobiles</b>. Pour ce faire, nous animons 3 comptes sur les réseaux sociaux et 2 chaînes vidéos :
 <div class="row">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>

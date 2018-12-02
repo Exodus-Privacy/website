@@ -13,8 +13,8 @@ Les participants coté CNIL étaient nombreux, environ 15 personnes, issus de di
 Étaient représentés notamment :
 
 *  la Direction de la Conformité, qui établit globalement l’interprétation faite de la loi Informatique et Libertés, et les lignes directrices à suivre par les organismes ;
-*  la Direction de la Protection des Droits et des Sanctions, et plus particulièrement le Service des Contrôles, intéressé par l’utilisation de l’:goutil εxodus dans le cadre de la préparation de ses missions ;
-*  le Service de l’Expertise Technologique, pour ce qui touche plus spécifiquement au fonctionnement interne de l’:goutil.
+*  la Direction de la Protection des Droits et des Sanctions, et plus particulièrement le Service des Contrôles, intéressé par l’utilisation de l’outil εxodus dans le cadre de la préparation de ses missions ;
+*  le Service de l’Expertise Technologique, pour ce qui touche plus spécifiquement au fonctionnement interne de l’outil.
 
 Plusieurs points ont été abordés, notamment :
 
@@ -26,13 +26,13 @@ Plusieurs points ont été abordés, notamment :
 *  l’aide que pourrait nous apporter la CNIL ;
 *  les pistes pour l’avenir…
 
-Beaucoup de questions ont porté sur le fonctionnement de la plateforme, en particulier sur une éventuelle revue par les pairs afin de valider le fonctionnement de εxodus (potentiellement par l’INRIA), notamment pour éliminer toute suspicion de faux-positifs. L’:gexhaustivité (une liste complète et à jour) des pisteurs est un défi bien plus difficile à relever, le nombre d'intervenants dans le domaine ne cessant de croître.
-Un des points essentiels qui a été clarifié consistait en la distinction entre « pisteur » embarqué et « pisteur » embarqué actif, d’autant que rien ne prouve qu’:gun pisteur inactif à l'instant _T_ ne le soit pas à _T+1_. Il est difficile de statuer pour des raisons juridiques en France (notamment à cause de la décompilation, interdite).
+Beaucoup de questions ont porté sur le fonctionnement de la plateforme, en particulier sur une éventuelle revue par les pairs afin de valider le fonctionnement de εxodus (potentiellement par l’INRIA), notamment pour éliminer toute suspicion de faux-positifs. L’exhaustivité (une liste complète et à jour) des pisteurs est un défi bien plus difficile à relever, le nombre d’intervenants dans le domaine ne cessant de croître.
+Un des points essentiels qui a été clarifié consistait en la distinction entre « pisteur » embarqué et « pisteur » embarqué actif, d’autant que rien ne prouve qu’un pisteur inactif à l’instant _T_ ne le soit pas à _T+1_. Il est difficile de statuer pour des raisons juridiques en France (notamment à cause de la décompilation, interdite).
 
 Le LINC va installer une instance de la plateforme εxodus pour ses propres analyses et investigations hors contrôles.
 
-La CNIL envisage de citer εxodus via plusieurs canaux : auprès des particuliers (la CNIL propose une liste d’outils recommandés et de bonnes pratiques pour s’:ginformer, par exemple CookieViz), auprès des professionnels (plus précisément en mentionnant εxodus dans la méthode d'évaluation des impacts sur la vie privée (ÉIVP / PIA) adossée au RGPD, et via un canal mixte mais plus libre (un article sur le blog du LINC).
+La CNIL envisage de citer εxodus via plusieurs canaux : auprès des particuliers (la CNIL propose une liste d’outils recommandés et de bonnes pratiques pour s’informer, par exemple CookieViz), auprès des professionnels (plus précisément en mentionnant εxodus dans la méthode d’évaluation des impacts sur la vie privée (ÉIVP / PIA) adossée au RGPD, et via un canal mixte mais plus libre (un article sur le blog du LINC).
 
-Exodus Privacy a soulevé la question d’un éventuel droit de réponse des éditeurs sur les rapports publiés sur la plateforme εxodus. Il nous a été répondu que la stricte objectivité des rapports d’:gExodus Privacy ne saurait faire l'objet d'un droit de réponse et qu'il est de la responsabilité de l'éditeur de l'application concernée de signaler la présence et de l'utilisation de pisteurs.
+Exodus Privacy a soulevé la question d’un éventuel droit de réponse des éditeurs sur les rapports publiés sur la plateforme εxodus. Il nous a été répondu que la stricte objectivité des rapports d’Exodus Privacy ne saurait faire l’objet d’un droit de réponse et qu’il est de la responsabilité de l’éditeur de l’application concernée de signaler la présence et de l’utilisation de pisteurs.
 
 Nous tenons une nouvelle fois à remercier les différents interlocuteurs de la CNIL et du LINC qui nous ont reçus.
