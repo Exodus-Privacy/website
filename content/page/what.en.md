@@ -51,12 +51,12 @@ The [εxodus website](http://reports.exodus-privacy.eu.org/) allows you to:
 {{< fig src="/media/report-overview.png" caption="Overview of a report" >}}
 </center>
 
-Each report will tell you what are the trackers embedded into the application. By clicking on a tracker's name, we will be redirected to the details of the tracker and the list of application using it. If the tracker description is empty or inaccurate, feel-free to help us to improve it by submitting improvements or creating an issue on [Github](https://github.com/exodus-privacy/). 
+Each report will tell you what are the trackers embedded into the application. By clicking on a tracker's name, we will be redirected to the details of the tracker and the list of application using it. If the tracker description is empty or inaccurate, feel-free to help us to improve it by submitting improvements or creating an issue on [Github](https://github.com/exodus-privacy/).
 
 <center>
 {{< fig src="/media/report-trackers.png" caption="Overview of the detected trackers list" >}}
 </center>
-A report will also give you the list of permissions the application requires to correctly operate on your smartphone. Some of these permissions are tagged as *dangerous*, it means that from the Google point of vue, the application can do *bad things* by using this permission. εxodus uses the Google permission classification. 
+A report will also give you the list of permissions the application requires to correctly operate on your smartphone. Some of these permissions are tagged as *dangerous*, it means that from the Google point of vue, the application can do *bad things* by using this permission. εxodus uses the Google permission classification.
 
 <center>
 {{< fig src="/media/report-perms.png" caption="Overview of the permissions list" >}}
@@ -73,24 +73,24 @@ This application is meant to list the applications you have installed from Googl
 
 <a name="videos"></a>
 ## Vulgarisation supports
-Exodus Privacy main interest is to make people aware of the tracking done by mobile applications. To do so, we animate 3 social network accounts: 
+Exodus Privacy main interest is to make people aware of the tracking done by mobile applications. To do so, we animate 3 social network accounts:
 <div class="row">
 <div class="col-md-4 text-center">
-  <i class="fab fa-4x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
+  <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
   <div class="card-body">
     <h5 class="card-title"><code>@exodus</code></h5>
     <a href="https://framapiaf.org/@exodus" class="btn btn-primary">Follow us!</a>
   </div>
 </div>
 <div class="col-md-4 text-center">
-  <i class="fab fa-4x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
+  <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
   <div class="card-body">
     <h5 class="card-title"><code>@ExodusPrivacy</code></h5>
     <a href="https://twitter.com/ExodusPrivacy" class="btn btn-primary">Follow us!</a>
   </div>
 </div>
 <div class="col-md-4 text-center">
-  <i class="fab fa-4x fa-facebook-square mt-2 ml-auto mr-auto text-primary"></i>
+  <i class="fab fa-3x fa-facebook-square mt-2 ml-auto mr-auto text-primary"></i>
   <div class="card-body">
     <h5 class="card-title"><code>exodusprivacy</code></h5>
     <a href="https://facebook.com/exodusprivacy" class="btn btn-primary">Follow us!</a>
@@ -101,14 +101,14 @@ Exodus Privacy main interest is to make people aware of the tracking done by mob
 We also create vulgarisation videos explaining how and why tracking massively occures on smartphones. These videos are available on 2 platforms.
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
-        <img src="/media/peertube.svg" height="56px" class="mt-3 ml-auto mr-auto"/>
+        <img src="/media/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos" class="btn btn-primary">Watch!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
-        <i class="fab fa-4x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>Exodus Privacy</code></h5>
             <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">Watch!</a>

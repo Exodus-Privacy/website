@@ -77,21 +77,21 @@ draft: false
 Le but principal d’Exodus Privacy est d'<b>avertir les utilisateurs du pistage effectué par les applications mobiles</b>. Pour ce faire, nous animons 3 comptes sur les réseaux sociaux et 2 chaînes vidéos :
 <div class="row">
     <div class="col-md-4 text-center">
-        <i class="fab fa-4x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://framapiaf.org/@exodus" class="btn btn-primary">Suivez-nous !</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
-        <i class="fab fa-4x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>@ExodusPrivacy</code></h5>
             <a href="https://twitter.com/ExodusPrivacy" class="btn btn-primary">Suivez-nous !</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
-        <i class="fab fa-4x fa-facebook-square mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fab fa-3x fa-facebook-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>exodusprivacy</code></h5>
             <a href="https://facebook.com/exodusprivacy" class="btn btn-primary">Suivez-nous !</a>
@@ -100,14 +100,14 @@ Le but principal d’Exodus Privacy est d'<b>avertir les utilisateurs du pistage
 </div>
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
-        <img src="/media/peertube.svg" height="56px" class="mt-2 ml-auto mr-auto"/>
+        <img src="/media/peertube.svg" height="48px" class="mt-2 ml-auto mr-auto"/>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos" class="btn btn-primary">Regardez !</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
-        <i class="fab fa-4x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>Exodus Privacy</code></h5>
             <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">Regardez !</a>

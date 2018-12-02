@@ -84,21 +84,21 @@ draft: false
 The main interest of Exodus Privacy is to <b>make people aware of the tracking done by mobile applications</b>. To do so, we animate 3 social network accounts and 2 video channels:
 <div class="row">
     <div class="col-md-4 text-center">
-        <i class="fab fa-4x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://framapiaf.org/@exodus" class="btn btn-primary">Follow us!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
-        <i class="fab fa-4x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>@ExodusPrivacy</code></h5>
             <a href="https://twitter.com/ExodusPrivacy" class="btn btn-primary">Follow us!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
-        <i class="fab fa-4x fa-facebook-square mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fab fa-3x fa-facebook-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>exodusprivacy</code></h5>
             <a href="https://facebook.com/exodusprivacy" class="btn btn-primary">Follow us!</a>
@@ -107,14 +107,14 @@ The main interest of Exodus Privacy is to <b>make people aware of the tracking d
 </div>
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
-        <img src="/media/peertube.svg" height="56px" class="mt-2 ml-auto mr-auto"/>
+        <img src="/media/peertube.svg" height="48px" class="mt-2 ml-auto mr-auto"/>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos" class="btn btn-primary">Watch!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
-        <i class="fab fa-4x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>Exodus Privacy</code></h5>
             <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">Watch!</a>

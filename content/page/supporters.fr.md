@@ -20,7 +20,7 @@ draft: false
     </div>
 </div>
 
-# Nos supporteurs
+# Nos soutiens
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <img src="/media/partners/codeurs-en-liberte.svg" width="120px" class="mt-3 ml-auto mr-auto"/>
