@@ -18,7 +18,7 @@ Le 24 novembre 2017, Exodus Privacy rendait publique la [plateforme εxodus](htt
 * beaucoup d’[articles de presse](https://exodus-privacy.eu.org/page/press/) dans plus de 20 langues qui mentionnent les travaux d’Exodus Privacy
 * plein d’URLs : [notre site](https://exodus-privacy.eu.org), [la plateforme εxodus](https://reports.exodus-privacy.eu.org/), [notre forum](https://forum.exodus-privacy.eu.org/), [le dépôt Github](https://github.com/Exodus-Privacy), [notre blog](https://exodus-privacy.eu.org/post/)…
  
-Nous sommes très fièr.e.s de cette première année et en profitons pour remercier toutes les personnes grâce à qui cela a été possible :
+Nous sommes très fièr•e•s de cette première année et en profitons pour remercier toutes les personnes grâce à qui cela a été possible :
 
 * Schoumi [que vous pouvez soutenir ici](https://liberapay.com/Schoumi) qui a développé l’application Exodus
 * Valère qui a créé l’extension [Exodify](https://exodus-privacy.eu.org/post/derivated_projects/) pour Firefox, Chrome et Chromium.

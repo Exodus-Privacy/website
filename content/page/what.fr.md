@@ -48,18 +48,18 @@ Le [site web d’εxodus](http://reports.exodus-privacy.eu.org/) vous permet de 
 * analyser une application Android en [soumettant son identifiant](https://reports.exodus-privacy.eu.org/analysis/submit/)
 
 <center>
-{{< fig src="/media/report-overview.png" caption="Aperçus d’un rapport" >}}
+{{< fig src="/media/report-overview.png" caption="Aperçu d’un rapport" >}}
 </center>
 
 Chaque rapport vous indique quels sont les pisteurs embarqués dans l’application. En cliquant sur le nom d’un pisteur, vous serez redirigé vers les détails de ce pisteur et la liste des applications qui l’utilisent. Si la description du pisteur est vide ou incomplète, n’hésitez pas à soumettre vos améliorations ou à créer un ticket sur [Github](https://github.com/exodus-privacy/).
 
 <center>
-{{< fig src="/media/report-trackers.png" caption="Aperçus de la liste de pisteurs détectés" >}}
+{{< fig src="/media/report-trackers.png" caption="Aperçu de la liste de pisteurs détectés" >}}
 </center>
 Un rapport vous donne aussi la liste des permissions requises par l’application pour fonctionner correctement sur votre ordiphone. Certaines de ces permissions sont labellisées comme *dangereuse* (*"Dangerous"*), cela signifie que, du point de vue de Google, l’application pourrait faire de *mauvaises choses* en utilisant ces permissions. εxodus utilise la classification des permissions de Google.
 
 <center>
-{{< fig src="/media/report-perms.png" caption="Aperçus de la liste des permissions" >}}
+{{< fig src="/media/report-perms.png" caption="Aperçu de la liste des permissions" >}}
 </center>
 
 Si vous êtes curieux ou si vous voulez nous aider à améliorer εxodus, vous pouvez ouvrir un ticket ou proposer des améliorations sur le dépôt de notre <a href="https://github.com/exodus-privacy/">projet <i class="fab fa-github"></i></a>.
@@ -68,7 +68,7 @@ Si vous êtes curieux ou si vous voulez nous aider à améliorer εxodus, vous p
 ## L’application Android d’εxodus
 Le but de cette application est de lister les applications que vous avez installées depuis Google Play et de vous dire quels pisteurs sont utilisés pour chacune d’entre elles. L’application ne fait aucune analyse sur votre ordiphone mais va chercher les rapports disponibles sur la [plateforme εxodus](https://reports.exodus-privacy.eu.org) et [ne contient aucun pisteur](https://reports.exodus-privacy.eu.org/reports/search/org.eu.exodus_privacy.exodusprivacy).
 <center>
-{{< fig src="/media/exodus-app.png" caption="Aperçus de l’application Android d’εxodus" >}}
+{{< fig src="/media/exodus-app.png" caption="Aperçu de l’application Android d’εxodus" >}}
 </center>
 
 <a name="videos"></a>

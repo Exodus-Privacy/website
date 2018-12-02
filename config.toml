@@ -5,13 +5,13 @@ relativeURLs = true
 canonifyurls = true
 paginate = 25
 theme = "hugo-bootstrap"
-copyright = "Exodus Privacy - French non-profit"
 defaultContentLanguageInSubdir= true
 
 [languages]
 
 [languages.en]
 languageName = "English"
+copyright = "Exodus Privacy - French non-profit"
 [[languages.en.menu.main]]
 name = "What"
 url = "/page/what/"
