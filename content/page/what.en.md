@@ -48,18 +48,18 @@ The [εxodus website](http://reports.exodus-privacy.eu.org/) allows you to:
 * analyze an Android application by [submitting its identifier](https://reports.exodus-privacy.eu.org/analysis/submit/)
 
 <center>
-{{< fig src="/media/report-overview.png" caption="Overview of a report" >}}
+{{< fig src="/media/report-overview-en.png" caption="Overview of a report" >}}
 </center>
 
 Each report will tell you what are the trackers embedded into the application. By clicking on a tracker's name, we will be redirected to the details of the tracker and the list of application using it. If the tracker description is empty or inaccurate, feel-free to help us to improve it by submitting improvements or creating an issue on [Github](https://github.com/exodus-privacy/).
 
 <center>
-{{< fig src="/media/report-trackers.png" caption="Overview of the detected trackers list" >}}
+{{< fig src="/media/report-trackers-en.png" caption="Overview of the detected trackers list" >}}
 </center>
 A report will also give you the list of permissions the application requires to correctly operate on your smartphone. Some of these permissions are tagged as *dangerous*, it means that from the Google point of vue, the application can do *bad things* by using this permission. εxodus uses the Google permission classification.
 
 <center>
-{{< fig src="/media/report-perms.png" caption="Overview of the permissions list" >}}
+{{< fig src="/media/report-perms-en.png" caption="Overview of the permissions list" >}}
 </center>
 
 If you are curious or want to help us to improve εxodus, you can file issues or submit improvements on our <a href="https://github.com/exodus-privacy/"><i class="fab fa-github"></i> project</a>.
