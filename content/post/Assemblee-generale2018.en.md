@@ -1,8 +1,10 @@
 ---
-title: "Exodus Privacy a réuni son assemblée générale"
+title: "[FR] Exodus Privacy a réuni son assemblée générale"
 date: 2018-10-01 09:01:00
 draft: false
 ---
+
+**Note: this post is only available in French for the time being.**
 
 Pour toutes les associations Loi 1901, l’assemblée générale est un moment important ! Exodus Privacy n’a pas failli à la règle et le 1er septembre 2018, à Nantes, ses membres se sont réuni.e.s pour faire un bilan de la première année, élire le nouveau bureau et discuter des projets.
 

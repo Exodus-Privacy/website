@@ -9,7 +9,47 @@ draft: false
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
-## Balance changes in 2018 / 10:
+## Comptes au 30/11/2018:
+<pre>
+                                 ║      Nov 
+═════════════════════════════════╬══════════
+ Assets Liberapay                ║        0 
+ Assets: App Exodus              ║        0 
+ Assets: Au Trappiste            ║  147.50€ 
+ Assets: Checking                ║ -245.50€ 
+ Assets: Checking:               ║  -12.45€ 
+ Assets: Crypto:Bitcoin          ║        0 
+ Assets: Crypto:Ğ1               ║        0 
+ Assets: Deliveroo               ║        0 
+ Assets: Donator                 ║  -26.13€ 
+ Assets: Donators                ║  -45.80€ 
+ Assets: Fee Paypal              ║    1.55€ 
+ Assets: Fee Stripe              ║    1.90€ 
+ Assets: Idées Cadeau            ║        0 
+ Assets: Impression-en-ligne.com ║        0 
+ Assets: Liberapay               ║        0 
+ Assets: Materiel.net            ║        0 
+ Assets: OVH                     ║    2.40€ 
+ Assets: Paypal                  ║   29.45€ 
+ Assets: SNCF                    ║   49.00€ 
+ Assets: Société Générale        ║   10.20€ 
+ Assets: SpreadShirt             ║        0 
+ Assets: Starbucks               ║   12.45€ 
+ Assets: Stripe                  ║   39.03€ 
+ Assets: Taxi G7                 ║        0 
+ Assets: Yvonne                  ║    6.40€ 
+ Donators                        ║        0 
+ Paypal                          ║        0 
+ Paypal: Fee Paypal              ║        0 
+ People: Framasoft               ║   10.00€ 
+ People: Maroc Gourmand          ║        0 
+ People: Membre                  ║   20.00€ 
+ Société Générale                ║        0 
+ Stripe: Fee Stripe              ║        0 
+─────────────────────────────────╫──────────
+                                 ║        0</pre>
+
+## Comptes au 31/10/2018:
 <pre>
                                  ║     Oct 
 ═════════════════════════════════╬═════════
@@ -45,7 +85,7 @@ draft: false
 ─────────────────────────────────╫─────────
                                  ║       0</pre>
                       
-## Balance changes in 2018 / 09:
+## Comptes au 30/09/2018:
 <pre>
                                  ║      Sep 
 ═════════════════════════════════╬══════════
@@ -81,7 +121,7 @@ draft: false
 ─────────────────────────────────╫──────────
                                  ║        0 </pre>
 
-## Balance changes in 2018 / 08:
+## Comptes au 31/08/2018:
 <pre>
                                  ║                   Aug 
 ═════════════════════════════════╬═══════════════════════
@@ -111,8 +151,8 @@ draft: false
  Stripe: Fee                     ║                 0.98€ 
 ─────────────────────────────────╫───────────────────────
                                  ║                     0</pre>
-                                 
-## Balance changes in 2018 / 07:
+
+## Comptes au 31/07/2018:
 <pre>
                                 ║      Jul 
 ════════════════════════════════╬══════════
@@ -140,7 +180,7 @@ draft: false
 ────────────────────────────────╫──────────
                                 ║        0</pre>
 
-## Balance changes in 2018 / 06:
+## Comptes au 30/06/2018:
 <pre>
                                 ║      Jun 
 ════════════════════════════════╬══════════
@@ -166,7 +206,7 @@ draft: false
 ────────────────────────────────╫──────────
                                 ║        0</pre>
 
-## Balance changes in 2018 / 05:
+## Comptes au 31/05/2018:
 <pre>
                        ║      May 
 ═══════════════════════╬══════════
@@ -187,7 +227,7 @@ draft: false
 ───────────────────────╫──────────
                        ║        0</pre>
 
-## Balance changes in 2018 / 04:
+## Comptes au 30/04/2018 :
 <pre>
                        ║        Apr 
 ═══════════════════════╬════════════
@@ -207,7 +247,7 @@ draft: false
 ───────────────────────╫────────────
                        ║          -1</pre>
 
-## Balance changes in 2018 / 03:
+## Comptes au 31/03/2018 :
 <pre>
                        ║     Mar 
 ═══════════════════════╬═════════
@@ -227,7 +267,7 @@ draft: false
 ───────────────────────╫─────────
                        ║       0 </pre>
 
-## Balance changes in 2018 / 02:
+## Comptes au 28/02/2018:
 <pre>
                        ║               Feb 
 ═══════════════════════╬═══════════════════
@@ -247,7 +287,7 @@ draft: false
 ───────────────────────╫───────────────────
                        ║                 0</pre>
 
-## Balance changes in 2018 / 01:
+## Comptes au 31/01/2018 :
 <pre>
                        ║                               Jan 
 ═══════════════════════╬═══════════════════════════════════
