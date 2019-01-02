@@ -8,7 +8,7 @@ draft: false
 
 #### **Qu'est-ce qu'un pisteur ?**
 
-Un pisteur est une partie du logiciel dédiée à la collecte de données sur vous et vos usages. Vous pouvez trouver plus d'informations dans notre vidéo ["Camille et les pisteurs"](https://peertube.tamanoir.foucry.net/videos/watch/5c4b7bba-1d70-49e6-90d1-f8223569d657).
+Un pisteur est une partie du logiciel dédiée à la collecte de données sur vous et vos usages. Vous pouvez trouver plus d'informations dans notre vidéo ["Les pisteurs en 2 minutes"](https://www.youtube.com/watch?v=sv_xF2KIJZE).
 
 #### **Que sont les permissions ? Comment sont définis les niveaux de sévérité ?**
 
@@ -16,13 +16,13 @@ Les permissions sont les actions que l'application peut effectuer sur votre tél
 
 #### **Comment se fait l'analyse des applications ?**
 
-Nous ne faisons pas de décompilation des applications, celle-ci n'étant pas autorisée. Nous faisons une analyse statique des fichiers APK et comparons les classes Java avec une liste de pisteurs. S'il y a correspondance, le pisteur est présent. Une description plus détaillée est disponible dans l'[article suivant](/fr/post/exodus_static_analysis/).
+Nous ne faisons pas de décompilation des applications, celle-ci n'étant pas autorisée. Nous faisons une analyse statique des fichiers APK et comparons les classes Java avec une liste de pisteurs. S'il y a correspondance, le pisteur est présent. Une description plus détaillée est disponible dans [cet article](/fr/post/exodus_static_analysis/).
 
 #### **Quid des applications iOS ?**
 
 Les DRM d'Apple nous interdisent formellement d’investiguer donc nous ne saurions le dire. Toutefois les applications des deux OS sont souvent faites par les mêmes équipes ou les mêmes agences. Les soupçons sont donc forts que les pisteurs de l'un soient aussi dans l'autre.
 
-#### **Y a-t-il des faux positifs et des faux négatifs dans les rapports ?**
+#### **Y a-t-il des faux positifs et des faux négatifs dans vos rapports ?**
 
 Notre méthode de détection statique cherche dans les applications la présence d'une liste définie de pisteurs. Si la signature d'un pisteur est détectée dans l'analyse, sa présence est indiquée dans le rapport. Cela ne constitue pas une preuve de l'activité de ces pisteurs.
 
