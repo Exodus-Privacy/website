@@ -8,7 +8,7 @@ draft: false
 
 #### **What is a tracker?**
 
-AA tracker is a piece of software meant to collect data about you or your usages. You can find more information in our video ["Trackers in 2 minutes"](https://www.youtube.com/watch?v=sv_xF2KIJZE) (in French with subtitles).
+A tracker is a piece of software meant to collect data about you or your usages. You can find more information in our video ["Trackers in 2 minutes"](https://www.youtube.com/watch?v=sv_xF2KIJZE) (in French with subtitles).
 
 #### **What are permissions? How are the severity levels defined?**
 
@@ -16,11 +16,11 @@ Permissions are actions the application can do on your phone. The severity level
 
 #### **How are the applications analyzed?**
 
-We do not decompile applications, as this is not allowed. We perform a static analysis of APKs and compare Java classes with a list of trackers. If there is a match, then the tracker is present. A more detailed description is available in [this post](/en/post/exodus_static_analysis/).
+We do not decompile applications, as this is not allowed. We perform a static analysis of APKs and compare Java class names with a list of trackers. If there is a match, then the tracker is present. A more detailed description is available in [this post](/en/post/exodus_static_analysis/).
 
 #### **What about iOS apps?**
 
-Apple's DRMs strictly forbid us to investigate so we can not say. However, the applications of both OS are often made by the same teams or agencies. The suspicions are strong that the trackers of one are also in the other.
+Apple's DRMs strictly forbid us to investigate so we can not say. However, the applications of both OS are often made by the same teams/agencies and the trackers’ SDKs are often available for both Android and iOS. The suspicions are therefore strong that the trackers of one are also in the other.
 
 #### **Are there any false positives and/or false negatives in your reports?**
 

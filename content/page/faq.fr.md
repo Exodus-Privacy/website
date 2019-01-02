@@ -16,11 +16,11 @@ Les permissions sont les actions que l'application peut effectuer sur votre tél
 
 #### **Comment se fait l'analyse des applications ?**
 
-Nous ne faisons pas de décompilation des applications, celle-ci n'étant pas autorisée. Nous faisons une analyse statique des fichiers APK et comparons les classes Java avec une liste de pisteurs. S'il y a correspondance, le pisteur est présent. Une description plus détaillée est disponible dans [cet article](/fr/post/exodus_static_analysis/).
+Nous ne faisons pas de décompilation des applications, celle-ci n'étant pas autorisée. Nous faisons une analyse statique des fichiers APK et comparons les noms des classes Java avec une liste de pisteurs. S'il y a correspondance, le pisteur est présent. Une description plus détaillée est disponible dans [cet article](/fr/post/exodus_static_analysis/).
 
 #### **Quid des applications iOS ?**
 
-Les DRM d'Apple nous interdisent formellement d’investiguer donc nous ne saurions le dire. Toutefois les applications des deux OS sont souvent faites par les mêmes équipes ou les mêmes agences. Les soupçons sont donc forts que les pisteurs de l'un soient aussi dans l'autre.
+Les DRM d'Apple nous interdisent formellement d’investiguer donc nous ne saurions le dire. Toutefois, les applications des deux OS sont souvent faites par les mêmes équipes/agences et les SDKs des pisteurs sont souvent disponibles à la fois pour Android et iOS. Les soupçons sont donc forts que les pisteurs de l'un soient aussi dans l'autre.
 
 #### **Y a-t-il des faux positifs et des faux négatifs dans vos rapports ?**
 
