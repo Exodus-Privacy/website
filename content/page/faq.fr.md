@@ -36,7 +36,7 @@ Il y a de nombreuses manières de nous aider, tout est expliqué dans la page ["
 
 Non, bien sûr, vous pouvez allez voir [son propre rapport d'analyse](https://reports.exodus-privacy.eu.org/fr/reports/search/org.eu.exodus_privacy.exodusprivacy/).
 
-### **Pourquoi avez-vous une chaîne YouTube alors que cette plateforme appartient à Google ?**
+#### **Pourquoi avez-vous une chaîne YouTube alors que cette plateforme appartient à Google ?**
 
 L'objectif d'Exodus Privacy est de toucher le plus grand nombre, les personnes les moins technophile et les plus enclins à ignorer ce qui se passe dans leur ordiphone. Pour toucher ce public, il est nécessaire d'aller à lui, car il ne viendra pas à nous. Nous avons donc une chaîne YouTube et un page Facebook. Rassurez vous, nous avons également une chaîne Peertube.
 
