@@ -14,6 +14,14 @@ Un pisteur est une partie du logiciel dédiée à la collecte de données sur vo
 
 Les permissions sont les actions que l'application peut effectuer sur votre téléphone. Les niveaux de sévérité sont définis conformément aux [niveaux de protection de Google](https://developer.android.com/guide/topics/permissions/overview).
 
+#### **Comment sont définies les couleurs (vert / jaune / rouge) dans vos rapports ?**
+
+Des couleurs sont attribuées au nombre de pisteur et de permissions, suivant l'échelle ci-dessous :
+
+* 0 pisteurs / permissions : vert
+* < 5 pisteurs / permissions : jaune
+* > 5 pisteurs / permissions : rouge
+
 #### **Comment se fait l'analyse des applications ?**
 
 Nous ne faisons pas de décompilation des applications, celle-ci n'étant pas autorisée. Nous faisons une analyse statique des fichiers APK et comparons les noms des classes Java avec une liste de pisteurs. S'il y a correspondance, le pisteur est présent. Une description plus détaillée est disponible dans [cet article](/fr/post/exodus_static_analysis/).
