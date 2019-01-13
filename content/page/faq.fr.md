@@ -20,7 +20,7 @@ Des couleurs sont attribuées au nombre de pisteur et de permissions, suivant l'
 
 * 0 pisteurs / permissions : vert
 * < 5 pisteurs / permissions : jaune
-* > 5 pisteurs / permissions : rouge
+* >= 5 pisteurs / permissions : rouge
 
 #### **Comment se fait l'analyse des applications ?**
 
