@@ -14,6 +14,14 @@ A tracker is a piece of software meant to collect data about you or your usages.
 
 Permissions are actions the application can do on your phone. The severity levels are defined according to [Google's protection levels](https://developer.android.com/guide/topics/permissions/overview).
 
+#### **How are the colors (green / yellow / red) in your reports defined?**
+
+Colors are assigned to the number of trackers and permissions, according to the scale below:
+
+* 0 trackers / permissions: green
+* < 5 trackers / permissions: yellow
+* >= 5 trackers / permissions: red
+
 #### **How are the applications analyzed?**
 
 We do not decompile applications, as this is not allowed. We perform a static analysis of APKs and compare Java class names with a list of trackers. If there is a match, then the tracker is present. A more detailed description is available in [this post](/en/post/exodus_static_analysis/).
