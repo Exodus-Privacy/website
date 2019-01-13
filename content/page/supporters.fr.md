@@ -39,7 +39,7 @@ draft: false
         <div class="card-body">
             <h6 class="card-title"><a href="https://gandi.net ">Gandi.net </a></h6>
         </div>
-    </div>    
+    
     <div class="col-md-4 text-center">
         <img src="/media/partners/octopuce.svg" width="120px" class="mt-3 ml-auto mr-auto"/>
         <div class="card-body">

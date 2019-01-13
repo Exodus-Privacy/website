@@ -21,7 +21,7 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 * [FR] ["FedeRez" Days](https://www.federez.net/journees/2018/), Paris, March 2018
 * [EN] Talk of Yale Privacy Lab at LibrePlanet 2018, Cambridge (USA), March 2018 [(video)](https://media.libreplanet.org/u/libreplanet/m/exposing-hidden-surveillance-in-mobile-apps/)
 * [FR] [Cryptoparty](https://cafevieprivee-nantes.fr/), Nantes, March 2018
-* [FR] Meeting with [LINC](https://linc.cnil.fr/) team from CNIL, Paris, February 2018 [(report)[/en/post/retour-sur-notre-rencontre-avec-la-cnil/]
+* [FR] Meeting with [LINC](https://linc.cnil.fr/) team from CNIL, Paris, February 2018 [(report)](/en/post/retour-sur-notre-rencontre-avec-la-cnil/)
  
 ## 2017
 * [EN] Small talk at [34c3](https://events.ccc.de/congress/2017/wiki/index.php/Main_Page) in the teahouse of [La Quadrature du Net](https://www.laquadrature.net/en/), Leipzig (Germany), December 2017

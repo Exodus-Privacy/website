@@ -7,7 +7,7 @@ draft: false
 
 ## Presse francophone
 
-* **Next Inpact** on Nov 24 2018* - [L'effet du RGPD sur les trackers des applications Android, selon Exodus Privacy](https://www.nextinpact.com/news/107335-leffet-rgpd-sur-trackers-applications-android-selon-exodus-privacy.htm)
+* **Next Inpact** on *24 Nov 2018* - [L'effet du RGPD sur les trackers des applications Android, selon Exodus Privacy](https://www.nextinpact.com/news/107335-leffet-rgpd-sur-trackers-applications-android-selon-exodus-privacy.htm)
 * **Le Monde** on *9 Nov 2018* - [La CNIL épingle Vectaury, une start-up de ciblage publicitaire](https://www.lemonde.fr/pixels/article/2018/11/09/la-cnil-epingle-vectaury-une-start-up-de-ciblage-publicitaire_5381237_4408996.html)
 * **Numerama** on *23 Oct 2018* - [Ciblage publicitaire non consenti : la CNIL met en demeure Singlespot](https://www.numerama.com/politique/433865-ciblage-publicitaire-non-consenti-la-cnil-met-en-demeure-singlespot.html)
 * **Le Canard enchaîné** on *Oct 2018* - #Vie privée, c'est terminé (Les dossiers du Canard n°149)
@@ -31,7 +31,7 @@ draft: false
 * **Le Monde** on *24 Nov 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
 
 ## Presse anglophone
-* **EdSurge** on *Dec 17 2018* (Which Apps Are Safe for Kids? Three Tools That Read the Fine Print for You)[https://www.edsurge.com/news/2018-12-17-which-apps-are-safe-for-kids-three-tools-that-read-the-fine-print-for-you]
+* **EdSurge** on *17 Dec 2018* - [Which Apps Are Safe for Kids? Three Tools That Read the Fine Print for You](https://www.edsurge.com/news/2018-12-17-which-apps-are-safe-for-kids-three-tools-that-read-the-fine-print-for-you)
 * **BoingBoing** on *14 Aou 2018* - [EBGAP: Error Between Google and Privacy](https://boingboing.net/2018/08/14/goober.html)
 * **BoingBoing** on *24 Jan 2018* - [Love, sex, and trackers - Tinder and other dating apps are spies in your bedroom](https://boingboing.net/2018/01/24/love-sex-and-trackers-tind.html)
 * **Wired** on *21 Jan 2018* - [Want to Avoid the Scourge of Malware on your Android? Try the F-Droid App Store](https://www.wired.com/story/android-users-to-avoid-malware-ditch-googles-app-store/)
