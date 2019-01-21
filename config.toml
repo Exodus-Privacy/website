@@ -41,6 +41,10 @@ name = "Events"
 url = "/page/events/"
 weight = 7
 [[languages.en.menu.main]]
+name = "FAQ"
+url = "/page/faq/"
+weight = 8
+[[languages.en.menu.main]]
 name = "News"
 url = "/post/"
 weight = 9
@@ -76,6 +80,10 @@ weight = 6
 name = "Evénements"
 url = "/page/events/"
 weight = 7
+[[languages.fr.menu.main]]
+name = "FAQ"
+url = "/page/faq/"
+weight = 8
 [[languages.fr.menu.main]]
 name = "Nouvelles"
 url = "/post/"
