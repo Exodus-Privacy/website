@@ -37,6 +37,10 @@ name = "Press"
 url = "/page/press/"
 weight = 6
 [[languages.en.menu.main]]
+name = "Events"
+url = "/page/events/"
+weight = 7
+[[languages.en.menu.main]]
 name = "FAQ"
 url = "/page/faq/"
 weight = 8
@@ -72,6 +76,10 @@ weight = 5
 name = "Presse"
 url = "/page/press/"
 weight = 6
+[[languages.fr.menu.main]]
+name = "Evénements"
+url = "/page/events/"
+weight = 7
 [[languages.fr.menu.main]]
 name = "FAQ"
 url = "/page/faq/"
