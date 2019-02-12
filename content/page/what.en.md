@@ -30,7 +30,8 @@ draft: false
   <div class="card-body">
     <h5 class="card-title">Vulgarisation</h5>
     <p class="card-text">Upgrade your minds with delightful contents!</p>
-    <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">Let me in</a>
+    <a href="https://peertube.tamanoir.foucry.net/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">PeerTube</a>
+    <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">YouTube</a>
     <p class="mt-3"><a href="#videos">more details</a></p>
   </div>
 </div>
@@ -104,7 +105,7 @@ We also create vulgarisation videos explaining how and why tracking massively oc
         <img src="/media/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
-            <a href="https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos" class="btn btn-primary">Watch!</a>
+            <a href="https://peertube.tamanoir.foucry.net/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">Watch!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
