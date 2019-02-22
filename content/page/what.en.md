@@ -28,7 +28,7 @@ draft: false
 <div class="col-md-4 text-center">
   <i class="fa fa-4x fa-umbrella-beach mt-2 ml-auto mr-auto text-primary"></i>
   <div class="card-body">
-    <h5 class="card-title">Vulgarisation</h5>
+    <h5 class="card-title">Popularization</h5>
     <p class="card-text">Upgrade your minds with delightful contents!</p>
     <a href="https://peertube.tamanoir.foucry.net/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">PeerTube</a>
     <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">YouTube</a>
