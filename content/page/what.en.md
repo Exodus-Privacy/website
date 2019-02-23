@@ -73,7 +73,7 @@ This application is meant to list the applications you have installed from Googl
 </center>
 
 <a name="videos"></a>
-## Vulgarisation supports
+## Popularization supports
 Exodus Privacy main interest is to make people aware of the tracking done by mobile applications. To do so, we animate 3 social network accounts:
 <div class="row">
 <div class="col-md-4 text-center">
@@ -99,7 +99,7 @@ Exodus Privacy main interest is to make people aware of the tracking done by mob
 </div>
 </div>
 
-We also create vulgarisation videos explaining how and why tracking massively occures on smartphones. These videos are available on 2 platforms.
+We also create popularization videos explaining how and why tracking massively occures on smartphones. These videos are available on 2 platforms.
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <img src="/media/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
