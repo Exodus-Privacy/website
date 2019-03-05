@@ -10,16 +10,16 @@ Le 14 janvier dernier, nous avons eu deux problèmes indépendants l'un de l'aut
 
 ### Que s'est-il passé ?
 
-Quand vous soumettez l'analyse d'une application, celle-ci est téléchargée sous forme d'un fichier que l'on appelle un APK (Android Package Kit) et stockée sur une machine avant d'être analysée. Les disques de stockage se sont peu à peu remplis, jusqu'à ce que les APK occupent tout l'espace disponible... rendant tout téléchargement impossible et donc bloquant toute nouvelle soumission d'application.    
+Quand vous soumettez l'analyse d'une application, celle-ci est téléchargée sous forme d'un fichier que l'on appelle un APK (Android Package Kit) et stockée sur une machine avant d'être analysée. Les disques de stockage se sont peu à peu remplis, jusqu'à ce que les APK occupent tout l'espace disponible… rendant tout téléchargement impossible et donc bloquant toute nouvelle soumission d'application.
 
 ### Comment cela a-t-il pu arriver ?
 
 Nous avons manqué de vigilance (petit rappel : nous sommes toutes et toutes bénévoles !) et malgré plusieurs alertes, nous n'avons rien formalisé par écrit (par mail ou sur Git).
 
-### Pourquoi stocke-t'on tous les APK ?
+### Pourquoi stocke-t-on tous les APK ?
 
 Nous stockons l'ensemble des APK pour d'éventuels besoins de recalculs, par exemple de signatures.
-Par ailleurs, cela nous permet également d'être transparent.e.s : si une personne souhaite contester nos résultats, elle peut télécharger le fichier qui a servi de base à l'analyse.
+Par ailleurs, cela nous permet également d'être transparent·e·s : si une personne souhaite contester nos résultats, elle peut télécharger le fichier qui a servi de base à l'analyse.
 Enfin, cela peut être nécessaire si jamais un jour nous changeons de modalité d'analyse.
 
 
@@ -36,7 +36,7 @@ Pour les plus techniques de nos lectrices et lecteurs, voici les commandes pass�
 find /home/exodus/storage/exodus -mtime +180 > /tmp/filelist.txt
 rsync -azuP --from-file=/tmp/filelist.txt -e 'ssh -p <port>' <machine_cible>:/backups/backupsAPK/.
 ```
-Nous sommes passé.e.s par une liste de fichiers parce que la copie directe en sortie de `find` aurait vite saturé, le `find` étant plus rapide que la copie.
+Nous sommes passé·e·s par une liste de fichiers parce que la copie directe en sortie de `find` aurait vite saturé, le `find` étant plus rapide que la copie.
 
 Nous avons ensuite supprimé les fichiers APK de plus de six mois du stockage ET de Minio avec l'utilisation de la commande `mc` :
 
@@ -54,7 +54,7 @@ Puis nous avons redémarré les services et la plate-fome.
 ### Que s'est-il passé ?
 
 Nous avons un certificat `letsencrypt` qui permet d'avoir une connexion sécurisée en https, (vous savez, le petit cadenas vert à la gauche de l'adresse du site qui vous signale que les communication entre vous et le serveur sont chiffrées).
-Nous avons un programme qui renouvelle automatiquement ce certificat, mais il est nécessaire que la configuration du serveur web soit rechargée afin de prendre en compte les nouveaux certificats. Nous ne l'avons pas fait... Ce qui a généré l'indisponibilité du site. Nous avons donc rechargé manuellement la configuration du serveur, puis avons modifié le programme de renouvellement des certificats pour ajouter cette étape.
+Nous avons un programme qui renouvelle automatiquement ce certificat, mais il est nécessaire que la configuration du serveur web soit rechargée afin de prendre en compte les nouveaux certificats. Nous ne l'avons pas fait… Ce qui a généré l'indisponibilité du site. Nous avons donc rechargé manuellement la configuration du serveur, puis avons modifié le programme de renouvellement des certificats pour ajouter cette étape.
 
 Voici à quoi ressemble notre script :
 
@@ -68,4 +68,4 @@ service nginx reload
 
 ## En conclusion
 
-Ces problèmes ont permis d'améliorer notre fonctionnement et de faire en sorte qu'ils ne se produisent plus à l'avenir. Nous avons été touché.e.s par les retours, les encouragements des personnes qui nous suivent. Rappelons que nous sommes toutes et tous bénévoles et que si vous avez envie de nous rejoindre, vous êtes les bienvenu.e.s !
+Ces problèmes ont permis d'améliorer notre fonctionnement et de faire en sorte qu'ils ne se produisent plus à l'avenir. Nous avons été touché.e.s par les retours, les encouragements des personnes qui nous suivent. Rappelons que nous sommes toutes et tous bénévoles et que si vous avez envie de nous rejoindre, vous êtes les bienvenu·e·s !
