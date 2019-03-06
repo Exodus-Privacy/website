@@ -30,11 +30,15 @@ Then we started a copy of all the files older than 180 days to another machine, 
 For the techies, we used those commands:
 
 ```
-find /home/exodus/storage/exodus -mtime +180 > /tmp/filelist.txt
-rsync -azuP --from-file=/tmp/filelist.txt -e 'ssh -p <port>' <target_computer>:/backups/backupsAPK/
+# find /home/exodus/storage/exodus -name "*.apk" -mtime +180 > /tmp/filelist.txt
+# sed -i 's/^.\//' /tmp/filelist.txt
+# rsync -azuP --from-file=/tmp/filelist.txt -e 'ssh -p <port> -i <identifyFile>' /home/exodus/storage/exodus <target_computer>:/backups/backupsAPK/
 ```
 
 We used a filelist file because the `find` output is much faster than any copy command.
+
+We also had to remove the `./` at the begining of each line from the filelist file. That the role of the `sed` command.
+
 
 ```
 mc find /home/exodus/storage/exodus "*.apk" -m6 exec rm -rf {}\;

@@ -33,10 +33,13 @@ Pour que cela ne se reproduise pas, nous avons mis en place en urgence un script
 Pour les plus techniques de nos lectrices et lecteurs, voici les commandes passées :
 
 ```
-find /home/exodus/storage/exodus -mtime +180 > /tmp/filelist.txt
-rsync -azuP --from-file=/tmp/filelist.txt -e 'ssh -p <port>' <machine_cible>:/backups/backupsAPK/.
+# find /home/exodus/storage/exodus -name "*.apk" -mtime +180 > /tmp/filelist.txt
+# sed -i 's/^.\//' /tmp/filelist.txt
+# rsync -azuP --files-from=/tmp/filelist.txt -e 'ssh -p <port> -i fichier_id' /home/exodus/storage/exodus <machine_cible>:/backups/backupsAPK/.
 ```
 Nous sommes passé·e·s par une liste de fichiers parce que la copie directe en sortie de `find` aurait vite saturé, le `find` étant plus rapide que la copie.
+
+Il faut également supprimer le `./` au début du nom des fichiers, c'est ce que fait la commande `sed`.
 
 Nous avons ensuite supprimé les fichiers APK de plus de six mois du stockage ET de Minio avec l'utilisation de la commande `mc` :
 
