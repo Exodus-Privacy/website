@@ -5,11 +5,15 @@ draft: false
 ---
 # Evénements
 
-L'association Exodus Privacy propose régulièrement des conférences et interventions présentant son travail et ses résultats, en français ou en anglais. Si vous organisez un événement et souhaitez nous inviter, n'hésitez pas à [nous contacter](/fr/page/who/). 
+L'association Exodus Privacy propose régulièrement des conférences et interventions présentant son travail et ses résultats, en français ou en anglais. Si vous organisez un événement et souhaitez nous inviter, n'hésitez pas à [nous contacter](/fr/page/who/).
+
+## Evénements à venir
+* [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes, juin 2019
+* [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi, juin 2019
 
 ## 2019
 * [FR] [Séminaire "Vie privée, mobile et sécurité", dans le cadre du Festival des Libertés Numériques](https://fdln.insa-rennes.fr/decrypter/seminaire-vie-privee-mobile-et-securite/), Rennes, février 2019
-* [EN] [Devroom "Decentralized Internet and Privacy" du FOSDEM](https://fosdem.org/2019/schedule/track/decentralized_internet_and_privacy/), Bruxelles (Belgique), février 2019
+* [EN] [Devroom "Decentralized Internet and Privacy" du FOSDEM](https://fosdem.org/2019/schedule/track/decentralized_internet_and_privacy/), Bruxelles (Belgique), février 2019 [(video)](https://peertube.tamanoir.foucry.net/videos/watch/596cadb2-6055-437a-bd86-3b0e98458ca1)
 
 ## 2018
 * [FR] [Journée de la Sécurité Informatique en Normandie](http://jsecin.insa-rouen.fr/), Rouen, novembre 2018
@@ -26,6 +30,3 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 ## 2017
 * [EN] Présentation au [34c3](https://events.ccc.de/congress/2017/wiki/index.php/Main_Page) à la teahouse de [La Quadrature du Net](https://www.laquadrature.net/), Leipzig (Allemagne), décembre 2017
 * [FR] [Café Vie Privée](https://cafevieprivee-nantes.fr/), Rezé, octobre 2017
-
-
-
