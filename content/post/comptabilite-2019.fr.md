@@ -9,6 +9,42 @@ draft: false
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
+## Comptes au 2019 / 03:
+<pre>
+                                 ║      Mar 
+═════════════════════════════════╬══════════
+ Assets: App Exodus              ║        0 
+ Assets: Au Trappiste            ║        0 
+ Assets: Checking                ║  -10.33€ 
+ Assets: Crypto:Bitcoin          ║        0 
+ Assets: Crypto:Ğ1               ║        0 
+ Assets: Deliveroo               ║        0 
+ Assets: Fee Paypal              ║   -2.75€ 
+ Assets: Fee Stripe              ║        0 
+ Assets: Hoky Sushi              ║        0 
+ Assets: Idées Cadeau            ║        0 
+ Assets: Impression-en-ligne.com ║        0 
+ Assets: Liberapay               ║        0 
+ Assets: Materiel.net            ║        0 
+ Assets: Membre                  ║   69.00€ 
+ Assets: OVH                     ║   11.09€ 
+ Assets: Paypal                  ║  -48.71€ 
+ Assets: Père Tranquille         ║        0 
+ Assets: SNCF                    ║        0 
+ Assets: SpreadShirt             ║        0 
+ Assets: Starbucks               ║        0 
+ Assets: StickerMule +114€       ║        0 
+ Assets: Stripe                  ║ -109.96€ 
+ Assets: Taxi G7                 ║        0 
+ Assets: Yvonne                  ║        0 
+ Donators                        ║   51.46€ 
+ People: Framasoft               ║   10.00€ 
+ People: Maroc Gourmand          ║        0 
+ People: Maïwann                 ║        0 
+ People: Membre                  ║   20.00€ 
+ Société Générale                ║   10.20€ 
+─────────────────────────────────╫──────────
+                                 ║        0</pre>
 ## Comptes au 2019 / 02 :
 <pre>
                                  ║      Feb
