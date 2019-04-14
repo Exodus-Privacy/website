@@ -10,7 +10,7 @@ draft: false
   <img src="/media/logo.png" width="60px" class="mt-3 ml-auto mr-auto"/>
   <div class="card-body">
     <h5 class="card-title">εxodus</h5>
-    <p class="card-text">Découvert les ingrédients du gâteau !</p>
+    <p class="card-text">Découvrez les ingrédients du gâteau !</p>
     <a href="https://reports.exodus-privacy.eu.org/search/" class="btn btn-primary">Parcourir les rapports</a>
     <p class="mt-3"><a href="#exodus">plus de détails</a></p>
   </div>
