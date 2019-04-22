@@ -8,8 +8,10 @@ draft: false
 L'association Exodus Privacy propose régulièrement des conférences et interventions présentant son travail et ses résultats, en français ou en anglais. Si vous organisez un événement et souhaitez nous inviter, n'hésitez pas à [nous contacter](/fr/page/who/).
 
 ## Evénements à venir
-* [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes, juin 2019
-* [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi, juin 2019
+* [FR] [Ubuntu Party de Paris](https://www.ubuntu-paris.org/), Paris (France), 19 mai 2019
+* [FR] Congrès de l'ABF (association des bibliothécaires de France), Paris (France), 7 juin 2019
+* [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes, 20 juin 2019
+
 
 ## 2019
 * [FR] [Séminaire "Vie privée, mobile et sécurité", dans le cadre du Festival des Libertés Numériques](https://fdln.insa-rennes.fr/decrypter/seminaire-vie-privee-mobile-et-securite/), Rennes, février 2019
