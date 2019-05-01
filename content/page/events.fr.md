@@ -10,7 +10,8 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 ## Evénements à venir
 * [FR] [Ubuntu Party de Paris](https://www.ubuntu-paris.org/), Paris (France), 19 mai 2019
 * [FR] Congrès de l'ABF (association des bibliothécaires de France), Paris (France), 7 juin 2019
-* [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes, 20 juin 2019
+* [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes (France), 20 juin 2019
+* [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi (France), 28, 29 et 30 juin 2019
 
 
 ## 2019

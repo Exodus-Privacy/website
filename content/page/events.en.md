@@ -11,6 +11,7 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 * [FR] [The Ubuntu Party of Paris](https://www.ubuntu-paris.org/), Paris (France), 19th May 2019
 * [FR] The French librarians association congress, Paris (France), 7th June 2019
 * [FR] "Digital Culture" day at the library of the University of Nantes, Nantes (France), 20th June 2019
+* [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi (France), 28th, 29th and 30th June 2019
 
 ## 2019
 * [FR] [Seminar "Privacy, mobile and security"](https://fdln.insa-rennes.fr/decrypter/seminaire-vie-privee-mobile-et-securite/), Rennes (France), February 2019
