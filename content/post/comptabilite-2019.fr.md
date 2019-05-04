@@ -8,7 +8,47 @@ draft: false
 * Commande utilisée : `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
-
+## Comptes au 2019 / 04: 
+<pre>
+                                 ║     Apr 
+═════════════════════════════════╬═════════
+ Assets: App Exodus              ║       0 
+ Assets: Au Trappiste            ║       0 
+ Assets: Checking                ║  -1.95€ 
+ Assets: Crypto:Bitcoin          ║       0 
+ Assets: Crypto:Ğ1               ║       0 
+ Assets: Deliveroo               ║       0 
+ Assets: Donators                ║ -21.80€ 
+ Assets: Donators:               ║       0 
+ Assets: Fee Paypal              ║       0 
+ Assets: Fee Stripe              ║       0 
+ Assets: Framasoft               ║  10.00€ 
+ Assets: Hoky Sushi              ║       0 
+ Assets: Idées Cadeau            ║       0 
+ Assets: Impression-en-ligne.com ║       0 
+ Assets: Liberapay               ║       0 
+ Assets: Materiel.net            ║       0 
+ Assets: Membre                  ║  20.00€ 
+ Assets: OVH                     ║   3.57€ 
+ Assets: Paypal                  ║       0 
+ Assets: Paypal Fee              ║   1.29€ 
+ Assets: Père Tranquille         ║       0 
+ Assets: SNCF                    ║       0 
+ Assets: Scaleway                ║   3.50€ 
+ Assets: Société Générale        ║  10.20€ 
+ Assets: SpreadShirt             ║       0 
+ Assets: Starbucks               ║       0 
+ Assets: StickerMule +114€       ║       0 
+ Assets: Stripe                  ║ -24.81€ 
+ Assets: Taxi G7                 ║       0 
+ Assets: Yvonne                  ║       0 
+ People: Framasoft               ║       0 
+ People: Maroc Gourmand          ║       0 
+ People: Maïwann                 ║       0 
+ People: Membre                  ║       0 
+ Société Générale                ║       0 
+─────────────────────────────────╫─────────
+                                 ║       0 </pre>
 ## Comptes au 2019 / 03:
 <pre>
                                  ║      Mar 
