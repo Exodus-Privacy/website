@@ -122,7 +122,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <i class="fa fa-3x fa-comments mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>#exodus-privacy</code></h6>
-            <a href="irc://irc.freenode.org/exodus-privacy" class="btn btn-sm btn-primary">Lets chat!</a>
+            <a href="ircs://irc.freenode.org/exodus-privacy" class="btn btn-sm btn-primary">Lets chat!</a>
         </div>
     </div>
 </div>

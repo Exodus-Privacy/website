@@ -122,7 +122,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         <i class="fa fa-3x fa-comments mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>#exodus-privacy</code></h6>
-            <a href="irc://irc.freenode.org/exodus-privacy" class="btn btn-sm btn-primary">Discutons !</a>
+            <a href="ircs://irc.freenode.org/exodus-privacy" class="btn btn-sm btn-primary">Discutons !</a>
         </div>
     </div>
 </div>
