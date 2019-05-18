@@ -85,16 +85,6 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
     </div>
 </div>
 
-<div class="row justify-content-md-center mb-4">
-    <div class="col-md-10 text-center">
-        <div class="card-body">
-            <p>IRC est le principal lieu pour discuter avec l’équipe d’Exodus Privacy,<br><code>#exodus-privacy</code> sur Freenode</p>
-            <a href="irc://irc.freenode.org/exodus-privacy" class="btn btn-sm btn-primary">Discutons !</a>
-        </div>
-    </div>
-</div>
-
-
 ## Les différents moyens de nous joindre :
 <div class="row">
     <div class="col-md-4 text-center">
@@ -122,17 +112,17 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
 
 <div class="row justify-content-md-center">
     <div class="col-md-5 text-center">
-        <i class="far fa-3x fa-envelope-open mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fa fa-3x fa-envelope mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>contact@exodus-privacy.eu.org</code></h6>
             <a href="mailto:contact@exodus-privacy.eu.org" class="btn btn-sm btn-primary">Contactez-nous !</a>
         </div>
     </div>
     <div class="col-md-5 text-center">
-        <i class="fa fa-3x fa-envelope mt-2 ml-auto mr-auto text-primary"></i>
+        <i class="fa fa-3x fa-comments mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
-            <h6 class="card-title"><code>press@exodus-privacy.eu.org</code><a href="/media/press-gpg-key.asc"> GPG <i class="fa fa-key"></i></a></h6>
-            <a href="mailto:press@exodus-privacy.eu.org" class="btn btn-sm btn-primary">Contactez-nous de manière sécurisée !</a>
+            <h6 class="card-title"><code>#exodus-privacy</code></h6>
+            <a href="ircs://irc.freenode.org/exodus-privacy" class="btn btn-sm btn-primary">Discutons !</a>
         </div>
     </div>
 </div>
