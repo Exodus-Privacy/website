@@ -9,9 +9,52 @@ draft: false
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
+## Comptes au 2019 / 05 :
+|    | **Mai**|
+|:---|---:|
+ Assets: Au Trappiste           |       0 
+ Assets: Checking               |  51.86€ 
+ Assets: Constellacom           |  37.94€ 
+ Assets: Crypto:Bitcoin         |       0 
+ Assets: Crypto:Ğ1              |       0 
+ Assets: Deliveroo              |       0 
+ Assets: Donators               | -81.00€ 
+ Assets: Donators:              |       0 
+ Assets: Fee Paypal             |       0 
+ Assets: Fee Stripe             |       0 
+ Assets: Framasoft              |  10.00€ 
+ Assets: Hoky Sushi             |       0 
+ Assets: Idées Cadeau           |       0 
+ Assets: Impression-en-ligne.com|       0 
+ Assets: Liberapay              |       0 
+ Assets: Materiel.net           |       0 
+ Assets: Membre                 |  20.00€ 
+ Assets: OVH                    |   3.57€ 
+ Assets: Paypal                 |  19.79€ 
+ Assets: Paypal Fee             |   1.21€ 
+ Assets: Père Tranquille        |       0 
+ Assets: SNCF                   |       0 
+ Assets: Scaleway               |   4.79€ 
+ Assets: Société Générale       |  10.20€ 
+ Assets: SpreadShirt            |       0 
+ Assets: Starbucks              |       0 
+ Assets: StickerMule            |       0 
+ Assets: Stripe                 | -40.42€ 
+ Assets: Taxi G7                |       0 
+ Assets: Yvonne                 |       0 
+ Asstes: Paypal                 | -37.94€ 
+ Donators                       |       0 
+ People: Framasoft              |       0 
+ People: Maroc Gourmand         |       0 
+ People: Maïwann                |       0 
+ People: Membre                 |       0 
+ Société Générale               |       0 
+────────────────────────────────|──────────
+                                |       0
+
 ## Comptes au 2019 / 04: 
 
-|    | **Apr** |
+|    | **Avr** |
 |:---|---:|
  Assets: App Exodus              |       0 
  Assets: Au Trappiste            |       0 
@@ -88,7 +131,7 @@ draft: false
                                  |        0
 ## Comptes au 2019 / 02 :
 
-|    | **Feb** |
+|    | **Fev** |
 |:---|---:|
  Assets: App Exodus              |        0
  Assets: Au Trappiste            |        0
