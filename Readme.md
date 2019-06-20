@@ -1,16 +1,16 @@
-:GB: This is the official repository for the Hugo powered Exodus Privacy website
+:gb: This is the official repository for the Hugo powered Exodus Privacy website
 
 With the help of Hugo the website is easy to be multilanguage.
 
 So you can fork-it and make translation in your language or contribute to the website.
 We will happy to integrate thoses new translations and contributions.
 
-##About Hugo##
+## About Hugo ##
 
 Hugo is a static website generator, written in Go and easy to use.
 You'll find more informations on the official [website](https://gohugo.io/).
 
-##How to contribute##
+## How to contribute ##
 
 - Installing Hugo
   → see this [tutorial](https://www.opentechguides.com/how-to/article/hugo/163/installing-hugo.html).
@@ -29,19 +29,19 @@ You'll find more informations on the official [website](https://gohugo.io/).
 
 
 
-:FR: Voici le dépôt officiel du site web d’Exodus Privacy. Ce dernier est propulsé
+:fr: Voici le dépôt officiel du site web d’Exodus Privacy. Ce dernier est propulsé
 par Hugo et est donc facile à rendre multilingue.
 
 Vous pouvez donc le « forker » et nous proposer de nouvelles traductions ou de
 nouvelles contributions au site web
 que nous seront heureux•ses d’ajouter.
 
-##A propos de Hugo##
+## A propos de Hugo ##
 
 Hugo est un générateur de site web, écrit en Go. Vous trouverez plus
 d’informations sur le site web officiel d’[Hugo](https://gohugo.io/).
 
-##Comment contribuer##
+## Comment contribuer ##
 
 - Installer Hugo, voyez ce [tutoriel](https://www.opentechguides.com/how-to/article/hugo/163/installing-hugo.html) ;
 - « Forker » le dépôt du site d’Exodus Privacy ;
