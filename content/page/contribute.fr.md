@@ -31,7 +31,12 @@ draft: false
 
 <a name="finance"></a>
 ## Nous aider à financer Exodus Privacy
-
+<center>
+<h5>Notre boutique</h5>
+<a href="https://shop.spreadshirt.fr/exodus-privacy/all">
+            <img src="/media/sweatEP.jpg" caption="our spreadshirt shop" alt="Spreadshirt shop" width="172px" height="172px">
+        </a>
+</center>
 <div class="row">
     <div class="col-md-6 text-center">
         <div class="card-body">
