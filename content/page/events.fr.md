@@ -8,13 +8,13 @@ draft: false
 L'association Exodus Privacy propose régulièrement des conférences et interventions présentant son travail et ses résultats, en français ou en anglais. Si vous organisez un événement et souhaitez nous inviter, n'hésitez pas à [nous contacter](/fr/page/who/).
 
 ## Evénements à venir
-* [FR] [Ubuntu Party de Paris](https://www.ubuntu-paris.org/), Paris (France), 19 mai 2019
-* [FR] Congrès de l'ABF (association des bibliothécaires de France), Paris (France), 7 juin 2019
-* [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes (France), 20 juin 2019
-* [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi (France), 28, 29 et 30 juin 2019
-
+* [FR] [Entrée libre](https://entree-libre.frama.site/), Quimper (France), du 27 au 29 août 2019
 
 ## 2019
+* [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi (France), 28, 29 et 30 juin 2019
+* [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes (France), 20 juin 2019
+* [FR] Congrès de l'ABF (association des bibliothécaires de France), Paris (France), 7 juin 2019
+* [FR] [Ubuntu Party de Paris](https://www.ubuntu-paris.org/), Paris (France), 19 mai 2019
 * [FR] [Séminaire "Vie privée, mobile et sécurité", dans le cadre du Festival des Libertés Numériques](https://fdln.insa-rennes.fr/decrypter/seminaire-vie-privee-mobile-et-securite/), Rennes, février 2019
 * [EN] [Devroom "Decentralized Internet and Privacy" du FOSDEM](https://fosdem.org/2019/schedule/track/decentralized_internet_and_privacy/), Bruxelles (Belgique), février 2019 [(video)](https://peertube.tamanoir.foucry.net/videos/watch/596cadb2-6055-437a-bd86-3b0e98458ca1)
 
