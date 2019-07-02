@@ -11,7 +11,7 @@ draft: false
 
 ## Comptes au 2019 / 06 :
 
-|    | **JUIN**|
+|    | **Jun**|
 |:---|---:|
  Assets: App Exodus              |        0 
  Assets: Au Trappiste            |        0 

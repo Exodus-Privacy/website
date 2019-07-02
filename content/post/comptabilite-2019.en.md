@@ -11,7 +11,7 @@ draft: false
 
 ## Balance changes in 2019 /06:
 
-|    | **June** |
+|    | **Jun** |
 |:---|---:|
  Assets: App Exodus              |        0 
  Assets: Au Trappiste            |        0 
