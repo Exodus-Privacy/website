@@ -9,6 +9,55 @@ draft: false
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
+## Comptes au 2019 / 06 :
+
+|    | **Jun**|
+|:---|---:|
+ Assets: App Exodus              |        0 
+ Assets: Au Trappiste            |        0 
+ Assets: Checking                |  -73.50€ 
+ Assets: Constellacom            |        0 
+ Assets: Crypto:Bitcoin          |        0 
+ Assets: Crypto:Ğ1               |        0 
+ Assets: Deliveroo               |        0 
+ Assets: Donators                |  -82.00€ 
+ Assets: Donators:               |        0 
+ Assets: Fee Paypal              |        0 
+ Assets: Fee Stripe              |        0 
+ Assets: Framasoft               |   10.00€ 
+ Assets: Hoky Sushi              |        0 
+ Assets: Idées Cadeau            |        0 
+ Assets: Impression-en-ligne.com |        0 
+ Assets: Liberapay               |        0 
+ Assets: Materiel.net            |        0 
+ Assets: Membre                  |   20.00€ 
+ Assets: OVH                     |    3.57€ 
+ Assets: Paypal                  | -148.91€ 
+ Assets: Paypal Fee              |    3.22€ 
+ Assets: Père Tranquille         |        0 
+ Assets: SNCF                    |        0 
+ Assets: Safssa african food     |   72.50€ 
+ Assets: Scaleway                |        0 
+ Assets: Société Générale        |   10.20€ 
+ Assets: SpreadShirt             |        0 
+ Assets: Spreadshirt             |  211.69€ 
+ Assets: Starbucks               |        0 
+ Assets: StickerMule             |        0 
+ Assets: Stripe                  |  -26.77€ 
+ Assets: Taxi G7                 |        0 
+ Assets: Totin                   |   34.00€ 
+ Assets: Yvonne                  |        0 
+ Assets; Checking                |  -34.00€ 
+ Donators                        |        0 
+ People: Framasoft               |        0 
+ People: Maroc Gourmand          |        0 
+ People: Maïwann                 |        0 
+ People: Membre                  |        0 
+ Société Générale                |        0 
+─────────────────────────────────|──────────
+                                 |        0 
+
+
 ## Comptes au 2019 / 05 :
 |    | **Mai**|
 |:---|---:|
