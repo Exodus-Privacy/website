@@ -8,7 +8,8 @@ Nous avons été contacté⋅e⋅s  en mai dernier par [Le MédiaTV](https://lem
 
 ## Notre méthode
 
-La plate-forme d'analyse εxodus permet de connaître le nombre de pisteurs dans une application. Ainsi, pour [la version 19.06.24_14235 de l'application Deliveroo Rider](https://reports.exodus-privacy.eu.org/fr/reports/80251/), nous avons détecté 4 pisteurs. Cette analyse, dite « statique » a une double limite :
+La plate-forme d'analyse εxodus permet de connaître le nombre de pisteurs dans une application. Ainsi, pour [la version 19.06.24_14235 de l'application Deliveroo Rider](https://reports.exodus-privacy.eu.org/fr/reports/80251/), nous avons détecté 4 pisteurs. Cette analyse, dite «&nbsp;statique&nbsp;» a une double limite :
+
 * Il se peut qu'elle ne détecte pas tous les pisteurs présents ;
 * Elle ne peut pas préjuger du comportement des pisteurs.
 
@@ -18,28 +19,46 @@ La plate-forme d'analyse εxodus permet de connaître le nombre de pisteurs dans
         </a>
 </center>
 
-C'est pourquoi nous utilisons le travail d'un projet libre intitulé [PiRanhaLysis](https://github.com/PiRanhaLysis) qui permet de faire de l'analyse dynamique. Comme expliqué dans l'enquête du Média TV, l'analyse avec le boîtier PiRogue permet d'intercepter et d'observer les données transmises par le téléphone, pendant l'utilisation d'une application (ici, Deliveroo Rider).
+C'est pourquoi nous utilisons le travail d'un projet libre intitulé
+[PiRanhaLysis](https://github.com/PiRanhaLysis) qui permet de faire de l'analyse
+dynamique. Comme expliqué dans l'enquête du Média TV, l'analyse avec le boîtier
+PiRogue permet d'intercepter et d'observer les données transmises par le
+téléphone, pendant l'utilisation d'une application (ici, Deliveroo Rider).
 
 ## Nos résultats
 
 L'analyse du trafic met en évidence des envois de données vers plusieurs destinations :
-    * `Deliveroo`;
-    * `Appboy`, devenu depuis Braze, une régie publicitaire un gestionnaire de données client⋅e⋅s et de marketing ;
-    * `Segment`, un analyseur de comportement[^1] ;
-    * `Instabug` un logiciel permettant d'envoyer rapports de bugs et crashs
 
-Parmi les données envoyées, nous trouvons à la fois des données relatives au téléphone et à l'usage qui est fait de l'application, parfois liées à des identifiants uniques, comme l'advertisingID[^2] ou le numéro Deliveroo du coursier ou de la coursière.
+* `Deliveroo` ;
+* `Appboy`, devenu depuis Braze, une régie publicitaire un gestionnaire de données client⋅e⋅s et de marketing ;
+* `Segment`, un analyseur de comportement[^1] ;
+* `Instabug` un logiciel permettant d'envoyer rapports de bugs et crashs.
+
+Parmi les données envoyées, nous trouvons à la fois des données relatives au
+téléphone et à l'usage qui est fait de l'application, parfois liées à des
+identifiants uniques, comme l'advertisingID[^2] ou le numéro Deliveroo du
+coursier ou de la coursière.
 
 Plus précisément, si on reprend chaque envoi de données (qui interviennent de façon régulière) :
-   * À Deliveroo sont envoyés l'identifiant du coursier ou de la coursière, sa zone de travail, sa disponibilité, quelle partie de l'application est utilisée et des éléments du téléphone comme la marque, le modèle et le niveau de batterie ;
-   * À Appboy est envoyée la géolocalisation avec un identifiant de périphérique et une clef d'api qui permet d'utiliser les services de plateforme deliveroo. Cette clef d'api est liée au coursier ou à la coursière ;
-   *  À Instabug, avec l'identifiant du coursier ou de la coursière, sa zone de travail, son modèle de téléphone, sont envoyées des données relatives à une durée ;
-    * Segment, quant à lui, collecte régulièrement toutes les actions dans l'application sous forme d' « events », ainsi que l'identifiant du coursier ou de la coursière (l'userID), l'identifiant publicitaire (l'advertisingID), l'identifiant unique Android[^3] (l'id), l'opérateur téléphonique (le "carrier"), le modèle de téléphone, la résolution de l'écran, si le téléphone est connecté en wifi…
+
+* à Deliveroo sont envoyés l'identifiant du coursier ou de la coursière, sa zone
+de travail, sa disponibilité, quelle partie de l'application est utilisée et
+des éléments du téléphone comme la marque, le modèle et le niveau de batterie ;
+* à Appboy est envoyée la géolocalisation avec un identifiant de périphérique et
+une clef d'api qui permet d'utiliser les services de plateforme deliveroo.
+Cette clef d'api est liée au coursier ou à la coursière ;
+* à Instabug, avec l'identifiant du coursier ou de la coursière, sa zone de
+travail, son modèle de téléphone, sont envoyées des données relatives à une
+durée ;
+* Segment, quant à lui, collecte régulièrement toutes les actions dans
+l'application sous forme d' _events_, ainsi que l'identifiant du coursier ou
+de la coursière (l'`userID`), l'identifiant publicitaire (l'`advertisingID`),
+l'identifiant unique Android (l'`id`) [^3], l'opérateur téléphonique (le
+`carrier`), le modèle de téléphone, la résolution de l'écran, si le téléphone
+est connecté en WiFi…
 
 <center>
-<a>
-            <img src="/media/deliveroosegment.png" caption="les données envoyées à Segment">
-       </a>
+    <img src="/media/deliveroosegment.png" caption="les données envoyées à Segment">
 </center>
 
 ## En conclusion
@@ -50,10 +69,14 @@ Nous tenons à remercier les équipes du MédiaTV qui ont travaillé avec nous a
 Merci également au projet Piranhalysis pour ces outils d'analyse.
 
 ## Et maintenant ?
-Si vous avez des questions, n'hésitez pas à [nous contacter](https://exodus-privacy.eu.org/fr/page/who/) et surtout, n'oubliez pas de [nous soutenir](https://exodus-privacy.eu.org/fr/page/contribute/) pour que nous puissions continuer à développer de telles analyses. En effet, nous allons essayer de publier ces "focus sur..." à intervalles réguliers.
+Si vous avez des questions, n'hésitez pas à [nous
+contacter](https://exodus-privacy.eu.org/fr/page/who/) et surtout, n'oubliez pas
+de [nous soutenir](https://exodus-privacy.eu.org/fr/page/contribute/) pour que
+nous puissions continuer à développer de telles analyses. En effet, nous allons
+essayer de publier ces __Focus sur…__ à intervalles plus ou moins réguliers.
 
 [^1]: le but est de comprendre comment les utilisateurs se servent de l'application pour améliorer cette dernière
+
 [^2]: il s'agit de l'identifiant publicitaire ou advertisingID généré au moment où le téléphone est relié à un Google Play. Il est donc fortement attaché à la propriété du téléphone. Il est néanmoins possible de le changer, en allant dans les paramètres du téléphone.
-[^3]: l'identifiant Android est généré au premier démarrage d'Android sur le téléphone et ne peut être réinitialisé qu'avec une remise à zéro du téléphone (retour aux paramètres d'usine).
 
-
+[^3]: l'identifiant Android est généré au premier démarrage d'Android sur le téléphone et ne peux etre réinitialisé qu'avec une remise à zéro du téléphone (retour aux paramètres d'usine).
