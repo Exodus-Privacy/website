@@ -7,11 +7,17 @@ draft: false
 
 ## French press
 
+* **MindFindtech** on *Jul 8 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/)
+* **LeMédiaTV** on *Jul 2 2019* - [Surveillés, exploités : dans l'enfer des livreurs à vélo](https://youtu.be/vASAMVRiy8s?t=1725)
+* **Capital** on *Jun 7 2019* - Etre aussi malin que les GAFA (hors-série n°55)
+* **MindMedia** on *May 20 2019* - [Outils et bases de données](https://www.mindnews.fr/article/15459/outils-et-bases-de-donnees/)
+* **Paris-Match** on *Apr 18 2019* - [Comment les géants du web mènent la bataille de la vie privée](https://www.parismatch.com/Actu/Economie/Comment-les-geants-du-web-menent-la-bataille-de-la-vie-privee-1619290)
+* **Numérama** on *Feb 26 2019* - [La CNIL fait rentrer dans le rang une société qui récoltait vos données sans votre accord à des fins publicitaires](https://www.numerama.com/politique/467301-la-cnil-fait-rentrer-dans-le-rang-une-societe-qui-recoltait-vos-donnees-sans-votre-accord-a-des-fins-publicitaires.html)
 * **Next Inpact** on *Nov 24 2018* - [L'effet du RGPD sur les trackers des applications Android, selon Exodus Privacy](https://www.nextinpact.com/news/107335-leffet-rgpd-sur-trackers-applications-android-selon-exodus-privacy.htm)
 * **Le Monde** on *Nov 9 2018* - [La CNIL épingle Vectaury, une start-up de ciblage publicitaire](https://www.lemonde.fr/pixels/article/2018/11/09/la-cnil-epingle-vectaury-une-start-up-de-ciblage-publicitaire_5381237_4408996.html)
 * **Numerama** on *Oct 23 2018* - [Ciblage publicitaire non consenti : la CNIL met en demeure Singlespot](https://www.numerama.com/politique/433865-ciblage-publicitaire-non-consenti-la-cnil-met-en-demeure-singlespot.html)
 * **Le Canard enchaîné** on *Oct 2018* - #Vie privée, c'est terminé (Les dossiers du Canard n°149)
-* **Numerama** on *Jul 14 2018* - [https://www.numerama.com/pop-culture/393078-mouchards-histoire-de-lart-high-tech-5-chaines-youtube-a-suivre-en-juillet-2018.html](https://www.numerama.com/pop-culture/393078-mouchards-histoire-de-lart-high-tech-5-chaines-youtube-a-suivre-en-juillet-2018.html)
+* **Numerama** on *Jul 14 2018* - [Mouchards, histoire de l’art, high tech : 5 chaînes YouTube à suivre en juillet 2018](https://www.numerama.com/pop-culture/393078-mouchards-histoire-de-lart-high-tech-5-chaines-youtube-a-suivre-en-juillet-2018.html)
 * **Geek Junior** on *Jun 12 2018* - [Combien de pisteurs dans les applications que tu utilises ? Exodus Privacy te le dit](https://www.geekjunior.fr/combien-pisteurs-applications-utilises-exodus-privacy-22542/)
 * **BFM TV** on *Apr 20 2018* - [Sans votre accord, des applications offrent vos données les plus intimes à Facebook](http://bfmbusiness.bfmtv.com/hightech/sans-votre-accord-des-applications-offrent-vos-donnees-les-plus-intimes-a-facebook-1424638.html)
 * **Numerama** on *Apr 7 2018* - [Exodus Privacy : comment voir les permissions et les trackers des applications sur Android](https://www.numerama.com/tech/340529-exodus-privacy-comment-voir-les-permissions-et-les-trackers-des-applications-sur-android.html)
@@ -31,6 +37,7 @@ draft: false
 * **Le Monde** on *Nov 24 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
 
 ## English press
+* **Thenextweb** *May 29 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
 * **EdSurge** on *Dec 17 2018* - [Which Apps Are Safe for Kids? Three Tools That Read the Fine Print for You](https://www.edsurge.com/news/2018-12-17-which-apps-are-safe-for-kids-three-tools-that-read-the-fine-print-for-you)
 * **BoingBoing** on *Aug 14 2018* - [EBGAP: Error Between Google and Privacy](https://boingboing.net/2018/08/14/goober.html)
 * **BoingBoing** on *Jan 24 2018* - [Love, sex, and trackers - Tinder and other dating apps are spies in your bedroom](https://boingboing.net/2018/01/24/love-sex-and-trackers-tind.html)
