@@ -4,7 +4,7 @@ date: 2019-07-10 09:01:00
 draft: false
 ---
 
-Nous avons été contacté⋅e⋅s  en mai dernier par [Le MédiaTV](https://lemediatv.fr) dans le cadre d'une enquête autour des coursier⋅e⋅s à vélo. Le journaliste souhaitait en savoir plus sur l'application Deliveroo Rider (utilisée par les coursier⋅e⋅s) et quels types de données celle-ci pouvait collecter. Cela correspondait aussi par ailleurs à notre souhait de développer des analyses approfondies d'application et de les publier sur ce blog. [La vidéo du Média](https://www.youtube.com/watch?v=qW8DmMqO6iE) nous permet donc d'inaugurer ce nouveau type d'articles, avec lequel nous vous proposons de détailler la méthode et les résultats complets.
+Nous avons été contacté⋅e⋅s  en mai dernier par [Le MédiaTV](https://lemediatv.fr) dans le cadre d'une enquête autour des coursier⋅e⋅s à vélo. Le journaliste souhaitait en savoir plus sur l'application Deliveroo Rider (utilisée par les coursier⋅e⋅s) et quels types de données celle-ci pouvait collecter. Cela correspondait aussi par ailleurs à notre souhait de développer des analyses approfondies d'application et de les publier sur ce blog. [La vidéo du Média](https://youtu.be/vASAMVRiy8s?t=1725) nous permet donc d'inaugurer ce nouveau type d'articles, avec lequel nous vous proposons de détailler la méthode et les résultats complets.
 
 ## Notre méthode
 
@@ -24,6 +24,8 @@ C'est pourquoi nous utilisons le travail d'un projet libre intitulé
 dynamique. Comme expliqué dans l'enquête du Média TV, l'analyse avec le boîtier
 PiRogue permet d'intercepter et d'observer les données transmises par le
 téléphone, pendant l'utilisation d'une application (ici, Deliveroo Rider).
+
+Le téléphone utilisé ici est un Samsung SM-G361F, sous Android 5.1.1. Les résultats d'analyse peuvent bien sûr varier en fonction du téléphone utilisé et de son système d'exploitation.
 
 ## Nos résultats
 
