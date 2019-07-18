@@ -15,6 +15,7 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 * [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes (France), 20 juin 2019
 * [FR] Congrès de l'ABF (association des bibliothécaires de France), Paris (France), 7 juin 2019
 * [FR] [Ubuntu Party de Paris](https://www.ubuntu-paris.org/), Paris (France), 19 mai 2019
+* [FR] [Meetup OWASP France](https://www.meetup.com/fr-FR/owasp-france/events/259215813/), Paris, 4 avril 2019
 * [FR] [Séminaire "Vie privée, mobile et sécurité", dans le cadre du Festival des Libertés Numériques](https://fdln.insa-rennes.fr/decrypter/seminaire-vie-privee-mobile-et-securite/), Rennes, février 2019
 * [EN] [Devroom "Decentralized Internet and Privacy" du FOSDEM](https://fosdem.org/2019/schedule/track/decentralized_internet_and_privacy/), Bruxelles (Belgique), février 2019 [(video)](https://peertube.tamanoir.foucry.net/videos/watch/596cadb2-6055-437a-bd86-3b0e98458ca1)
 
