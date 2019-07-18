@@ -25,7 +25,7 @@ dynamique. Comme expliqué dans l'enquête du Média TV, l'analyse avec le boît
 PiRogue permet d'intercepter et d'observer les données transmises par le
 téléphone, pendant l'utilisation d'une application (ici, Deliveroo Rider).
 
-Le téléphone utilisé ici est un Samsung SM-G361F, sous Android 5.1.1. Les résultats d'analyse peuvent bien sûr varier en fonction du téléphone utilisé et de son système d'exploitation.
+<i class="fas fa-4X fa-hand-point-right"></i>&nbsp;Le téléphone utilisé ici est un Samsung SM-G361F, sous Android 5.1.1. Les résultats d'analyse peuvent bien sûr varier en fonction du téléphone utilisé et de son système d'exploitation.
 
 ## Nos résultats
 
