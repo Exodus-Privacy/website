@@ -6,19 +6,24 @@ draft: false
 
 
 ## Presse francophone
-
+* **MindFindtech** on *8 Jul 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/)
+* **LeMédiaTV** on *2 Jul 2019* - [Surveillés, exploités : dans l'enfer des livreurs à vélo](https://youtu.be/vASAMVRiy8s?t=1725)
+* **Capital** on *7 Jun 2019* - Etre aussi malin que les GAFA (hors-série n°55)
+* **MindMedia** on *20 Mai 2019* - [outils et bases de données](https://www.mindnews.fr/article/15459/outils-et-bases-de-donnees/)
+* **Paris-Match** on *18 Avr 2019* - [Comment les géants du web mènent la bataille de la vie privée](https://www.parismatch.com/Actu/Economie/Comment-les-geants-du-web-menent-la-bataille-de-la-vie-privee-1619290)
+* **Numérama** on *26 Fév 2019* - [La CNIL fait rentrer dans le rang une société qui récoltait vos données sans votre accord à des fins publicitaires](https://www.numerama.com/politique/467301-la-cnil-fait-rentrer-dans-le-rang-une-societe-qui-recoltait-vos-donnees-sans-votre-accord-a-des-fins-publicitaires.html)
 * **Next Inpact** on *24 Nov 2018* - [L'effet du RGPD sur les trackers des applications Android, selon Exodus Privacy](https://www.nextinpact.com/news/107335-leffet-rgpd-sur-trackers-applications-android-selon-exodus-privacy.htm)
 * **Le Monde** on *9 Nov 2018* - [La CNIL épingle Vectaury, une start-up de ciblage publicitaire](https://www.lemonde.fr/pixels/article/2018/11/09/la-cnil-epingle-vectaury-une-start-up-de-ciblage-publicitaire_5381237_4408996.html)
 * **Numerama** on *23 Oct 2018* - [Ciblage publicitaire non consenti : la CNIL met en demeure Singlespot](https://www.numerama.com/politique/433865-ciblage-publicitaire-non-consenti-la-cnil-met-en-demeure-singlespot.html)
 * **Le Canard enchaîné** on *Oct 2018* - #Vie privée, c'est terminé (Les dossiers du Canard n°149)
-* **Numerama** on *14 Jul 2018* - [https://www.numerama.com/pop-culture/393078-mouchards-histoire-de-lart-high-tech-5-chaines-youtube-a-suivre-en-juillet-2018.html](https://www.numerama.com/pop-culture/393078-mouchards-histoire-de-lart-high-tech-5-chaines-youtube-a-suivre-en-juillet-2018.html)
+* **Numerama** on *14 Jul 2018* - [Mouchards, histoire de l’art, high tech : 5 chaînes YouTube à suivre en juillet 2018](https://www.numerama.com/pop-culture/393078-mouchards-histoire-de-lart-high-tech-5-chaines-youtube-a-suivre-en-juillet-2018.html)
 * **Geek Junior** on *12 Jun 2018* - [Combien de pisteurs dans les applications que tu utilises ? Exodus Privacy te le dit](https://www.geekjunior.fr/combien-pisteurs-applications-utilises-exodus-privacy-22542/)
 * **BFM TV** on *20 Avr 2018* - [Sans votre accord, des applications offrent vos données les plus intimes à Facebook](http://bfmbusiness.bfmtv.com/hightech/sans-votre-accord-des-applications-offrent-vos-donnees-les-plus-intimes-a-facebook-1424638.html)
 * **Numerama** on *7 Avr 2018* - [Exodus Privacy : comment voir les permissions et les trackers des applications sur Android](https://www.numerama.com/tech/340529-exodus-privacy-comment-voir-les-permissions-et-les-trackers-des-applications-sur-android.html)
-* **La revue européenne des médias et du numérique** on *Apr 6 2018* - [Trackers](http://la-rem.eu/2018/04/06/trackers/)
+* **La revue européenne des médias et du numérique** on *6 Avr 2018* - [Trackers](http://la-rem.eu/2018/04/06/trackers/)
 * **Next Inpact** on *29 Mar 2018* - [La mutation rapide d'Exodus Privacy, en lutte contre les trackers sous Android](https://www.nextinpact.com/news/106366-la-mutation-rapide-dexodus-privacy-en-lutte-contre-trackers-sous-android.htm)
 * **Ouest France** on *28 Fev 2018* - [Les dessous pas très nets de l’application Vero](https://www.ouest-france.fr/leditiondusoir/data/20008/reader/reader.html?t=1519838021327#!preferred/1/package/20008/pub/28752/page/7)
-* **France 2** on *24 Fe 2018* - [Tout compte fait : Ils promettent de vous faire gagner du temps](https://www.youtube.com/watch?v=ZrRneLW-X8Y)
+* **France 2** on *24 Fev 2018* - [Tout compte fait : Ils promettent de vous faire gagner du temps](https://www.youtube.com/watch?v=ZrRneLW-X8Y)
 * **Mind Media** on *23 Fev 2018* - [Mobile : qui installe les SDK publicitaires et pourquoi ?](http://www.mindnews.fr/articles/quels-sdk-publicitaires-les-editeurs-medias-utilisent-ils-dans-leurs-applications-mobiles.9828.html) [payant]
 * **Mind Media** on *9 Fev 2018* - [Quels SDK publicitaires figurent dans les applications mobiles des éditeurs médias ?](http://www.mindnews.fr/articles/quels-sdk-publicitaires-les-editeurs-medias-utilisent-ils-dans-leurs-applications-mobiles.9828.html) [payant]
 * **Numerama** on *Jan 18 2018* - [Application Reporty : la Mairie de Nice va demander le retrait des mouchards dans son application](https://www.numerama.com/politique/322446-application-reporty-la-mairie-de-nice-va-demander-le-retrait-des-mouchards-dans-son-application.html)
@@ -31,6 +36,7 @@ draft: false
 * **Le Monde** on *24 Nov 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
 
 ## Presse anglophone
+* **Thenextweb** *29 Mai 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
 * **EdSurge** on *17 Dec 2018* - [Which Apps Are Safe for Kids? Three Tools That Read the Fine Print for You](https://www.edsurge.com/news/2018-12-17-which-apps-are-safe-for-kids-three-tools-that-read-the-fine-print-for-you)
 * **BoingBoing** on *14 Aou 2018* - [EBGAP: Error Between Google and Privacy](https://boingboing.net/2018/08/14/goober.html)
 * **BoingBoing** on *24 Jan 2018* - [Love, sex, and trackers - Tinder and other dating apps are spies in your bedroom](https://boingboing.net/2018/01/24/love-sex-and-trackers-tind.html)
