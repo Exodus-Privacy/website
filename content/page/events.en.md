@@ -8,7 +8,7 @@ draft: false
 Exodus Privacy is regulary performing talks about its works and results, in French or in English. If you want to invite us, feel free to [contact us](/en/page/who/).
 
 ## Next events
-* [FR] [Entrée libre](https://entree-libre.frama.site/), Quimper (France), 27th, 28th and 29th August 2019
+* [FR] [Entrée libre](https://www.centredesabeilles.fr/entree-libre/), Quimper (France), 27th of August (4 pm)
 
 ## 2019
 * [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi (France), 28th, 29th and 30th June 2019

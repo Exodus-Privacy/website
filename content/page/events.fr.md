@@ -8,7 +8,7 @@ draft: false
 L'association Exodus Privacy propose régulièrement des conférences et interventions présentant son travail et ses résultats, en français ou en anglais. Si vous organisez un événement et souhaitez nous inviter, n'hésitez pas à [nous contacter](/fr/page/who/).
 
 ## Evénements à venir
-* [FR] [Entrée libre](https://entree-libre.frama.site/), Quimper (France), du 27 au 29 août 2019
+* [FR] [Entrée libre](https://www.centredesabeilles.fr/entree-libre/), Quimper (France), le mardi 27 août à 16h
 
 ## 2019
 * [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi (France), 28, 29 et 30 juin 2019
