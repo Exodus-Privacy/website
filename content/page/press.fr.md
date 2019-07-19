@@ -6,10 +6,10 @@ draft: false
 
 
 ## Presse francophone
-* **MindFindtech** - *8 Jul 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/)
+* **Mind Findtech** - *8 Jul 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/) [payant]
 * **LeMédiaTV** - *2 Jul 2019* - [Surveillés, exploités : dans l'enfer des livreurs à vélo](https://youtu.be/vASAMVRiy8s?t=1725)
 * **Capital** - *7 Jun 2019* - Etre aussi malin que les GAFA (hors-série n°55)
-* **MindMedia** - *20 Mai 2019* - [outils et bases de données](https://www.mindnews.fr/article/15459/outils-et-bases-de-donnees/)
+* **Mind Media** - *20 Mai 2019* - [Outils et bases de données](https://www.mindnews.fr/article/15459/outils-et-bases-de-donnees/) [payant]
 * **Paris-Match** - *18 Avr 2019* - [Comment les géants du web mènent la bataille de la vie privée](https://www.parismatch.com/Actu/Economie/Comment-les-geants-du-web-menent-la-bataille-de-la-vie-privee-1619290)
 * **Numérama** - *26 Fév 2019* - [La CNIL fait rentrer dans le rang une société qui récoltait vos données sans votre accord à des fins publicitaires](https://www.numerama.com/politique/467301-la-cnil-fait-rentrer-dans-le-rang-une-societe-qui-recoltait-vos-donnees-sans-votre-accord-a-des-fins-publicitaires.html)
 * **Next Inpact** - *24 Nov 2018* - [L'effet du RGPD sur les trackers des applications Android, selon Exodus Privacy](https://www.nextinpact.com/news/107335-leffet-rgpd-sur-trackers-applications-android-selon-exodus-privacy.htm)

@@ -7,10 +7,10 @@ draft: false
 
 ## French press
 
-* **MindFindtech** - *Jul 8 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/)
+* **Mind Findtech** - *Jul 8 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/) [paid]
 * **LeMédiaTV** - *Jul 2 2019* - [Surveillés, exploités : dans l'enfer des livreurs à vélo](https://youtu.be/vASAMVRiy8s?t=1725)
 * **Capital** - *Jun 7 2019* - Etre aussi malin que les GAFA (hors-série n°55)
-* **MindMedia** - *May 20 2019* - [Outils et bases de données](https://www.mindnews.fr/article/15459/outils-et-bases-de-donnees/)
+* **Mind Media** - *May 20 2019* - [Outils et bases de données](https://www.mindnews.fr/article/15459/outils-et-bases-de-donnees/) [paid]
 * **Paris-Match** - *Apr 18 2019* - [Comment les géants du web mènent la bataille de la vie privée](https://www.parismatch.com/Actu/Economie/Comment-les-geants-du-web-menent-la-bataille-de-la-vie-privee-1619290)
 * **Numérama** - *Feb 26 2019* - [La CNIL fait rentrer dans le rang une société qui récoltait vos données sans votre accord à des fins publicitaires](https://www.numerama.com/politique/467301-la-cnil-fait-rentrer-dans-le-rang-une-societe-qui-recoltait-vos-donnees-sans-votre-accord-a-des-fins-publicitaires.html)
 * **Next Inpact** - *Nov 24 2018* - [L'effet du RGPD sur les trackers des applications Android, selon Exodus Privacy](https://www.nextinpact.com/news/107335-leffet-rgpd-sur-trackers-applications-android-selon-exodus-privacy.htm)
@@ -25,8 +25,8 @@ draft: false
 * **Next Inpact** - *Mar 29 2018* - [La mutation rapide d'Exodus Privacy, en lutte contre les trackers sous Android](https://www.nextinpact.com/news/106366-la-mutation-rapide-dexodus-privacy-en-lutte-contre-trackers-sous-android.htm)
 * **Ouest France** - *Feb 28 2018* - [Les dessous pas très nets de l’application Vero](https://www.ouest-france.fr/leditiondusoir/data/20008/reader/reader.html?t=1519838021327#!preferred/1/package/20008/pub/28752/page/7)
 * **France 2** - *Feb 24 2018* - [Tout compte fait : Ils promettent de vous faire gagner du temps](https://www.youtube.com/watch?v=ZrRneLW-X8Y)
-* **Mind Media** - *Feb 23 2018* - [Mobile : qui installe les SDK publicitaires et pourquoi ?](http://www.mindnews.fr/articles/quels-sdk-publicitaires-les-editeurs-medias-utilisent-ils-dans-leurs-applications-mobiles.9828.html) [payant]
-* **Mind Media** - *Feb 9 2018* - [Quels SDK publicitaires figurent dans les applications mobiles des éditeurs médias ?](http://www.mindnews.fr/articles/quels-sdk-publicitaires-les-editeurs-medias-utilisent-ils-dans-leurs-applications-mobiles.9828.html) [payant]
+* **Mind Media** - *Feb 23 2018* - [Mobile : qui installe les SDK publicitaires et pourquoi ?](http://www.mindnews.fr/articles/quels-sdk-publicitaires-les-editeurs-medias-utilisent-ils-dans-leurs-applications-mobiles.9828.html) [paid]
+* **Mind Media** - *Feb 9 2018* - [Quels SDK publicitaires figurent dans les applications mobiles des éditeurs médias ?](http://www.mindnews.fr/articles/quels-sdk-publicitaires-les-editeurs-medias-utilisent-ils-dans-leurs-applications-mobiles.9828.html) [paid]
 * **Numerama** - *Jan 18 2018* - [Application Reporty : la Mairie de Nice va demander le retrait des mouchards dans son application](https://www.numerama.com/politique/322446-application-reporty-la-mairie-de-nice-va-demander-le-retrait-des-mouchards-dans-son-application.html)
 * **Numerama** - *Jan 17 2018* - [Pour la Ville de Nice, Reporty n’utilise pas des « mouchards » mais des « modules d’analyse »](https://www.numerama.com/politique/322286-pour-la-ville-de-nice-reporty-nutilise-pas-des-mouchards-mais-des-modules-danalyse-explications.html)
 * **Numerama** - *Jan 16 2018* - [Reporty : l’application sécuritaire de la ville de Nice contient des mouchards](https://www.numerama.com/politique/321656-reporty-lapplication-securitaire-de-la-ville-de-nice-contient-des-mouchards.html)
