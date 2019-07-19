@@ -36,7 +36,7 @@ draft: false
 * **Le Monde** on *24 Nov 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
 
 ## Presse anglophone
-* **Thenextweb** *29 Mai 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
+* **The Next Web** on *29 Mai 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
 * **EdSurge** on *17 Dec 2018* - [Which Apps Are Safe for Kids? Three Tools That Read the Fine Print for You](https://www.edsurge.com/news/2018-12-17-which-apps-are-safe-for-kids-three-tools-that-read-the-fine-print-for-you)
 * **BoingBoing** on *14 Aou 2018* - [EBGAP: Error Between Google and Privacy](https://boingboing.net/2018/08/14/goober.html)
 * **BoingBoing** on *24 Jan 2018* - [Love, sex, and trackers - Tinder and other dating apps are spies in your bedroom](https://boingboing.net/2018/01/24/love-sex-and-trackers-tind.html)
