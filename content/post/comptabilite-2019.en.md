@@ -9,6 +9,42 @@ draft: false
 
 * Each line is a account
 
+## Balance changes in 2019 / 07:
+
+|    | **Jul** |
+|:---|---:|
+ App Exodus                       |        0 
+ Assets:Société Générale          |   10.20€ 
+ Constellacom                     |        0 
+ Donators                         | -109.80€ 
+ Donators:                        |        0 
+ Expenses:Assets:Société Générale |  -33.77€ 
+ Expenses:Liberapay               |        0 
+ Expenses:Paypal                  |        0 
+ Fee Paypal                       |    3.32€ 
+ Fee Stripe                       |    1.03€ 
+ Impression-en-ligne.com          |        0 
+ Income:Assets:Société Générale   |   42.77€ 
+ Income:Crypto:Bitcoin            |        0 
+ Income:Crypto:Ğ1                 |        0 
+ Income:Liberapay                 |        0 
+ Income:Paypal                    |        0 
+ Income:Société Générale          |        0 
+ Income:Stripe                    |        0 
+ Liabilities:Bank transfert       |    3.57€ 
+ Liabilities:Credit Card          |        0 
+ Paypal                           |   62.68€ 
+ People:Framasoft                 |        0 
+ People:Maïwann                   |        0 
+ People:Membre                    |   20.00€ 
+ People:OVH                       |        0 
+ Scaleway                         |        0 
+ SpreadShirt                      |        0 
+ StickerMule                      |        0 
+ Stripe                           |        0 
+──────────────────────────────────|──────────
+                                  |        0 
+
 ## Balance changes in 2019 /06:
 
 |    | **Jun** |
