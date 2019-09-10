@@ -23,6 +23,12 @@ draft: false
 # Our supporters
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
+        <img src="/media/partners/logo-code-lutin.svg" width="120px" class="mt-3 ml-auto mr-auto"/>
+        <div class="card-body">
+            <h6 class="card-title"><a href="https://www.codelutin.com/">Code Lutin</a></h6>
+        </div>
+    </div>
+    <div class="col-md-4 text-center">
         <img src="/media/partners/codeurs-en-liberte.svg" width="120px" class="mt-3 ml-auto mr-auto"/>
         <div class="card-body">
             <h6 class="card-title"><a href="https://www.codeursenliberté.fr/">Codeurs en liberté</a></h6>
