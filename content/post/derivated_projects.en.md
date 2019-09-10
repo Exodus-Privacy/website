@@ -13,7 +13,7 @@ The add-on is available on:
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/exodify/)
 * [Chrome/Chromium](https://chrome.google.com/webstore/detail/exodify/imfbjeceaelpdlhbeembaocakecajhlm) 
 
-{{< fig src="/media/capture-playstore.png" caption="Screenshot of Exodify">}}
+{{< fig src="/capture-playstore.png" caption="Screenshot of Exodify">}}
 
 You can download Exodify directly from your browser in the add-on preferences or see the project source at [https://github.com/FacettsOpen/exodify](https://github.com/FacettsOpen/exodify) 
 

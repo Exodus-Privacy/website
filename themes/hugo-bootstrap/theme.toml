@@ -5,7 +5,7 @@ description = "A hugo theme using bootstrap 4, bootswatch, font-awesome, highlig
 homepage = "https://github.com/mmrath/hugo-bootstrap"
 tags = ["blog", "technical", "personal"]
 features = ["blog", "technical", "personal"]
-min_version = "0.3.2"
+min_version = "0.54.0"
 
 [author]
     name = "Murali Rath"

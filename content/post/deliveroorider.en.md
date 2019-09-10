@@ -15,7 +15,7 @@ The εxodus analysis platform enables you to know how many trackers are in an ap
 
 <center>
   <a href="https://reports.exodus-privacy.eu.org/en/reports/84460/">
-    <img src="/media/deliverooreportEN.png" caption="Deliveroo rider app report">
+    <img src="/deliverooreportEN.png" caption="Deliveroo rider app report">
   </a>
 </center>
 
@@ -44,7 +44,7 @@ availability, which part of the application is used and phone characteristics su
 * Segment, on the other hand, regularly collects all actions in the application in the form of _events_, as well as the courier's ID (the `userID`),  the advertising identifier (the `advertisingID`), the unique Android identifier (the `id`)[^3] the Mobile Network Operator, the phone model, the screen resolution, if the phone is connected via WiFi…
 
 <center>
-  <img src="/media/deliveroosegment.png" caption="data sent to Segment">
+  <img src="/deliveroosegment.png" caption="data sent to Segment">
 </center>
 
 ## In conclusion

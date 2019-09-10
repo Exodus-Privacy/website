@@ -7,7 +7,7 @@ draft: false
 
 <div class="row">
 <div class="col-md-4 text-center">
-  <img src="/media/logo.png" width="60px" class="mt-3 ml-auto mr-auto"/>
+  <img src="/logo.png" width="60px" class="mt-3 ml-auto mr-auto"/>
   <div class="card-body">
     <h5 class="card-title">εxodus</h5>
     <p class="card-text">Присмотритесь что сокрыто под вишенкой на торте!</p>
@@ -49,19 +49,19 @@ draft: false
 * [проанализировать](https://reports.exodus-privacy.eu.org/analysis/submit/) Android-приложение, указав его идентификатор
 
 <center>
-{{< fig src="/media/report-overview-en.png" caption="Так выглядит отчёт" >}}
+{{< fig src="/report-overview-en.png" caption="Так выглядит отчёт" >}}
 </center>
 
 Отчёт укажет вам, какие трекеры внедрены в приложение. Кликнув по имени трекера, можно узнать о нём подробнее а также в каких ещё приложениях он используется. Если описание трекера отсутствует или неверно, отправьте нам исправление или создайте issue на [Github](https://github.com/exodus-privacy/).
 
 <center>
-{{< fig src="/media/report-trackers-en.png" caption="А так выглядит список найденных трекеров" >}}
+{{< fig src="/report-trackers-en.png" caption="А так выглядит список найденных трекеров" >}}
 </center>
 
 В отчёте также есть список с разрешениями, которые программа запрашивает для своей работы. Некоторые из подобных разрешений отмечены как *опасные*(“Dangerous”). Это значит, что с точки зрения Google, программа, получив такие разрешения, может делать *нехорошие вещи*. εxodus использует классификацию разрешений от Google.
 
 <center>
-{{< fig src="/media/report-perms-en.png" caption="Список найденных разрешений исследуемого приложения" >}}
+{{< fig src="/report-perms-en.png" caption="Список найденных разрешений исследуемого приложения" >}}
 </center>
 
 Если в вас проснулось любопытство или желание помочь улучшить εxodus, вы можете создать issues или внести улучшения в <a href="https://github.com/exodus-privacy/">наш проект <i class="fab fa-github"></i></a>.
@@ -70,7 +70,7 @@ draft: false
 ## Приложение εxodus для Android
 Предназначение приложения - показывать список приложений, установленных вами из Google Play а также какие трекеры встроены в каждое из них. Приложение εxodus не производит никакого анализа на смартфоне, а только лишь показывает отчёты, доступные через [платформу εxodus](https://reports.exodus-privacy.eu.org) и само [не содержит трекеров](https://reports.exodus-privacy.eu.org/reports/search/org.eu.exodus_privacy.exodusprivacy).
 <center>
-{{< fig src="/media/exodus-app.png" caption="Приложение εxodus для Android" >}}
+{{< fig src="/exodus-app.png" caption="Приложение εxodus для Android" >}}
 </center>
 
 <a name="videos"></a>
@@ -103,7 +103,7 @@ draft: false
 Также мы публикуем наглядные видео, объясняющие как и зачем происходит массовый трекинг на смартфонах. Видео доступны на двух платформах:
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
-        <img src="/media/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
+        <img src="/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://peertube.tamanoir.foucry.net/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">Смотреть!</a>
