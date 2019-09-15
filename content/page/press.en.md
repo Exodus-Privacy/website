@@ -7,6 +7,7 @@ draft: false
 
 ## French press
 
+* **Capital.fr** - *Aug 30 2019* - [Données perso : 10 réflexes à adopter pour protéger votre vie privée](https://www.capital.fr/lifestyle/donnees-perso-10-reflexes-a-adopter-pour-proteger-votre-vie-privee-1348732)
 * **Mind Findtech** - *Jul 8 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/) [paid]
 * **LeMédiaTV** - *Jul 2 2019* - [Surveillés, exploités : dans l'enfer des livreurs à vélo](https://youtu.be/vASAMVRiy8s?t=1725)
 * **Capital** - *Jun 7 2019* - Etre aussi malin que les GAFA (hors-série n°55)
