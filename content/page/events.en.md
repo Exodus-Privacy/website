@@ -9,7 +9,7 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 
 
 ## 2019
-* [FR] [Entrée libre](https://www.centredesabeilles.fr/entree-libre/), Quimper (France), 27th of August (4 pm) [(video)](https://peer.hostux.social/videos/watch/491e4aa0-51d8-460a-a535-a9bbb6a03618)
+* [FR] [Entrée libre](https://www.centredesabeilles.fr/entree-libre/), Quimper (France), 27th of August [(video)](https://peer.hostux.social/videos/watch/491e4aa0-51d8-460a-a535-a9bbb6a03618)
 * [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi (France), 28th, 29th and 30th June 2019
 * [FR] "Digital Culture" day at the library of the University of Nantes, Nantes (France), 20th June 2019
 * [FR] The French librarians association congress, Paris (France), 7th June 2019
