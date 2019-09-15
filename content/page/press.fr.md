@@ -6,6 +6,8 @@ draft: false
 
 
 ## Presse francophone
+* **Capital.fr** - *30 Août 2019* - [Données perso : 10 réflexes à adopter pour protéger votre vie privée](https://www.capital.fr/lifestyle/donnees-perso-10-reflexes-a-adopter-pour-proteger-votre-vie-privee-1348732)
+* **Mediapart** - *25 Jul 2019* - [Dans le ventilateur à données de l’appli Météo-France](https://www.mediapart.fr/journal/economie/250719/dans-le-ventilateur-donnees-de-l-appli-meteo-france) [payant]
 * **Mind Findtech** - *8 Jul 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/) [payant]
 * **LeMédiaTV** - *2 Jul 2019* - [Surveillés, exploités : dans l'enfer des livreurs à vélo](https://youtu.be/vASAMVRiy8s?t=1725)
 * **Capital** - *7 Jun 2019* - Etre aussi malin que les GAFA (hors-série n°55)
@@ -36,6 +38,7 @@ draft: false
 * **Le Monde** - *24 Nov 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
 
 ## Presse anglophone
+* **Rewire.news** - *24 Jul 2019* - [Anti-Choice Apps Are Violating Google and Apple Privacy Standards](https://rewire.news/article/2019/07/24/anti-choice-apps-are-violating-google-and-apple-privacy-standards/)
 * **The Next Web** - *29 Mai 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
 * **TechRepublic** - *15 Fev 2019* - [10 privacy apps that help mobile users feel safer](https://www.techrepublic.com/pictures/photos-10-privacy-apps-that-help-mobile-users-feel-safer/10/)
 * **EdSurge** - *17 Dec 2018* - [Which Apps Are Safe for Kids? Three Tools That Read the Fine Print for You](https://www.edsurge.com/news/2018-12-17-which-apps-are-safe-for-kids-three-tools-that-read-the-fine-print-for-you)
