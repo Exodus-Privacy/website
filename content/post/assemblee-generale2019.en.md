@@ -20,7 +20,7 @@ Nous continuons à être régulièrement sollicité·e·s par les médias, comme
 
 ## Des finances saines… jusqu'à présent
 
-Exodus Privacy ne fonctionne que grâce aux dons et est peu dépensière. Nous bénéficions de [soutiens très précieux](fr/page/supporters/), notamment celui de [Gandi](https://gandi.net) qui nous fournit des crédits pour notre hébergement.
+Exodus Privacy ne fonctionne que grâce aux dons et est peu dépensière. Nous bénéficions de [soutiens très précieux](/en/page/supporters/), notamment celui de [Gandi](https://gandi.net) qui nous fournit des crédits pour notre hébergement.
 
 Notre plus gros poste de dépenses a été le paiement de la prestation de Maitané Lenoir. Nous avons pu nous le permettre grâce à un don ponctuel de Qwant effectué en mars 2018.
 
