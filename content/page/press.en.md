@@ -4,9 +4,28 @@ date: 2018-01-25 12:39:00
 draft: false
 ---
 
+## English press
+* **Rewire.news** - *Jul 24 2019* - [Anti-Choice Apps Are Violating Google and Apple Privacy Standards](https://rewire.news/article/2019/07/24/anti-choice-apps-are-violating-google-and-apple-privacy-standards/)
+* **The Next Web** - *May 29 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
+* **TechRepublic** - *Feb 15 2019* - [10 privacy apps that help mobile users feel safer](https://www.techrepublic.com/pictures/photos-10-privacy-apps-that-help-mobile-users-feel-safer/10/)
+* **EdSurge** - *Dec 17 2018* - [Which Apps Are Safe for Kids? Three Tools That Read the Fine Print for You](https://www.edsurge.com/news/2018-12-17-which-apps-are-safe-for-kids-three-tools-that-read-the-fine-print-for-you)
+* **BoingBoing** - *Aug 14 2018* - [EBGAP: Error Between Google and Privacy](https://boingboing.net/2018/08/14/goober.html)
+* **BoingBoing** - *Jan 24 2018* - [Love, sex, and trackers - Tinder and other dating apps are spies in your bedroom](https://boingboing.net/2018/01/24/love-sex-and-trackers-tind.html)
+* **Wired** - *Jan 21 2018* - [Want to Avoid the Scourge of Malware on your Android? Try the F-Droid App Store](https://www.wired.com/story/android-users-to-avoid-malware-ditch-googles-app-store/)
+* **MotherBoard** - *Dec 14 2017* - [The Targets of Mobile Apps: Your Health, Your Ancestors](https://motherboard.vice.com/en_us/article/3kpagb/the-targets-of-mobile-apps-your-health-your-ancestors-and-your-baby)
+* **Computer World** - *Dec 2 2017* - [When the threats get weird, the security solutions get weirder](https://www.computerworld.com.au/article/630753/when-threats-get-weird-security-solutions-get-weirder/)
+* **International Business Times** - *Nov 29 2017* - [Google, Android developers called out for another privacy and security issue](http://www.ibtimes.sg/google-android-developers-called-out-another-privacy-security-issue-20828)
+* **RT** - *Nov 29 2017* - [Smartphone apps track Android users with 'clandestine surveillance software'](https://www.rt.com/news/411194-android-phone-apps-privacy/)
+* **Research Live** - *Nov 29 2017* - [Majority of Android apps have hidden trackers](https://www.research-live.com/article/news/majority-of-android-apps-have-hidden-trackers/id/5031202)
+* **Tech Republic** - *Nov 29 2017* - [Over 75% of Android apps are secretly tracking users](https://www.techrepublic.com/article/over-75-of-android-apps-are-secretly-tracking-users/)
+* **The Guardian** - *Nov 28 2017* - [Three quarters of Android apps track users with third party tools](https://www.theguardian.com/technology/2017/nov/28/android-apps-third-party-tracker-google-privacy-security-yale-university)
+* **Techspot** - *Nov 28 2017* - [Researchers find most Android apps feature embedded third-party trackers](https://www.techspot.com/news/72066-researchers-find-most-android-apps-feature-embedded-third.html)
+* **Huffpost** - *Nov 28 2017* - [Precursor to Dystopia #3: “At this point we just have to save America.”](https://www.huffingtonpost.com/entry/precursor-to-dystopia-3-at-this-point-we-just-have_us_5a1e39b9e4b09de1c3585138)
+* **Gizmodo** - *Nov 28 2017* - [Study: Vast Majority of Google Play Apps Are Covertly Tracking Users](https://gizmodo.com/study-vast-majority-of-google-play-apps-are-covertly-t-1820821682)
+* **BoingBoing** - *Nov 25 2017* - [Researchers craft Android app that reveals to find horrific menagerie](https://boingboing.net/2017/11/25/la-la-la-cant-hear-you.html)
+* **The Intercept** - *Nov 24 2017* - [Staggering Variety of Clandestine Trackers Found in Popular](https://theintercept.com/2017/11/24/staggering-variety-of-clandestine-trackers-found-in-popular-android-apps/)
 
 ## French press
-
 * **Capital.fr** - *Aug 30 2019* - [Données perso : 10 réflexes à adopter pour protéger votre vie privée](https://www.capital.fr/lifestyle/donnees-perso-10-reflexes-a-adopter-pour-proteger-votre-vie-privee-1348732)
 * **Mediapart** - *Jul 25 2019* - [Dans le ventilateur à données de l’appli Météo-France](https://www.mediapart.fr/journal/economie/250719/dans-le-ventilateur-donnees-de-l-appli-meteo-france) [paid]
 * **Mind Findtech** - *Jul 8 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/) [paid]
@@ -37,24 +56,3 @@ draft: false
 * **LCI** - *Nov 29 2017* - [Ce qu'il faut savoir sur les trackers présents dans nos applications mobiles](https://www.lci.fr/high-tech/une-invasion-de-trackers-dans-nos-applications-le-bon-coin-allo-cine-mobiles-android-iphone-2071872.html)
 * **Next Inpact** - *Nov 25 2017* - [Rencontre avec Exodus Privacy, qui révèle les trackers](https://www.nextinpact.com/news/105655-rencontre-avec-exodus-privacy-qui-revele-trackers-applications-android.htm)
 * **Le Monde** - *Nov 24 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
-
-## English press
-* **Rewire.news** - *Jul 24 2019* - [Anti-Choice Apps Are Violating Google and Apple Privacy Standards](https://rewire.news/article/2019/07/24/anti-choice-apps-are-violating-google-and-apple-privacy-standards/)
-* **The Next Web** - *May 29 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
-* **TechRepublic** - *Feb 15 2019* - [10 privacy apps that help mobile users feel safer](https://www.techrepublic.com/pictures/photos-10-privacy-apps-that-help-mobile-users-feel-safer/10/)
-* **EdSurge** - *Dec 17 2018* - [Which Apps Are Safe for Kids? Three Tools That Read the Fine Print for You](https://www.edsurge.com/news/2018-12-17-which-apps-are-safe-for-kids-three-tools-that-read-the-fine-print-for-you)
-* **BoingBoing** - *Aug 14 2018* - [EBGAP: Error Between Google and Privacy](https://boingboing.net/2018/08/14/goober.html)
-* **BoingBoing** - *Jan 24 2018* - [Love, sex, and trackers - Tinder and other dating apps are spies in your bedroom](https://boingboing.net/2018/01/24/love-sex-and-trackers-tind.html)
-* **Wired** - *Jan 21 2018* - [Want to Avoid the Scourge of Malware on your Android? Try the F-Droid App Store](https://www.wired.com/story/android-users-to-avoid-malware-ditch-googles-app-store/)
-* **MotherBoard** - *Dec 14 2017* - [The Targets of Mobile Apps: Your Health, Your Ancestors](https://motherboard.vice.com/en_us/article/3kpagb/the-targets-of-mobile-apps-your-health-your-ancestors-and-your-baby)
-* **Computer World** - *Dec 2 2017* - [When the threats get weird, the security solutions get weirder](https://www.computerworld.com.au/article/630753/when-threats-get-weird-security-solutions-get-weirder/)
-* **International Business Times** - *Nov 29 2017* - [Google, Android developers called out for another privacy and security issue](http://www.ibtimes.sg/google-android-developers-called-out-another-privacy-security-issue-20828)
-* **RT** - *Nov 29 2017* - [Smartphone apps track Android users with 'clandestine surveillance software'](https://www.rt.com/news/411194-android-phone-apps-privacy/)
-* **Research Live** - *Nov 29 2017* - [Majority of Android apps have hidden trackers](https://www.research-live.com/article/news/majority-of-android-apps-have-hidden-trackers/id/5031202)
-* **Tech Republic** - *Nov 29 2017* - [Over 75% of Android apps are secretly tracking users](https://www.techrepublic.com/article/over-75-of-android-apps-are-secretly-tracking-users/)
-* **The Guardian** - *Nov 28 2017* - [Three quarters of Android apps track users with third party tools](https://www.theguardian.com/technology/2017/nov/28/android-apps-third-party-tracker-google-privacy-security-yale-university)
-* **Techspot** - *Nov 28 2017* - [Researchers find most Android apps feature embedded third-party trackers](https://www.techspot.com/news/72066-researchers-find-most-android-apps-feature-embedded-third.html)
-* **Huffpost** - *Nov 28 2017* - [Precursor to Dystopia #3: “At this point we just have to save America.”](https://www.huffingtonpost.com/entry/precursor-to-dystopia-3-at-this-point-we-just-have_us_5a1e39b9e4b09de1c3585138)
-* **Gizmodo** - *Nov 28 2017* - [Study: Vast Majority of Google Play Apps Are Covertly Tracking Users](https://gizmodo.com/study-vast-majority-of-google-play-apps-are-covertly-t-1820821682)
-* **BoingBoing** - *Nov 25 2017* - [Researchers craft Android app that reveals to find horrific menagerie](https://boingboing.net/2017/11/25/la-la-la-cant-hear-you.html)
-* **The Intercept** - *Nov 24 2017* - [Staggering Variety of Clandestine Trackers Found in Popular](https://theintercept.com/2017/11/24/staggering-variety-of-clandestine-trackers-found-in-popular-android-apps/)
