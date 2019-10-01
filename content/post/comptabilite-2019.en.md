@@ -5,11 +5,11 @@ draft: false
 ---
 
 * Software used: hlegder
-* Commande used: `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
+* Command used: `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
 
-* Each line is a account
+* Each line is an account
 
-## Balance changes in 2019 / 08
+## Balance changes in 2019 / 08:
 
 |    | **Aug** |
 |:---|---:|

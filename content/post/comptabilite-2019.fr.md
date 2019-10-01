@@ -9,7 +9,7 @@ draft: false
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
-## Comptes au 2019 / 08
+## Comptes au 2019 / 08 :
 
 |    | **Aou** |
 |:---|---:|

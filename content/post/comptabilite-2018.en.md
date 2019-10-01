@@ -1,77 +1,75 @@
 ---
-title: "[FR] Comptabilité 2018"
+title: "Accounting 2018"
 date: 2018-08-20T22:05:50+02:00
 draft: false
 ---
 
-**Note: this post is only available in French for the time being.**
+* Software used: hlegder
+* Command used: `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
 
-* Logiciel utilisé : hlegder
-* Commande utilisée : `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
-
-* Comptabilité en double entrée. Chaque ligne est un compte.
+* Each line is an account
 
 ## Balance changes in 2018:
 <pre>
-                                 ║                               Jan                Feb      Mar         Apr       May       Jun       Jul                    Aug       Sep       Oct       Nov      Dec 
+                                 ║                               Jan                Feb      Mar         Apr       May       Jun       Jul                    Aug       Sep       Oct       Nov      Dec
 ═════════════════════════════════╬═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
- Assets: App Exodus              ║                                 0                  0        0           0         0         0         0                      0   159.00€         0         0        0 
- Assets: Au Trappiste            ║                                 0                  0        0           0         0         0         0                      0         0    77.80€   147.50€        0 
- Assets: Checking                ║                            14.28€            530.80€  -10.20€   14988.80€  -346.45€  -630.56€   266.99€              -1301.23€  -343.05€  -118.31€  -257.95€  -43.77€ 
- Assets: Crypto:Bitcoin          ║                       2.08255mBTC                  0        0           0         0         0         0            2.06985mBTC         0         0         0        0 
- Assets: Crypto:Ğ1               ║                           100.00Ğ            300.00Ğ        0           0         0         0         0                      0         0         0         0        0 
- Assets: Deliveroo               ║                                 0                  0        0           0         0    24.40€         0                      0         0         0         0        0 
- Assets: Fee Paypal              ║                            41.04€                  0        0       6.64€     4.70€         0     0.63€                      0     0.28€     3.26€     1.55€    2.65€ 
- Assets: Fee Stripe              ║                            19.22€                  0    1.02€       2.19€     2.99€         0         0                  0.98€         0     1.51€     1.90€        0 
- Assets: Idées Cadeau            ║                                 0                  0        0           0         0    48.72€         0                      0         0         0         0        0 
- Assets: Impression-en-ligne.com ║                                 0                  0        0           0         0    99.00€         0                      0         0         0         0        0 
- Assets: Liberapay               ║                            31.90€             19.86€   45.64€      45.32€    11.13€    44.23€  -273.97€               -302.50€         0    11.33€         0        0 
- Assets: Materiel.net            ║                                 0                  0        0           0         0         0         0                910.58€         0         0         0        0 
- Assets: OVH                     ║                                 0                  0        0           0         0         0         0                      0     1.19€     0.31€     2.40€    3.57€ 
- Assets: Paypal                  ║                           875.68€           -800.00€        0     112.36€    82.30€   -99.00€     3.37€                      0     0.72€    58.74€    29.45€   53.35€ 
- Assets: SNCF                    ║                                 0                  0        0           0         0         0         0                233.00€         0         0    49.00€        0 
- Assets: SpreadShirt             ║                                 0                  0        0           0         0   286.71€         0                      0         0         0         0        0 
- Assets: Starbucks               ║                                 0                  0        0           0         0         0         0                      0         0         0    12.45€        0 
- Assets: Stripe                  ║                           180.78€                  0   12.98€      49.81€    58.01€         0         0                 16.02€         0    78.18€    39.03€        0 
- Assets: Taxi G7                 ║                                 0                  0        0           0         0    68.50€         0                      0    24.60€         0         0        0 
- Assets: Yvonne                  ║                                 0                  0        0           0         0         0         0                      0         0         0     6.40€        0 
- Donators                        ║ -2.08255mBTC, -100.00Ğ, -1348.90€  -300.00Ğ, -19.86€  -59.64€  -15216.32€  -159.13€   -44.23€   -54.98€  -2.06985mBTC, -20.55€    -5.24€  -153.02€   -71.93€  -56.00€ 
- People: Framasoft               ║                                 0                  0        0           0         0         0         0                      0    10.00€    10.00€    10.00€   10.00€ 
- People: Maroc Gourmand          ║                                 0                  0        0           0         0         0         0                161.50€         0         0         0        0 
- People: Membre                  ║                           152.00€            259.00€        0           0   336.25€   192.03€    47.76€                292.00€   142.30€    20.00€    20.00€   20.00€ 
- Société Générale                ║                            34.00€             10.20€   10.20€      11.20€    10.20€    10.20€    10.20€                 10.20€    10.20€    10.20€    10.20€   10.20€ 
+ Assets: App Exodus              ║                                 0                  0        0           0         0         0         0                      0   159.00€         0         0        0
+ Assets: Au Trappiste            ║                                 0                  0        0           0         0         0         0                      0         0    77.80€   147.50€        0
+ Assets: Checking                ║                            14.28€            530.80€  -10.20€   14988.80€  -346.45€  -630.56€   266.99€              -1301.23€  -343.05€  -118.31€  -257.95€  -43.77€
+ Assets: Crypto:Bitcoin          ║                       2.08255mBTC                  0        0           0         0         0         0            2.06985mBTC         0         0         0        0
+ Assets: Crypto:Ğ1               ║                           100.00Ğ            300.00Ğ        0           0         0         0         0                      0         0         0         0        0
+ Assets: Deliveroo               ║                                 0                  0        0           0         0    24.40€         0                      0         0         0         0        0
+ Assets: Fee Paypal              ║                            41.04€                  0        0       6.64€     4.70€         0     0.63€                      0     0.28€     3.26€     1.55€    2.65€
+ Assets: Fee Stripe              ║                            19.22€                  0    1.02€       2.19€     2.99€         0         0                  0.98€         0     1.51€     1.90€        0
+ Assets: Idées Cadeau            ║                                 0                  0        0           0         0    48.72€         0                      0         0         0         0        0
+ Assets: Impression-en-ligne.com ║                                 0                  0        0           0         0    99.00€         0                      0         0         0         0        0
+ Assets: Liberapay               ║                            31.90€             19.86€   45.64€      45.32€    11.13€    44.23€  -273.97€               -302.50€         0    11.33€         0        0
+ Assets: Materiel.net            ║                                 0                  0        0           0         0         0         0                910.58€         0         0         0        0
+ Assets: OVH                     ║                                 0                  0        0           0         0         0         0                      0     1.19€     0.31€     2.40€    3.57€
+ Assets: Paypal                  ║                           875.68€           -800.00€        0     112.36€    82.30€   -99.00€     3.37€                      0     0.72€    58.74€    29.45€   53.35€
+ Assets: SNCF                    ║                                 0                  0        0           0         0         0         0                233.00€         0         0    49.00€        0
+ Assets: SpreadShirt             ║                                 0                  0        0           0         0   286.71€         0                      0         0         0         0        0
+ Assets: Starbucks               ║                                 0                  0        0           0         0         0         0                      0         0         0    12.45€        0
+ Assets: Stripe                  ║                           180.78€                  0   12.98€      49.81€    58.01€         0         0                 16.02€         0    78.18€    39.03€        0
+ Assets: Taxi G7                 ║                                 0                  0        0           0         0    68.50€         0                      0    24.60€         0         0        0
+ Assets: Yvonne                  ║                                 0                  0        0           0         0         0         0                      0         0         0     6.40€        0
+ Donators                        ║ -2.08255mBTC, -100.00Ğ, -1348.90€  -300.00Ğ, -19.86€  -59.64€  -15216.32€  -159.13€   -44.23€   -54.98€  -2.06985mBTC, -20.55€    -5.24€  -153.02€   -71.93€  -56.00€
+ People: Framasoft               ║                                 0                  0        0           0         0         0         0                      0    10.00€    10.00€    10.00€   10.00€
+ People: Maroc Gourmand          ║                                 0                  0        0           0         0         0         0                161.50€         0         0         0        0
+ People: Membre                  ║                           152.00€            259.00€        0           0   336.25€   192.03€    47.76€                292.00€   142.30€    20.00€    20.00€   20.00€
+ Société Générale                ║                            34.00€             10.20€   10.20€      11.20€    10.20€    10.20€    10.20€                 10.20€    10.20€    10.20€    10.20€   10.20€
 ─────────────────────────────────╫───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
                                  ║                                 0                  0        0           0         0         0         0                      0         0         0         0        0</pre>
 
 ## Balance changes in 2018 / 12:
 <pre>
-                                 ║     Dec 
+                                 ║     Dec
 ═════════════════════════════════╬═════════
- Assets: App Exodus              ║       0 
- Assets: Au Trappiste            ║       0 
- Assets: Checking                ║ -43.77€ 
- Assets: Crypto:Bitcoin          ║       0 
- Assets: Crypto:Ğ1               ║       0 
- Assets: Deliveroo               ║       0 
- Assets: Fee Paypal              ║   2.65€ 
- Assets: Fee Stripe              ║       0 
- Assets: Idées Cadeau            ║       0 
- Assets: Impression-en-ligne.com ║       0 
- Assets: Liberapay               ║       0 
- Assets: Materiel.net            ║       0 
- Assets: OVH                     ║   3.57€ 
- Assets: Paypal                  ║  53.35€ 
- Assets: SNCF                    ║       0 
- Assets: SpreadShirt             ║       0 
- Assets: Starbucks               ║       0 
- Assets: Stripe                  ║       0 
- Assets: Taxi G7                 ║       0 
- Assets: Yvonne                  ║       0 
- Donators                        ║ -56.00€ 
- People: Framasoft               ║  10.00€ 
- People: Maroc Gourmand          ║       0 
- People: Membre                  ║  20.00€ 
- Société Générale                ║  10.20€ 
+ Assets: App Exodus              ║       0
+ Assets: Au Trappiste            ║       0
+ Assets: Checking                ║ -43.77€
+ Assets: Crypto:Bitcoin          ║       0
+ Assets: Crypto:Ğ1               ║       0
+ Assets: Deliveroo               ║       0
+ Assets: Fee Paypal              ║   2.65€
+ Assets: Fee Stripe              ║       0
+ Assets: Idées Cadeau            ║       0
+ Assets: Impression-en-ligne.com ║       0
+ Assets: Liberapay               ║       0
+ Assets: Materiel.net            ║       0
+ Assets: OVH                     ║   3.57€
+ Assets: Paypal                  ║  53.35€
+ Assets: SNCF                    ║       0
+ Assets: SpreadShirt             ║       0
+ Assets: Starbucks               ║       0
+ Assets: Stripe                  ║       0
+ Assets: Taxi G7                 ║       0
+ Assets: Yvonne                  ║       0
+ Donators                        ║ -56.00€
+ People: Framasoft               ║  10.00€
+ People: Maroc Gourmand          ║       0
+ People: Membre                  ║  20.00€
+ Société Générale                ║  10.20€
 ─────────────────────────────────╫─────────
                                  ║       0</pre>
 

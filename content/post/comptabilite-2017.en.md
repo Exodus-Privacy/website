@@ -1,15 +1,13 @@
 ---
-title: "[FR] Comptabilité 2017"
+title: "Accounting 2017"
 date: 2018-08-20
 draft: false
 ---
 
-**Note: this post is only available in French for the time being.**
+* Software used: hlegder
+* Command used: `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
 
-* Logiciel utilisé : hlegder
-* Commande utilisée : `hledger balance -p YYYY/MM  -M -E -f hledger.journal --pretty-tables`
-
-* Comptablitié en double entrée. Chaque ligne est un compte.
+* Each line is an account
 
 ## Balance changes in 2017 / 11:
 <pre>
