@@ -33,8 +33,7 @@ draft: false
     </div>
 </div>
 
-<p>If you don't know where to begin, how to use GitHub or if you want simply to discuss, feel free to <a href="https://forum.exodus-privacy.eu.org/">sign up on our forum</a> or come and <a href="/page/who#main-contributors">talk to the team on IRC</a>.</p>
-
+<p>If you don't know where to begin, how to use GitHub or if you want simply to discuss, feel free to <a href="https://forum.exodus-privacy.eu.org/">sign up on our forum</a> or come and <a href="irc://irc.freenode.org/exodus-privacy">talk to the team on IRC</a>.</p>
 
 <a name="finance"></a>
 ## Help us to finance Exodus Privacy
