@@ -1,6 +1,6 @@
 ---
 title: "Accounting 2019-2020"
-date: 2019-10.03
+date: 2019-10-03
 draft: false
 ---
 
