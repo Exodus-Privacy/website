@@ -1,3 +1,8 @@
+---
+title: "Comptabilité 2019-2020"
+date: 2019-10-03
+draft: false
+---
 Comptes au `2019/09`:
 
 |     | **Septembre 2019** |

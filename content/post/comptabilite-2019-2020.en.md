@@ -1,3 +1,9 @@
+---
+title: "Accounting 2019-2020"
+date: 2019-10.03
+draft: false
+---
+
 Balance in `2019/09`:
 
 |     | **September 2019** |
