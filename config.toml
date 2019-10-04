@@ -12,6 +12,8 @@ defaultContentLanguageInSubdir= true
 [languages.en]
 languageName = "English"
 copyright = "Exodus Privacy - French non-profit"
+[languages.en.params]
+github = "Source Code"
 [[languages.en.menu.main]]
 name = "What"
 url = "/page/what/"
@@ -52,6 +54,8 @@ weight = 9
 [languages.fr]
 languageName = "Français"
 copyright = "Exodus Privacy - Association française à but non-lucratif"
+[languages.fr.params]
+github = "Code Source"
 [[languages.fr.menu.main]]
 name = "Qui"
 url = "/page/who/"
@@ -92,6 +96,7 @@ weight = 9
 [params]
 navbarBgColorClass = "bg-primary"
 showBlogHeader = true
+ghrepo = "https://github.com/Exodus-Privacy/website"
 
 [params.widgets]
 recent_articles = true
