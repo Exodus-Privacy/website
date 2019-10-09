@@ -4,6 +4,10 @@
       <div class="col-md-12">
         <p class="small text-center">
           {{now.Format "2006"}} - {{ with .Site.Copyright }}{{ . | markdownify}}{{ end }}
+          -
+          <a href="{{.Site.Params.ghrepo}}" class="text-capitalize no-decoration text-white">
+            {{ .Site.Language.Params.Github }}
+          </a>
         </p>
         {{ if .Site.Menus.footer }}
         <p class="text-center small">
