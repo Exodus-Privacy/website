@@ -11,7 +11,7 @@ draft: false
   <div class="card-body">
     <h5 class="card-title">εxodus</h5>
     <p class="card-text">Découvrez les ingrédients du gâteau !</p>
-    <a href="https://reports.exodus-privacy.eu.org/search/" class="btn btn-primary">Parcourir les rapports</a>
+    <a href="https://reports.exodus-privacy.eu.org/" class="btn btn-primary">Parcourir les rapports</a>
     <p class="mt-3"><a href="#exodus">plus de détails</a></p>
   </div>
 </div>
@@ -45,7 +45,7 @@ draft: false
 
 Le [site web d’εxodus](http://reports.exodus-privacy.eu.org/) vous permet de :
 
-* rechercher le rapport d’une application Android, grâce à son [moteur de recherche](https://reports.exodus-privacy.eu.org/search/)
+* rechercher le rapport d’une application Android, grâce à son [moteur de recherche](https://reports.exodus-privacy.eu.org/)
 * analyser une application Android en [soumettant son identifiant](https://reports.exodus-privacy.eu.org/analysis/submit/)
 
 <center>

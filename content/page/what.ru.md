@@ -11,7 +11,7 @@ draft: false
   <div class="card-body">
     <h5 class="card-title">εxodus</h5>
     <p class="card-text">Присмотритесь что сокрыто под вишенкой на торте!</p>
-    <a href="https://reports.exodus-privacy.eu.org/search/" class="btn btn-primary">Ознакомиться с отчётами</a>
+    <a href="https://reports.exodus-privacy.eu.org/" class="btn btn-primary">Ознакомиться с отчётами</a>
     <p class="mt-3"><a href="#exodus">подробнее</a></p>
   </div>
 </div>
@@ -45,7 +45,7 @@ draft: false
 
 [Сайт εxodus](https://reports.exodus-privacy.eu.org/) позволит вам:
 
-* [вести поиск](https://reports.exodus-privacy.eu.org/search/) по отчётам Android-приложений
+* [вести поиск](https://reports.exodus-privacy.eu.org/) по отчётам Android-приложений
 * [проанализировать](https://reports.exodus-privacy.eu.org/analysis/submit/) Android-приложение, указав его идентификатор
 
 <center>
