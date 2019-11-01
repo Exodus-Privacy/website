@@ -1,6 +1,6 @@
 ---
 title: "Autour d'Exodus Privacy"
-date: 2019-10-22 09:01:00
+date: 2019-11-01 09:01:00
 draft: false
 ---
 
@@ -9,6 +9,7 @@ Après bientôt deux ans d'existence, il est temps de faire un bilan sur les par
 ## Nos soutiens financiers et matériels :
 
 Nous publions tous les mois [notre comptabilité](/fr/post/comptabilite-2019-2020/) de façon transparente. En plus de toutes les personnes qui nous donnent ponctuellement ou régulièrement (un grand merci à elles), plusieurs personnes morales sans lesquelles il nous aurait été plus difficile, voire impossible, de proposer nos services, nous soutiennent ou nous ont soutenu·e·s  :
+
 * [Gandi](https://news.gandi.net/fr/2019/09/gandi-soutient-exodus-privacy/) qui nous offre des crédits à hauteur de nos besoins en hébergement ;
 * [Octopuce](https://www.octopuce.fr/) nous prête gracieusement de l'espace disque pour nos sauvegardes ;
 * [Codeurs en liberté](https://www.codeursenliberté.fr/) a effectué un don ponctuel en 2017 ;
@@ -34,16 +35,16 @@ Nos vidéos, notre plate-forme et notre application sont régulièrement utilis�
 
 ## Si vous voulez…
 
-### Utiliser les outils d'Exodus Privacy dans une démarche pédagogique :
+### Utiliser nos outils dans une démarche pédagogique :
 
 Si vous êtes au contact du grand public et que vous souhaitez faire des actions de sensibilisation en utilisant nos outils (nos vidéos, notre plate-forme, etc.), n'hésitez pas ! Nous vous remercions de bien vouloir respecter les licences le cas échéant. Vous pouvez nous faire un retour, cela nous intéresse de savoir comment nos outils sont utilisés et comment les améliorer. Vous pouvez également nous inviter pour des actions de sensibilisation du public ou des professionnel·le·s.
 
-### Faire une offre de partenariat
+### Faire une offre de partenariat :
 
 Un partenariat doit apporter à chacune des parties en présence et nous sommes particulièrement intéressé⋅e⋅s par des propositions de contribution au code, de communication ou de soutien financier. Notre but reste toujours de donner des éléments de compréhension au grand public et non de porter des jugements de valeur.
 Nous étudions sérieusement toute proposition de partenariat, il vous suffit pour cela de [nous contacter](/fr/page/who/).
 
-### Avoir une clé API
+### Avoir une clé API :
 
 Comme précisé plus haut, une clef d'API peut s'obtenir simplement en suivant la procédure documentée [ici](https://github.com/Exodus-Privacy/exodus/blob/v1/doc/api.md).
 
