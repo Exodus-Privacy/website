@@ -2,12 +2,12 @@
 title: "εxodus static analysis"
 date: 2018-08-17T22:42:42+02:00
 draft: false
-tags: [Android, analysis, reverse engineering]
+tags: [analysis, reverse-engineering]
 ---
 
-The static analysis of Android application is the heart of the εxodus platform. The main idea is to detect the presence of known trackers in an application without running it. In fact, εxodus cannot take too much time for each analysis so the detection method has to be efficient in time, reproducible and free of false-positives. 
+The static analysis of Android application is the heart of the εxodus platform. The main idea is to detect the presence of known trackers in an application without running it. In fact, εxodus cannot take too much time for each analysis so the detection method has to be efficient in time, reproducible and free of false-positives.
 
-Android applications are developed in JVM compatible languages like Java, Kotlin, etc. Programs running on JVM have numerous differences compared to C or Go programs, the major one is class names are readable directly in the binary file of the program without requiring decompilation. JVM identifies a type by its fully qualified class name like `org.exodus.Report`, `org.exodus` is the package name and `Report` is the class name. 
+Android applications are developed in JVM compatible languages like Java, Kotlin, etc. Programs running on JVM have numerous differences compared to C or Go programs, the major one is class names are readable directly in the binary file of the program without requiring decompilation. JVM identifies a type by its fully qualified class name like `org.exodus.Report`, `org.exodus` is the package name and `Report` is the class name.
 
 Google provides `dexdump` which is a program meant to parse `.dex` files. In the Java world, compiled code is contained in `.class` files (one per class), in the Android world, compiled code is stored in `.dex` files (one or more per program). An Android application is contained in an `.apk` file which is a signed ZIP archive. The `.apk` file contains the application program (`.dex` files) and application assets like fonts, pictures, etc.
 
@@ -61,12 +61,12 @@ $ dexdump my.apk | grep "Class descriptor" | sort | uniq
 
 In Java, C++, Python and other languages, name-spaces are really important and when you provide a library, you have to ensure that the library name-space never collides with other libraries.
 
-εxodus digs into `.apk` files to find trackers and these trackers can be identified by their own name-space. As an example, Amazon Ads library root name-space/package is `com.amazon.device.ads`, this library shares the `com.amazon` package name with other Amazon libraries. So, at this point, a tracker signature is a name-space (a package name). 
+εxodus digs into `.apk` files to find trackers and these trackers can be identified by their own name-space. As an example, Amazon Ads library root name-space/package is `com.amazon.device.ads`, this library shares the `com.amazon` package name with other Amazon libraries. So, at this point, a tracker signature is a name-space (a package name).
 
 By now, εxodus knows [152 trackers](https://reports.exodus-privacy.eu.org/trackers/) and if we have a look to [Flurry](https://reports.exodus-privacy.eu.org/trackers/25/) we have detection rule `com.flurry.` which is a [regex](https://en.wikipedia.org/wiki/Regular_expression).
 <center>
 {{< fig src="/media/flurry.png" caption="Overview of the Flurry description" >}}
-</center> 
+</center>
 
 So, lets use `grep` to see if `my.apk` contains Flurry's classes
 ```
@@ -88,7 +88,7 @@ Thus, when you [submit](https://reports.exodus-privacy.eu.org/analysis/submit/) 
 
 <center>
 {{< fig src="/media/static_analysis.png" caption="Overview of the static analysis process" >}}
-</center> 
+</center>
 
 If you want to help us to improve the εxodus knowledge base, [contact us](/page/who/) and ask for an [ETIP](http://etip.exodus-privacy.eu.org/) account. ETIP is a collaborative platform meant to ease investigation and classification on trackers.
 

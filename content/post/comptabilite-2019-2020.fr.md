@@ -2,6 +2,7 @@
 title: "Comptabilité 2019-2020"
 date: 2019-10-03
 draft: false
+tags: [comptabilite]
 ---
 Comptes au `2019/09` :
 
@@ -24,4 +25,3 @@ Comptes au `2019/09` :
  <unbudgeted>:8.Comptes Spéciaux:7.Dons en nature                        |           2 000 000cr
  |---------------------------|----|
                                                                          |                   0
-

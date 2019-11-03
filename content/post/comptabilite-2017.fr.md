@@ -2,6 +2,7 @@
 title: "Comptabilité 2017"
 date: 2018-08-20
 draft: false
+tags: [comptabilite]
 ---
 
 * Logiciel utilisé : hlegder
@@ -20,16 +21,16 @@ draft: false
 ───────────────────────╫────────────────────────────────
                        ║                              0</pre>
 
-                       
+
 ## Balance changes in 2017 / 12:
 <pre>
-                       ║                      Dec 
+                       ║                      Dec
 ═══════════════════════╬══════════════════════════
- Assets:Crypto:Bitcoin ║            126.14071mBTC 
- Assets:Crypto:Ğ1      ║                        0 
- Assets:Liberapay      ║                   20.55€ 
- Assets:Paypal         ║                  130.20€ 
- Donators              ║ -126.14071mBTC, -157.97€ 
- Paypal:Fee            ║                    7.22€ 
+ Assets:Crypto:Bitcoin ║            126.14071mBTC
+ Assets:Crypto:Ğ1      ║                        0
+ Assets:Liberapay      ║                   20.55€
+ Assets:Paypal         ║                  130.20€
+ Donators              ║ -126.14071mBTC, -157.97€
+ Paypal:Fee            ║                    7.22€
 ───────────────────────╫──────────────────────────
                        ║                        0</pre>
