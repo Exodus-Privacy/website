@@ -29,7 +29,7 @@
         <div class="post-meta-item">
           <i class="fa fa-tags"></i>
           {{ range $k, $v := .Params.tags }}
-          <a href="{{ (print "tags/" (. | urlize | lower) "/") | relURL }}">{{ . }}</a>
+          <a href="{{ "/tags/" | relLangURL }}{{ . | urlize | lower }}">{{ . }}</a>
           {{ if lt $k (sub $tagsLen 1) }}&middot;{{ end }}
           {{ end }}
         </div>
