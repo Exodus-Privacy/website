@@ -2,7 +2,7 @@
 title: "[EN] εxodus static analysis"
 date: 2018-08-17T22:42:42+02:00
 draft: false
-tags: [Android, analysis, reverse engineering]
+tags: [analysis, reverse-engineering]
 ---
 
 **Note : ce billet est seulement disponible en anglais pour le moment.**

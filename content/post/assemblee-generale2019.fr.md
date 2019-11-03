@@ -2,6 +2,7 @@
 title: "Retour sur l'assemblée générale 2019"
 date: 2019-09-16 09:01:00
 draft: false
+tags: [assemblee-generale]
 ---
 
 L'assemblée générale d'Exodus Privacy s'est déroulée le samedi 14 septembre 2019 à Nantes. L'occasion pour nous de passer du temps ensemble, faire un bilan de l'année passée et discuter de nos projets à venir.

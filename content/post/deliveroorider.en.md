@@ -2,6 +2,7 @@
 title: "Focus on Deliveroo Rider app"
 date: 2019-07-10 09:01:00
 draft: false
+tags: [focus]
 ---
 
 We have been contacted last May by [Le MédiaTV](https://lemediatv.fr) as part of an investigation about delivery riders. The journalist wanted to know more about the Deliveroo Rider app (used by the riders) and what types of data it could collect. This incidentally matched our wish to develop in-depth application analysis and publish them on this blog. [The video from Le Média](https://www.youtube.com/watch?v=qW8DmMqO6iE) thus allows us to open this new type of articles in which we offer to detail our method and the full results.

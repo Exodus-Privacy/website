@@ -2,6 +2,7 @@
 title: "Petite étude sur l’impact du RGPD"
 date: 2018-11-24 10:01:00
 draft: false
+tags: [pisteurs]
 ---
 
 À l’occasion du [premier anniversaire](https://exodus-privacy.eu.org/fr/post/anniversaire/) de l’ouverture de sa plate-forme d’analyse, a été créé un programme permettant de comparer le nombre de pisteurs présents dans une ou plusieurs applications, avant et après l’entrée en application du RGPD (Règlement Général sur la Protection des Données), le 25 mai 2018. Pour en savoir plus sur celui-ci, nous vous conseillons [cet article de NextInpact](https://www.nextinpact.com/news/106135-le-rgpd-explique-ligne-par-ligne-articles-1-a-23.htm).

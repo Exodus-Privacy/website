@@ -2,6 +2,7 @@
 title: "Focus sur l'application Deliveroo Rider"
 date: 2019-07-10 09:01:00
 draft: false
+tags: [focus]
 ---
 
 Nous avons été contacté⋅e⋅s  en mai dernier par [Le MédiaTV](https://lemediatv.fr) dans le cadre d'une enquête autour des coursier⋅e⋅s à vélo. Le journaliste souhaitait en savoir plus sur l'application Deliveroo Rider (utilisée par les coursier⋅e⋅s) et quels types de données celle-ci pouvait collecter. Cela correspondait aussi par ailleurs à notre souhait de développer des analyses approfondies d'application et de les publier sur ce blog. [La vidéo du Média](https://youtu.be/vASAMVRiy8s?t=1725) nous permet donc d'inaugurer ce nouveau type d'articles, avec lequel nous vous proposons de détailler la méthode et les résultats complets.

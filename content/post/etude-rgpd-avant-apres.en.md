@@ -2,6 +2,7 @@
 title: "Small study on the impact of the GDPR"
 date: 2018-11-24 10:01:00
 draft: false
+tags: [trackers]
 ---
 
 On the occasion of the [first anniversary](https://exodus-privacy.eu.org/en/post/anniversaire/) of the opening of its analytical platform was created a program to compare the number of trackers embedded in one or more applications, before and after the implementation date of the GDPR (General Data Protection Regulation) on May 25, 2018.

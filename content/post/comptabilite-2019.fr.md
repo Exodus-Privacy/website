@@ -2,6 +2,7 @@
 title: "Comptabilité 2019"
 date: 2019-02-06
 draft: false
+tags: [comptabilite]
 ---
 
 * Logiciel utilisé : hlegder

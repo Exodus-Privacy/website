@@ -2,6 +2,7 @@
 title: "Accounting 2018"
 date: 2018-08-20T22:05:50+02:00
 draft: false
+tags: [accounting]
 ---
 
 * Software used: hlegder
