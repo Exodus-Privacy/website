@@ -6,6 +6,7 @@ draft: false
 
 ## English press
 #### 2019
+* **BGR** - *Nov 8 2019* - [Worried about privacy ? Here's how to find out what data apps are collecting about you](https://www.bgr.in/news/how-to-find-out-what-data-apps-are-collecting-about-you-857731/)
 * **Rewire.news** - *Jul 24 2019* - [Anti-Choice Apps Are Violating Google and Apple Privacy Standards](https://rewire.news/article/2019/07/24/anti-choice-apps-are-violating-google-and-apple-privacy-standards/)
 * **The Next Web** - *May 29 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
 * **TechRepublic** - *Feb 15 2019* - [10 privacy apps that help mobile users feel safer](https://www.techrepublic.com/pictures/photos-10-privacy-apps-that-help-mobile-users-feel-safer/10/)
