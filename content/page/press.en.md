@@ -6,7 +6,7 @@ draft: false
 
 ## English press
 #### 2019
-* **BGR** - *Nov 8 2019* - [Worried about privacy ? Here's how to find out what data apps are collecting about you](https://www.bgr.in/news/how-to-find-out-what-data-apps-are-collecting-about-you-857731/)
+* **Kaspersky daily** - *Nov 1 2019* - [Finding out what data apps really collect](https://www.kaspersky.com/blog/check-what-data-apps-collect/29120/)
 * **Rewire.news** - *Jul 24 2019* - [Anti-Choice Apps Are Violating Google and Apple Privacy Standards](https://rewire.news/article/2019/07/24/anti-choice-apps-are-violating-google-and-apple-privacy-standards/)
 * **The Next Web** - *May 29 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
 * **TechRepublic** - *Feb 15 2019* - [10 privacy apps that help mobile users feel safer](https://www.techrepublic.com/pictures/photos-10-privacy-apps-that-help-mobile-users-feel-safer/10/)
@@ -33,6 +33,7 @@ draft: false
 
 ## French press
 #### 2019
+* **Kapersky daily** - *Nov 4 2019* - [Découvrons quelles sont les données collectées par les applications](https://www.kaspersky.fr/blog/check-what-data-apps-collect/12481/)
 * **Capital.fr** - *Aug 30 2019* - [Données perso : 10 réflexes à adopter pour protéger votre vie privée](https://www.capital.fr/lifestyle/donnees-perso-10-reflexes-a-adopter-pour-proteger-votre-vie-privee-1348732)
 * **Mediapart** - *Jul 25 2019* - [Dans le ventilateur à données de l’appli Météo-France](https://www.mediapart.fr/journal/economie/250719/dans-le-ventilateur-donnees-de-l-appli-meteo-france) [paid]
 * **Mind Findtech** - *Jul 8 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/) [paid]
