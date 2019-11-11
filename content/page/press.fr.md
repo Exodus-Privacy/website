@@ -7,6 +7,7 @@ draft: false
 
 ## Presse francophone
 #### 2019
+* **Kapersky daily** - *4 Nov 2019* - [Découvrons quelles sont les données collectées par les applications](https://www.kaspersky.fr/blog/check-what-data-apps-collect/12481/)
 * **Capital.fr** - *30 Août 2019* - [Données perso : 10 réflexes à adopter pour protéger votre vie privée](https://www.capital.fr/lifestyle/donnees-perso-10-reflexes-a-adopter-pour-proteger-votre-vie-privee-1348732)
 * **Mediapart** - *25 Jul 2019* - [Dans le ventilateur à données de l’appli Météo-France](https://www.mediapart.fr/journal/economie/250719/dans-le-ventilateur-donnees-de-l-appli-meteo-france) [payant]
 * **Mind Findtech** - *8 Jul 2019* - [Que contiennent les applications mobiles des banques en ligne et des neobanques](https://www.mindfintech.fr/article/15944/que-contiennent-les-applications-mobiles-des-banques-en-ligne-et-des-neobanques/) [payant]
@@ -44,6 +45,7 @@ draft: false
 
 ## Presse anglophone
 #### 2019
+* **Kaspersky daily** - *1 Nov 2019* - [Finding out what data apps really collect](https://www.kaspersky.com/blog/check-what-data-apps-collect/29120/)
 * **Rewire.news** - *24 Jul 2019* - [Anti-Choice Apps Are Violating Google and Apple Privacy Standards](https://rewire.news/article/2019/07/24/anti-choice-apps-are-violating-google-and-apple-privacy-standards/)
 * **The Next Web** - *29 Mai 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
 * **TechRepublic** - *15 Fev 2019* - [10 privacy apps that help mobile users feel safer](https://www.techrepublic.com/pictures/photos-10-privacy-apps-that-help-mobile-users-feel-safer/10/)
