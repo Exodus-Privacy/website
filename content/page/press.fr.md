@@ -46,7 +46,6 @@ draft: false
 ## Presse anglophone
 #### 2019
 * **Kaspersky daily** - *1 Nov 2019* - [Finding out what data apps really collect](https://www.kaspersky.com/blog/check-what-data-apps-collect/29120/)
-* **BGR** - *8 Nov 2019* - [Worried about privacy ? Here's how to find out what data apps are collecting about you](https://www.bgr.in/news/how-to-find-out-what-data-apps-are-collecting-about-you-857731/)
 * **Rewire.news** - *24 Jul 2019* - [Anti-Choice Apps Are Violating Google and Apple Privacy Standards](https://rewire.news/article/2019/07/24/anti-choice-apps-are-violating-google-and-apple-privacy-standards/)
 * **The Next Web** - *29 Mai 2019* - [Your iphone is leaking personal infos to tracking companies](https://thenextweb.com/apps/2019/05/29/your-iphone-is-leaking-personal-info-to-tracking-companies/)
 * **TechRepublic** - *15 Fev 2019* - [10 privacy apps that help mobile users feel safer](https://www.techrepublic.com/pictures/photos-10-privacy-apps-that-help-mobile-users-feel-safer/10/)
