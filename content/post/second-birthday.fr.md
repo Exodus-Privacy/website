@@ -1,13 +1,13 @@
 ---
 title: "Deuxième anniversaire d'εxodus"
-date: 2019-11-24 09:01:00
+date: 2019-11-24 00:01:00
 draft: false
 tags: [anniversaire]
 ---
 
 Deux ans !
 
-Déjà deux ans que l'association Exodus Privacy existe. A l'occasion du deuxième anniversaire de la plateforme εxodus, nous allons tâcher de faire un nouvel état de l'avancement de l'association.
+Déjà deux ans que l'association Exodus Privacy existe. A l'occasion du deuxième anniversaire de la plateforme εxodus, nous vous proposons un nouvel état de l'avancement de l'association.
 
 ## La plateforme εxodus
 
@@ -23,7 +23,7 @@ Grace à vous, la [plateforme εxodus](https://reports.exodus-privacy.eu.org/) a
 
 Comme annoncé lors du [précédent anniversaire de la plateforme](/fr/post/anniversaire/), nous avons entamé **un vaste chantier d'amélioration de la lisibilité de nos rapports**. Nous avons pour cela travaillé avec [Maiwann](https://www.maiwann.net/), UX·UI Designer qui partage nos valeurs, afin de refaire l'intégralité de l'interface d'εxodus. Le récit de cette refonte nous semble important à diffuser, c'est pourquoi un autre billet de blog sera bientôt disponible, lui sur le [Framablog](https://framablog.org/), où les personnes actrices de cette aventure vous livreront les méthodes et enjeux.
 
-## L'application Exodus
+## L'application εxodus
 
 Nous avons eu la chance de voir **un second projet de refonte UX**, qui est lui encore en cours, cette fois-ci pour l'application Android εxodus (créée par Schoumi), financé par le mécénat de [Code Lutin](https://www.codelutin.com). Un grand merci à elleux pour nous avoir sélectionné·e·s parmi les nombreux projets proposés et toutes nos félicitations aux autres lauréat·e·s.
 
