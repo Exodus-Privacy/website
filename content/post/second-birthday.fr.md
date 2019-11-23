@@ -1,5 +1,5 @@
 ---
-title: "Deuxième anniversaire de εxodus"
+title: "Deuxième anniversaire d'εxodus"
 date: 2019-11-24 09:01:00
 draft: false
 tags: [anniversaire]
@@ -35,7 +35,7 @@ Nous avons présenté nos travaux en début d'année au [FOSDEM](https://archive
 
 Nous avons été sollicité·e·s, comme l'an passé, par de nouveau acteurs. [Le MédiaTV](https://www.lemediatv.fr/) nous a permis, au cours d'un reportage sur l'application « Deliveroo Rider » (destinée aux livreurs Deliveroo), d'en faire l'analyse dynamique et de voir où et quelles données partaient de l'application lorsqu'un·e livreur·euse se déclare en repos. Vous pouvez voir ou revoir ce reportage sur [la chaine Peertube du Média](https://video.lemediatv.fr/videos/watch/beb14431-268f-482d-997d-53d092e645db). Vous pourrez y voir MeTaL_PoU et Lovis_IX.
 
-Fort de cette expérience, menée avec les outils du [projet PiRanhaLysis](https://piranhalysis.github.io/) et en particulier du [PiRogue](https://github.com/PiRanhaLysis/PiRogue), nous avons animé des ateliers d'analyse dynamique des portables des personnes visiteuses (et volontaires !) du festival [Passage en Seine](https://passageenseine.fr/).
+Fort⋅e⋅s de cette expérience, menée avec les outils du [projet PiRanhaLysis](https://piranhalysis.github.io/) et en particulier du [PiRogue](https://github.com/PiRanhaLysis/PiRogue), nous avons animé des ateliers d'analyse dynamique des portables des personnes visiteuses (et volontaires !) du festival [Passage en Seine](https://passageenseine.fr/).
 
 Nous avons aussi été présent·e·s avec nos ami·e·s de [La Quadrature du net](https://www.laquadrature.net/) aux [Geek Faëries](https://www.geekfaeries.fr/) et au CCCamp. C'est notre amie Guinness qui s'est chargé de ces animations et rencontres.
 
