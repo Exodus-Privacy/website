@@ -1,5 +1,5 @@
 ---
-title: "Second εxodus's birthday"
+title: "Second εxodus birthday"
 date: 2019-11-24 09:01:00
 draft: false
 tags: [birthday]
@@ -23,7 +23,7 @@ Thanks to you, the [εxodus platform](https://reports.exodus-privacy.eu.org/) ha
 
 As announced during [the platform's previous anniversary](/en/post/anniversaire/), we have begun **a vast project to improve the readability of our reports** and the global user experience of the platform. Therefore we have worked with [Maiwann](https://www.maiwann.net/), UX-UI Designer who shares our values, in order to redesign the entire interface of εxodus. The story of this redesign seems important to us to spread, that's why another blog post will soon be available, on [the Framablog](https://framablog.org), where the people involved in this adventure will give you the methods and issues.
 
-## The εxodus application
+## The Exodus Privacy application
 
 We had the chance to have **a second UX redesign project**, this one still being in progress, this time for the Android Exodus application (created by Schoumi), financed by the sponsorship of [Code Lutin](https://www.codelutin.com/). A big thanks to them for selecting us among the many projects proposed, and our congratulations to the other selected projects.
 
@@ -33,7 +33,7 @@ As part of this rework, a brand new version of the application has just been rel
 
 At the beginning of the year, we presented our work at [FOSDEM](https://archive.fosdem.org/2019/) and a video of the conference is available on [our Peertube channel](https://peertube.tamanoir.foucry.net/videos/watch/596cadb2-6055-437a-bd86-3b0e98458ca1). pnu and Guinness ensured this performance.
 
-Like last year, we were approached by new actors. [Le MédiaTV](https://www.lemediatv.fr/) allowed us, during a news report about the "Deliveroo Rider" application (intended for Deliveroo deliverers), to perform a dynamic analysis and see where and what data was being sent from the application when the deliverer declares themself at rest. If you speak French, you can watch this report on [the Media's Peertube channel](https://video.lemediatv.fr/videos/watch/beb14431-268f-482d-997d-53d092e645db). You may see MeTal_PoU and Lovis IX.
+Like last year, we were approached by new actors. [Le MédiaTV](https://www.lemediatv.fr/) allowed us, during a news report about the "Deliveroo Rider" application (intended for Deliveroo deliverers), to perform a dynamic analysis and see where and what data was being sent from the application when the deliverer declares themself at rest. If you speak French, you can watch this report on [the Media's Peertube channel](https://video.lemediatv.fr/videos/watch/beb14431-268f-482d-997d-53d092e645db). You may see MeTaL_PoU and Lovis IX.
 
 Based on this experience with the tools of the [PiRanhaLysis project](https://piranhalysis.github.io/) and in particular the [PiRogue](https://github.com/PiRanhaLysis/PiRogue), we conducted workshops about the dynamic analysis of the mobile phones of the visitors (and volunteers!) of the [PSES festival](https://passageenseine.fr/).
 
