@@ -1,6 +1,6 @@
 ---
-title: "Second εxodus birthday"
-date: 2019-11-24 09:01:00
+title: "Second εxodus's birthday"
+date: 2019-11-24 00:01:00
 draft: false
 tags: [birthday]
 ---
@@ -23,9 +23,9 @@ Thanks to you, the [εxodus platform](https://reports.exodus-privacy.eu.org/) ha
 
 As announced during [the platform's previous anniversary](/en/post/anniversaire/), we have begun **a vast project to improve the readability of our reports** and the global user experience of the platform. Therefore we have worked with [Maiwann](https://www.maiwann.net/), UX-UI Designer who shares our values, in order to redesign the entire interface of εxodus. The story of this redesign seems important to us to spread, that's why another blog post will soon be available, on [the Framablog](https://framablog.org), where the people involved in this adventure will give you the methods and issues.
 
-## The Exodus Privacy application
+## The εxodus application
 
-We had the chance to have **a second UX redesign project**, this one still being in progress, this time for the Android Exodus application (created by Schoumi), financed by the sponsorship of [Code Lutin](https://www.codelutin.com/). A big thanks to them for selecting us among the many projects proposed, and our congratulations to the other selected projects.
+We had the chance to have **a second UX redesign project**, this one still being in progress, this time for the Android εxodus application (created by Schoumi), financed by the sponsorship of [Code Lutin](https://www.codelutin.com/). A big thanks to them for selecting us among the many projects proposed, and our congratulations to the other selected projects.
 
 As part of this rework, a brand new version of the application has just been released on the [Google Play Store](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy) and on [F-Droid](https://f-droid.org/fr/packages/org.eu.exodus_privacy.exodusprivacy). But it is not over yet ! To be continued...
 
