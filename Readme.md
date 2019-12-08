@@ -12,7 +12,7 @@ With the help of Hugo the website is easyly multilingual. So feel free to fork t
 
 ## How to contribute
 
-- [Install Hugo](https://gohugo.io/getting-started/installing)
+- [Install Hugo](https://gohugo.io/getting-started/installing) (compatible versions: >=0.40, <= 0.54)
 - Fork the Exodus Privacy website repository
 - Start the development web server
 ```
