@@ -7,6 +7,14 @@ draft: false
 
 L'association Exodus Privacy propose régulièrement des conférences et interventions présentant son travail et ses résultats, en français ou en anglais. Si vous organisez un événement et souhaitez nous inviter, n'hésitez pas à [nous contacter](/fr/page/who/).
 
+
+# Prochains événements
+* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), Bibliothèque universitaire de l'INSA de Rennes, le lundi 3 février 2020 
+* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), Bibliothèque universitaire de Nantes, le mardi 11 février 2020 
+
+
+# Evénements passés
+
 ## 2019
 * [FR] [Entrée libre](https://www.centredesabeilles.fr/entree-libre/), Quimper, le mardi 27 août 2019 [(video)](https://peer.hostux.social/videos/watch/491e4aa0-51d8-460a-a535-a9bbb6a03618)
 * [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi, 28, 29 et 30 juin 2019
