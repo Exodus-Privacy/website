@@ -9,7 +9,7 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 
 
 # Next events
-* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), INSA library, Rennes (France), 3th February 2020 
+* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), INSA library, Rennes (France), 3rd February 2020 
 * [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), library of the University of Nantes (France), 11th February 2020 
 
 
