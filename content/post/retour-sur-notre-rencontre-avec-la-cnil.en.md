@@ -8,7 +8,7 @@ draft: false
 
 Le 14 février 2018, Exodus Privacy a été invitée par la CNIL (_Commission Nationale de l’Informatique et des Libertés_) dans ses locaux à se présenter et présenter ses activités.
 
-Étaient présents pour Exodus Privacy : [U+039b](https://esther.codes/about-me/) (présidente), [Lovis_IX](https://mastodon.tamanoir.foucry.net/@Lovis_IX) (secrétaire) et [Maxime Auvy](https://open-freax.fr/ ) (membre du bureau). Nous étions accompagnés par un membre de [La Quadrature du Net](https://www.laquadrature.net/fr/).
+Étaient présents pour Exodus Privacy : [U+039b](https://esther.codes/about-me/) (présidente), [Lovis_IX](https://pleroma.tamanoir.foucry.net/users/LovisIX) (secrétaire) et [Maxime Auvy](https://open-freax.fr/ ) (membre du bureau). Nous étions accompagnés par un membre de [La Quadrature du Net](https://www.laquadrature.net/fr/).
 
 Les participants coté CNIL étaient nombreux, environ 15 personnes, issus de différents services. Nous étions initialement invités par Geoffrey Delcroix, du [LINC](https://linc.cnil.fr/fr/propos-de-linc) (*Laboratoire d’Innovation Numérique de la CNIL*).
 
