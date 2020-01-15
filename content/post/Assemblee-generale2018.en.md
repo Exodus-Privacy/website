@@ -16,7 +16,7 @@ Le bilan moral a permis de retracer l’historique de l’association :
 * L’ouverture de la plateforme au public le 24 novembre 2017
 * La mise en place d’un partenariat avec le Yale Privacy Lab qui utilise les outils d’Exodus Privacy pour ses cours de cyber-sécurité
 * Une couverture médiatique très dense
-* L’invitation par la [CNIL](https://exodus-privacy.eu.org/post/retour-sur-notre-rencontre-avec-la-cnil/), puis par l’AFNIC à présenter nos travaux.
+* L’invitation par la [CNIL](https://exodus-privacy.eu.org/en/post/retour-sur-notre-rencontre-avec-la-cnil/), puis par l’AFNIC à présenter nos travaux.
 
 En moins d’un an, Exodus Privacy a acquis une crédibilité scientifique et technique indéniable. Mais le but de l’association étant de toucher le grand public, il est nécessaire de concentrer les efforts de l’association sur ce point, notamment en développant les supports destinés au grand public et les liens avec les médiatrices et médiateurs numériques.
 
