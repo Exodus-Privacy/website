@@ -11,4 +11,4 @@ Thanks to the volunteers who pointed out these new trackers.
 
 About Exodus Privacy:
 Exodus Privacy is a French non-profit organization. We expose the trackers embedded in Android © applications.
-To operate, we need your help: https://exodus-privacy.eu.org/page/help/contribute/.
+To operate, we need your help: https://exodus-privacy.eu.org/en/page/contribute/.

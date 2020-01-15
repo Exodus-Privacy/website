@@ -12,4 +12,4 @@ Merci aux contributeur•trices qui nous ont signalé ces nouveaux pisteurs.
 
 À propos d’Exodus Privacy :
 Exodus Privacy est une association loi 1901 à but non lucratif. Nous dénichons les pisteurs embarqués dans les applications Android ©.
-Pour vivre, nous avons besoin de vos dons https://exodus-privacy.eu.org/page/help/contribute/.
+Pour vivre, nous avons besoin de vos dons https://exodus-privacy.eu.org/fr/page/contribute/.

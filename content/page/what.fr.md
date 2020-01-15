@@ -20,7 +20,7 @@ draft: false
   <div class="card-body">
     <h5 class="card-title">Application mobile</h5>
     <p class="card-text">Gardez un œil sur votre ordiphone !</p>
-    <a href="https://play.google.com/store/apps/détails?id=org.eu.exodus_privacy.exodusprivacy" class="btn btn-primary">Google Play</a>
+    <a href="https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy" class="btn btn-primary">Google Play</a>
     <a href="https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/" class="btn btn-primary">F-Droid</a>
     <p class="mt-3"><a href="#android-app">plus de détails</a></p>
   </div>
