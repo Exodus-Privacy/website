@@ -9,7 +9,6 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 
 
 ## Prochains événements
-* [FR] Conférence et atelier pour [42l](https://42l.fr/), Paris, 18 janvier 2020
 * [FR] [Rencontres Hivernales du Libre](https://2020.hivernal.es/), Saint-Cergue (Suisse), 1er février 2020
 * [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), Bibliothèque universitaire de l'INSA de Rennes, 3 février 2020
 * [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), Bibliothèque universitaire de Nantes, 11 février 2020
@@ -18,6 +17,7 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 ## Evénements passés
 
 ### 2019
+* [FR] Conférence et atelier pour [42l](https://42l.fr/), Paris, 18 janvier 2020
 * [FR] [Entrée libre](https://www.centredesabeilles.fr/entree-libre/), Quimper, 27 août 2019 [(video)](https://peer.hostux.social/videos/watch/491e4aa0-51d8-460a-a535-a9bbb6a03618)
 * [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi, 28, 29 et 30 juin 2019
 * [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes, 20 juin 2019
