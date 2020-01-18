@@ -16,8 +16,10 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 
 ## Past events
 
-### 2019
+### 2020
 * [FR] Talk and workshop for [42l](https://42l.fr/), Paris (France), 18th January 2020
+
+### 2019
 * [FR] [Entrée libre](https://www.centredesabeilles.fr/entree-libre/), Quimper (France), 27th August  2019 [(video)](https://peer.hostux.social/videos/watch/491e4aa0-51d8-460a-a535-a9bbb6a03618)
 * [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi (France), 28th, 29th and 30th June 2019
 * [FR] "Digital Culture" day at the library of the University of Nantes, Nantes (France), 20th June 2019
