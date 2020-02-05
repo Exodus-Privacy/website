@@ -9,14 +9,15 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 
 
 ## Prochains événements
-* [FR] [Rencontres Hivernales du Libre](https://2020.hivernal.es/), Saint-Cergue (Suisse), 1er février 2020
-* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), Bibliothèque universitaire de l'INSA de Rennes, 3 février 2020
+* [FR] Journée _Facture numérique et contributions citoyennes_ organisée par [Ping](https://www.pingbase.net/) et le conseil départemental de Loire-Atlantique, Atelier partagé du Breil, Nantes, 6 février 2020
 * [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), Bibliothèque universitaire de Nantes, 11 février 2020
 
 
 ## Evénements passés
 
 ### 2020
+* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), Bibliothèque universitaire de l'INSA de Rennes, 3 février 2020
+* [FR] [Rencontres Hivernales du Libre](https://2020.hivernal.es/), Saint-Cergue (Suisse), 1er février 2020
 * [FR] Conférence et atelier pour [42l](https://42l.fr/), Paris, 18 janvier 2020
 
 ### 2019

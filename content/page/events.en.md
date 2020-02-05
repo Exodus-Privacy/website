@@ -9,14 +9,15 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 
 
 ## Next events
-* [FR] ["Rencontres Hivernales du Libre"](https://2020.hivernal.es/), Saint-Cergue (Switzerland), 1st February 2020
-* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), INSA library, Rennes (France), 3rd February 2020
+* [FR] _Facture numérique et contributions citoyennes_ by [Ping](https://www.pingbase.net/) and the Loire-Atlantique Departmental Council, Atelier partagé du Breil, Nantes (France), 6th February 2020
 * [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), library of the University of Nantes (France), 11th February 2020
 
 
 ## Past events
 
 ### 2020
+* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), INSA library, Rennes (France), 3rd February 2020
+* [FR] ["Rencontres Hivernales du Libre"](https://2020.hivernal.es/), Saint-Cergue (Switzerland), 1st February 2020
 * [FR] Talk and workshop for [42l](https://42l.fr/), Paris (France), 18th January 2020
 
 ### 2019
