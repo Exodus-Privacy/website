@@ -9,16 +9,16 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 
 
 ## Next events
-* [FR] _Facture numérique et contributions citoyennes_ by [Ping](https://www.pingbase.net/) and the Loire-Atlantique Departmental Council, Atelier partagé du Breil, Nantes (France), 6th February 2020
-* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), library of the University of Nantes (France), 11th February 2020
-
+* [FR] "Collaborating for a more accessible design: the example of Exodus Privacy", talk with the UX designer [Maiwann](https://www.maiwann.net/), [JDLL](https://www.jdll.org/), Lyon (France), 5th April 2020
 
 ## Past events
 
 ### 2020
+* [FR] _Facture numérique et contributions citoyennes_ by [Ping](https://www.pingbase.net/) and the Loire-Atlantique Departmental Council, Atelier partagé du Breil, Nantes (France), 6th February 2020
+* [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), library of the University of Nantes (France), 11th February 2020
 * [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), INSA library, Rennes (France), 3rd February 2020
 * [FR] ["Rencontres Hivernales du Libre"](https://2020.hivernal.es/), Saint-Cergue (Switzerland), 1st February 2020
-* [FR] Talk and workshop for [42l](https://42l.fr/), Paris (France), 18th January 2020
+* [FR] Talk and workshop for [42l](https://42l.fr/), Paris (France), 18th January 2020 [(video)](https://video.tedomum.net/videos/watch/2035a814-ecfe-4e67-8b6f-6d4438477efe)
 
 ### 2019
 * [FR] [Entrée libre](https://www.centredesabeilles.fr/entree-libre/), Quimper (France), 27th August  2019 [(video)](https://peer.hostux.social/videos/watch/491e4aa0-51d8-460a-a535-a9bbb6a03618)
