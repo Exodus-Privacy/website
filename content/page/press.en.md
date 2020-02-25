@@ -32,6 +32,10 @@ draft: false
 * **The Intercept** - *Nov 24 2017* - [Staggering Variety of Clandestine Trackers Found in Popular](https://theintercept.com/2017/11/24/staggering-variety-of-clandestine-trackers-found-in-popular-android-apps/)
 
 ## French press
+
+#### 2020
+* **Numérama** - *Jan 28 2020* - [Vous développez des apps mobiles ? La CNIL vous guide pour respecter le RGPD](https://www.numerama.com/tech/602162-vous-developpez-des-apps-mobiles-la-cnil-vous-guide-pour-respecter-le-rgpd.html)
+
 #### 2019
 * **Kapersky daily** - *Nov 4 2019* - [Découvrons quelles sont les données collectées par les applications](https://www.kaspersky.fr/blog/check-what-data-apps-collect/12481/)
 * **Capital.fr** - *Aug 30 2019* - [Données perso : 10 réflexes à adopter pour protéger votre vie privée](https://www.capital.fr/lifestyle/donnees-perso-10-reflexes-a-adopter-pour-proteger-votre-vie-privee-1348732)
@@ -55,7 +59,6 @@ draft: false
 * **La revue européenne des médias et du numérique** - *Apr 6 2018* - [Trackers](http://la-rem.eu/2018/04/06/trackers/)
 * **Next Inpact** - *Mar 29 2018* - [La mutation rapide d'Exodus Privacy, en lutte contre les trackers sous Android](https://www.nextinpact.com/news/106366-la-mutation-rapide-dexodus-privacy-en-lutte-contre-trackers-sous-android.htm)
 * **Ouest France** - *Feb 28 2018* - [Les dessous pas très nets de l’application Vero](https://www.ouest-france.fr/leditiondusoir/data/20008/reader/reader.html?t=1519838021327#!preferred/1/package/20008/pub/28752/page/7)
-* **France 2** - *Feb 24 2018* - [Tout compte fait : Ils promettent de vous faire gagner du temps](https://www.youtube.com/watch?v=ZrRneLW-X8Y)
 * **Mind Media** - *Feb 23 2018* - [Mobile : qui installe les SDK publicitaires et pourquoi ?](https://www.mindnews.fr/article/11417/mobile-qui-installe-les-sdk-publicitaires-et-pourquoi/) [paid]
 * **Mind Media** - *Feb 9 2018* - [Quels SDK publicitaires figurent dans les applications mobiles des éditeurs médias ?](https://www.mindnews.fr/article/11369/quels-sdk-publicitaires-figurent-dans-les-applications-mobiles-des-editeurs-medias/) [paid]
 * **Numerama** - *Jan 18 2018* - [Application Reporty : la Mairie de Nice va demander le retrait des mouchards dans son application](https://www.numerama.com/politique/322446-application-reporty-la-mairie-de-nice-va-demander-le-retrait-des-mouchards-dans-son-application.html)
