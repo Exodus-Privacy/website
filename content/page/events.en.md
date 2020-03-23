@@ -9,7 +9,7 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 
 
 ## Next events
-* [FR] "Collaborating for a more accessible design: the example of Exodus Privacy", talk with the UX designer [Maiwann](https://www.maiwann.net/), [JDLL](https://www.jdll.org/), Lyon (France), 5th April 2020
+* ~~[FR] "Collaborating for a more accessible design: the example of Exodus Privacy", talk with the UX designer [Maiwann](https://www.maiwann.net/), [JDLL](https://www.jdll.org/), Lyon (France), 5th April 2020~~
 
 ## Past events
 

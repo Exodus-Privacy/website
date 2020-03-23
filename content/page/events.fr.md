@@ -9,7 +9,7 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 
 
 ## Prochains événements
-* [FR] "Collaborer pour un design plus accessible : l'exemple d'Exodus Privacy", conférence avec [Maiwann](https://www.maiwann.net/), [JDLL](https://www.jdll.org/), Lyon, 5 avril 2020
+* ~~[FR] "Collaborer pour un design plus accessible : l'exemple d'Exodus Privacy", conférence avec [Maiwann](https://www.maiwann.net/), [JDLL](https://www.jdll.org/), Lyon, 5 avril 2020~~
 
 ## Evénements passés
 
