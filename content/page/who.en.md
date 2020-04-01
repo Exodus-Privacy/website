@@ -22,8 +22,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>Lovis_IX</code></h6>
-            <a href="https://pleroma.tamanoir.foucry.net/users/LovisIX"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/jfoucry"><i class="fab fa-2x fa-twitter"></i></a>
+            <a href="https://pleroma.foucry.net/users/jacques"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://github.com/jfoucry"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">King of our servers and backups.</p>
         </div>
