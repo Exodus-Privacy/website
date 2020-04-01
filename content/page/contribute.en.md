@@ -114,7 +114,7 @@ The main interest of Exodus Privacy is to <b>make people aware of the tracking d
         <img src="/media/peertube.svg" height="48px" class="mt-2 ml-auto mr-auto"/>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
-            <a href="https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos" class="btn btn-primary">Watch!</a>
+            <a href="https://video.exodus-privacy.eu.org/accounts/lovis_ix/videos" class="btn btn-primary">Watch!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">

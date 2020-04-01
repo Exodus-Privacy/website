@@ -28,7 +28,7 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 * [FR] [The Ubuntu Party of Paris](https://www.ubuntu-paris.org/), Paris (France), 19th May 2019
 * [FR] [OWASP France Meetup](https://www.meetup.com/fr-FR/owasp-france/events/259215813/), Paris (France), 4th April 2019
 * [FR] [Seminar "Privacy, mobile and security"](https://fdln2019.insa-rennes.fr/decrypter/seminaire-vie-privee-mobile-et-securite/), Rennes (France), February 2019
-* [EN] [FOSDEM "Decentralized Internet and Privacy" devroom](https://fosdem.org/2019/schedule/track/decentralized_internet_and_privacy/), Bruxelles (Belgium), February 2019 [(video)](https://peertube.tamanoir.foucry.net/videos/watch/596cadb2-6055-437a-bd86-3b0e98458ca1)
+* [EN] [FOSDEM "Decentralized Internet and Privacy" devroom](https://fosdem.org/2019/schedule/track/decentralized_internet_and_privacy/), Bruxelles (Belgium), February 2019 [(video)](https://video.exodus-privacy.eu.org/videos/watch/596cadb2-6055-437a-bd86-3b0e98458ca1)
 
 ### 2018
 * [FR] [JSecIN](http://jsecin.insa-rouen.fr/) - Normandy IT Security Day, Rouen (France), November 2018
