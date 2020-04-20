@@ -9,26 +9,25 @@ draft: false
     <div class="col-md-4 text-center">
         <div class="card-body">
             <h3 class="card-title">I <i class="far fa-heart text-primary"></i> to code</h3>
-            <p class="card-text">If you like to code in Python or Java, have a look to the <a href="https://github.com/exodus-privacy/exodus">εxodus <i class="fab fa-github text-primary"></i> repository</a> or to the <a href="https://github.com/Exodus-Privacy/exodus-android-app">εxodus app <i class="fab fa-github text-primary"></i></a> one.</p>
-            <!-- <p class="card-text">If you prefer to code in Java for Android, have a look to the <a href="https://github.com/exodus-privacy/exodus-android-app">εxodus Android app <i class="fab fa-github text-primary"></i> repository</a></p> -->
+            <p class="card-text">
+                If you like to code in Python or Java, have a look to the <a href="https://github.com/exodus-privacy/exodus">εxodus <i class="fab fa-github text-primary"></i> repository</a> or to the <a href="https://github.com/Exodus-Privacy/exodus-android-app">εxodus app <i class="fab fa-github text-primary"></i></a> one.
+            </p>
         </div>
     </div>
-    <!-- <div class="col-md-4 text-center">
-        <div class="card-body">
-            <h3 class="card-title">I love <i class="fab fa-android text-primary"></i></h3>
-            <p class="card-text">If you prefer to code in Java for Android, have a look to the <a href="https://github.com/exodus-privacy/exodus-android-app">εxodus Android app <i class="fab fa-github text-primary"></i> repository</a></p>
-        </div>
-    </div> -->
     <div class="col-md-4 text-center">
         <div class="card-body">
             <h3 class="card-title">I <i class="far fa-heart text-primary"></i> to craft</h3>
-            <p class="card-text">If you like to translate, draw, make videos or have ideas of contents, lets checkout <a href="https://github.com/exodus-privacy/anim-com">our crafting <i class="fab fa-github text-primary"></i> repository</a>.</p>
+            <p class="card-text">
+                If you like to <a href="https://crwd.in/exodus-privacy">translate</a>, draw, make videos or have ideas of contents, lets checkout <a href="https://github.com/exodus-privacy/anim-com">our crafting <i class="fab fa-github text-primary"></i> repository</a>.
+            </p>
         </div>
     </div>
     <div class="col-md-4 text-center">
         <div class="card-body">
             <h3 class="card-title">No <i class="far fa-clock text-primary"></i> but <i class="fas fa-dollar-sign text-primary"></i></h3>
-            <p class="card-text">You can help us to finance the hosting for εxodus and travels for giving talks by <a href="#finance">donating money</a>.</p>
+            <p class="card-text">
+                You can help us to finance the hosting for εxodus and travels for giving talks by <a href="#finance">donating money</a>.
+            </p>
         </div>
     </div>
 </div>

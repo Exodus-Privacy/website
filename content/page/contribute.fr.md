@@ -9,19 +9,25 @@ draft: false
     <div class="col-md-4 text-center">
         <div class="card-body">
             <h3 class="card-title">J’ <i class="far fa-heart text-primary"></i> coder</h3>
-            <p class="card-text">Si vous aimez coder en Python ou en Java, jetez un œil au <a href="https://github.com/exodus-privacy/exodus">dépôt <i class="fab fa-github text-primary"></i> εxodus </a> ou à celui de <a href="https://github.com/Exodus-Privacy/exodus-android-app"><i class="fab fa-github text-primary"></i> l’application εxodus</a>.</p>
+            <p class="card-text">
+                Si vous aimez coder en Python ou en Java, jetez un œil au <a href="https://github.com/exodus-privacy/exodus">dépôt <i class="fab fa-github text-primary"></i> εxodus </a> ou à celui de <a href="https://github.com/Exodus-Privacy/exodus-android-app"><i class="fab fa-github text-primary"></i> l’application εxodus</a>.
+            </p>
         </div>
     </div>
     <div class="col-md-4 text-center">
         <div class="card-body">
             <h3 class="card-title">J’ <i class="far fa-heart text-primary"></i> créer</h3>
-            <p class="card-text">Si vous avez des talents pour la traduction, le dessin, les vidéos ou si vous avez des idées de contenus, regardez le dépôt de <i class="fab fa-github text-primary"></i><a href="https://github.com/exodus-privacy/anim-com"> nos créations</a>.</p>
+            <p class="card-text">
+                Si vous avez des talents pour <a href="https://crwd.in/exodus-privacy">la traduction</a>, le dessin, les vidéos ou si vous avez des idées de contenus, regardez le dépôt de <i class="fab fa-github text-primary"></i><a href="https://github.com/exodus-privacy/anim-com"> nos créations</a>.
+            </p>
         </div>
     </div>
     <div class="col-md-4 text-center">
         <div class="card-body">
             <h3 class="card-title">Pas <i class="far fa-clock text-primary"></i> mais <i class="fas fa-euro-sign text-primary"></i></h3>
-            <p class="card-text">Vous pouvez nous aider à financer l’hébergement de εxodus et nos déplacements pour animer des conférences en <a href="#finance">donnant de l’argent</a>.</p>
+            <p class="card-text">
+                Vous pouvez nous aider à financer l’hébergement de εxodus et nos déplacements pour animer des conférences en <a href="#finance">donnant de l’argent</a>.
+            </p>
         </div>
     </div>
 </div>
@@ -33,8 +39,8 @@ draft: false
 <center>
 <h5>Notre boutique</h5>
 <a href="https://shop.spreadshirt.fr/exodus-privacy/all">
-            <img src="/media/sweatEP.jpg" caption="our spreadshirt shop" alt="Spreadshirt shop" width="172px" height="172px">
-        </a>
+    <img src="/media/sweatEP.jpg" caption="our spreadshirt shop" alt="Spreadshirt shop" width="172px" height="172px">
+</a>
 </center>
 <div class="row">
     <div class="col-md-6 text-center">
