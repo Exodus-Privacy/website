@@ -27,29 +27,25 @@ name = "Contribute"
 url = "/page/contribute/"
 weight = 3
 [[languages.en.menu.main]]
-name = "Code of conduct"
-url = "/page/coc/"
-weight = 4
-[[languages.en.menu.main]]
 name = "Supporters"
 url = "/page/supporters/"
-weight = 5
+weight = 4
 [[languages.en.menu.main]]
 name = "Press"
 url = "/page/press/"
-weight = 6
+weight = 5
 [[languages.en.menu.main]]
 name = "Events"
 url = "/page/events/"
+weight = 6
+[[languages.en.menu.main]]
+name = "Blog"
+url = "/post/"
 weight = 7
 [[languages.en.menu.main]]
 name = "FAQ"
 url = "/page/faq/"
 weight = 8
-[[languages.en.menu.main]]
-name = "News"
-url = "/post/"
-weight = 9
 
 [languages.fr]
 languageName = "Français"
@@ -69,29 +65,25 @@ name = "Contribuer"
 url = "/page/contribute/"
 weight = 3
 [[languages.fr.menu.main]]
-name = "Code de conduite"
-url = "/page/coc/"
-weight = 4
-[[languages.fr.menu.main]]
 name = "Nos soutiens"
 url = "/page/supporters/"
-weight = 5
+weight = 4
 [[languages.fr.menu.main]]
 name = "Presse"
 url = "/page/press/"
-weight = 6
+weight = 5
 [[languages.fr.menu.main]]
 name = "Evénements"
 url = "/page/events/"
+weight = 6
+[[languages.fr.menu.main]]
+name = "Blog"
+url = "/post/"
 weight = 7
 [[languages.fr.menu.main]]
 name = "FAQ"
 url = "/page/faq/"
 weight = 8
-[[languages.fr.menu.main]]
-name = "Nouvelles"
-url = "/post/"
-weight = 9
 
 [params]
 navbarBgColorClass = "bg-primary"
