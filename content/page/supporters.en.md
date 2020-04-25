@@ -5,49 +5,64 @@ draft: false
 ---
 
 # Our supporters
+
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
-        <img src="/media/partners/logo-code-lutin.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
-        <div class="card-body">
-            <h6 class="card-title"><a href="https://www.codelutin.com/">Code Lutin</a></h6>
-        </div>
+        <a href="https://www.codelutin.com/">
+            <img src="/media/partners/logo-code-lutin.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
+            <div class="card-body">
+                <h6 class="card-title">Code Lutin</h6>
+            </div>
+        </a>
     </div>
     <div class="col-md-4 text-center">
-        <img src="/media/partners/codeurs-en-liberte.svg" width="120px" height="120px"class="mt-3 ml-auto mr-auto"/>
-        <div class="card-body">
-            <h6 class="card-title"><a href="https://www.codeursenliberté.fr/">Codeurs en liberté</a></h6>
-        </div>
+        <a href="https://www.codeursenliberté.fr/">
+            <img src="/media/partners/codeurs-en-liberte.svg" width="120px" height="120px"class="mt-3 ml-auto mr-auto"/>
+            <div class="card-body">
+                <h6 class="card-title">Codeurs en liberté</h6>
+            </div>
+        </a>
     </div>
 </div>
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
-        <img src="/media/partners/fdroid.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
-        <div class="card-body">
-            <h6 class="card-title"><a href="https://f-droid.org/">F-Droid</a></h6>
-        </div>
+        <a href="https://f-droid.org/">
+            <img src="/media/partners/fdroid.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
+            <div class="card-body">
+                <h6 class="card-title">F-Droid</h6>
+            </div>
+        </a>
     </div>
     <div class="col-md-4 text-center">
-        <img src="/media/partners/gandi.png" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
-        <div class="card-body">
-            <h6 class="card-title"><a href="https://www.gandi.net/">Gandi</a></h6>
-        </div>
+        <a href="https://www.gandi.net/">
+            <img src="/media/partners/gandi.png" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
+            <div class="card-body">
+                <h6 class="card-title">Gandi</h6>
+            </div>
+        </a>
     </div>
     <div class="col-md-4 text-center">
-        <img src="/media/partners/lqdn.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
-        <div class="card-body">
-            <h6 class="card-title"><a href="https://www.laquadrature.net/">La Quadrature du Net</a></h6>
-        </div>
+        <a href="https://www.laquadrature.net/">
+            <img src="/media/partners/lqdn.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
+            <div class="card-body">
+                <h6 class="card-title">La Quadrature du Net</h6>
+            </div>
+        </a>
     </div>
     <div class="col-md-4 text-center">
-        <img src="/media/partners/octopuce.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
-        <div class="card-body">
-            <h6 class="card-title"><a href="https://www.octopuce.fr/">Octopuce</a></h6>
-        </div>
+        <a href="https://www.octopuce.fr/">
+            <img src="/media/partners/octopuce.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
+            <div class="card-body">
+                <h6 class="card-title">Octopuce</h6>
+            </div>
+        </a>
     </div>
     <div class="col-md-4 text-center">
-        <img src="/media/partners/yale-privacy-lab.png" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
-        <div class="card-body">
-            <h6 class="card-title"><a href="https://privacylab.yale.edu/">Yale Privacy Lab</a></h6>
-        </div>
+        <a href="https://privacylab.yale.edu/">
+            <img src="/media/partners/yale-privacy-lab.png" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
+            <div class="card-body">
+                <h6 class="card-title">Yale Privacy Lab</h6>
+            </div>
+        </a>
     </div>
 </div>
