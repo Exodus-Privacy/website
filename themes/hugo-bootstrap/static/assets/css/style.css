@@ -17,7 +17,7 @@ body {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 80px;
+  height: 70px;
 }
 
 .no-decoration {
@@ -35,7 +35,7 @@ body {
 
 
 .post-meta {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   display: table;
   font-size: 0.8rem;
   color: rgba(0, 0, 0, 0.6);

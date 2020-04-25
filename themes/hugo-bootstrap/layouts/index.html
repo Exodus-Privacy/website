@@ -3,34 +3,36 @@
 {{ partial "foot" . }} -->
 <!DOCTYPE html>
 <html class="no-js">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}</title>
-    {{ partial "base/metas" . }}
 
-    <link rel="stylesheet" href="{{ "assets/css/bootstrap.css" | relURL }}" />
-    <link rel="stylesheet" href="{{ "assets/css/fa.min.css" | relURL }}" />
-    <link rel="stylesheet" href="{{ "assets/css/style.css" | relURL }}">
-    <link rel="stylesheet" href="{{ "assets/css/tomorrow-night.css" | relURL }}">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+  {{ partial "base/metas" . }}
 
-    {{ partial "base/favicon" . }}
-  </head>
-  <body class="bg-dark">
-    {{ partial "base/header" . }}
-    <div class="container">
-      <div class="row justify-content-md-center mt-5">
-          <div class="col-md-6 text-center text-white">
-            <h1>Exodus Privacy</h1>
-            <img src="/media/logo.png" alt="Exodus Privacy logo" width="300px"/>
-            <h3>{{ i18n "description" }}</h3>
-            <p></p>
-            <p>
-                <a class="btn bg-white btn-lg" href={{ "page/what/" | relLangURL }}>{{ i18n "discover" }}</a>
-            </p>
-          </div>
-        </div>
+  <link rel="stylesheet" href="{{ "assets/css/bootstrap.css" | relURL }}" />
+  <link rel="stylesheet" href="{{ "assets/css/fa.min.css" | relURL }}" />
+  <link rel="stylesheet" href="{{ "assets/css/style.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "assets/css/tomorrow-night.css" | relURL }}">
+
+  {{ partial "base/favicon" . }}
+</head>
+
+<body class="bg-dark">
+  {{ partial "base/header" . }}
+  <div class="container">
+    <div class="row justify-content-md-center mt-4">
+      <div class="col-lg-6 col-md-10 text-center text-white">
+        <h1>Exodus Privacy</h1>
+        <img src="/media/logo.png" alt="Exodus Privacy logo" width="300px" class="mt-4 mb-4" />
+        <h3>{{ i18n "description" }}</h3>
+        <p class="mt-4">
+          <a class="btn bg-white btn-lg" href={{ "page/what/" | relLangURL }}>{{ i18n "discover" }}</a>
+        </p>
       </div>
     </div>
-    {{ partial "foot" . }}
-  </body>
+  </div>
+  </div>
+  {{ partial "foot" . }}
+</body>
+
 </html>
