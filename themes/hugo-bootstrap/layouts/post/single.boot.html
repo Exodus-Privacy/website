@@ -1,6 +1,6 @@
 <footer>
   <!--navigation-->
-  {{ if .IsPage }} 
+  {{ if .IsPage }}
   {{ if or ( .NextInSection ) ( .PrevInSection ) }}
   <nav>
     <ul class="pagination">
@@ -10,7 +10,7 @@
           <span aria-hidden="true">&larr;</span>{{ .Site.Data.Strings.previous }}
         </a>
       </li>
-      {{end}} 
+      {{end}}
       {{ if .NextInSection }}
       <li class="page-item">
         <a href="{{ .NextInSection.Permalink }}" title="{{ .NextInSection.Title }}" class="page-link">
@@ -21,7 +21,7 @@
       {{end}}
     </ul>
   </nav>
-  {{ end }} 
+  {{ end }}
   {{ end }}
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">

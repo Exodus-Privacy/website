@@ -1,48 +1,52 @@
 <!DOCTYPE html>
 <html class="no-js">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}</title>
-    {{ partial "base/metas" . }}
 
-    <link rel="stylesheet" href="/css/bootstrap.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+  {{ partial "base/metas" . }}
 
+  <link rel="stylesheet" href="/css/bootstrap.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
 
-    <link rel="stylesheet" href="{{ "assets/css/style.css" | relURL }}">
-    <link rel="stylesheet" href="{{ "assets/css/tomorrow-night.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "assets/css/style.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "assets/css/tomorrow-night.css" | relURL }}">
 
-    {{ partial "base/favicon" . }}
-  </head>
-  <body class="bg-primary">
-    {{ partial "base/header" . }}
+  {{ partial "base/favicon" . }}
+</head>
+
+<body class="bg-primary">
+  {{ partial "base/header" . }}
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 text-center">
+        <h1>Exodus Privacy</h1>
+      </div>
+    </div>
+  </div>
+  <footer
+    class="footer text-white {{ .Site.Params.navbarBgColorClass | default .Site.Data.Defaults.navbarBgColorClass }}">
     <div class="container">
       <div class="row">
-          <div class="col-md-4 text-center">
-            <h1>Exodus Privacy</h1>
-          </div>
+        <div class="col-xs-12 col-md-9">
+          <p class="small text-center m-a-0 p-a-0">
+            {{now.Format "2006"}} {{ with .Site.Copyright }}{{ . | markdownify}}{{ end }}
+          </p>
+          {{ if .Site.Menus.footer }}
+          <p class="text-xs-center  m-a-0 p-a-0">
+            {{ $footerMenuLen := len .Site.Menus.footer}} {{ if gt $footerMenuLen 0 }}
+            {{ range $k, $v := .Site.Menus.footer }}
+            <span class="p-l-1 p-r-1">
+              <a href="{{.URL}}" class="text-capitalize no-decoration text-white">{{ .Name }}</a>
+            </span>
+            {{ if lt $k (sub $footerMenuLen 1) }}&middot;{{ end }} {{ end }} {{ end }}
+          </p>
+          {{ end }}
         </div>
       </div>
     </div>
-    <footer class="footer text-white {{ .Site.Params.navbarBgColorClass | default .Site.Data.Defaults.navbarBgColorClass }}">
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12 col-md-9">
-            <p class="small text-center m-a-0 p-a-0">
-              {{now.Format "2006"}} {{ with .Site.Copyright }}{{ . | markdownify}}{{ end }}
-            </p>
-            {{ if .Site.Menus.footer }}
-            <p class="text-xs-center  m-a-0 p-a-0">
-              {{ $footerMenuLen := len .Site.Menus.footer}} {{ if gt $footerMenuLen 0 }} {{ range $k, $v := .Site.Menus.footer }}
-              <span class="p-l-1 p-r-1">
-                    <a href="{{.URL}}" class="text-capitalize no-decoration text-white">{{ .Name }}</a>
-                  </span>
-                  {{ if lt $k (sub $footerMenuLen 1) }}&middot;{{ end }} {{ end }} {{ end }}
-            </p>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-    </footer>
-  </body>
+  </footer>
+</body>
+
 </html>
