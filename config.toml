@@ -53,12 +53,12 @@ copyright = "Exodus Privacy - Association française à but non-lucratif"
 [languages.fr.params]
 github = "Code Source"
 [[languages.fr.menu.main]]
-name = "Qui"
-url = "/page/who/"
-weight = 1
-[[languages.fr.menu.main]]
 name = "Quoi"
 url = "/page/what/"
+weight = 1
+[[languages.fr.menu.main]]
+name = "Qui"
+url = "/page/who/"
 weight = 2
 [[languages.fr.menu.main]]
 name = "Contribuer"
