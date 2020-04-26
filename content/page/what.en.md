@@ -89,7 +89,7 @@ The application does not analyze the installed applications on you smartphone bu
 
 ## Popularization supports
 
-Exodus Privacy main interest is to make people aware of the tracking done by mobile applications. To do so, we are creating videos explaining how and why tracking massively occures on smartphones. These videos are available on 2 platforms:
+Exodus Privacy main interest is to make people aware of the tracking done by mobile applications. To do so, we are creating videos explaining how and why tracking massively occurs on smartphones. These videos are available on 2 platforms:
 <div class="row justify-content-md-center">
   <div class="col-md-4 text-center">
     <img src="/media/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
