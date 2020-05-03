@@ -47,6 +47,11 @@ draft: false
 * **Le Monde** - *24 Nov 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
 
 ## Presse anglophone
+
+#### 2020
+* **Livemint** - *15 Avr 2020* - [Covid-19-related frauds to shield yourself from](https://www.livemint.com/money/personal-finance/covid-19-related-frauds-to-shield-yourself-from-11586972212973.html)
+* **Decrypt** - *14 Avr 2020* - [7 key ways to protect your privacy online](https://decrypt.co/25414/7-key-ways-to-protect-your-privacy-online)
+
 #### 2019
 * **Kaspersky daily** - *1 Nov 2019* - [Finding out what data apps really collect](https://www.kaspersky.com/blog/check-what-data-apps-collect/29120/)
 * **Rewire.news** - *24 Jul 2019* - [Anti-Choice Apps Are Violating Google and Apple Privacy Standards](https://rewire.news/article/2019/07/24/anti-choice-apps-are-violating-google-and-apple-privacy-standards/)
