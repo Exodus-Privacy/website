@@ -5,6 +5,11 @@ draft: false
 ---
 
 ## English press
+
+#### 2020
+* **Livemint** - *Apr 15 2020* - [Covid-19-related frauds to shield yourself from](https://www.livemint.com/money/personal-finance/covid-19-related-frauds-to-shield-yourself-from-11586972212973.html)
+* **Decrypt** - *Apr 14 2020* - [7 key ways to protect your privacy online](https://decrypt.co/25414/7-key-ways-to-protect-your-privacy-online)
+
 #### 2019
 * **Kaspersky daily** - *Nov 1 2019* - [Finding out what data apps really collect](https://www.kaspersky.com/blog/check-what-data-apps-collect/29120/)
 * **Rewire.news** - *Jul 24 2019* - [Anti-Choice Apps Are Violating Google and Apple Privacy Standards](https://rewire.news/article/2019/07/24/anti-choice-apps-are-violating-google-and-apple-privacy-standards/)
