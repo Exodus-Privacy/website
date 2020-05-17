@@ -7,7 +7,7 @@ draft: false
 # Nos soutiens
 
 <div class="row justify-content-md-center">
-    <div class="col-md-4 text-center">
+    <div class="col-lg-4 col-sm-6 text-center">
         <a href="https://www.codelutin.com/">
             <img src="/media/partners/logo-code-lutin.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
             <div class="card-body">
@@ -15,7 +15,7 @@ draft: false
             </div>
         </a>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-lg-4 col-sm-6 text-center">
         <a href="https://www.codeursenliberté.fr/">
             <img src="/media/partners/codeurs-en-liberte.svg" width="120px" height="120px"class="mt-3 ml-auto mr-auto"/>
             <div class="card-body">
@@ -23,9 +23,7 @@ draft: false
             </div>
         </a>
     </div>
-</div>
-<div class="row justify-content-md-center">
-    <div class="col-md-4 text-center">
+    <div class="col-lg-4 col-sm-6 text-center">
         <a href="https://f-droid.org/">
             <img src="/media/partners/fdroid.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
             <div class="card-body">
@@ -33,7 +31,15 @@ draft: false
             </div>
         </a>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-lg-4 col-sm-6 text-center">
+        <a href="https://framasoft.org/">
+            <img src="/media/partners/framasoft.png" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
+            <div class="card-body">
+                <h6 class="card-title">Framasoft</h6>
+            </div>
+        </a>
+    </div>
+    <div class="col-lg-4 col-sm-6 text-center">
         <a href="https://www.gandi.net/">
             <img src="/media/partners/gandi.png" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
             <div class="card-body">
@@ -41,7 +47,7 @@ draft: false
             </div>
         </a>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-lg-4 col-sm-6 text-center">
         <a href="https://www.laquadrature.net/">
             <img src="/media/partners/lqdn.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
             <div class="card-body">
@@ -49,7 +55,7 @@ draft: false
             </div>
         </a>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-lg-4 col-sm-6 text-center">
         <a href="https://www.octopuce.fr/">
             <img src="/media/partners/octopuce.svg" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
             <div class="card-body">
@@ -57,7 +63,7 @@ draft: false
             </div>
         </a>
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-lg-4 col-sm-6 text-center">
         <a href="https://privacylab.yale.edu/">
             <img src="/media/partners/yale-privacy-lab.png" width="120px" height="120px" class="mt-3 ml-auto mr-auto"/>
             <div class="card-body">
