@@ -11,7 +11,7 @@ Peut-être avez-vous vu passer en avril dernier un questionnaire destiné aux m�
 
 Notre but est de rendre nos découvertes et notre expertise accessible au plus grand nombre. Pour cela, nous pouvons nous appuyer sur un réseau important de médiateurs et médiatrices numériques. Nous savons que des bibliothécaires, des bénévoles, des enseignant·es ou animateur·ices d'Espaces Publics Numériques utilisent régulièrement nos outils et proposent des actions de sensibilisation. Nous avons à coeur d'adapter nos outils à leurs besoins. 
 
-Nous avons déjà travaillé avec des professionnel·les de la médiation numérique pour [améliorer le design de notre plateforme](https://framablog.org/2019/11/29/collaborer-pour-un-design-plus-accessible-lexemple-dexodus-privacy/g), mais nous souhaitions aller plus loin en proposant un kit pédagogique à destination des médiatrices et médiateurs numériques. Il permettrait ainsi à des bénévoles ou professionnel·les de pouvoir animer facilement un atelier autour de la vie privée et des smartphones, sans avoir besoin de le créer de toute pièce. 
+Nous avons déjà travaillé avec des professionnel·les de la médiation numérique pour [améliorer le design de notre plateforme](https://framablog.org/2019/11/29/collaborer-pour-un-design-plus-accessible-lexemple-dexodus-privacy/), mais nous souhaitions aller plus loin en proposant un kit pédagogique à destination des médiatrices et médiateurs numériques. Il permettrait ainsi à des bénévoles ou professionnel·les de pouvoir animer facilement un atelier autour de la vie privée et des smartphones, sans avoir besoin de le créer de toute pièce. 
 
 ### Recenser les besoins des médiateur·ices numériques
 
