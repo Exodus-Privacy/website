@@ -1,0 +1,4 @@
+
+div.post-container a:not(.btn) {
+  text-decoration: underline !important;
+}
