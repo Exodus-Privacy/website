@@ -58,4 +58,4 @@ https://scatterscam.defensive-lab.agency/orgsmssecuresmssecure
 
 It is advised to download and install only apps **coming from trusted sources** such as [F-Droid](https://f-droid.org/). You can look for a link to the official app on the app developer's website to make it easier.
 
-App developers can also protect themselves from counterfeiting by using [ScatterScam](https://defensive-lab.agency/fr/products/scatterscam/) (pay-what-you-want for free software projects).
+App developers can also protect themselves from counterfeiting by using [ScatterScam](https://scatterscam.defensive-lab.agency/) (pay-what-you-want for free software projects).

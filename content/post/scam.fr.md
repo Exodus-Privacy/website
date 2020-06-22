@@ -58,4 +58,4 @@ https://scatterscam.defensive-lab.agency/orgsmssecuresmssecure
 
 Il est conseillé de télécharger et d'installer une application **provenant de sources sûres**, telles que [F-Droid](https://f-droid.org/). Vous pouvez vous aider en allant sur le site Web de la personne développant l'application à la recherche du lien vers l'application officielle.
 
-Les développeuses et développeurs d'applications peuvent aussi se protéger contre la contrefaçon en utilisant [ScatterScam](https://defensive-lab.agency/fr/products/scatterscam/) (à prix libre pour les projets libres).
+Les développeuses et développeurs d'applications peuvent aussi se protéger contre la contrefaçon en utilisant [ScatterScam](https://scatterscam.defensive-lab.agency/) (à prix libre pour les projets libres).
