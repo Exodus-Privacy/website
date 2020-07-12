@@ -22,7 +22,7 @@ draft: false
       <h5 class="card-title">Mobile app</h5>
       <p class="card-text">Keep an eye on your smartphone!</p><br>
       <a href="https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy" class="btn btn-primary">Google Play</a>
-      <a href="https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/" class="btn btn-primary">F-Droid</a>
+      <a href="https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/" class="btn btn-primary">F-Droid</a>
       <p class="mt-3"><a href="#android-app">more details</a></p>
     </div>
   </div>
@@ -75,13 +75,20 @@ If you are curious or want to help us to improve εxodus, you can file issues or
 
 ## εxodus Android application
 
-This application is meant to list the applications you have installed from Google Play and tells you what are the trackers used by each application.
+This application is meant **to list the applications you have installed on your mobile phone** (from Google Play or F-Droid) and to tell you what are the trackers embedded in each application.
 
-<center>
-{{< fig src="/media/exodus-app.png" caption="Overview of the εxodus Android application" >}}
-</center>
+The application is available on [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/) and [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy).
 
-The application does not analyze the installed applications on you smartphone but retrieves the reports available on the [εxodus platform](https://reports.exodus-privacy.eu.org) and [does not contain trackers](https://reports.exodus-privacy.eu.org/reports/search/org.eu.exodus_privacy.exodusprivacy).
+<div class="row">
+  <div class="col-md-6 text-center">
+  {{< fig src="/media/exodus-app-en-1.png" caption="Overview 1 of the εxodus Android application" >}}
+  </div>
+  <div class="col-md-6 text-center">
+  {{< fig src="/media/exodus-app-en-2.png" caption="Overview 2 of the εxodus Android application" >}}
+  </div>
+</div>
+
+The application does not analyze the installed applications on you smartphone but retrieves the reports available on the [εxodus platform](https://reports.exodus-privacy.eu.org) and [does not contain any trackers](https://reports.exodus-privacy.eu.org/reports/search/org.eu.exodus_privacy.exodusprivacy).
 
 <hr>
 

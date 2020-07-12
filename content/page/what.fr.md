@@ -22,7 +22,7 @@ draft: false
       <h5 class="card-title">Application mobile</h5>
       <p class="card-text">Gardez un œil sur votre ordiphone&nbsp;!</p>
       <a href="https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy" class="btn btn-primary">Google Play</a>
-      <a href="https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/" class="btn btn-primary">F-Droid</a>
+      <a href="https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/" class="btn btn-primary">F-Droid</a>
       <p class="mt-3"><a href="#android-app">plus de détails</a></p>
     </div>
   </div>
@@ -76,11 +76,18 @@ Si vous êtes curieux ou si vous voulez nous aider à améliorer εxodus, vous p
 
 ## L’application Android d’εxodus
 
-Le but de cette application est de lister les applications que vous avez installées depuis Google Play et de vous dire quels pisteurs sont utilisés pour chacune d’entre elles.
+Le but de cette application est de **lister les applications que vous avez installées sur votre ordiphone** (depuis Google Play ou F-Droid) et vous dire quels pisteurs sont embarqués dans chacune d’entre elles.
 
-<center>
-{{< fig src="/media/exodus-app.png" caption="Aperçu de l’application Android d’εxodus" >}}
-</center>
+L'application est disponible sur [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/) et [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy).
+
+<div class="row">
+  <div class="col-md-6 text-center">
+  {{< fig src="/media/exodus-app-fr-1.png" caption="Aperçu 1 de l’application Android d’εxodus" >}}
+  </div>
+  <div class="col-md-6 text-center">
+  {{< fig src="/media/exodus-app-fr-2.png" caption="Aperçu 2 de l’application Android d’εxodus" >}}
+  </div>
+</div>
 
 L’application ne fait aucune analyse sur votre ordiphone mais va chercher les rapports disponibles sur la [plateforme εxodus](https://reports.exodus-privacy.eu.org) et [ne contient aucun pisteur](https://reports.exodus-privacy.eu.org/reports/search/org.eu.exodus_privacy.exodusprivacy).
 
