@@ -21,13 +21,20 @@
   {{ partial "base/header" . }}
   <div class="container">
     <div class="row justify-content-md-center mt-4">
-      <div class="col-lg-6 col-md-10 text-center text-white">
+      <div class="col-lg-12 col-md-10 text-center text-white">
         <h1>Exodus Privacy</h1>
         <img src="/media/logo.png" alt="Exodus Privacy logo" width="300px" class="mt-4 mb-4" />
         <h3>{{ i18n "description" }}</h3>
-        <p class="mt-4">
-          <a class="btn bg-white btn-lg" href={{ "page/what/" | relLangURL }}>{{ i18n "discover" }}</a>
-        </p>
+      </div>
+      <div class="col-lg-6 col-md-10 mt-4 text-lg-right text-center">
+        <a class="btn bg-white btn-lg" style="min-width: 220px;" href={{ "page/what/" | relLangURL }}>
+          {{ i18n "discover" }}
+        </a>
+      </div>
+      <div class="col-lg-6 col-md-10 mt-4 text-lg-left text-center">
+        <a class="btn bg-white btn-lg" style="min-width: 220px;" href="https://reports.exodus-privacy.eu.org/">
+          {{ i18n "check" }}
+        </a>
       </div>
     </div>
   </div>

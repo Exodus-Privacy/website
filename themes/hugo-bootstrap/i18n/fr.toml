@@ -4,6 +4,9 @@ other = "Analyse les problèmes de vie privée dans les applications Android."
 [discover]
 other = "Découvrez ce que nous faisons"
 
+[check]
+other = "Vérifier une application"
+
 [recentPosts]
 other = "Derniers articles"
 
