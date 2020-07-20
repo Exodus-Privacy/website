@@ -40,7 +40,7 @@ Ainsi, Scatterscam, l'outil de détection proposé par Defensive Lab Agency, va 
 
 Oui, comme indiqué dans le rapport correspondant sur Scatterscam :
 
-https://scatterscam.defensive-lab.agency/orgeuexodus_privacyexodusprivacy
+https://scatterscam.defensive-lab.agency/report/orgeuexodus_privacyexodusprivacy/
 
 <center>
 {{< fig src="/media/scatterscam_exodus.png" caption="Rapport sur l'application εxodus dans Scatterscam" >}}
@@ -52,7 +52,7 @@ Pour l'instant, il n'existe pas de chiffres permettant de mesurer l'ampleur du p
 
 Par exemple, l'application Silence a 48 contrefaçons détectées par Scatterscam :
 
-https://scatterscam.defensive-lab.agency/orgsmssecuresmssecure
+https://scatterscam.defensive-lab.agency/report/orgsmssecuresmssecure/
 
 #### Comment se protéger ?
 
