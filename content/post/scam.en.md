@@ -40,7 +40,7 @@ Scattercam, the detection tool offered by Defensive Lab Agency, works this way: 
 
 Yes, as the report on Scatterscam shows:
 
-https://scatterscam.defensive-lab.agency/orgeuexodus_privacyexodusprivacy
+https://scatterscam.defensive-lab.agency/report/orgeuexodus_privacyexodusprivacy/
 
 <center>
 {{< fig src="/media/scatterscam_exodus.png" caption="Report for the app εxodus on Scatterscam" >}}
@@ -52,7 +52,7 @@ As of today, there are no data which allow us to measure the extent of this prob
 
 For example, Scatterscam detected 48 counterfeits for the Silence app:
 
-https://scatterscam.defensive-lab.agency/orgsmssecuresmssecure
+https://scatterscam.defensive-lab.agency/report/orgsmssecuresmssecure/
 
 #### How can I protect myself?
 
