@@ -99,7 +99,7 @@ The application does not analyse the applications installed directly on your sma
 The main goal of εxodus Privacy is to raise awareness of the extent of tracking by and in mobile applications. To this end, we have created videos explaining how and why tracking massively occurs on smartphones. You can watch these videos on 2 platforms:
 <div class="row justify-content-md-center">
   <div class="col-md-4 text-center">
-    <img src="/media/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
+    <img src="/media/peertube.svg" height="42px" class="mt-3 ml-auto mr-auto"/>
     <div class="card-body">
       <h5 class="card-title"><code>@exodus</code></h5>
       <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">Watch!</a>
