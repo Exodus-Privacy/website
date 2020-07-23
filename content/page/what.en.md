@@ -1,10 +1,10 @@
 ---
 title: "What"
-date: 2018-01-11 17:33:02
+date: 2020-07-23 17:45:00
 draft: false
 ---
 
-# What Exodus Privacy does
+# What εxodus Privacy does
 
 <div class="row">
   <div class="col-md-4 text-center">
@@ -29,8 +29,8 @@ draft: false
   <div class="col-md-4 text-center">
     <i class="fa fa-4x fa-umbrella-beach mt-2 ml-auto mr-auto text-primary"></i>
     <div class="card-body">
-      <h5 class="card-title">Popularization</h5>
-      <p class="card-text">Upgrade your minds with delightful contents!</p>
+      <h5 class="card-title">Learn more</h5>
+      <p class="card-text">Learn more about the issue with some nice videos!</p>
       <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">PeerTube</a>
       <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">YouTube</a>
       <p class="mt-3"><a href="#videos">more details</a></p>
@@ -42,29 +42,29 @@ draft: false
 
 <a name="exodus"></a>
 
-## εxodus - the privacy auditing platform for Android applications
+## εxodus - the Privacy Auditing Platform for Android Applications
 
-εxodus analyzes Android applications in order to list the embedded trackers. A tracker is a piece of software meant to collect data about you or your usages. So, εxodus reports tell you what are the ingredients of the cake. εxodus does not decompile applications, its analysis technic is legal.
+εxodus analyses Android applications. It looks for embedded trackers and lists them. A tracker is a piece of software meant to collect data about you or what you do. In a way, εxodus reports are a way of knowing what really are the ingredients of the cake you are eating. εxodus does not decompile applications, its analysis technique is entirely legal.
 
-The [εxodus website](http://reports.exodus-privacy.eu.org/) allows you to:
+The [εxodus website](http://reports.exodus-privacy.eu.org/) lets you:
 
-* look at an Android application report with [its search engine](https://reports.exodus-privacy.eu.org/)
-* analyze an Android application by [submitting its identifier](https://reports.exodus-privacy.eu.org/analysis/submit/)
-* obtain  [a list of tools and things you can](https://reports.exodus-privacy.eu.org/en/info/next/) do to better manage your privacy on your smartphone
+* check an Android application report using the [search engine](https://reports.exodus-privacy.eu.org/)
+* analyse a new Android application by [requesting analysis](https://reports.exodus-privacy.eu.org/analysis/submit/)
+* go further, providing [a list of tools and things you can do](https://reports.exodus-privacy.eu.org/en/info/next/) to improve your privacy on your smartphone
 
 <center>
 {{< fig src="/media/report-overview-en.png" caption="Overview of a report" >}}
 </center>
 
-Each report will tell you what are the trackers embedded into the application. By clicking on a tracker's name, we will be redirected to the details of the tracker and the list of application using it. If the tracker description is empty or inaccurate, feel free to refer to the [ETIP](https://github.com/Exodus-Privacy/etip/) project.
+Each report will tell you what trackers are embedded into the application. By clicking on a tracker's name, you will be taken to a page showing more details on this tracker as well as the list of applications using it. If the tracker description is empty or inaccurate, please feel free to refer to the [ETIP](https://github.com/Exodus-Privacy/etip/) project.
 
 <center>
-{{< fig src="/media/report-trackers-en.png" caption="Overview of the detected trackers list" >}}
+{{< fig src="/media/report-trackers-en.png" caption="Overview of the list of detected trackers" >}}
 </center>
-A report will also give you the list of permissions the application requires to correctly operate on your smartphone. Some of these permissions are tagged as *dangerous*, it means that from the Google point of vue, the application can do *bad things* by using this permission. εxodus uses the Google permission classification.
+A report will also give you the list of permissions the application requests to operate on your smartphone. Some of these permissions are tagged as *dangerous*. This means that from Google's point of view, the application can do *bad things* using this permission. εxodus uses the Google permission classification.
 
 <center>
-{{< fig src="/media/report-perms-en.png" caption="Overview of the permissions list" >}}
+{{< fig src="/media/report-perms-en.png" caption="Overview of the list of permissions" >}}
 </center>
 
 If you are curious or want to help us to improve εxodus, you can file issues or submit improvements on our [GitHub project <i class="fab fa-github"></i>](https://github.com/exodus-privacy/).
@@ -73,30 +73,30 @@ If you are curious or want to help us to improve εxodus, you can file issues or
 
 <a name="android-app"></a>
 
-## εxodus Android application
+## εxodus Android Application
 
-This application is meant **to list the applications you have installed on your mobile phone** (from Google Play or F-Droid) and to tell you what are the trackers embedded in each application.
+Our application is designed **to list the applications already installed on your mobile phone** (both from [Google Play](https://play.google.com/store) or [F-Droid](f-droid.org/) and report the trackers embedded in each application.
 
 The application is available on [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/) and [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy).
 
 <div class="row">
   <div class="col-md-6 text-center">
-  {{< fig src="/media/exodus-app-en-1.png" caption="Overview 1 of the εxodus Android application" >}}
+  {{< fig src="/media/exodus-app-en-1.png" caption="Overview 1 of the εxodus Android application - List of installed applications" >}}
   </div>
   <div class="col-md-6 text-center">
-  {{< fig src="/media/exodus-app-en-2.png" caption="Overview 2 of the εxodus Android application" >}}
+  {{< fig src="/media/exodus-app-en-2.png" caption="Overview 2 of the εxodus Android application - Tracker details for an application" >}}
   </div>
 </div>
 
-The application does not analyze the installed applications on you smartphone but retrieves the reports available on the [εxodus platform](https://reports.exodus-privacy.eu.org) and [does not contain any trackers](https://reports.exodus-privacy.eu.org/reports/search/org.eu.exodus_privacy.exodusprivacy).
+The application does not analyse the applications installed directly on your smartphone, instead it retrieves the reports already available on the [εxodus platform](https://reports.exodus-privacy.eu.org). Of course, the εxodus application itself [does not contain any trackers](https://reports.exodus-privacy.eu.org/reports/search/org.eu.exodus_privacy.exodusprivacy).
 
 <hr>
 
 <a name="videos"></a>
 
-## Popularization supports
+## Outreach: Learn More
 
-Exodus Privacy main interest is to make people aware of the tracking done by mobile applications. To do so, we are creating videos explaining how and why tracking massively occurs on smartphones. These videos are available on 2 platforms:
+The main goal of εxodus Privacy is to raise awareness of the extent of tracking by and in mobile applications. To this end, we have created videos explaining how and why tracking massively occurs on smartphones. You can watch these videos on 2 platforms:
 <div class="row justify-content-md-center">
   <div class="col-md-4 text-center">
     <img src="/media/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
@@ -115,7 +115,7 @@ Exodus Privacy main interest is to make people aware of the tracking done by mob
 </div>
 
 
-We also animate 3 social network accounts:
+You can also find us on 3 social networks:
 <div class="row">
   <div class="col-md-4 text-center">
     <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
