@@ -4,7 +4,7 @@ date: 2020-07-23 17:45:00
 draft: false
 ---
 
-# What εxodus Privacy does
+# What Exodus Privacy does
 
 <div class="row">
   <div class="col-md-4 text-center">
@@ -96,7 +96,7 @@ The application does not analyse the applications installed directly on your sma
 
 ## Outreach: Learn More
 
-The main goal of εxodus Privacy is to raise awareness of the extent of tracking by and in mobile applications. To this end, we have created videos explaining how and why tracking massively occurs on smartphones. You can watch these videos on 2 platforms:
+The main goal of Exodus Privacy is to raise awareness of the extent of tracking by and in mobile applications. To this end, we have created videos explaining how and why tracking massively occurs on smartphones. You can watch these videos on 2 platforms:
 <div class="row justify-content-md-center">
   <div class="col-md-4 text-center">
     <img src="/media/peertube.svg" height="42px" class="mt-3 ml-auto mr-auto"/>
