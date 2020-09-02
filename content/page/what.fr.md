@@ -100,7 +100,7 @@ L’application ne fait aucune analyse sur votre ordiphone mais va chercher les 
 Le but principal d’Exodus Privacy est d’avertir les utilisateurs du pistage fait par les applications mobiles. Pour ce faire, nous avons créé des vidéos de vulgarisation expliquant comment et pourquoi les pisteurs sont présents dans les ordiphones. Ces vidéos sont disponibles sur 2 plateformes :
 <div class="row justify-content-md-center">
   <div class="col-md-4 text-center">
-    <img src="/media/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
+    <img src="/media/peertube.svg" height="42px" class="mt-3 ml-auto mr-auto"/>
     <div class="card-body">
       <h5 class="card-title"><code>@exodus</code></h5>
       <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">Regardez !</a>
