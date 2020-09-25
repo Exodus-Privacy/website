@@ -1,40 +1,39 @@
 ---
-title: "[FR] Retour sur notre rencontre avec la CNIL"
+title: "[EN] Feedback on our meeting with the CNIL"
 date: 2018-02-28 19:56:18
 draft: false
 ---
 
-**Note: this post is only available in French for the time being.**
+On February 14, 2018, Exodus Privacy was invited by the CNIL (_"Commission Nationale de l'Informatique et des Libertés" in french, "National Commission for Computing and Liberties" in english_) to its premises to present itself and its activities.
 
-Le 14 février 2018, Exodus Privacy a été invitée par la CNIL (_Commission Nationale de l’Informatique et des Libertés_) dans ses locaux à se présenter et présenter ses activités.
+Were present for Exodus Privacy: [U+039b](https://esther.codes/about-me/) (president), [Lovis_IX](https://pleroma.tamanoir.foucry.net/users/LovisIX) (secretary) and [Maxime Auvy](https://open-freax.fr/) (member of the office). We were accompanied by a member of [La Quadrature du Net](https://www.laquadrature.net/en/).
 
-Étaient présents pour Exodus Privacy : [U+039b](https://esther.codes/about-me/) (présidente), [Lovis_IX](https://pleroma.tamanoir.foucry.net/users/LovisIX) (secrétaire) et [Maxime Auvy](https://open-freax.fr/ ) (membre du bureau). Nous étions accompagnés par un membre de [La Quadrature du Net](https://www.laquadrature.net/fr/).
+There were many participants on the CNIL side, around 15 people, from different departments. We were initially invited by Geoffrey Delcroix, from [LINC](https://linc.cnil.fr/fr/propos-de-linc) (_"Laboratoire d’Innovation Numérique de la CNIL" in french, "CNIL Digital Innovation Laboratory
+" in english _).
 
-Les participants coté CNIL étaient nombreux, environ 15 personnes, issus de différents services. Nous étions initialement invités par Geoffrey Delcroix, du [LINC](https://linc.cnil.fr/fr/propos-de-linc) (*Laboratoire d’Innovation Numérique de la CNIL*).
+Were represented in particular:
 
-Étaient représentés notamment :
+- the Compliance Department, which generally establishes the interpretation of the Data Protection Act, and the guidelines to be followed by organizations;
+- the Directorate for the Protection of Rights and Sanctions, and more particularly the Control Department, interested in using the εxodus tool as part of the preparation of its missions;
+- the Technological Expertise Department, with regard to more specifically the internal functioning of the tool.
 
-*  la Direction de la Conformité, qui établit globalement l’interprétation faite de la loi Informatique et Libertés, et les lignes directrices à suivre par les organismes ;
-*  la Direction de la Protection des Droits et des Sanctions, et plus particulièrement le Service des Contrôles, intéressé par l’utilisation de l'outil εxodus dans le cadre de la préparation de ses missions ;
-*  le Service de l’Expertise Technologique, pour ce qui touche plus spécifiquement au fonctionnement interne de l'outil.
+Several points were discussed, including:
 
-Plusieurs points ont été abordés, notamment :
+- the genesis of Exodus Privacy;
+- the operation of the platform;
+- technical obstacles;
+- legal obstacles;
+- the evolution of the platform;
+- the help that the CNIL could give us;
+- avenues for the future ...
 
-*  la genèse d’Exodus Privacy ;
-*  le fonctionnement de la plateforme ;
-*  les obstacles techniques ;
-*  les obstacles légaux ;
-*  l’évolution de la plateforme ;
-*  l’aide que pourrait nous apporter la CNIL ;
-*  les pistes pour l’avenir…
+Many questions focused on the operation of the platform, in particular on a possible peer review to validate the operation of εxodus (potentially by INRIA), in particular to eliminate any suspicion of false positives. Completeness (a complete and up-to-date list) of trackers is a much more difficult challenge, as the number of players in the field continues to grow.
+One of the key points that was clarified was the distinction between on-board "tracker" and active on-board "tracker", especially since there is no evidence that a tracker inactive at time _T_ is not at _T + 1_. It is difficult to give a ruling for legal reasons in France (in particular because of decompilation, which is prohibited).
 
-Beaucoup de questions ont porté sur le fonctionnement de la plateforme, en particulier sur une éventuelle revue par les pairs afin de valider le fonctionnement de εxodus (potentiellement par l’INRIA), notamment pour éliminer toute suspicion de faux-positifs. L'exhaustivité (une liste complète et à jour) des pisteurs est un défi bien plus difficile à relever, le nombre d'intervenants dans le domaine ne cessant de croître.
-Un des points essentiels qui a été clarifié consistait en la distinction entre « pisteur » embarqué et « pisteur » embarqué actif, d’autant que rien ne prouve qu'un pisteur inactif à l'instant _T_ ne le soit pas à _T+1_. Il est difficile de statuer pour des raisons juridiques en France (notamment à cause de la décompilation, interdite).
+LINC will install an instance of the εxodus platform for its own analyzes and out-of-control investigations.
 
-Le LINC va installer une instance de la plateforme εxodus pour ses propres analyses et investigations hors contrôles.
+The CNIL plans to cite εxodus via several channels: from individuals (the CNIL offers a list of recommended tools and good practices for obtaining information, for example CookieViz), from professionals (more precisely by mentioning εxodus in the method of '' privacy impact assessment (ÉIVP / PIA) supported by the GDPR, and via a mixed but freer channel (an article on the LINC blog).
 
-La CNIL envisage de citer εxodus via plusieurs canaux : auprès des particuliers (la CNIL propose une liste d’outils recommandés et de bonnes pratiques pour s'informer, par exemple CookieViz), auprès des professionnels (plus précisément en mentionnant εxodus dans la méthode d'évaluation des impacts sur la vie privée (ÉIVP / PIA) adossée au RGPD, et via un canal mixte mais plus libre (un article sur le blog du LINC).
+Exodus Privacy has raised the question of a possible right of reply from publishers on reports published on the εxodus platform. We were told that the strict objectivity of Exodus Privacy reports cannot be the subject of a right of reply and that it is the responsibility of the publisher of the application concerned to report the presence and the use of trackers.
 
-Exodus Privacy a soulevé la question d’un éventuel droit de réponse des éditeurs sur les rapports publiés sur la plateforme εxodus. Il nous a été répondu que la stricte objectivité des rapports d'Exodus Privacy ne saurait faire l'objet d'un droit de réponse et qu'il est de la responsabilité de l'éditeur de l'application concernée de signaler la présence et de l'utilisation de pisteurs.
-
-Nous tenons une nouvelle fois à remercier les différents interlocuteurs de la CNIL et du LINC qui nous ont reçus.
+We would once again like to thank the various contacts from the CNIL and LINC who received us.
