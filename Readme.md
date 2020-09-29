@@ -26,4 +26,4 @@ hugo server -D
 
 ## License
 
-To be defined
+This project is licensed under the GNU AGPL v3 License - see the [LICENSE](https://github.com/Exodus-Privacy/website/blob/hugo/LICENSE) file for details.
