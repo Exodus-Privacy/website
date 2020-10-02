@@ -71,7 +71,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <div class="card-body">
             <h6 class="card-title"><code>pnu</code></h6>
             <a href="https://twitter.com/simon_pnu"><i class="fab fa-2x fa-twitter"></i></a>
-            <a href="https://github.com/simpnu"><i class="fab fa-github fa-2x"></i></a>
+            <a href="https://github.com/pnu-s"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">In charge of εxodus development.</p>
         </div>
     </div>

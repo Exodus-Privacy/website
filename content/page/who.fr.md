@@ -71,7 +71,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         <div class="card-body">
             <h6 class="card-title"><code>pnu</code></h6>
             <a href="https://twitter.com/simon_pnu"><i class="fab fa-2x fa-twitter"></i></a>
-            <a href="https://github.com/simpnu"><i class="fab fa-github fa-2x"></i></a>
+            <a href="https://github.com/pnu-s"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">En charge du dévelopement d’εxodus.</p>
         </div>
     </div>
