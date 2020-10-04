@@ -68,6 +68,8 @@ Un rapport vous donne aussi la liste des permissions requises par l’applicatio
 {{< fig src="/media/report-perms-fr.png" caption="Aperçu de la liste des permissions" >}}
 </center>
 
+Nous avons écrit des articles pédagogiques pour informer sur les pisteurs et les permissions et donner aux personnes utilisatrices de smartphones les outils pour mieux maîtriser leur intimité sur mobile. Ils sont accessibles dans la page [Mieux comprendre](https://reports.exodus-privacy.eu.org/fr/info/understand/) de la plateforme εxodus.
+
 Si vous êtes curieux ou si vous voulez nous aider à améliorer εxodus, vous pouvez ouvrir un ticket ou proposer des améliorations sur le dépôt de notre [projet sur GitHub <i class="fab fa-github"></i>](https://github.com/exodus-privacy/).
 
 <hr>
