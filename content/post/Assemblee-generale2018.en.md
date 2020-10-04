@@ -1,27 +1,25 @@
 ---
-title: "[FR] Exodus Privacy a réuni son assemblée générale"
+title: "Exodus Privacy convened its general assembly"
 date: 2018-10-01 09:01:00
 draft: false
 ---
 
-**Note: this post is only available in French for the time being.**
+For every association under the 1901 Law, the general assembly is an important moment! Exodus Privacy was no exception. And on September 1st, 2018, in Nantes, its members met to take stock of the first year, elect the new board and discuss projects.
 
-Pour toutes les associations Loi 1901, l’assemblée générale est un moment important ! Exodus Privacy n’a pas failli à la règle et le 1er septembre 2018, à Nantes, ses membres se sont réuni.e.s pour faire un bilan de la première année, élire le nouveau bureau et discuter des projets.
+The activity report made it possible to trace the history of the association:
 
-Le bilan moral a permis de retracer l’historique de l’association :
+* On August 25, 2017, the message from U+039B on Mastodon drew attention to the presence of a tracker from the firm Teemo in several Android applications
+* Informal meetings laid the technical foundations of the platform
+* The association got officially created on October 10, 2017
+* The platform opened to the public on November 24, 2017
+* A partnership with the Yale Privacy Lab was set up, using Exodus Privacy tools for its cyber-security lessons
+* Exodus got a very dense media coverage
+* The [CNIL](https://exodus-privacy.eu.org/en/post/retour-sur-notre-rencontre-avec-la-cnil/) and the the AFNIC invited us to present our work.
 
-* Le 25 août 2017, le message de U+039B sur Mastodon attirant l’attention sur la présence d’un pisteur de la firme Teemo, dans plusieurs applications Android
-* Des rencontres informelles permettant de poser les prémices techniques de la plateforme
-* La création officielle de l’association le 10 octobre 2017
-* L’ouverture de la plateforme au public le 24 novembre 2017
-* La mise en place d’un partenariat avec le Yale Privacy Lab qui utilise les outils d’Exodus Privacy pour ses cours de cyber-sécurité
-* Une couverture médiatique très dense
-* L’invitation par la [CNIL](https://exodus-privacy.eu.org/en/post/retour-sur-notre-rencontre-avec-la-cnil/), puis par l’AFNIC à présenter nos travaux.
+In less than a year, Exodus Privacy has acquired undeniable scientific and technical credibility. But the aim of the association being to reach the general public, it is necessary to concentrate the efforts of the association on this point, in particular by developing materials intended for the general public and links with digital mediators.
 
-En moins d’un an, Exodus Privacy a acquis une crédibilité scientifique et technique indéniable. Mais le but de l’association étant de toucher le grand public, il est nécessaire de concentrer les efforts de l’association sur ce point, notamment en développant les supports destinés au grand public et les liens avec les médiatrices et médiateurs numériques.
+After the unanimous approval of the activity report, we discussed the financial report of the association. In particular, we decided to financially support [Framasoft] (https://framasoft.org/fr/), because their services are regularly useful to us! The financial report was approved by a majority of the votes cast, the treasurer having preferred to abstain.
 
-Après l’approbation du bilan moral à l’unanimité, nous avons discuté du bilan financier de l’association et notamment décidé de soutenir financièrement [Framasoft](https://framasoft.org/fr/), car leurs services nous sont régulièrement bien utiles ! Le bilan financier a été approuvé à la majorité des suffrages exprimés, le trésorier ayant préféré s’abstenir.
+Finally, the general assembly ended with the election of the new board. Lovis_IX (treasurer), Codimp (secretary), U+039b and MeTaL_PoU (president) were elected.
 
-Enfin, l'assemblée générle s'est conclue sur l'élection du nouveau bureau. Ont été élu.e.s Lovis_IX (trésorier), Codimp (secrétaire), U+039b et MeTaL_PoU (présidente).
-
-Nous en profitons pour remercier toutes les personnes qui ont soutenu Exodus Privacy, qu’elles aient donné un peu de temps ou d’argent, ou tout simplement relayé nos travaux. Si vous souhaitez nous rejoindre, pour faire des supports pédagogiques comme nos vidéos, de la communication, de la traduction, du code, de la relecture… n’hésitez pas ! Le plus simple est de nous rejoindre sur le [forum](https://forum.exodus-privacy.eu.org/).
+We take this opportunity to thank all the people who supported Exodus Privacy, whether they donated a little time or money, or simply relayed our work. If you want to join us, to make educational materials such as our videos, communication, translation, code, proofreading… don't hesitate! The easiest way is to join us on the [forum](https://forum.exodus-privacy.eu.org/).
