@@ -1,5 +1,5 @@
 ---
-title: "[EN] Exodus Privacy convened its general assembly"
+title: "Exodus Privacy convened its general assembly"
 date: 2018-10-01 09:01:00
 draft: false
 ---
@@ -22,4 +22,4 @@ After the unanimous approval of the activity report, we discussed the financial 
 
 Finally, the general assembly ended with the election of the new board. Lovis_IX (treasurer), Codimp (secretary), U + 039b and MeTaL_PoU (president) were elected.
 
-We take this opportunity to thank all the people who supported Exodus Privacy, whether they donated a little time or money, or simply relayed our work. If you want to join us, to make educational materials such as our videos, communication, translation, code, proofreading ... don't hesitate! The easiest way is to join us on the [forum] (https://forum.exodus-privacy.eu.org/).
+We take this opportunity to thank all the people who supported Exodus Privacy, whether they donated a little time or money, or simply relayed our work. If you want to join us, to make educational materials such as our videos, communication, translation, code, proofreading ... don't hesitate! The easiest way is to join us on the [forum](https://forum.exodus-privacy.eu.org/).
