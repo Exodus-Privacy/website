@@ -4,12 +4,12 @@ date: 2018-02-28 19:56:18
 draft: false
 ---
 
-On February 14, 2018, Exodus Privacy was invited by the CNIL (_"Commission Nationale de l'Informatique et des Libertés" in french, "National Commission for Computing and Liberties" in english_) to its premises to present itself and its activities.
+On February 14, 2018, Exodus Privacy was invited by the CNIL (_"Commission Nationale de l'Informatique et des Libertés" in French, "National Commission for Computing and Liberties" in English_) to its premises to present itself and its activities.
 
 Were present for Exodus Privacy: [U+039b](https://esther.codes/about-me/) (president), [Lovis_IX](https://pleroma.tamanoir.foucry.net/users/LovisIX) (secretary) and [Maxime Auvy](https://open-freax.fr/) (member of the office). We were accompanied by a member of [La Quadrature du Net](https://www.laquadrature.net/en/).
 
-There were many participants on the CNIL side, around 15 people, from different departments. We were initially invited by Geoffrey Delcroix, from [LINC](https://linc.cnil.fr/fr/propos-de-linc) (_"Laboratoire d’Innovation Numérique de la CNIL" in french, "CNIL Digital Innovation Laboratory
-" in english _).
+There were many participants on the CNIL side, around 15 people, from different departments. We were initially invited by Geoffrey Delcroix, from [LINC](https://linc.cnil.fr/fr/propos-de-linc) (_"Laboratoire d’Innovation Numérique de la CNIL" in French, "CNIL Digital Innovation Laboratory
+" in English _).
 
 Were represented in particular:
 
