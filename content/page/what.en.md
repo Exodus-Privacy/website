@@ -67,6 +67,8 @@ A report will also give you the list of permissions the application requests to 
 {{< fig src="/media/report-perms-en.png" caption="Overview of the list of permissions" >}}
 </center>
 
+We wrote some educational articles to inform smartphone users about trackers and permissions and give them some tools to better manage their privacy. You can read them in the [Better understand](https://reports.exodus-privacy.eu.org/en/info/understand/) page of the εxodus platform.
+
 If you are curious or want to help us to improve εxodus, you can file issues or submit improvements on our [GitHub project <i class="fab fa-github"></i>](https://github.com/exodus-privacy/).
 
 <hr>
