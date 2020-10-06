@@ -8,8 +8,7 @@ On February 14, 2018, Exodus Privacy was invited by the CNIL (_"Commission Natio
 
 Were present for Exodus Privacy: [U+039b](https://esther.codes/about-me/) (president), [Lovis_IX](https://pleroma.tamanoir.foucry.net/users/LovisIX) (secretary) and [Maxime Auvy](https://open-freax.fr/) (member of the office). We were accompanied by a member of [La Quadrature du Net](https://www.laquadrature.net/en/).
 
-There were many participants on the CNIL side, around 15 people, from different departments. We were initially invited by Geoffrey Delcroix, from [LINC](https://linc.cnil.fr/fr/propos-de-linc) (_"Laboratoire d’Innovation Numérique de la CNIL" in French, "CNIL Digital Innovation Laboratory
-" in English _).
+There were many participants on the CNIL side, around 15 people, from different departments. We were initially invited by Geoffrey Delcroix, from [LINC](https://linc.cnil.fr/fr/propos-de-linc) (_"Laboratoire d’Innovation Numérique de la CNIL" in French, "CNIL Digital Innovation Laboratory" in English_).
 
 Were represented in particular:
 
@@ -25,7 +24,7 @@ Several points were discussed, including:
 * legal obstacles;
 * the evolution of the platform;
 * the help that the CNIL could give us;
-* the directions for the future ...
+* the directions for the future…
 
 Many questions focused on the operation of the platform, in particular on a possible peer review to validate the operation of εxodus (potentially by INRIA), in particular to eliminate any suspicion of false positives. Completeness (a complete and up-to-date list) of trackers is a much more difficult challenge, as the number of players in the field continues to grow.
 One of the key points that was clarified was the distinction between on-board "tracker" and active on-board "tracker", especially since there is no evidence that a tracker inactive at time _T_ is not at _T + 1_. It is difficult to give a ruling for legal reasons in France (in particular because of decompilation, which is prohibited).
