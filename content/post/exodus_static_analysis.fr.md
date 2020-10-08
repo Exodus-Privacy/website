@@ -5,7 +5,7 @@ draft: false
 tags: [analyse, reverse-engineering]
 ---
 
-L'analyse statique des applications Android est au cœur de la plateforme εxodus. L'idée principale est de détecter la présence de _trackers_ connus dans une application sans l'exécuter. En fait, εxodus ne peut pas prendre trop de temps pour chaque analyse, donc la méthode de détection doit être efficace dans le temps, reproductible et exempte de faux positifs.
+L'analyse statique des applications Android est au cœur de la plateforme εxodus. L'idée principale est de détecter la présence de pisteurs connus dans une application sans l'exécuter. En fait, εxodus ne peut pas prendre trop de temps pour chaque analyse, donc la méthode de détection doit être efficace dans le temps, reproductible et exempte de faux positifs.
 
 Les applications Android sont développées dans des langages compatibles JVM comme Java, Kotlin, etc. Les programmes exécutés sur JVM présentent de nombreuses différences par rapport aux programmes C ou Go, la principale étant que les noms de classes sont lisibles directement dans le fichier binaire du programme sans nécessiter de décompilation. JVM identifie un type par son nom de classe pleinement qualifié comme `org.exodus.Report`, `org.exodus` est le nom du package et `Report` est le nom de la classe.
 
@@ -64,9 +64,9 @@ $ dexdump my.apk | grep "Class descriptor" | sort | uniq
 
 En Java, C++, Python et d'autres langages, les espaces de nom sont vraiment importants et lorsque vous fournissez une bibliothèque, vous devez vous assurer que l'espace de nom de la bibliothèque n'entre jamais en conflit avec d'autres bibliothèques.
 
-εxodus "fouille" dans les fichiers `.apk` pour trouver des _trackers_ et ces _trackers_ peuvent être identifiés par leur propre espace de nom. Par exemple, le `name-space/package` racine de la bibliothèque Amazon Ads est `com.amazon.device.ads`, cette bibliothèque partage le nom du package `com.amazon` avec d'autres bibliothèques Amazon. Ainsi, à ce stade, une signature de suivi est un espace de nom (un nom de _package_).
+εxodus "fouille" dans les fichiers `.apk` pour trouver des pisteurs et ces pisteurs peuvent être identifiés par leur propre espace de nom. Par exemple, le `name-space/package` racine de la bibliothèque Amazon Ads est `com.amazon.device.ads`, cette bibliothèque partage le nom du package `com.amazon` avec d'autres bibliothèques Amazon. Ainsi, à ce stade, une signature de suivi est un espace de nom (un nom de _package_).
 
-Pour le moment, εxodus connaît [152 _trackers_](https://reports.exodus-privacy.eu.org/trackers/), et si nous regardons [Flurry](https://reports.exodus-privacy.eu.org/trackers/25/), nous avons la règle de détection `com.flurry.` qui est un [regex](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re).
+Pour le moment, εxodus connaît [152 pisteurs](https://reports.exodus-privacy.eu.org/trackers/), et si nous regardons [Flurry](https://reports.exodus-privacy.eu.org/trackers/25/), nous avons la règle de détection `com.flurry.` qui est un [regex](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re).
 
 <center>
 {{< fig src="/media/flurry.png" caption="Aperçu de la description Flurry" >}}
@@ -90,12 +90,12 @@ $ dexdump my.apk | grep "Class descriptor" | sort | uniq | grep -E "com.flurry."
 
 Comme nous pouvons le voir, `my.apk` contient des classes de Flurry.
 
-Ainsi, lorsque vous [soumettez](https://reports.exodus-privacy.eu.org/analysis/submit/) une application pour analyse, εxodus la télécharge depuis Google Play, extrait le fichier `.apk`, appelle `dexdump` sur les fichiers `.dex`, stocke la sortie filtrée dans un fichier qui sera utilisé lors de la mise à jour des rapports afin d'accélérer l'analyse, prend la règle de détection de chaque _tracker_ connu et voit si les noms de classe correspondent. Si une règle de détection correspond à un ou plusieurs noms de classe, nous considérons le _tracker_ intégré, sinon, nous le considérons comme manquant.
+Ainsi, lorsque vous [soumettez](https://reports.exodus-privacy.eu.org/analysis/submit/) une application pour analyse, εxodus la télécharge depuis Google Play, extrait le fichier `.apk`, appelle `dexdump` sur les fichiers `.dex`, stocke la sortie filtrée dans un fichier qui sera utilisé lors de la mise à jour des rapports afin d'accélérer l'analyse, prend la règle de détection de chaque pisteur connu et voit si les noms de classe correspondent. Si une règle de détection correspond à un ou plusieurs noms de classe, nous considérons le pisteur intégré, sinon, nous le considérons comme manquant.
 
 <center>
 {{< fig src="/media/static_analysis.png" caption="Aperçu du processus d'analyse statique" >}}
 </center>
 
-Si vous souhaitez nous aider à améliorer la base de connaissances εxodus, [contactez-nous](/fr/page/who/) et demandez un compte [ETIP](http://etip.exodus-privacy.eu.org/). ETIP est une plateforme collaborative destinée à faciliter les investigations et la classification sur les trackers.
+Si vous souhaitez nous aider à améliorer la base de connaissances εxodus, [contactez-nous](/fr/page/who/) et demandez un compte [ETIP](http://etip.exodus-privacy.eu.org/). ETIP est une plateforme collaborative destinée à faciliter les investigations et la classification sur les pisteurs.
 
-Si vous êtes développeur d'applications, vous pouvez utiliser [exodus-standalone](https://github.com/Exodus-Privacy/exodus-standalone) pour analyser votre application avant sa publication sur Google Play.
+Si vous êtes développeur d'applications, vous pouvez utiliser [exodus-standalone](https://github.com/Exodus-Privacy/exodus-standalone) pour analyser votre application **avant** sa publication sur Google Play.
