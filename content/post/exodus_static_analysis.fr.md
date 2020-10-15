@@ -5,7 +5,7 @@ draft: false
 tags: [analyse, reverse-engineering]
 ---
 
-L'analyse statique des applications Android est au cœur de la plateforme εxodus. L'idée principale est de détecter la présence de pisteurs connus dans une application sans l'exécuter. En fait, εxodus ne peut pas prendre trop de temps pour chaque analyse, donc la méthode de détection doit être efficace dans le temps, reproductible et exempte de faux positifs.
+L'analyse statique des applications Android est au cœur de la plateforme εxodus. L'idée principale est de détecter la présence de pisteurs connus dans une application sans l'exécuter. En effet, εxodus ne peut pas prendre trop de temps pour chaque analyse, donc la méthode de détection doit être efficace dans le temps, reproductible et exempte de faux positifs.
 
 Les applications Android sont développées dans des langages compatibles JVM comme Java, Kotlin, etc. Les programmes exécutés sur JVM présentent de nombreuses différences par rapport aux programmes C ou Go, la principale étant que les noms de classes sont lisibles directement dans le fichier binaire du programme sans nécessiter de décompilation. JVM identifie un type par son nom de classe pleinement qualifié comme `org.exodus.Report`, `org.exodus` est le nom du package et `Report` est le nom de la classe.
 
@@ -40,7 +40,7 @@ Class #1            -
 [...]
 ```
 
-Cette sortie n'est pas vraiment conviviale mais pour chaque classe déclarée dans l'application, nous avons un `Class # x` et un `Class descriptor`. Le descripteur de classe est la représentation JVM des espaces de nom d'application (nom de classe complet). Dans cet exemple, `Classe # 0` est `android.databinding.Observable` avec `android.databinding` le nom du package et `Observable` le nom de la classe déclarée.
+Cette sortie n'est pas vraiment lisible mais pour chaque classe déclarée dans l'application, nous avons un `Class # x` et un `Class descriptor`. Le descripteur de classe est la représentation JVM des espaces de nom d'application (nom de classe complet). Dans cet exemple, `Classe # 0` est `android.databinding.Observable` avec `android.databinding` le nom du package et `Observable` le nom de la classe déclarée.
 
 Nous pouvons nettoyer la sortie de `dexdump` en sélectionnant `Class descriptor` et en les triant:
 
@@ -64,15 +64,15 @@ $ dexdump my.apk | grep "Class descriptor" | sort | uniq
 
 En Java, C++, Python et d'autres langages, les espaces de nom sont vraiment importants et lorsque vous fournissez une bibliothèque, vous devez vous assurer que l'espace de nom de la bibliothèque n'entre jamais en conflit avec d'autres bibliothèques.
 
-εxodus "fouille" dans les fichiers `.apk` pour trouver des pisteurs et ces pisteurs peuvent être identifiés par leur propre espace de nom. Par exemple, le `name-space/package` racine de la bibliothèque Amazon Ads est `com.amazon.device.ads`, cette bibliothèque partage le nom du package `com.amazon` avec d'autres bibliothèques Amazon. Ainsi, à ce stade, une signature de suivi est un espace de nom (un nom de _package_).
+εxodus "fouille" dans les fichiers `.apk` pour trouver des pisteurs et ces pisteurs peuvent être identifiés par leur propre espace de nom. Par exemple, le `espace-de-nom/packet` racine de la bibliothèque Amazon Ads est `com.amazon.device.ads`, cette bibliothèque partage le nom du package `com.amazon` avec d'autres bibliothèques Amazon. Ainsi, à ce stade, une signature de pisteurs est un espace de nom (un nom de _package_).
 
-Pour le moment, εxodus connaît [152 pisteurs](https://reports.exodus-privacy.eu.org/trackers/), et si nous regardons [Flurry](https://reports.exodus-privacy.eu.org/trackers/25/), nous avons la règle de détection `com.flurry.` qui est un [regex](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re).
+Pour le moment, εxodus connaît [152 pisteurs](https://reports.exodus-privacy.eu.org/trackers/), et si nous regardons [Flurry](https://reports.exodus-privacy.eu.org/trackers/25/), nous avons la règle de détection `com.flurry.` qui est une [regex](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re).
 
 <center>
-{{< fig src="/media/flurry.png" caption="Aperçu de la description Flurry" >}}
+{{< fig src="/media/flurry.png" caption="Aperçu de la description du pisteur Flurry" >}}
 </center>
 
-Ainsi, utilisons `grep` pour voir si `my.apk` contient les classes de Flurry :
+Maintenant, utilisons `grep` pour voir si `my.apk` contient les classes de Flurry :
 
 ```
 $ dexdump my.apk | grep "Class descriptor" | sort | uniq | grep -E "com.flurry." | head -n 10
@@ -98,4 +98,4 @@ Ainsi, lorsque vous [soumettez](https://reports.exodus-privacy.eu.org/analysis/s
 
 Si vous souhaitez nous aider à améliorer la base de connaissances εxodus, [contactez-nous](/fr/page/who/) et demandez un compte [ETIP](http://etip.exodus-privacy.eu.org/). ETIP est une plateforme collaborative destinée à faciliter les investigations et la classification sur les pisteurs.
 
-Si vous êtes développeur d'applications, vous pouvez utiliser [exodus-standalone](https://github.com/Exodus-Privacy/exodus-standalone) pour analyser votre application **avant** sa publication sur Google Play.
+Si vous êtes développeur·euse d'applications, vous pouvez utiliser [exodus-standalone](https://github.com/Exodus-Privacy/exodus-standalone) pour analyser votre application **avant** sa publication sur Google Play.
