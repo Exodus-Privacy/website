@@ -2,18 +2,20 @@ baseURL = "https://exodus-privacy.eu.org/"
 languageCode = "en-us"
 title = "Exodus Privacy"
 relativeURLs = true
-canonifyurls = true
 paginate = 25
-theme = "hugo-bootstrap"
-defaultContentLanguageInSubdir= true
+theme = "ananke"
+DefaultContentLanguage = "en"
 
 [languages]
 
 [languages.en]
 languageName = "English"
-copyright = "Exodus Privacy - French non-profit"
+copyright = "Exodus Privacy - French non-profit - CC-BY-SA"
+weight = 1
+
 [languages.en.params]
 github = "Source Code"
+
 [[languages.en.menu.main]]
 name = "What"
 url = "/page/what/"
@@ -27,68 +29,53 @@ name = "Contribute"
 url = "/page/contribute/"
 weight = 3
 [[languages.en.menu.main]]
-name = "Supporters"
-url = "/page/supporters/"
-weight = 4
-[[languages.en.menu.main]]
-name = "Press"
-url = "/page/press/"
-weight = 5
-[[languages.en.menu.main]]
-name = "Events"
-url = "/page/events/"
-weight = 6
-[[languages.en.menu.main]]
 name = "Blog"
 url = "/post/"
-weight = 7
-[[languages.en.menu.main]]
-name = "FAQ"
-url = "/page/faq/"
-weight = 8
+weight = 4
 
 [languages.fr]
 languageName = "Français"
-copyright = "Exodus Privacy - Association française à but non-lucratif"
+copyright = "Exodus Privacy - Association française à but non-lucratif - CC-BY-SA"
+weight = 1
+
 [languages.fr.params]
 github = "Code Source"
+
 [[languages.fr.menu.main]]
 name = "Quoi"
-url = "/page/what/"
+url = "/fr/page/what/"
 weight = 1
 [[languages.fr.menu.main]]
 name = "Qui"
-url = "/page/who/"
+url = "/fr/page/who/"
 weight = 2
 [[languages.fr.menu.main]]
 name = "Contribuer"
-url = "/page/contribute/"
+url = "/fr/page/contribute/"
 weight = 3
 [[languages.fr.menu.main]]
-name = "Nos soutiens"
-url = "/page/supporters/"
-weight = 4
-[[languages.fr.menu.main]]
-name = "Presse"
-url = "/page/press/"
-weight = 5
-[[languages.fr.menu.main]]
-name = "Evénements"
-url = "/page/events/"
-weight = 6
-[[languages.fr.menu.main]]
 name = "Blog"
-url = "/post/"
-weight = 7
-[[languages.fr.menu.main]]
-name = "FAQ"
-url = "/page/faq/"
-weight = 8
+url = "/fr/post/"
+weight = 4
 
 [params]
-navbarBgColorClass = "bg-primary"
-showBlogHeader = true
-ghrepo = "https://github.com/Exodus-Privacy/website"
+  favicon = "/media/logosmall.png"
+  description = "Exodus Privacy"
+  twitter = "https://twitter.com/ExodusPrivacy"
+  peertube = "https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos"
+  github = "https://github.com/Exodus-Privacy/website"
+  mastodon = "https://framapiaf.org/@exodus"
+  slack = ""
+  site_logo = "/media/logosmall.png"
+
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-purple"
+
+  recent_posts_number = 2
+  custom_css = ["css/custom.css"]
+  show_reading_time = true
 
 [params.widgets]
 recent_articles = true
