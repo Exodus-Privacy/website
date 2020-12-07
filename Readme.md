@@ -17,12 +17,27 @@ With the help of Hugo the website is easyly multilingual. So feel free to fork t
 - Start the development web server
 ```
 git clone https://github.com/<your user>/website.git
+```
+
+You will have to clone the theme as a submodule:
+
+```
+cd website/themes/anabee
+git submodule update --init --recursive
+```
+
+Then you can launch Hugo to see the result:
+
+```
 cd website
 hugo server -D
 ```
+
 - Go to http://localhost:1313 to see and navigate on the website
 - Make your changes and push them to your repository
 - Create a Pull Request (PR)
+
+> **Protip**: launch hugo in a tmux
 
 ## License
 
