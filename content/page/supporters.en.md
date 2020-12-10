@@ -41,7 +41,7 @@ draft: false
     </div>
     <div class="col-lg-4 col-sm-6 text-center">
         <a href="https://www.fondation-afnic.fr">
-            <img src="/media/partners/fondation-Afnic.png" width="120px" height="120px"class="mt-3 ml-auto mr-auto"/>
+            <img src="/media/partners/fondation-Afnic.png" width="260px" height="120px"class="mt-3 ml-auto mr-auto"/>
             <div class="card-body">
                 <h6 class="card-title">Fondation Afnic pour la solidarité numérique</h6>
             </div>
