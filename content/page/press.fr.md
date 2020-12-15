@@ -8,6 +8,7 @@ draft: false
 ## Presse francophone
 
 #### 2020
+* **France Inter** - *Nov 2020* - [Le Code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers)
 * **La revue européenne des médias et du numérique** - *Jul 2020* - [Covid-19. Enjeux techniques de l’application de traçage numérique StopCovid](https://la-rem.eu/2020/07/covid-19-enjeux-techniques-de-lapplication-de-tracage-numerique-stopcovid/)
 * **Silicon FR** - *7 Mai 2020* - [SILL 2020 : quels mouvements dans le socle interministériel des logiciels libres ?](https://www.silicon.fr/sill-2020-quels-mouvements-dans-le-socle-interministeriel-de-logiciels-libres-339273.html)
 * **Numérama** - *28 Jan 2020* - [Vous développez des apps mobiles ? La CNIL vous guide pour respecter le RGPD](https://www.numerama.com/tech/602162-vous-developpez-des-apps-mobiles-la-cnil-vous-guide-pour-respecter-le-rgpd.html)
@@ -51,6 +52,7 @@ draft: false
 ## Presse anglophone
 
 #### 2020
+* **CodeBlue** - *23 Nov 2020* - [Privacy Issues With MySejahtera](https://codeblue.galencentre.org/2020/11/23/privacy-issues-with-mysejahtera-george-mathews/)
 * **explica** - *26 Mai 2020* - [Find out how much your mobile applications track you with Exodus Privacy, a privacy analyzer](https://www.explica.co/find-out-how-much-your-mobile-applications-track-you-with-exodus-privacy-a-privacy-analyzer/)
 * **Livemint** - *15 Avr 2020* - [Covid-19-related frauds to shield yourself from](https://www.livemint.com/money/personal-finance/covid-19-related-frauds-to-shield-yourself-from-11586972212973.html)
 * **Decrypt** - *14 Avr 2020* - [7 key ways to protect your privacy online](https://decrypt.co/25414/7-key-ways-to-protect-your-privacy-online)
