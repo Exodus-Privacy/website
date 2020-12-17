@@ -25,7 +25,7 @@ Pour nous aider à améliorer notre façon de communiquer, nous sommes accompagn
 
 ### Projet de kit pédagogique
 
-Nous avions envie d'aider les bénévoles et professionnel·les de la médiation numérique à animer des ateliers autour de la vie privée et des smartphones. Nous avons donc soumis un dossier de financement auprès de la [fondation Afnic](https://www.fondation-afnic.fr/fr/Accueil.htm) afin de créer un kit pédagogique. Le but de ce dernier : donner tous les éléments (supports, mise en pratique...) pour permettre l'animation d'ateliers destinés à un public débutant et à un public avancé autour de ce sujet. La fondation Afnic a décidé de nous soutenir, un grand merci à elle !
+Nous avions envie d'aider les bénévoles et professionnel·les de la médiation numérique à animer des ateliers autour de la vie privée et des smartphones. Nous avons donc soumis un dossier de financement auprès de la [fondation Afnic](https://www.fondation-afnic.fr/fr/Accueil.htm) afin de créer un kit pédagogique. Le but de ce dernier : donner tous les éléments (supports, mise en pratique…) pour permettre l'animation d'ateliers destinés à un public débutant et à un public avancé autour de ce sujet. La fondation Afnic a décidé de nous soutenir, un grand merci à elle !
 
 Nous avons donc commencé avec la graphiste et illustratrice [_Lila*](https://lila.ink/) ainsi qu'avec l'association [Net-freaks](https://twitter.com/NetFreaksFr) à travailler sur l'univers graphique et sur le contenu. Nous avons prévu de faire tester les premiers prototypes au deuxième trimestre 2021.
 
