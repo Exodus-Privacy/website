@@ -23,7 +23,7 @@ En complément, nous avons eu la fierté de découvrir que [Exodus-Standalone](h
 La presse francophone et internationale continuent à [mentionner nos travaux](https://exodus-privacy.eu.org/fr/page/press/). S'il n'y avait qu'un événement à retenir, ce serait notre participation au podcast de France Inter [Le code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers) animé par Xavier De la Porte. Nous avons eu grand plaisir à y participer et il nous a apporté une belle visibilité. Ainsi, nous avons quasiment 4500 personnes qui nous suivent sur Twitter, 2500 sur Framapiaf et presque 400 abonné·es sur Facebook. 
 Pour nous aider à améliorer notre façon de communiquer, nous sommes accompagné·es depuis cette année par Pouhiou de [Framasoft](https://framasoft.org/). Nous avons donc commencé à échanger autour de l'expérience de Framasoft, c'est très enrichissant. 
 
-### Projet de kit pédagogique
+### Un projet de kit pédagogique
 
 Nous avions envie d'aider les bénévoles et professionnel·les de la médiation numérique à animer des ateliers autour de la vie privée et des smartphones. Nous avons donc soumis un dossier de financement auprès de la [fondation Afnic](https://www.fondation-afnic.fr/fr/Accueil.htm) afin de créer un kit pédagogique. Le but de ce dernier : donner tous les éléments (supports, mise en pratique…) pour permettre l'animation d'ateliers destinés à un public débutant et à un public avancé autour de ce sujet. La fondation Afnic a décidé de nous soutenir, un grand merci à elle !
 
