@@ -12,7 +12,7 @@ Plus de 330 pisteurs connus, plus de 155000 rapports d'analyse pour plus de 8200
 
 L'application s'améliore  elle aussi : elle détecte les applications installées via F-Droid, une nouvelle page « Pisteurs » est apparue, ainsi que de nouvelles traductions (italien, russe, grec, arabe, allemand, catalan). À venir bientôt : la liste des pisteurs sur l'application et d'autres contributions !
 
-### Du travail avec le Ministère de l'Education nationale
+### Du travail avec le ministère de l'Éducation nationale
 
 Nous avons été sollicité·es par le ministère de l’Éducation nationale pour déployer une plateforme d’analyse interne au ministère. La plateforme a été livrée il y a quelques semaines, il nous reste à animer une journée de sensibilisation auprès des reponsables d'académie. Un gros projet, une première pour l'association !
 
