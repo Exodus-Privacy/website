@@ -35,7 +35,7 @@ Nous sommes régulièrement invité·es à présenter notre association et nos r
 
 Nous tenions à remercier chaleureusement toutes les personnes qui nous ont invité·es, mais nous avions envie de mettre en avant l'accueil suisse qui restera pour nous un souvenir marquant ! Laissons un des membres présents, Lovis_IX, raconter : 
 
-_Le premier week-end de février 2020, nous avons participé aux Rencontres Hivernales du Libre qui se tiennent à Saint Cergue, en Suisse. L'organisation a été parfaite, prenant en compte au mieux possible mon handicap (je me déplace en fauteuil roulant). Outre des conférences passionnantes (celle sur le réseau des radio-amateurs par exemple), nous avons été traités comme des princes étranger en visite de courtoisie. Il convient de vous raconter « les lieux »._
+_Le premier week-end de février 2020, nous avons participé aux Rencontres Hivernales du Libre qui se tiennent à Saint Cergue, en Suisse. L'organisation a été parfaite, prenant en compte au mieux possible mon handicap (je me déplace en fauteuil roulant). Outre des conférences passionnantes (celle sur le réseau des radio-amateurs par exemple), nous avons été traités comme des princes étrangers en visite de courtoisie. Il convient de vous raconter « les lieux »._
 
 _Saint Cergue est un petit village dans la montage avec (de ce que nous avons vu) deux remontées mécaniques. Le « Centre du Vallon » est le bâtiment que la municipalité à mis à disposition de l'événement. Même si le passage d'un étage à l'autre ne peux se faire que par des escaliers, j'ai découvert une cabine de toilette+douche totalement équipée pour les personnes à mobilité réduite. J'ai vu des toilettes+douche d'hôpitaux moins bien équipés._
 
