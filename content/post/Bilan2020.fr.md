@@ -8,7 +8,7 @@ tags: [bilan]
 Alors que l'année 2020 est en train de se terminer, nous avions envie de faire un bilan de l'année écoulée. L'amélioration de nos outils, les conférences et ateliers, un projet avec le Ministère de l'Éducation Nationale, un kit pédagogique en gestation... Voici quelques-uns des événements qui ont marqué les douze derniers mois. 
 
 ### Des outils qui fonctionnent bien et s'améliorent
-323 pisteurs connus, plus de 156000 rapports d'analyse pour 82000 applications... Notre plateforme [exodus](https://reports.exodus-privacy.eu.org) agrandit peu à peu sa base de connaissance au gré de vos [demandes d'analyses](https://reports.exodus-privacy.eu.org/fr/analysis/submit/). Cette année, nous avons eu peu de soucis techniques et avons amélioré l'existant, par exemple en permettant de soumettre l'analyse d'applications issues de [F-droid](https://f-droid.org/), en plus du Google Play Store. Nous avons également grâce à [la plateforme Crowdin](https://crowdin.com/project/exodus-privacy) intégré quelques nouvelles traductions de la communauté. La plateforme existe maintenant en 5 langues : français, italien, anglais, grec et espagnol. 
+Plus de 330 pisteurs connus, plus de 155000 rapports d'analyse pour plus de 82000 applications... Notre plateforme [exodus](https://reports.exodus-privacy.eu.org) agrandit peu à peu sa base de connaissance au gré de vos [demandes d'analyses](https://reports.exodus-privacy.eu.org/fr/analysis/submit/). Cette année, nous avons eu peu de soucis techniques et avons amélioré l'existant, par exemple en permettant de soumettre l'analyse d'applications issues de [F-droid](https://f-droid.org/), en plus du Google Play Store. Nous avons également grâce à [la plateforme Crowdin](https://crowdin.com/project/exodus-privacy) intégré quelques nouvelles traductions de la communauté. La plateforme existe maintenant en 5 langues : français, italien, anglais, grec et espagnol. 
 
 L'application s'améliore  elle aussi : elle détecte les applications installées via F-Droid, une nouvelle page "Pisteurs" est apparue, ainsi que de nouvelles traductions (Italien, Russe, Grec, Arabe, Allemand, Catalan). A venir bientôt : la liste des pisteurs sur l'application et d'autres contributions !
 
@@ -50,4 +50,3 @@ Nous aimons répéter que nous sommes une petite association de bénévoles, mai
 ### Et pour 2021 ?
 
 On poursuit les projets en cours et on accueille des nouvelles forces vives ! Vous êtes toutes et tous les bienvenues, quelques soient vous envies ou compétences… Viendez, on n'a pas de pisteurs…
-
