@@ -18,7 +18,7 @@ Nous avons été sollicité·es par le Ministère de l’Education nationale pou
 
 En complément, nous avons eu la fierté de découvrir que [Exodus-Standalone](https://sill.etalab.gouv.fr/fr/software?id=199) fait partie du SILL, le [Socle interministériel de Logiciels Libres](https://sill.etalab.gouv.fr/fr/software) qui fait référence pour les administrations françaises. 
 
-### La Communication
+### La communication
 
 La presse francophone et internationale continuent à [mentionner nos travaux](https://exodus-privacy.eu.org/fr/page/press/). S'il n'y avait qu'un événement à retenir, ce serait notre participation au podcast de France Inter [Le code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers) animé par Xavier De la Porte. Nous avons eu grand plaisir à y participer et il nous a apporté une belle visibilité. Ainsi, nous avons quasiment 4500 personnes qui nous suivent sur Twitter, 2500 sur Framapiaf et presque 400 abonné·es sur Facebook. 
 Pour nous aider à améliorer notre façon de communiquer, nous sommes accompagné·es depuis cette année par Pouhiou de [Framasoft](https://framasoft.org/). Nous avons donc commencé à échanger autour de l'expérience de Framasoft, c'est très enrichissant. 
@@ -50,5 +50,4 @@ Nous aimons répéter que nous sommes une petite association de bénévoles, mai
 ### Et pour 2021 ?
 
 On poursuit les projets en cours et on accueille des nouvelles forces vives ! Vous êtes toutes et tous les bienvenues, quelques soient vous envies ou compétences… Viendez, on n'a pas de pisteurs…
-
 
