@@ -5,7 +5,7 @@ draft: false
 tags: [bilan]
 ---
 
-Alors que l'année 2020 est en train de se terminer, nous avions envie de faire un bilan de l'année écoulée. L'amélioration de nos outils, les conférences et ateliers, un projet avec le Ministère de l'Education nationale, un kit pédagogique en gestation... Voici quelques-uns des événements qui ont marqué les douze derniers mois. 
+Alors que l'année 2020 est en train de se terminer, nous avions envie de faire un bilan de l'année écoulée. L'amélioration de nos outils, les conférences et ateliers, un projet avec le Ministère de l'Éducation Nationale, un kit pédagogique en gestation... Voici quelques-uns des événements qui ont marqué les douze derniers mois. 
 
 ### Des outils qui fonctionnent bien et s'améliorent
 323 pisteurs connus, plus de 156000 rapports d'analyse pour 82000 applications... Notre plateforme [exodus](https://reports.exodus-privacy.eu.org) agrandit peu à peu sa base de connaissance au gré de vos [demandes d'analyses](https://reports.exodus-privacy.eu.org/fr/analysis/submit/). Cette année, nous avons eu peu de soucis techniques et avons amélioré l'existant, par exemple en permettant de soumettre l'analyse d'applications issues de [F-droid](https://f-droid.org/), en plus du Google Play Store. Nous avons également grâce à [la plateforme Crowdin](https://crowdin.com/project/exodus-privacy) intégré quelques nouvelles traductions de la communauté. La plateforme existe maintenant en 5 langues : français, italien, anglais, grec et espagnol. 
@@ -20,7 +20,7 @@ En complément, nous avons eu la fierté de découvrir que [Exodus-Standalone](h
 
 ### La Communication
 
-La presse francophone et internationale continuent à [mentionner nos travaux](https://exodus-privacy.eu.org/fr/page/press/). S'il n'y avait qu'un événement à retenir, ce serait notre participation au podcast de France Inter [Le code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers) animé par Xavier De la Porte. Nous avons eu grand plaisir à y participer et il nous a apporté une belle visibilité. Ainsi, nous avons quasiment 4500 follower·ses sur Twitter, 2500 sur Framapiaf et presque 400 abonné·es sur Facebook. 
+La presse francophone et internationale continuent à [mentionner nos travaux](https://exodus-privacy.eu.org/fr/page/press/). S'il n'y avait qu'un événement à retenir, ce serait notre participation au podcast de France Inter [Le code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers) animé par Xavier De la Porte. Nous avons eu grand plaisir à y participer et il nous a apporté une belle visibilité. Ainsi, nous avons quasiment 4500 personnes qui nous suivent sur Twitter, 2500 sur Framapiaf et presque 400 abonné·es sur Facebook. 
 Pour nous aider à améliorer notre façon de communiquer, nous sommes accompagné·es depuis cette année par Pouhiou de [Framasoft](https://framasoft.org/). Nous avons donc commencé à échanger autour de l'expérience de Framasoft, c'est très enrichissant. 
 
 ### Projet de kit pédagogique
@@ -49,7 +49,7 @@ Nous aimons répéter que nous sommes une petite association de bénévole, mais
 
 ### Et pour 2021 ?
 
-On poursuit les projets en cours et on accueille des nouvelles forces vives ! On accueille les de nouvelles forces vives. Vous êtes toutes et tous les bienvenues, quelques soient vous envies ou compétences… Viendez, on n'a pas de pisteurs…
+On poursuit les projets en cours et on accueille des nouvelles forces vives ! Vous êtes toutes et tous les bienvenues, quelques soient vous envies ou compétences… Viendez, on n'a pas de pisteurs…
 
 
 
