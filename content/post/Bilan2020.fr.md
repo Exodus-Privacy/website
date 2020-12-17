@@ -45,11 +45,10 @@ _On ne peut s’empêcher de penser à « Astérix chez les Helvètes ». Mélan
 
 ### Des allié·es et une communauté formidables !
 
-Nous aimons répéter que nous sommes une petite association de bénévole, mais nous avons une grande communauté ! **Un grand merci à vous, qui parlez de nous, qui contribuez ponctuellement ou régulièrement et à nos [soutiens](https://exodus-privacy.eu.org/fr/page/supporters/).** Une petite mention particulière au [soutien indéfectible](https://news.gandi.net/fr/2020/02/les-projets-soutenus-partenaires-des-20-ans-gandi/) de Gandi qui nous offre l'hébergement de notre plateforme et qui, à l'occasion de ses 20 ans, a organisé un concours de T-shirts dont une partie des bénéfices vont nous être reversés. 
+Nous aimons répéter que nous sommes une petite association de bénévoles, mais nous avons une grande communauté ! **Un grand merci à vous, qui parlez de nous, qui contribuez ponctuellement ou régulièrement et à nos [soutiens](/fr/page/supporters/).** Une petite mention particulière au [soutien indéfectible](https://news.gandi.net/fr/2020/02/les-projets-soutenus-partenaires-des-20-ans-gandi/) de Gandi qui nous offre l'hébergement de notre plateforme et qui, à l'occasion de ses 20 ans, a organisé un concours de T-shirts dont une partie des bénéfices vont nous être reversés. 
 
 ### Et pour 2021 ?
 
 On poursuit les projets en cours et on accueille des nouvelles forces vives ! Vous êtes toutes et tous les bienvenues, quelques soient vous envies ou compétences… Viendez, on n'a pas de pisteurs…
-
 
 
