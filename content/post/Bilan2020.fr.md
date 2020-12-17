@@ -14,7 +14,7 @@ L'application s'améliore  elle aussi : elle détecte les applications installé
 
 ### Du travail avec le Ministère de l'Education nationale
 
-Nous avons été sollicité·es par le Ministère de l’Education nationale pour déployer une plateforme d’analyse interne au Ministère. La plateforme a été livrée il y a quelques semaines, il nous reste à animer une journée de sensibilisation auprès des reponsables d'Académie. Un gros projet, une première pour l'association !
+Nous avons été sollicité·es par le ministère de l’Éducation nationale pour déployer une plateforme d’analyse interne au ministère. La plateforme a été livrée il y a quelques semaines, il nous reste à animer une journée de sensibilisation auprès des reponsables d'académie. Un gros projet, une première pour l'association !
 
 En complément, nous avons eu la fierté de découvrir que [Exodus-Standalone](https://sill.etalab.gouv.fr/fr/software?id=199) fait partie du SILL, le [Socle interministériel de Logiciels Libres](https://sill.etalab.gouv.fr/fr/software) qui fait référence pour les administrations françaises. 
 
