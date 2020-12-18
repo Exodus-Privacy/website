@@ -5,12 +5,11 @@ draft: false
 tags: [bilan]
 ---
 
-Alors que l'année 2020 est en train de se terminer, nous avions envie de faire un bilan de l'année écoulée. L'amélioration de nos outils, les conférences et ateliers, un projet avec le ministère de l'Éducation nationale, un kit pédagogique en gestation… Voici quelques-uns des événements qui ont marqué les douze derniers mois. 
+Alors que l'année 2020 est en train de se terminer, nous avions envie de faire un bilan de l'année écoulée. L'amélioration de nos outils, les conférences et ateliers, un projet avec le ministère de l'Éducation nationale, un kit pédagogique en gestation… Voici quelques-uns des événements qui ont marqué les douze derniers mois.
 
 ### Des outils qui fonctionnent bien et s'améliorent
 
-Plus de 330 pisteurs connus, plus de 155000 rapports d'analyse pour plus de
-82000 applications... Notre plateforme [εxodus](https://reports.exodus-privacy.eu.org) s'agrandit peu à peu sa base de connaissance au gré de vos [demandes d'analyses](https://reports.exodus-privacy.eu.org/fr/analysis/submit/). Cette année, nous avons eu peu de soucis techniques et avons amélioré l'existant, par exemple en permettant de soumettre l'analyse d'applications issues de [F-droid](https://f-droid.org/), en plus du Google Play Store. Nous avons également grâce à [la plateforme Crowdin](https://crowdin.com/project/exodus-privacy) intégré quelques nouvelles traductions de la communauté. La plateforme existe maintenant en 5 langues : français, italien, anglais, grec et espagnol. 
+Plus de 330 pisteurs connus, plus de 155000 rapports d'analyse pour plus de 82000 applications... Notre plateforme [εxodus](https://reports.exodus-privacy.eu.org) agrandit peu à peu sa base de connaissance au gré de vos [demandes d'analyses](https://reports.exodus-privacy.eu.org/fr/analysis/submit/). Cette année, nous avons eu peu de soucis techniques et avons amélioré l'existant, par exemple en permettant de soumettre l'analyse d'applications issues de [F-droid](https://f-droid.org/), en plus du Google Play Store. Nous avons également grâce à [la plateforme Crowdin](https://crowdin.com/project/exodus-privacy) intégré quelques nouvelles traductions de la communauté. La plateforme existe maintenant en 5 langues : français, italien, anglais, grec et espagnol.
 
 L'application s'améliore  elle aussi : elle détecte les applications installées via F-Droid, une nouvelle page « Pisteurs » est apparue, ainsi que de nouvelles traductions (italien, russe, grec, arabe, allemand, catalan). À venir bientôt : la liste des pisteurs sur l'application et d'autres contributions !
 
@@ -18,12 +17,12 @@ L'application s'améliore  elle aussi : elle détecte les applications installé
 
 Nous avons été sollicité·es par le ministère de l’Éducation nationale pour déployer une plateforme d’analyse interne au ministère. La plateforme a été livrée il y a quelques semaines, il nous reste à animer une journée de sensibilisation auprès des reponsables d'académie. Un gros projet, une première pour l'association !
 
-En complément, nous avons eu la fierté de découvrir que [Exodus-Standalone](https://sill.etalab.gouv.fr/fr/software?id=199) fait partie du SILL, le [Socle interministériel de Logiciels Libres](https://sill.etalab.gouv.fr/fr/software) qui fait référence pour les administrations françaises. 
+En complément, nous avons eu la fierté de découvrir que [Exodus-Standalone](https://sill.etalab.gouv.fr/fr/software?id=199) fait partie du SILL, le [Socle interministériel de Logiciels Libres](https://sill.etalab.gouv.fr/fr/software) qui fait référence pour les administrations françaises.
 
 ### La communication
 
-La presse francophone et internationale continuent à [mentionner nos travaux](https://exodus-privacy.eu.org/fr/page/press/). S'il n'y avait qu'un événement à retenir, ce serait notre participation au podcast de France Inter [Le code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers) animé par Xavier De la Porte. Nous avons eu grand plaisir à y participer et il nous a apporté une belle visibilité. Ainsi, nous avons quasiment 4500 personnes qui nous suivent sur Twitter, 2500 sur Framapiaf et presque 400 abonné·es sur Facebook. 
-Pour nous aider à améliorer notre façon de communiquer, nous sommes accompagné·es depuis cette année par Pouhiou de [Framasoft](https://framasoft.org/). Nous avons donc commencé à échanger autour de l'expérience de Framasoft, c'est très enrichissant. 
+La presse francophone et internationale continuent à [mentionner nos travaux](https://exodus-privacy.eu.org/fr/page/press/). S'il n'y avait qu'un événement à retenir, ce serait notre participation au podcast de France Inter [Le code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers) animé par Xavier De la Porte. Nous avons eu grand plaisir à y participer et il nous a apporté une belle visibilité. Ainsi, nous avons quasiment 4500 personnes qui nous suivent sur Twitter, 2500 sur Framapiaf et presque 400 abonné·es sur Facebook.
+Pour nous aider à améliorer notre façon de communiquer, nous sommes accompagné·es depuis cette année par Pouhiou de [Framasoft](https://framasoft.org/). Nous avons donc commencé à échanger autour de l'expérience de Framasoft, c'est très enrichissant.
 
 ### Un projet de kit pédagogique
 
@@ -35,7 +34,7 @@ Nous avons donc commencé avec la graphiste et illustratrice [_Lila*](https://li
 
 Nous sommes régulièrement invité·es à présenter notre association et nos résultats lors de conférences et d'ateliers. Cette année nous a permis de participer à [5 événements](https://exodus-privacy.eu.org/fr/page/events/) : une conférence organisée par 42l qui a été [filmée](https://video.tedomum.net/videos/watch/2035a814-ecfe-4e67-8b6f-6d4438477efe), une participation aux rencontres hivernales du libre à Saint-Cergues, en Suisse, deux participations au festival des Libertés numériques à Rennes et Nantes et à la journée _Facture numérique et contributions citoyennes_ organisée par Ping et le conseil départemental de Loire-Atlantique. Nous avions également prévu une conférence à Lyon pour les [JDLL](https://www.jdll.org/) pour parler avec Maiwann de la refonte du design de notre plateforme, mais la situation sanitaire a malheureusement poussé les organisateur·ices à annuler.
 
-Nous tenions à remercier chaleureusement toutes les personnes qui nous ont invité·es, mais nous avions envie de mettre en avant l'accueil suisse qui restera pour nous un souvenir marquant ! Laissons un des membres présents, Lovis_IX, raconter : 
+Nous tenions à remercier chaleureusement toutes les personnes qui nous ont invité·es, mais nous avions envie de mettre en avant l'accueil suisse qui restera pour nous un souvenir marquant ! Laissons un des membres présents, Lovis_IX, raconter :
 
 _Le premier week-end de février 2020, nous avons participé aux Rencontres Hivernales du Libre qui se tiennent à Saint Cergue, en Suisse. L'organisation a été parfaite, prenant en compte au mieux possible mon handicap (je me déplace en fauteuil roulant). Outre des conférences passionnantes (celle sur le réseau des radio-amateurs par exemple), nous avons été traités comme des princes étrangers en visite de courtoisie. Il convient de vous raconter « les lieux »._
 
@@ -47,10 +46,8 @@ _On ne peut s’empêcher de penser à « Astérix chez les Helvètes ». Mélan
 
 ### Des allié·es et une communauté formidables !
 
-Nous aimons répéter que nous sommes une petite association de bénévoles, mais
-nous avons une grande communauté ! **Un grand merci à vous, qui parlez de nous,
-qui contribuez ponctuellement ou régulièrement et à nos [soutiens](/fr/page/supporters/).** Une petite mention particulière au [soutien indéfectible](https://news.gandi.net/fr/2020/02/les-projets-soutenus-partenaires-des-20-ans-gandi/) de **Gandi** qui nous offre l'hébergement de notre plateforme et qui, à l'occasion de ses 20 ans, a organisé un concours de T-shirts dont une partie des bénéfices vont nous être reversés. 
+Nous aimons répéter que nous sommes une petite association de bénévoles, mais nous avons une grande communauté ! **Un grand merci à vous, qui parlez de nous, qui contribuez ponctuellement ou régulièrement et à nos [soutiens](/fr/page/supporters/).** Une petite mention particulière au [soutien indéfectible](https://news.gandi.net/fr/2020/02/les-projets-soutenus-partenaires-des-20-ans-gandi/) de **Gandi** qui nous offre l'hébergement de notre plateforme et qui, à l'occasion de ses 20 ans, a organisé un concours de T-shirts dont une partie des bénéfices vont nous être reversés.
 
 ### Et pour 2021 ?
 
-On poursuit les projets en cours et on accueille de nouvelles forces vives ! Vous êtes toutes et tous les bienvenues, quelles que soient vous envies ou compétences… Viendez, on n'a pas de pisteurs…
+On poursuit les projets en cours et on accueille de nouvelles forces vives ! Vous êtes toutes et tous les bienvenues, quelles que soient vos envies ou compétences… Viendez, on n'a pas de pisteurs…
