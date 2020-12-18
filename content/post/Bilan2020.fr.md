@@ -9,7 +9,8 @@ Alors que l'année 2020 est en train de se terminer, nous avions envie de faire 
 
 ### Des outils qui fonctionnent bien et s'améliorent
 
-Plus de 330 pisteurs connus, plus de 155000 rapports d'analyse pour plus de 82000 applications... Notre plateforme [exodus](https://reports.exodus-privacy.eu.org) agrandit peu à peu sa base de connaissance au gré de vos [demandes d'analyses](https://reports.exodus-privacy.eu.org/fr/analysis/submit/). Cette année, nous avons eu peu de soucis techniques et avons amélioré l'existant, par exemple en permettant de soumettre l'analyse d'applications issues de [F-droid](https://f-droid.org/), en plus du Google Play Store. Nous avons également grâce à [la plateforme Crowdin](https://crowdin.com/project/exodus-privacy) intégré quelques nouvelles traductions de la communauté. La plateforme existe maintenant en 5 langues : français, italien, anglais, grec et espagnol. 
+Plus de 330 pisteurs connus, plus de 155000 rapports d'analyse pour plus de
+82000 applications... Notre plateforme [εxodus](https://reports.exodus-privacy.eu.org) s'agrandit peu à peu sa base de connaissance au gré de vos [demandes d'analyses](https://reports.exodus-privacy.eu.org/fr/analysis/submit/). Cette année, nous avons eu peu de soucis techniques et avons amélioré l'existant, par exemple en permettant de soumettre l'analyse d'applications issues de [F-droid](https://f-droid.org/), en plus du Google Play Store. Nous avons également grâce à [la plateforme Crowdin](https://crowdin.com/project/exodus-privacy) intégré quelques nouvelles traductions de la communauté. La plateforme existe maintenant en 5 langues : français, italien, anglais, grec et espagnol. 
 
 L'application s'améliore  elle aussi : elle détecte les applications installées via F-Droid, une nouvelle page « Pisteurs » est apparue, ainsi que de nouvelles traductions (italien, russe, grec, arabe, allemand, catalan). À venir bientôt : la liste des pisteurs sur l'application et d'autres contributions !
 
@@ -46,7 +47,9 @@ _On ne peut s’empêcher de penser à « Astérix chez les Helvètes ». Mélan
 
 ### Des allié·es et une communauté formidables !
 
-Nous aimons répéter que nous sommes une petite association de bénévoles, mais nous avons une grande communauté ! **Un grand merci à vous, qui parlez de nous, qui contribuez ponctuellement ou régulièrement et à nos [soutiens](/fr/page/supporters/).** Une petite mention particulière au [soutien indéfectible](https://news.gandi.net/fr/2020/02/les-projets-soutenus-partenaires-des-20-ans-gandi/) de Gandi qui nous offre l'hébergement de notre plateforme et qui, à l'occasion de ses 20 ans, a organisé un concours de T-shirts dont une partie des bénéfices vont nous être reversés. 
+Nous aimons répéter que nous sommes une petite association de bénévoles, mais
+nous avons une grande communauté ! **Un grand merci à vous, qui parlez de nous,
+qui contribuez ponctuellement ou régulièrement et à nos [soutiens](/fr/page/supporters/).** Une petite mention particulière au [soutien indéfectible](https://news.gandi.net/fr/2020/02/les-projets-soutenus-partenaires-des-20-ans-gandi/) de **Gandi** qui nous offre l'hébergement de notre plateforme et qui, à l'occasion de ses 20 ans, a organisé un concours de T-shirts dont une partie des bénéfices vont nous être reversés. 
 
 ### Et pour 2021 ?
 
