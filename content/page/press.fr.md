@@ -8,6 +8,7 @@ draft: false
 ## Presse francophone
 
 #### 2020
+* France Inter, podcast « Le code a changé » - 23 Nov 2020 - [https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-tracker]s(https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers)
 * **La revue européenne des médias et du numérique** - *Jul 2020* - [Covid-19. Enjeux techniques de l’application de traçage numérique StopCovid](https://la-rem.eu/2020/07/covid-19-enjeux-techniques-de-lapplication-de-tracage-numerique-stopcovid/)
 * **Silicon FR** - *7 Mai 2020* - [SILL 2020 : quels mouvements dans le socle interministériel des logiciels libres ?](https://www.silicon.fr/sill-2020-quels-mouvements-dans-le-socle-interministeriel-de-logiciels-libres-339273.html)
 * **Numérama** - *28 Jan 2020* - [Vous développez des apps mobiles ? La CNIL vous guide pour respecter le RGPD](https://www.numerama.com/tech/602162-vous-developpez-des-apps-mobiles-la-cnil-vous-guide-pour-respecter-le-rgpd.html)
