@@ -9,7 +9,7 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 
 
 ## Next events
-* ~~[FR] "Collaborating for a more accessible design: the example of Exodus Privacy", talk with the UX designer [Maiwann](https://www.maiwann.net/), [JDLL](https://www.jdll.org/), Lyon (France), 5th April 2020~~
+* [FR] "Soirée de conversation autour du Libre : εxodus - la plateforme d’audit de la vie privée des applications Android", by [Parinux](https://parinux.org/Soiree-de-Conversations-autour-du-Libre-SCL-du-jeudi-14-janvier-2021), online event, 14th January 2021
 
 ## Past events
 
