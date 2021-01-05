@@ -9,7 +9,7 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 
 
 ## Prochains événements
-* ~~[FR] "Collaborer pour un design plus accessible : l'exemple d'Exodus Privacy", conférence avec [Maiwann](https://www.maiwann.net/), [JDLL](https://www.jdll.org/), Lyon, 5 avril 2020~~
+* [FR] "Soirée de conversation autour du Libre : εxodus - la plateforme d’audit de la vie privée des applications Android", organisée par [Parinux](https://parinux.org/Soiree-de-Conversations-autour-du-Libre-SCL-du-jeudi-14-janvier-2021), en ligne, 14 janvier 2021
 
 ## Evénements passés
 
