@@ -4,7 +4,7 @@ title = "Exodus Privacy"
 relativeURLs = true
 canonifyurls = true
 paginate = 25
-theme = "hugo-bootstrap"
+theme = "ananke"
 defaultContentLanguageInSubdir= true
 
 [languages]
@@ -16,35 +16,35 @@ copyright = "Exodus Privacy - French non-profit"
 github = "Source Code"
 [[languages.en.menu.main]]
 name = "What"
-url = "/page/what/"
+url = "/en/page/what/"
 weight = 1
 [[languages.en.menu.main]]
 name = "Who"
-url = "/page/who/"
+url = "/en/page/who/"
 weight = 2
 [[languages.en.menu.main]]
 name = "Contribute"
-url = "/page/contribute/"
+url = "/en/page/contribute/"
 weight = 3
 [[languages.en.menu.main]]
 name = "Supporters"
-url = "/page/supporters/"
+url = "/en/page/supporters/"
 weight = 4
 [[languages.en.menu.main]]
 name = "Press"
-url = "/page/press/"
+url = "/en/page/press/"
 weight = 5
 [[languages.en.menu.main]]
 name = "Events"
-url = "/page/events/"
+url = "/en/page/events/"
 weight = 6
 [[languages.en.menu.main]]
 name = "Blog"
-url = "/post/"
+url = "/en/blog/"
 weight = 7
 [[languages.en.menu.main]]
 name = "FAQ"
-url = "/page/faq/"
+url = "/en/faq/"
 weight = 8
 
 [languages.fr]
@@ -54,35 +54,35 @@ copyright = "Exodus Privacy - Association française à but non-lucratif"
 github = "Code Source"
 [[languages.fr.menu.main]]
 name = "Quoi"
-url = "/page/what/"
+url = "/fr/page/what/"
 weight = 1
 [[languages.fr.menu.main]]
 name = "Qui"
-url = "/page/who/"
+url = "/fr/page/who/"
 weight = 2
 [[languages.fr.menu.main]]
 name = "Contribuer"
-url = "/page/contribute/"
+url = "/fr/page/contribute/"
 weight = 3
 [[languages.fr.menu.main]]
 name = "Nos soutiens"
-url = "/page/supporters/"
+url = "/fr/page/supporters/"
 weight = 4
 [[languages.fr.menu.main]]
 name = "Presse"
-url = "/page/press/"
+url = "/fr/page/press/"
 weight = 5
 [[languages.fr.menu.main]]
 name = "Evénements"
-url = "/page/events/"
+url = "/fr/page/events/"
 weight = 6
 [[languages.fr.menu.main]]
 name = "Blog"
-url = "/post/"
+url = "/fr//blog/"
 weight = 7
 [[languages.fr.menu.main]]
 name = "FAQ"
-url = "/page/faq/"
+url = "/fr/faq/"
 weight = 8
 
 [params]
