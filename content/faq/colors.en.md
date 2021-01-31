@@ -4,7 +4,8 @@ title: "How are the colors (green / yellow / red) in your reports defined?"
 
 Colors are assigned to the number of trackers and permissions, according to the scale below:
 
+
 * 0 trackers / permissions: green
-* < 5 trackers / permissions: yellow
-* >= 5 trackers / permissions: red
+* &lt; 5 trackers / permissions: yellow
+* &ge; 5 trackers / permissions: red
 
