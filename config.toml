@@ -82,7 +82,7 @@ weight = 5
   background_color_class = "bg-purple"
 
   recent_posts_number = 2
-  custom_css = ["css/custom.css"]
+  custom_css = ["css/custom.css", "css/all.min.css"]
   show_reading_time = true
 
 [params.widgets]
