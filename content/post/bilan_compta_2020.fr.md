@@ -5,6 +5,9 @@ draft: no
 tags: [comptabilité]
 ---
 
+Si les tableaux ne s'affichent pas correctement, vous pouvez [télécharger le fichier PDF](/media/compta2020.fr.pdf)  
+\
+
 |Recettes | 01/20 | 02/20 | 03/20 | 04/20 | 05/20 | 06/20 | 07/20 | 08/20 | 09/20 | 10/20 | 11/20 | 12/20 |  *Sous-totaux* | TOTAL |
 :---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----:|
 |**DONS** |  |  |  |  |  |  |  |  |  |  |  |  |  | **2 238,54 €**

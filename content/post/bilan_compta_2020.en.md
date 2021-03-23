@@ -5,6 +5,9 @@ draft: no
 tags: [Accounting]
 ---
 
+If the tables don't display correctly, you can [download them in PDF format](/media/compta2020.en.pdf)  
+\
+
 |Revenue | 01/20 | 02/20 | 03/20 | 04/20 | 05/20 | 06/20 | 07/20 | 08/20 | 09/20 | 10/20 | 11/20 | 12/20 |  *Subtotal* | TOTAL |
 :---- | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----: | ----:|
 |**DONATIONS** |  |  |  |  |  |  |  |  |  |  |  |  |  | **2 238,54 €**
