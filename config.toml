@@ -22,7 +22,7 @@ url = "/page/what/"
 weight = 1
 [[languages.en.menu.main]]
 name = "Who"
-url = "/page/who/"
+url = "/who"
 weight = 2
 [[languages.en.menu.main]]
 name = "Contribute"
@@ -51,7 +51,7 @@ url = "/fr/page/what/"
 weight = 1
 [[languages.fr.menu.main]]
 name = "Qui"
-url = "/fr/page/who/"
+url = "/who"
 weight = 2
 [[languages.fr.menu.main]]
 name = "Contribuer"
