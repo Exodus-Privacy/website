@@ -53,6 +53,8 @@ In September, our general meeting took place, **which renewed the entire organiz
 
 U+039B and pnu are also part of the board.
 
+{{<fa fa-birthday-cake>}}
+
 ## Acknowledgements
 
 To finish this post, **we would like to thank you**, all our financial supporters (monthly or occasional donations help us to keep the shop running), but also the people who are immersing themselves in the code of the platform in order to improve it. All our relays, whether in the press, retweets or retoots of our interventions on social networks.
