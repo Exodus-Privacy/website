@@ -40,6 +40,11 @@ draft: false
 
 ## French press
 
+#### 2021
+* **France 2** - *Apr 29 2021* - [Un espion dans la poche ?](https://www.francetvinfo.fr/internet/telephonie/video-un-espion-dans-la-poche_4507625.html)
+* **ZDNet** - *Mar 01 2021* - [Des gestionnaires de mots de passe épinglés pour leur utilisation de trackers](https://www.zdnet.fr/actualites/des-gestionnaires-de-mot-de-passe-epingles-pour-leurs-utilisations-de-trackers-39918681.htm)
+* **01net** - *Feb 26 2021* - [LastPass : l'appli Android du gestionnaire de mots de passe vous espionne à votre insu](https://www.01net.com/actualites/lastpass-l-appli-android-du-gestionnaire-de-mots-de-passe-vous-espionne-a-votre-insu-2036172.html)
+
 #### 2020
 * **France Inter** - *Nov 2020* - [Le Code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers)
 * **La revue européenne des médias et du numérique** - *Jul 2020* - [Covid-19. Enjeux techniques de l’application de traçage numérique StopCovid](https://la-rem.eu/2020/07/covid-19-enjeux-techniques-de-lapplication-de-tracage-numerique-stopcovid/)
