@@ -91,11 +91,11 @@ copyright = "Exodus Privacy - Kar amacı gütmeyen bir Fransız kuruluşu"
 [languages.tr.params]
 github = "Kaynak Kodu"
 [[languages.tr.menu.main]]
-name = "Ne"
+name = "Nedir"
 url = "/page/what/"
 weight = 1
 [[languages.tr.menu.main]]
-name = "Kim"
+name = "Kimdir"
 url = "/page/who/"
 weight = 2
 [[languages.tr.menu.main]]

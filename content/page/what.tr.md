@@ -1,5 +1,5 @@
 ---
-title: "Ne"
+title: "Nedir"
 date: 2020-07-23 17:45:00
 draft: false
 ---
