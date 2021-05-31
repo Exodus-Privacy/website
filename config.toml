@@ -85,6 +85,44 @@ name = "FAQ"
 url = "/page/faq/"
 weight = 8
 
+[languages.tr]
+languageName = "Türkçe"
+copyright = "Exodus Privacy - Kar amacı gütmeyen bir Fransız kuruluşu"
+[languages.tr.params]
+github = "Kaynak Kodu"
+[[languages.tr.menu.main]]
+name = "Ne"
+url = "/page/what/"
+weight = 1
+[[languages.tr.menu.main]]
+name = "Kim"
+url = "/page/who/"
+weight = 2
+[[languages.tr.menu.main]]
+name = "Katkıda Bulunun"
+url = "/page/contribute/"
+weight = 3
+[[languages.tr.menu.main]]
+name = "Destekçiler"
+url = "/page/supporters/"
+weight = 4
+[[languages.tr.menu.main]]
+name = "Basın"
+url = "/page/press/"
+weight = 5
+[[languages.tr.menu.main]]
+name = "Etkinlikler"
+url = "/page/events/"
+weight = 6
+[[languages.tr.menu.main]]
+name = "Blog"
+url = "/post/"
+weight = 7
+[[languages.tr.menu.main]]
+name = "SSS"
+url = "/page/faq/"
+weight = 8
+
 [params]
 navbarBgColorClass = "bg-primary"
 showBlogHeader = true

@@ -89,12 +89,12 @@ draft: false
     </div>
     <div class="col-md-4 mb-4 text-center">
         <a href="https://donorbox.org/exodus">
-            <img src="/media/donorbox.png" caption="Logo and Donorbox link" alt "Logo and Donorbox link" width="148px" height="51px">
+            <img src="/media/donorbox.png" caption="Logo and Donorbox link" alt="Logo and Donorbox link" width="148px" height="51px">
         </a>
     </div>
     <div class="col-md-4 mb-4 text-center">
         <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=EUR&business=paypal@exodus-privacy.eu.org&item_name=Exodus%20donation">
-            <img src="/media/paypal.png" caption"Logo and Paypal link" alt="Logo and Paypal link" width="148px" height="51px">
+            <img src="/media/paypal.png" caption="Logo and Paypal link" alt="Logo and Paypal link" width="148px" height="51px">
         </a>
     </div>
 </div>
