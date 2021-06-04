@@ -39,7 +39,7 @@ draft: false
 </div>
 
 <p>
-    If you don't know where to begin, how to use GitHub or if you want simply to discuss, feel free to <a href="https://forum.exodus-privacy.eu.org/">sign up on our forum</a> or come and <a href="irc://irc.freenode.org/exodus-privacy">talk to the team on IRC</a>.
+    If you don't know where to begin, how to use GitHub or if you want simply to discuss, feel free to <a href="https://forum.exodus-privacy.eu.org/">sign up on our forum</a> or come and <a href="irc://irc.libera.chat/exodus-privacy">talk to the team on IRC</a>.
 </p>
 
 
