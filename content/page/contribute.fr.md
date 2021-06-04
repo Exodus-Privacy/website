@@ -39,7 +39,7 @@ draft: false
 </div>
 
 <p>
-    Si vous ne savez pas par où commencer, comment utiliser GitHub ou bien si vous voulez simplement discuter avec l’équipe, n’hésitez pas à ouvrir un compte sur <a href="https://forum.exodus-privacy.eu.org/">notre forum</a> ou à passer sur <a href="irc://irc.freenode.org/exodus-privacy">IRC</a>.
+    Si vous ne savez pas par où commencer, comment utiliser GitHub ou bien si vous voulez simplement discuter avec l’équipe, n’hésitez pas à ouvrir un compte sur <a href="https://forum.exodus-privacy.eu.org/">notre forum</a> ou à passer sur <a href="irc://irc.libera.chat/exodus-privacy">IRC</a>.
 </p>
 
 <a name="finance"></a>
