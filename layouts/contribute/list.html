@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height nested-img">
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range .Paginator.Pages }}
+        <div class="w-30-l mb4 bg-white">
+          {{- partial "uniq-block.html" . -}}
+        </div>
+      {{ end }}
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}

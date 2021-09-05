@@ -26,7 +26,7 @@ url = "/who"
 weight = 2
 [[languages.en.menu.main]]
 name = "Contribute"
-url = "/page/contribute/"
+url = "/contribute"
 weight = 3
 [[languages.en.menu.main]]
 name = "Blog"
@@ -55,7 +55,7 @@ url = "/who"
 weight = 2
 [[languages.fr.menu.main]]
 name = "Contribuer"
-url = "/fr/page/contribute/"
+url = "/contribute"
 weight = 3
 [[languages.fr.menu.main]]
 name = "Blog"

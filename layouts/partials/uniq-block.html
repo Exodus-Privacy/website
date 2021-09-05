@@ -1,0 +1,18 @@
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+<article class="bb">
+        <div class="container">
+        {{ if $featured_image }}
+          {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+          {{ $featured_image := (trim $featured_image "/") | absURL }}
+          <div class="featured_img">
+            <img src="{{ $featured_image }}" class="rounded" alt="image from {{ .Title }}">
+          </div>
+        {{ end }}
+        <h1 class="title">
+            {{ .Title }}
+        </h1>
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </div>
+</article>
