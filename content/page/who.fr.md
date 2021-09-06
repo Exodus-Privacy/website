@@ -86,14 +86,14 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <a href="https://github.com/Schoumi"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">En charge de l’application Android d’εxodus.</p>
         </div>
-    <!--</div>
-    <div class="col-md-3 mt-3 text-center">-->
+    </div>
+    <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>Caps-Lock</code></h6>
             <p class="small">Membre du bureau</p>
         </div>
-     <!-- </div>-->
+    </div>
 </div>
 
 ## Code de conduite

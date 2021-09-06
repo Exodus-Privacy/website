@@ -82,14 +82,14 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
             <a href="https://github.com/Schoumi"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">In charge of εxodus Android app development.</p>
         </div>
-    <!--</div>
-    <div class="col-md-3 mt-3 text-center">-->
+    </div>
+    <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>Caps-Lock</code></h6>
             <p class="small">Board member</p>
         </div>
-    <!--</div>-->
+    </div>
 </div>
 
 ## Code of conduct
