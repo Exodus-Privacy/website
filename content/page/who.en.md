@@ -43,7 +43,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>Martoni</code></h6>
-            <a href="https://marmot.fr/@martioni"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://mamot.fr/@martoni"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://github.com/martoni35"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">Board member</p>
         </div>
