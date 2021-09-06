@@ -26,8 +26,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <h6 class="card-title"><code>Lovis_IX</code></h6>
             <a href="https://pleroma.foucry.net/users/Jacques"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://github.com/jfoucry"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Roi des serveurs et des sauvegardes, membre du bureau, président en
-            exercice.</p>
+            <p class="small">Roi des serveurs et des sauvegardes, membre du bureau, président en exercice.</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
@@ -64,8 +63,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <a href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/codeurimpulsif"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/codeurimpulsif"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Maître de l’infrastructure d’εxodus, membre du
-            bureau, secrétaire</p>
+            <p class="small">Maître·esse de l’infrastructure d’εxodus, membre du bureau, secrétaire</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
@@ -74,8 +72,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <h6 class="card-title"><code>pnu</code></h6>
             <a href="https://twitter.com/simon_pnu"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/pnu-s"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">En charge du dévelopement d’εxodus, membre du
-            bureau.</p>
+            <p class="small">En charge du dévelopement d’εxodus, membre du bureau.</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
