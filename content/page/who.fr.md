@@ -62,7 +62,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <a href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/codeurimpulsif"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/codeurimpulsif"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Maître·esse de l’infrastructure d’εxodus, membre du bureau, secrétaire</p>
+            <p class="small">Gardien·ne de l’infrastructure d’εxodus, membre du bureau, secrétaire</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">

@@ -62,7 +62,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
             <a href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/codeurimpulsif"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/codeurimpulsif"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Master of εxodus's infrastructure, board member, Secretary</p>
+            <p class="small">Guardian of εxodus's infrastructure, board member, Secretary</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
