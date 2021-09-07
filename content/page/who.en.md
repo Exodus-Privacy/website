@@ -14,29 +14,21 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
     <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
-            <h6 class="card-title"><code>MeTaL_PoU</code></h6>
-            <a href="https://mastodon.opportunis.me/@MeTaL_PoU"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/metal_pou"><i class="fab fa-2x fa-twitter"></i></a>
-            <p class="small">President of Exodus Privacy from 2018 to 2021 and creator of pedagogic contents</p>
+            <h6 class="card-title"><code>CapsLock</code></h6>
+            <a href="https://toot.aquilenet.fr/@CapsLock"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://twitter.com/TheRealCapsLock"><i class="fab fa-2x fa-twitter"></i></a>
+            <a href="https://github.com/TheCapsLock"><i class="fab fa-github fa-2x"></i></a>
+            <p class="small">Board member</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
-            <h6 class="card-title"><code>Lovis_IX</code></h6>
-            <a href="https://pleroma.foucry.net/users/jacques"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://github.com/jfoucry"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">King of our servers and backups, board member, current President</p>
-        </div>
-    </div>
-    <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h6 class="card-title"><code>U039b</code></h6>
-            <a href="https://mastodon.social/@U039b"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/U039b"><i class="fab fa-2x fa-twitter"></i></a>
-            <a href="https://github.com/U039b"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Lead dev of εxodus, board member</p>
+            <h6 class="card-title"><code>Codimp</code></h6>
+            <a href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://twitter.com/codeurimpulsif"><i class="fab fa-2x fa-twitter"></i></a>
+            <a href="https://github.com/codeurimpulsif"><i class="fab fa-github fa-2x"></i></a>
+            <p class="small">Guardian of εxodus's infrastructure, board member, Secretary</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
@@ -51,6 +43,15 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
     <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
+            <h6 class="card-title"><code>Lovis_IX</code></h6>
+            <a href="https://pleroma.foucry.net/users/jacques"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://github.com/jfoucry"><i class="fab fa-github fa-2x"></i></a>
+            <p class="small">King of our servers and backups, board member, current President</p>
+        </div>
+    </div>
+    <div class="col-md-3 mt-3 text-center">
+        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+        <div class="card-body">
             <h6 class="card-title"><code>Martoni</code></h6>
             <a href="https://mamot.fr/@martoni"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://github.com/martoni35"><i class="fab fa-github fa-2x"></i></a>
@@ -60,11 +61,10 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
     <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
-            <h6 class="card-title"><code>Codimp</code></h6>
-            <a href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/codeurimpulsif"><i class="fab fa-2x fa-twitter"></i></a>
-            <a href="https://github.com/codeurimpulsif"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Guardian of εxodus's infrastructure, board member, Secretary</p>
+            <h6 class="card-title"><code>MeTaL_PoU</code></h6>
+            <a href="https://mastodon.opportunis.me/@MeTaL_PoU"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://twitter.com/metal_pou"><i class="fab fa-2x fa-twitter"></i></a>
+            <p class="small">President of Exodus Privacy from 2018 to 2021 and creator of pedagogic contents</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
@@ -88,11 +88,11 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
     <div class="col-md-3 mt-3 text-center">
         <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
-            <h6 class="card-title"><code>CapsLock</code></h6>
-            <a href="https://toot.aquilenet.fr/@CapsLock"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/TheRealCapsLock"><i class="fab fa-2x fa-twitter"></i></a>
-            <a href="https://github.com/TheCapsLock"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Board member</p>
+            <h6 class="card-title"><code>U039b</code></h6>
+            <a href="https://mastodon.social/@U039b"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://twitter.com/U039b"><i class="fab fa-2x fa-twitter"></i></a>
+            <a href="https://github.com/U039b"><i class="fab fa-github fa-2x"></i></a>
+            <p class="small">Lead dev of εxodus, board member</p>
         </div>
     </div>
 </div>
