@@ -8,7 +8,7 @@ draft: false
 
 Exodus Privacy est une association française à but non-lucratif, régie par la loi de 1901. Cette organisation est animée par des hacktivistes dont le but est la protection de la vie privée.
 
-## Principaux contributeurs
+## Principaux contributeurs et principales contributrices
 
 <div class="row justify-content-md-center">
     <div class="col-md-3 mt-3 text-center">
