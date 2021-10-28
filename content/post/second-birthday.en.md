@@ -31,7 +31,7 @@ As part of this rework, a brand new version of the application has just been rel
 
 ## News and events
 
-At the beginning of the year, we presented our work at [FOSDEM](https://archive.fosdem.org/2019/) and a video of the conference is available on [our Peertube channel](https://peertube.tamanoir.foucry.net/videos/watch/596cadb2-6055-437a-bd86-3b0e98458ca1). pnu and Guinness ensured this performance.
+At the beginning of the year, we presented our work at [FOSDEM](https://archive.fosdem.org/2019/) and a video of the conference is available on [our Peertube channel](https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos). pnu and Guinness ensured this performance.
 
 Like last year, we were approached by new actors. [Le MédiaTV](https://www.lemediatv.fr/) allowed us, during a news report about the "Deliveroo Rider" application (intended for Deliveroo deliverers), to perform a dynamic analysis and see where and what data was being sent from the application when the deliverer declares themself at rest. If you speak French, you can watch this report on [the Media's Peertube channel](https://video.lemediatv.fr/videos/watch/beb14431-268f-482d-997d-53d092e645db). You may see MeTaL_PoU and Lovis IX.
 
