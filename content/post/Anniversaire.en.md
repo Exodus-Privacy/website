@@ -10,7 +10,7 @@ On 24th of November 2017, Exodus Privacy was publishing [the εxodus platform](h
 * 152 discovered trackers
 * more than 37000 analyzed applications, in a lot of languages, like Japanese, Korean, Hebrew, ...
 * more than 41000 generated reports
-* more than 1000 views on 3 videos, uploaded on 2 platforms: [Peertube](https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos) and [Youtube](https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ)
+* more than 1000 views on 3 videos, uploaded on 2 platforms: [Peertube](https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos) and [Youtube](https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ)
 * more than 13000 seconds of public talks, [for the Afnic](https://www.youtube.com/watch?v=SlibjEJKO6Y&feature=youtu.be#t=6h21m09s), [Pas Sage en Seine](https://passageenseine.fr/) or [the RMLL](http://www.canalc2.tv/video/15194)
 * 148 MB of database
 * 750 GB of APK in the backups
