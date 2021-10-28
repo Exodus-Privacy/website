@@ -30,7 +30,7 @@ draft: false
 #### 2017
 
 * **MotherBoard** - *Dec 14 2017* - [The Targets of Mobile Apps: Your Health, Your Ancestors](https://motherboard.vice.com/en_us/article/3kpagb/the-targets-of-mobile-apps-your-health-your-ancestors-and-your-baby)
-* **Computer World** - *Dec 2 2017* - [When the threats get weird, the security solutions get weirder](https://www.computerworld.com.au/article/630753/when-threats-get-weird-security-solutions-get-weirder/)
+* **Computer World** - *Dec 2 2017* - [When the threats get weird, the security solutions get weirder](https://www.computerworld.com/article/3239684/when-the-threats-get-weird-the-security-solutions-get-weirder.html)
 * **International Business Times** - *Nov 29 2017* - [Google, Android developers called out for another privacy and security issue](http://www.ibtimes.sg/google-android-developers-called-out-another-privacy-security-issue-20828)
 * **RT** - *Nov 29 2017* - [Smartphone apps track Android users with 'clandestine surveillance software'](https://www.rt.com/news/411194-android-phone-apps-privacy/)
 * **Research Live** - *Nov 29 2017* - [Majority of Android apps have hidden trackers](https://www.research-live.com/article/news/majority-of-android-apps-have-hidden-trackers/id/5031202)
@@ -77,7 +77,7 @@ draft: false
 * **Le Canard enchaîné** - *Oct 2018* - #Vie privée, c'est terminé (Les dossiers du Canard n°149)
 * **Numerama** - *Jul 14 2018* - [Mouchards, histoire de l’art, high tech : 5 chaînes YouTube à suivre en juillet 2018](https://www.numerama.com/pop-culture/393078-mouchards-histoire-de-lart-high-tech-5-chaines-youtube-a-suivre-en-juillet-2018.html)
 * **Geek Junior** - *Jun 12 2018* - [Combien de pisteurs dans les applications que tu utilises ? Exodus Privacy te le dit](https://www.geekjunior.fr/combien-pisteurs-applications-utilises-exodus-privacy-22542/)
-* **BFM TV** - *Apr 20 2018* - [Sans votre accord, des applications offrent vos données les plus intimes à Facebook](http://bfmbusiness.bfmtv.com/hightech/sans-votre-accord-des-applications-offrent-vos-donnees-les-plus-intimes-a-facebook-1424638.html)
+* **BFM TV** - *Apr 20 2018* - [Sans votre accord, des applications offrent vos données les plus intimes à Facebook](https://www.bfmtv.com/economie/entreprises/services/sans-votre-accord-des-applications-offrent-vos-donnees-les-plus-intimes-a-facebook_AN-201804200218.html)
 * **Numerama** - *Apr 7 2018* - [Exodus Privacy : comment voir les permissions et les trackers des applications sur Android](https://www.numerama.com/tech/340529-exodus-privacy-comment-voir-les-permissions-et-les-trackers-des-applications-sur-android.html)
 * **La revue européenne des médias et du numérique** - *Apr 6 2018* - [Trackers](http://la-rem.eu/2018/04/06/trackers/)
 * **Next Inpact** - *Mar 29 2018* - [La mutation rapide d'Exodus Privacy, en lutte contre les trackers sous Android](https://www.nextinpact.com/news/106366-la-mutation-rapide-dexodus-privacy-en-lutte-contre-trackers-sous-android.htm)
