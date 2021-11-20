@@ -11,7 +11,7 @@ In the time of COVID-19, we thought it would be necessary to give you some news 
 In the last weeks, we have witnessed an increase of tracking applications linked to the COVID-19 on the Google Play Store. **Unfortunately, εxodus is not able to download applications with geographic restrictions.** Therefore, the majority of these tracking apps cannot be scanned by our platform.
 
 <p style="text-align:center">
-  <img src="/media/unable.en.png" style="height:325px; margin:10px" alt="Unable to download the APK" caption="Unable to download the APK">
+  <img src="/media/post/covid/unable.en.png" style="height:325px; margin:10px" alt="Unable to download the APK" caption="Unable to download the APK">
 </p>
 
 We invite you to read the analysis reports generated - partly using our tools - by our friends from Defensive Lab Agency: https://forensic.defensive-lab.agency/covid/
