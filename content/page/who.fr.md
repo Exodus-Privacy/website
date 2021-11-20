@@ -12,7 +12,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
 
 <div class="row justify-content-md-center">
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+	<img class="w-25 rounded-circle" src="/media/avatar/capslock.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>CapsLock</code></h6>
             <a href="https://toot.aquilenet.fr/@CapsLock"><i class="fab fa-2x fa-mastodon"></i></a>
@@ -22,7 +22,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+	<img class="w-25 rounded-circle" src="/media/avatar/codimp.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>Codimp</code></h6>
             <a href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a>
@@ -32,7 +32,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+	<img class="w-25 rounded-circle" src="/media/avatar/imriel.png">
         <div class="card-body">
             <h6 class="card-title"><code>Imriel</code></h6>
             <a href="https://tech.lgbt/@imriel"><i class="fab fa-2x fa-mastodon"></i></a>
@@ -41,7 +41,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+	<img class="w-25 rounded-circle" src="/media/avatar/lovis_ix.png">
         <div class="card-body">
             <h6 class="card-title"><code>Lovis_IX</code></h6>
             <a href="https://pleroma.foucry.net/users/Jacques"><i class="fab fa-2x fa-mastodon"></i></a>
@@ -50,7 +50,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+	<img class="w-25 rounded-circle" src="/media/avatar/martoni.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>Martoni</code></h6>
             <a href="https://mamot.fr/@martoni"><i class="fab fa-2x fa-mastodon"></i></a>
@@ -59,7 +59,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+	<img class="w-25 rounded-circle" src="/media/avatar/metal_pou.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>MeTaL_PoU</code></h6>
             <a href="https://mastodon.opportunis.me/@MeTaL_PoU"><i class="fab fa-2x fa-mastodon"></i></a>
@@ -68,7 +68,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+	<img class="w-25 rounded-circle" src="/media/avatar/pnu.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>pnu</code></h6>
             <a href="https://twitter.com/simon_pnu"><i class="fab fa-2x fa-twitter"></i></a>
@@ -77,7 +77,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+	<img class="w-25 rounded-circle" src="/media/avatar/schoumi.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>Schoumi</code></h6>
             <a href="https://twitter.com/schoumi"><i class="fab fa-2x fa-twitter"></i></a>
@@ -86,7 +86,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+	<img class="w-25 rounded-circle" src="/media/avatar/u039b.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>U039b</code></h6>
             <a href="https://mastodon.social/@U039b"><i class="fab fa-2x fa-mastodon"></i></a>
