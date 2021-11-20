@@ -5,7 +5,7 @@ draft: false
 tags: [assemblee-generale]
 ---
 
-Pour toutes les associations Loi 1901, l’assemblée générale est un moment important ! Exodus Privacy n’a pas failli à la règle et le 1er septembre 2018, à Nantes, ses membres se sont réuni•e•s pour faire un bilan de la première année, élire le nouveau bureau et discuter des projets.
+Pour toutes les associations Loi 1901, l’assemblée générale est un moment important ! Exodus Privacy n’a pas failli à la règle et le 1er septembre 2018, à Nantes, ses membres se sont réuni·e·s pour faire un bilan de la première année, élire le nouveau bureau et discuter des projets.
 
 Le bilan moral a permis de retracer l’historique de l’association :
 
@@ -21,6 +21,6 @@ En moins d’un an, Exodus Privacy a acquis une crédibilité scientifique et te
 
 Après l’approbation du bilan moral à l’unanimité, nous avons discuté du bilan financier de l’association et notamment décidé de soutenir financièrement [Framasoft](https://framasoft.org/fr/), car leurs services nous sont régulièrement bien utiles ! Le bilan financier a été approuvé à la majorité des suffrages exprimés, le trésorier ayant préféré s’abstenir.
 
-Enfin, l’assemblée générale s’est conclue sur l’élection du nouveau bureau. Ont été élu•e•s Lovis_IX (trésorier), Codimp (secrétaire), U+039b et MeTaL_PoU (présidente).
+Enfin, l’assemblée générale s’est conclue sur l’élection du nouveau bureau. Ont été élu·e·s Lovis_IX (trésorier), Codimp (secrétaire), U+039b et MeTaL_PoU (présidente).
 
 Nous en profitons pour remercier toutes les personnes qui ont soutenu Exodus Privacy, qu’elles aient donné un peu de temps ou d’argent, ou tout simplement relayé nos travaux. Si vous souhaitez nous rejoindre, pour faire des supports pédagogiques comme nos vidéos, de la communication, de la traduction, du code, de la relecture… n’hésitez pas ! Le plus simple est de nous rejoindre sur le [forum](https://forum.exodus-privacy.eu.org/).
