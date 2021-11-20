@@ -134,18 +134,25 @@ Tous les rapports faits de bonne foi seront pris au sérieux. Le bureau respecte
 </div>
 
 <div class="row justify-content-md-center">
-    <div class="col-md-5 text-center">
+    <div class="col-md-4 text-center">
         <i class="fa fa-3x fa-envelope mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>contact@exodus-privacy.eu.org</code></h6>
             <a href="mailto:contact@exodus-privacy.eu.org" class="btn btn-sm btn-primary">Contactez-nous !</a>
         </div>
     </div>
-    <div class="col-md-5 text-center">
+    <div class="col-md-4 text-center">
         <i class="fa fa-3x fa-comments mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>#exodus-privacy</code></h6>
-            <a href="https://matrix.to/#/#exodus-privacy:matrix.org" class="btn btn-sm btn-primary">Discutons !</a>
+            <a href="https://web.libera.chat/?nick=webguest?#exodus-privacy" class="btn btn-sm btn-primary">Discutons sur IRC !</a>
+        </div>
+    </div>
+    <div class="col-md-4 text-center">
+        <i class="fa fa-3x fa-comment mt-2 ml-auto mr-auto text-primary"></i>
+        <div class="card-body">
+            <h6 class="card-title"><code>#exodus-privacy</code></h6>
+            <a href="https://matrix.to/#/#exodus-privacy:matrix.org" class="btn btn-sm btn-primary">Discutons sur Matrix !</a>
         </div>
     </div>
 </div>
