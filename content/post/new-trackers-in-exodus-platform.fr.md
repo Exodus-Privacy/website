@@ -8,7 +8,7 @@ draft: false
 Nous avons récemment ajouté 50 pisteurs dans notre base de données et régénéré tous les rapports.
 Certaines applications ont vu leur nombre de pisteurs augmenter de 7, voire plus.
 Surveillez dès maintenant vos applications préférées.
-Merci aux contributeur•trices qui nous ont signalé ces nouveaux pisteurs.
+Merci aux contributeur·trices qui nous ont signalé ces nouveaux pisteurs.
 
 À propos d’Exodus Privacy :
 Exodus Privacy est une association loi 1901 à but non lucratif. Nous dénichons les pisteurs embarqués dans les applications Android ©.
