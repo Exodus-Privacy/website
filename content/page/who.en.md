@@ -12,7 +12,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
 
 <div class="row justify-content-md-center">
     <div class="col-md-3 mt-3 text-center">
-	<img class="w-25 rounded-circle" src="/media/avatar/capslock.jpg">
+        <img class="w-25 rounded-circle" src="/media/avatar/capslock.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>CapsLock</code></h6>
             <a href="https://toot.aquilenet.fr/@CapsLock"><i class="fab fa-2x fa-mastodon"></i></a>
