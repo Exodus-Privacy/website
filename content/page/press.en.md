@@ -7,6 +7,10 @@ draft: false
 ## English press
 
 #### 2020
+#### 2021
+
+* **Balkan Insight** - *Dec 30 2021* - [Cracking COVID: The Balance between Public Health and Private Data](https://balkaninsight.com/2021/12/30/cracking-covid-the-balance-between-public-health-and-private-data/)
+* **Telangana Today** - *Dec 27 2021* - [Making social media secure for women](https://telanganatoday.com/cyber-talk-making-social-media-secure-for-women)
 
 * **CodeBlue** - *23 Nov 2020* - [Privacy Issues With MySejahtera](https://codeblue.galencentre.org/2020/11/23/privacy-issues-with-mysejahtera-george-mathews/)
 * **explica** - *May 26 2020* - [Find out how much your mobile applications track you with Exodus Privacy, a privacy analyzer](https://www.explica.co/find-out-how-much-your-mobile-applications-track-you-with-exodus-privacy-a-privacy-analyzer/)
