@@ -27,7 +27,7 @@ Une application est un programme, elle est donc constituée de code informatique
 En téléchargeant cet APK, il est possible de le décompiler (même si en France, ce n'est pas légal car cela porte atteinte à la propriété intellectuelle), c'est à dire récupérer le code-source. Il est alors possible d'opérer des modifications de ce code source pour ajouter, modifier, ou supprimer des fonctionnalités (c'est comme si vous modifiez la recette de cuisine d'un gâteau : vous modifiez le produit final, même s'il y ressemble comme deux gouttes d'eau). Il ne reste plus qu'à re-empaqueter l'application modifiée et la distribuer pour que des utilisateur·ices puissent utiliser cette contrefaçon.
 
 <center>
-{{< fig src="/media/scatterscam_big_picture.png" caption="Crédit : Defensive Lab Agency" >}}
+{{< fig src="/media/post/scam/scatterscam_big_picture.png" caption="Crédit : Defensive Lab Agency" >}}
 </center>
 
 #### Comment Defensive Lab Agency les détecte ?
@@ -43,7 +43,7 @@ Oui, comme indiqué dans le rapport correspondant sur Scatterscam :
 https://scatterscam.defensive-lab.agency/report/orgeuexodus_privacyexodusprivacy/
 
 <center>
-{{< fig src="/media/scatterscam_exodus.png" caption="Rapport sur l'application εxodus dans Scatterscam" >}}
+{{< fig src="/media/post/scam/scatterscam_exodus.png" caption="Rapport sur l'application εxodus dans Scatterscam" >}}
 </center>
 
 #### Est-ce que c'est marginal ?

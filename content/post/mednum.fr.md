@@ -23,7 +23,7 @@ Afin de savoir si cette idée pouvait correspondre à un vrai besoin, nous avons
 
 Nous avons eu 168 réponses, 166 étaient exploitables. Les structures les plus représentées étaient les associations et les bibliothèques, suivie des écoles et des Espaces publics numériques. L'information ayant été diffusée via nos réseaux et relais, il va de soi que nous avons sûrement touché des personnes déjà sensibles aux questions de vie privée et les résultats présentent indéniablement un biais. L'intégralité des résultats se trouve en bas de ce billet, mais nous vous en proposons une synthèse.
 
-![](/media/mednum1.jpg)
+![](/media/post/mednum/mednum1.jpg)
 
 Les questions autour de la vie privée et des smartphones intéressent les médiateur·ices numériques qui ont répondu. Pour autant, ce n'est pas un sujet facile à aborder : la question est complexe, il est difficile de savoir par où commencer, il n'y a pas de solution miracle et il n'est pas aisé de se dégager du temps pour cela. 
 

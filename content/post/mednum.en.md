@@ -23,7 +23,7 @@ In order to find out if this idea could correspond to a real need, we proposed a
 
 We had 168 responses, 166 were usable. The most represented entities were associations and libraries, followed by schools and Espaces publics numériques. As the information was disseminated via our networks and relays, it goes without saying that we certainly reached people who were already sensitive to privacy issues, and the results are undeniably biased. The full results can be found at the bottom of this post, but we offer you a summary.
 
-![](/media/mednum1.jpg)
+![](/media/post/mednum/mednum1.jpg)
 
 Questions about privacy and smartphones are of interest to the digital mediators who responded. However, it is not an easy subject to tackle: the issue is complex, it is difficult to know where to start, there is no miracle solution and it is not easy to find time for it.
 

@@ -51,7 +51,7 @@ draft: false
         <div class="card-body">
             <h5>Notre boutique</h5>
             <a href="https://shop.spreadshirt.fr/exodus-privacy/all">
-                <img src="/media/sweatEP.jpg" caption="our spreadshirt shop" alt="Spreadshirt shop" width="172px" height="172px">
+                <img src="/media/page/contribute/sweatEP.jpg" caption="our spreadshirt shop" alt="Spreadshirt shop" width="172px" height="172px">
             </a>
         </div>
     </div>
@@ -64,7 +64,7 @@ draft: false
             <a href="bitcoin:1exodusdyqXD81tS8SkcLhyFj9ioxWsaZ?label=exodus">
                 <samp class="small">1exodusdyqXD81tS8SkcLhyFj9ioxWsaZ</samp>
                 <br>
-                <img src="/media/bitcoin.png" width="120" alt="QR code et lien bitcoin" caption="QR code et lien bitcoin">
+                <img src="/media/page/contribute/bitcoin.png" width="120" alt="QR code et lien bitcoin" caption="QR code et lien bitcoin">
             </a>
         </div>
     </div>
@@ -74,7 +74,7 @@ draft: false
             <a href="duniter:DegD5SFHyPDeVCjxG6v7DUqbJGipXoaS8rVQxMQHUZEy?label=exodus">
                 <samp class="small">DegD5SFHyPDeVCjxG6v7DUqbJGipXoaS8rVQxMQHUZEy</samp>
                 <br>
-                <img src="/media/duniter.png" width="120" alt="QR code et lien Duniter" caption="QR code et lien Duniter">
+                <img src="/media/page/contribute/duniter.png" width="120" alt="QR code et lien Duniter" caption="QR code et lien Duniter">
             </a>
         </div>
     </div>
@@ -83,17 +83,17 @@ draft: false
 <div class="row">
     <div class="col-md-4 mb-4 text-center">
         <a href="https://liberapay.com/exodus/donate">
-            <img src="/media/liberapay.png" caption="Logo et lien Liberapay" alt="Logo et lien Liberapay" width="148px" height="51px">
+            <img src="/media/page/contribute/liberapay.png" caption="Logo et lien Liberapay" alt="Logo et lien Liberapay" width="148px" height="51px">
         </a>
     </div>
     <div class="col-md-4 mb-4 text-center">
         <a href="https://donorbox.org/exodus">
-            <img src="/media/donorbox.png" caption="Logo et lien Donorbox" alt "Logo et lien Donorbox" width="148px" height="51px">
+            <img src="/media/page/contribute/donorbox.png" caption="Logo et lien Donorbox" alt "Logo et lien Donorbox" width="148px" height="51px">
         </a>
     </div>
     <div class="col-md-4 mb-4 text-center">
         <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=EUR&business=paypal@exodus-privacy.eu.org&item_name=Exodus%20donation">
-            <img src="/media/paypal.png" caption"Logo et lien Paypal" alt="Logo et lien Paypal" width="148px" height="51px">
+            <img src="/media/page/contribute/paypal.png" caption"Logo et lien Paypal" alt="Logo et lien Paypal" width="148px" height="51px">
         </a>
     </div>
 </div>
@@ -126,7 +126,7 @@ Le but principal d’Exodus Privacy est d’<b>avertir les utilisateurs du pista
 </div>
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
-        <img src="/media/peertube.svg" height="48px" class="mt-2 ml-auto mr-auto"/>
+        <img src="/media/logo/peertube.svg" height="48px" class="mt-2 ml-auto mr-auto"/>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://video.exodus-privacy.eu.org/accounts/lovis_ix/videos" class="btn btn-primary">Regardez !</a>
