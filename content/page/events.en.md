@@ -9,9 +9,12 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 
 
 ## Next events
-* [FR] "Soirée de conversation autour du Libre : εxodus - la plateforme d’audit de la vie privée des applications Android", by [Parinux](https://parinux.org/Soiree-de-Conversations-autour-du-Libre-SCL-du-jeudi-14-janvier-2021), online event, 14th January 2021
+
 
 ## Past events
+
+### 2021
+* [FR] "Soirée de conversation autour du Libre : εxodus - la plateforme d’audit de la vie privée des applications Android", by [Parinux](https://parinux.org/Soiree-de-Conversations-autour-du-Libre-SCL-du-jeudi-14-janvier-2021), online event, 14th January 2021
 
 ### 2020
 * [FR] _Facture numérique et contributions citoyennes_ by [Ping](https://www.pingbase.net/) and the Loire-Atlantique Departmental Council, Atelier partagé du Breil, Nantes (France), 6th February 2020

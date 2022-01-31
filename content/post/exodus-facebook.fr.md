@@ -11,4 +11,4 @@ C’est pour les mêmes raisons que nous allons ouvrir une chaîne YouTube.
 
 Le but de cette page n’est évidemment pas de faire le buzz, mais simplement de faire en sorte qu’il soit simple de nous trouver.
 
-Aucun•e bénévole n’a été blessé pendant l’ouverture de la page, leurs données avaient déjà été siphonnées par Cambridge Analytica.
+Aucun·e bénévole n’a été blessé pendant l’ouverture de la page, leurs données avaient déjà été siphonnées par Cambridge Analytica.

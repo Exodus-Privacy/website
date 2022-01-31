@@ -9,9 +9,12 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 
 
 ## Prochains événements
-* [FR] "Soirée de conversation autour du Libre : εxodus - la plateforme d’audit de la vie privée des applications Android", organisée par [Parinux](https://parinux.org/Soiree-de-Conversations-autour-du-Libre-SCL-du-jeudi-14-janvier-2021), en ligne, 14 janvier 2021
+
 
 ## Evénements passés
+
+### 2021
+* [FR] "Soirée de conversation autour du Libre : εxodus - la plateforme d’audit de la vie privée des applications Android", organisée par [Parinux](https://parinux.org/Soiree-de-Conversations-autour-du-Libre-SCL-du-jeudi-14-janvier-2021), en ligne, 14 janvier 2021
 
 ### 2020
 * [FR] Journée _Facture numérique et contributions citoyennes_ organisée par [Ping](https://www.pingbase.net/) et le conseil départemental de Loire-Atlantique, Atelier partagé du Breil, Nantes, 6 février 2020

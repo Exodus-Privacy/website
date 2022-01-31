@@ -28,7 +28,7 @@ Pour mémoire, [toute notre comptabilité est en ligne](/fr/post/comptabilite-20
 
 ## Des statuts plus inclusifs
 
-Nous avons également modifié nos statuts, pour les rendre plus inclusifs et y inclure le [Code de conduite](/fr/page/coc/). Ils seront sous peu publiés sur notre site.
+Nous avons également modifié nos statuts, pour les rendre plus inclusifs et y inclure le [Code de conduite](/fr/page/who/). Ils seront sous peu publiés sur notre site.
 
 ## L'élection du Bureau
 

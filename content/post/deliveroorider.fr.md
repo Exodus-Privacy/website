@@ -16,7 +16,7 @@ La plate-forme d'analyse εxodus permet de connaître le nombre de pisteurs dans
 
 <center>
   <a href="https://reports.exodus-privacy.eu.org/fr/reports/84460/">
-    <img src="/media/deliverooreport.png" caption="le rapport d'analyse de Deliveroo rider">
+    <img src="/media/post/deliveroorider/deliverooreport.png" caption="le rapport d'analyse de Deliveroo rider">
   </a>
 </center>
 
@@ -45,7 +45,7 @@ plateforme deliveroo. Cette clef d'api est liée au coursier ou à la coursière
 * Segment, quant à lui, collecte régulièrement toutes les actions dans l'application sous forme d' _events_, ainsi que l'identifiant du coursier ou de la coursière (l'`userID`), l'identifiant publicitaire (l'`advertisingID`), l'identifiant unique Android (l'`id`) [^3], l'opérateur téléphonique (le `carrier`), le modèle de téléphone, la résolution de l'écran, si le téléphone est connecté en WiFi…
 
 <center>
-  <img src="/media/deliveroosegment.png" caption="les données envoyées à Segment">
+  <img src="/media/post/deliveroorider/deliveroosegment.png" caption="les données envoyées à Segment">
 </center>
 
 ## En conclusion

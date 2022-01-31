@@ -8,7 +8,7 @@ draft: false
 
 <div class="row">
   <div class="col-md-4 text-center">
-    <img src="/media/logo.png" width="60px" class="mt-3 ml-auto mr-auto"/>
+    <img src="/media/logo/exodus.png" width="60px" class="mt-3 ml-auto mr-auto"/>
     <div class="card-body">
       <h5 class="card-title">εxodus</h5>
       <p class="card-text">Discover the ingredients of the cake!</p>
@@ -53,18 +53,18 @@ The [εxodus website](http://reports.exodus-privacy.eu.org/) lets you:
 * go further, providing [a list of tools and things you can do](https://reports.exodus-privacy.eu.org/en/info/next/) to improve your privacy on your smartphone
 
 <center>
-{{< fig src="/media/report-overview-en.png" caption="Overview of a report" >}}
+{{< fig src="/media/page/what/report-overview-en.png" caption="Overview of a report" >}}
 </center>
 
 Each report will tell you what trackers are embedded into the application. By clicking on a tracker's name, you will be taken to a page showing more details on this tracker as well as the list of applications using it. If the tracker description is empty or inaccurate, please feel free to refer to the [ETIP](https://github.com/Exodus-Privacy/etip/) project.
 
 <center>
-{{< fig src="/media/report-trackers-en.png" caption="Overview of the list of detected trackers" >}}
+{{< fig src="/media/page/what/report-trackers-en.png" caption="Overview of the list of detected trackers" >}}
 </center>
 A report will also give you the list of permissions the application requests to operate on your smartphone. Some of these permissions are tagged as *dangerous*. This means that from Google's point of view, the application can do *bad things* using this permission. εxodus uses the Google permission classification.
 
 <center>
-{{< fig src="/media/report-perms-en.png" caption="Overview of the list of permissions" >}}
+{{< fig src="/media/page/what/report-perms-en.png" caption="Overview of the list of permissions" >}}
 </center>
 
 We wrote some educational articles to inform smartphone users about trackers and permissions and give them some tools to better manage their privacy. You can read them in the [Better understand](https://reports.exodus-privacy.eu.org/en/info/understand/) page of the εxodus platform.
@@ -83,10 +83,10 @@ The application is available on [F-Droid](https://f-droid.org/packages/org.eu.ex
 
 <div class="row">
   <div class="col-md-6 text-center">
-  {{< fig src="/media/exodus-app-en-1.png" caption="Overview 1 of the εxodus Android application - List of installed applications" >}}
+  {{< fig src="/media/page/what/exodus-app-en-1.png" caption="Overview 1 of the εxodus Android application - List of installed applications" >}}
   </div>
   <div class="col-md-6 text-center">
-  {{< fig src="/media/exodus-app-en-2.png" caption="Overview 2 of the εxodus Android application - Tracker details for an application" >}}
+  {{< fig src="/media/page/what/exodus-app-en-2.png" caption="Overview 2 of the εxodus Android application - Tracker details for an application" >}}
   </div>
 </div>
 
@@ -101,7 +101,7 @@ The application does not analyse the applications installed directly on your sma
 The main goal of Exodus Privacy is to raise awareness of the extent of tracking by and in mobile applications. To this end, we have created videos explaining how and why tracking massively occurs on smartphones. You can watch these videos on 2 platforms:
 <div class="row justify-content-md-center">
   <div class="col-md-4 text-center">
-    <img src="/media/peertube.svg" height="42px" class="mt-3 ml-auto mr-auto"/>
+    <img src="/media/logo/peertube.svg" height="42px" class="mt-3 ml-auto mr-auto"/>
     <div class="card-body">
       <h5 class="card-title"><code>@exodus</code></h5>
       <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">Watch!</a>

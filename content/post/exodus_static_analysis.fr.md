@@ -69,7 +69,7 @@ En Java, C++, Python et d'autres langages, les espaces de nom sont vraiment impo
 Pour le moment, εxodus connaît [152 pisteurs](https://reports.exodus-privacy.eu.org/trackers/), et si nous regardons [Flurry](https://reports.exodus-privacy.eu.org/trackers/25/), nous avons la règle de détection `com.flurry.` qui est une [regex](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re).
 
 <center>
-{{< fig src="/media/flurry.png" caption="Aperçu de la description du pisteur Flurry" >}}
+{{< fig src="/media/post/exodus_static_analysis/flurry.png" caption="Aperçu de la description du pisteur Flurry" >}}
 </center>
 
 Maintenant, utilisons `grep` pour voir si `my.apk` contient les classes de Flurry :
@@ -93,7 +93,7 @@ Comme nous pouvons le voir, `my.apk` contient des classes de Flurry.
 Ainsi, lorsque vous [soumettez](https://reports.exodus-privacy.eu.org/analysis/submit/) une application pour analyse, εxodus la télécharge depuis Google Play, extrait le fichier `.apk`, appelle `dexdump` sur les fichiers `.dex`, stocke la sortie filtrée dans un fichier qui sera utilisé lors de la mise à jour des rapports afin d'accélérer l'analyse, prend la règle de détection de chaque pisteur connu et voit si les noms de classe correspondent. Si une règle de détection correspond à un ou plusieurs noms de classe, nous considérons le pisteur intégré, sinon, nous le considérons comme manquant.
 
 <center>
-{{< fig src="/media/static_analysis.png" caption="Aperçu du processus d'analyse statique" >}}
+{{< fig src="/media/post/exodus_static_analysis/static_analysis.png" caption="Aperçu du processus d'analyse statique" >}}
 </center>
 
 Si vous souhaitez nous aider à améliorer la base de connaissances εxodus, [contactez-nous](/fr/page/who/) et demandez un compte [ETIP](http://etip.exodus-privacy.eu.org/). ETIP est une plateforme collaborative destinée à faciliter les investigations et la classification sur les pisteurs.

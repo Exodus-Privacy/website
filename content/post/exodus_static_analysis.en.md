@@ -65,7 +65,7 @@ In Java, C++, Python and other languages, name-spaces are really important and w
 
 By now, εxodus knows [152 trackers](https://reports.exodus-privacy.eu.org/trackers/) and if we have a look to [Flurry](https://reports.exodus-privacy.eu.org/trackers/25/) we have detection rule `com.flurry.` which is a [regex](https://en.wikipedia.org/wiki/Regular_expression).
 <center>
-{{< fig src="/media/flurry.png" caption="Overview of the Flurry description" >}}
+{{< fig src="/media/post/exodus_static_analysis/flurry.png" caption="Overview of the Flurry description" >}}
 </center>
 
 So, lets use `grep` to see if `my.apk` contains Flurry's classes
@@ -87,7 +87,7 @@ as we can see, `my.apk` contains Flurry's classes.
 Thus, when you [submit](https://reports.exodus-privacy.eu.org/analysis/submit/) an application for analysis, εxodus downloads it from Google Play, extracts the `.apk` file, call `dexdump` on the `.dex` files, stores the filtered output into a file which will be used during reports update in order to speed up the analysis, takes the detection rule of each known tracker and see if class names are matching. If a detection rule matches one or more class names, we consider the tracker embedded, otherwise, we consider it as missing.
 
 <center>
-{{< fig src="/media/static_analysis.png" caption="Overview of the static analysis process" >}}
+{{< fig src="/media/post/exodus_static_analysis/static_analysis.png" caption="Overview of the static analysis process" >}}
 </center>
 
 If you want to help us to improve the εxodus knowledge base, [contact us](/page/who/) and ask for an [ETIP](http://etip.exodus-privacy.eu.org/) account. ETIP is a collaborative platform meant to ease investigation and classification on trackers.
