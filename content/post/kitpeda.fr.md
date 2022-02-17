@@ -2,7 +2,6 @@
 title: "Kit pédagogique, un premier prototype est prêt !"
 date: 2022-02-17
 draft: false
-tags: [general-assembly]
 ---
 
 Exodus Privacy a pour but de sensibiliser un maximum de personnes aux enjeux d'intimité numérique sur smartphone. Pour cela, les bénévoles de l'association animent depuis 2017 des ateliers et conférences pour des publics variés. En 2020, nous avons décidé de solliciter un financement auprès de la [Fondation Afnic pour un numérique solidaire](https://www.fondation-afnic.fr/fr/Accueil.htm) pour créer un kit pédagogique, permettant à des bénévoles ou professionnel·les de pouvoir animer des ateliers autour des questions de vie privée et smartphones. [Nous avions pour cela lancé un questionnaire](https://exodus-privacy.eu.org/fr/post/mednum/) auprès de ce public, confirmant la pertinence de ce kit.
@@ -26,7 +25,7 @@ Pour créer ce kit,  nous avons fait appel à [_Lila*](https://lila.ink/), graph
 
 Concernant l'univers graphique, elle nous a permis dans un premier temps de définir plus précisément ce que nous souhaitions, qui nous ressemble, touche un public varié et soit attractif. Pour cela, _Lila* nous a sélectionné une multitude de créations graphiques, afin que nous puissions formuler des mot-clés et nous mettre d'accord sur de grandes lignes. A vrai dire, ce n'est pas un exercice habituel au sein de l'association, c'était vraiment intéressant à faire. Nous avons ainsi défini les lignes suivantes : s'inspirer des papiers découpés, une palette contrastée reprenant le violet de notre logo, des aplats de couleurs. _Lila* a donc fait de premières propositions qui nous ont encore permis d'affiner nos souhaits.
 
-![](/media/post/kitpeda/kitpeda1.png)
+![Extrait du diaporama](/media/post/kitpeda/kitpeda1.png)
 
 Une fois l'univers graphique défini, _Lila* a pu avancer sur les créations graphiques, notamment les illustrations permettant à Héloïse, motion designeuse de NetFreaks d'animer cet univers dans une vidéo.
 
