@@ -26,6 +26,8 @@ hugo server -D
 - Make your changes and push them to your repository
 - Create a Pull Request (PR)
 
+Please note that our Markdown files must comply with [mardownlint](https://github.com/DavidAnson/markdownlint) (see [.markdownlint.json](./.markdownlint.json) for our custom configuration).
+
 ## License
 
 This project is licensed under the GNU AGPL v3 License - see the [LICENSE](https://github.com/Exodus-Privacy/website/blob/hugo/LICENSE) file for details.
