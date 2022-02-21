@@ -10,7 +10,8 @@ tags: [accounting]
 
 * Each line is an account
 
-## Balance changes in 2017 / 11:
+## Balance changes in 2017 / 11
+
 <pre>
                        ║                            Nov
 ═══════════════════════╬════════════════════════════════
@@ -21,8 +22,8 @@ tags: [accounting]
 ───────────────────────╫────────────────────────────────
                        ║                              0</pre>
 
+## Balance changes in 2017 / 12
 
-## Balance changes in 2017 / 12:
 <pre>
                        ║                      Dec
 ═══════════════════════╬══════════════════════════

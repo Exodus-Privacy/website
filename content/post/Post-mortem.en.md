@@ -39,7 +39,6 @@ We used a filelist file because the `find` output is much faster than any copy c
 
 We also had to remove the `./` at the begining of each line from the filelist file. That the role of the `sed` command.
 
-
 ```
 mc find /home/exodus/storage/exodus "*.apk" -m6 exec rm -rf {}\;
 ```

@@ -14,7 +14,7 @@ Nous avons vu dans les dernières semaines une recrudescence sur le Google Play 
   <img src="/media/post/covid/unable.fr.png" style="height:275px; margin:10px" alt="Impossible de télécharger l'APK" caption="Impossible de télécharger l'APK">
 </p>
 
-Nous vous invitons à consulter les rapports d'analyse (en anglais) générés - en partie avec nos outils - par nos ami·e·s de Defensive Lab Agency : https://forensic.defensive-lab.agency/covid/
+Nous vous invitons à consulter les rapports d'analyse (en anglais) générés - en partie avec nos outils - par nos ami·e·s de Defensive Lab Agency : <https://forensic.defensive-lab.agency/covid/>
 
 Si vous avez le temps et la compétence technique, notez aussi que l'outil [εxodus-standalone](https://github.com/Exodus-Privacy/exodus-standalone) est disponible pour répondre à ce genre de besoin, après avoir téléchargé au préalable l'application sur votre ordinateur.
 
@@ -30,6 +30,6 @@ Dans certains pays comme la France où une attestation est nécessaire pour circ
 
 Nous vous rappelons qu'**un bon réflexe avant d'installer une application est de vérifier ce qu'elle contient** via [εxodus](https://reports.exodus-privacy.eu.org) ou [exodify](https://github.com/FacettsOpen/exodify/). Vous pouvez [l'analyser](https://reports.exodus-privacy.eu.org/fr/analysis/submit/) si elle n'est pas encore présente pour l'ajouter à notre base d'applications.
 
-Enfin, une liste de quelques outils et pratiques destinés à mieux maîtriser votre intimité sur mobile est disponible directement sur la plateforme εxodus : https://reports.exodus-privacy.eu.org/fr/info/next/
+Enfin, une liste de quelques outils et pratiques destinés à mieux maîtriser votre intimité sur mobile est disponible directement sur la plateforme εxodus : <https://reports.exodus-privacy.eu.org/fr/info/next/>
 
 Prenez soin de vous !

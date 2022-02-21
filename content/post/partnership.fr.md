@@ -6,7 +6,7 @@ draft: false
 
 Après bientôt deux ans d'existence, il est temps de faire un bilan sur les partenariats et alliances d'Exodus Privacy. En effet, nous avons tissé des liens et nos outils sont utilisés par de nombreuses personnes, que ce soit dans un but technique ou pédagogique. Ce billet de blog a également pour but de répondre à de futur⋅e⋅s partenaires, qui pourraient se demander comment procéder.
 
-## Nos soutiens financiers et matériels :
+## Nos soutiens financiers et matériels
 
 Nous publions tous les mois [notre comptabilité](/fr/post/comptabilite-2019-2020/) de façon transparente. En plus de toutes les personnes qui nous donnent ponctuellement ou régulièrement (un grand merci à elles), plusieurs personnes morales sans lesquelles il nous aurait été plus difficile, voire impossible, de proposer nos services, nous soutiennent ou nous ont soutenu·e·s  :
 
@@ -16,14 +16,14 @@ Nous publions tous les mois [notre comptabilité](/fr/post/comptabilite-2019-202
 * [Qwant](https://www.qwant.com/) a effectué un don important en mars 2018. Ce don sans contrepartie nous a été présenté comme devant être récurrent. Notre seconde demande de mécénat de septembre 2018 est restée sans réponse et nous n'avons depuis plus aucune relation avec cette entreprise.
 * [Code Lutin](http://www.codelutin.com/) a permis par son mécénat de septembre 2019 le financement de  la refonte de l'UX de notre application, actuellement en cours.
 
-## Nos allié⋅e⋅s :
+## Nos allié⋅e⋅s
 
-En France, nous avons également développé un réseau d'allié⋅e⋅s avec lesquel⋅le⋅s nous partageons un certain nombre de valeurs et intervenons de façon complémentaire, notamment [La Quadrature du Net](https://www.laquadrature.net/) et [Framasoft](https://framasoft.org). 
+En France, nous avons également développé un réseau d'allié⋅e⋅s avec lesquel⋅le⋅s nous partageons un certain nombre de valeurs et intervenons de façon complémentaire, notamment [La Quadrature du Net](https://www.laquadrature.net/) et [Framasoft](https://framasoft.org).
 
-## L'utilisation de nos données et outils : 
+## L'utilisation de nos données et outils
 
- Nous faisons de l'open source et du libre. Nos données et outils sont donc réutilisables à condition d'en respecter les licences. Nous avons, entre autre, une API disponible à cet effet. Son utilisation est [documentée sur notre dépôt de code](https://github.com/Exodus-Privacy/exodus/blob/v1/doc/api.md) 
- 
+ Nous faisons de l'open source et du libre. Nos données et outils sont donc réutilisables à condition d'en respecter les licences. Nous avons, entre autre, une API disponible à cet effet. Son utilisation est [documentée sur notre dépôt de code](https://github.com/Exodus-Privacy/exodus/blob/v1/doc/api.md)
+
 Parmi toutes ces utilisations, nous pouvons en donner quelques exemples :
 
 * [F-droid](https://f-droid.org/), store d'applications Android libres, utilise nos outils et notre base de pisteurs pour analyser les applications de son store et leur mise à jour ;
@@ -35,18 +35,15 @@ Nos vidéos, notre plate-forme et notre application sont régulièrement utilis�
 
 ## Si vous voulez…
 
-### Utiliser nos outils dans une démarche pédagogique :
+### Utiliser nos outils dans une démarche pédagogique
 
 Si vous êtes au contact du grand public et que vous souhaitez faire des actions de sensibilisation en utilisant nos outils (nos vidéos, notre plate-forme, etc.), n'hésitez pas ! Nous vous remercions de bien vouloir respecter les licences le cas échéant. Vous pouvez nous faire un retour, cela nous intéresse de savoir comment nos outils sont utilisés et comment les améliorer. Vous pouvez également nous inviter pour des actions de sensibilisation du public ou des professionnel·le·s.
 
-### Faire une offre de partenariat :
+### Faire une offre de partenariat
 
 Un partenariat doit apporter à chacune des parties en présence et nous sommes particulièrement intéressé⋅e⋅s par des propositions de contribution au code, de communication ou de soutien financier. Notre but reste toujours de donner des éléments de compréhension au grand public et non de porter des jugements de valeur.
 Nous étudions sérieusement toute proposition de partenariat, il vous suffit pour cela de [nous contacter](/fr/page/who/).
 
-### Avoir une clé API :
+### Avoir une clé API
 
 Comme précisé plus haut, une clef d'API peut s'obtenir simplement en suivant la procédure documentée [ici](https://github.com/Exodus-Privacy/exodus/blob/v1/doc/api.md).
-
-
-

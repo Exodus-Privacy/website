@@ -30,7 +30,7 @@ Nous avions envie d'aider les bénévoles et professionnel·les de la médiation
 
 Nous avons donc commencé avec la graphiste et illustratrice [_Lila*](https://lila.ink/) ainsi qu'avec l'association [Net-freaks](https://twitter.com/NetFreaksFr) à travailler sur l'univers graphique et sur le contenu. Nous avons prévu de faire tester les premiers prototypes au deuxième trimestre 2021.
 
-### Plusieurs conférences et ateliers... jusqu'en Suisse !
+### Plusieurs conférences et ateliers... jusqu'en Suisse
 
 Nous sommes régulièrement invité·es à présenter notre association et nos résultats lors de conférences et d'ateliers. Cette année nous a permis de participer à [5 événements](https://exodus-privacy.eu.org/fr/page/events/) : une conférence organisée par 42l qui a été [filmée](https://video.tedomum.net/videos/watch/2035a814-ecfe-4e67-8b6f-6d4438477efe), une participation aux rencontres hivernales du libre à Saint-Cergues, en Suisse, deux participations au festival des Libertés numériques à Rennes et Nantes et à la journée _Facture numérique et contributions citoyennes_ organisée par Ping et le conseil départemental de Loire-Atlantique. Nous avions également prévu une conférence à Lyon pour les [JDLL](https://www.jdll.org/) pour parler avec Maiwann de la refonte du design de notre plateforme, mais la situation sanitaire a malheureusement poussé les organisateur·ices à annuler.
 
@@ -44,7 +44,7 @@ _Les dortoirs, attenant au bâtiment principal se trouvent… dans un abri anti-
 
 _On ne peut s’empêcher de penser à « Astérix chez les Helvètes ». Mélange de rigolades et de discussions sérieuses, seule la fatigue nous ayant obligée à regagner nos couchettes._
 
-### Des allié·es et une communauté formidables !
+### Des allié·es et une communauté formidables
 
 Nous aimons répéter que nous sommes une petite association de bénévoles, mais nous avons une grande communauté ! **Un grand merci à vous, qui parlez de nous, qui contribuez ponctuellement ou régulièrement et à nos [soutiens](/fr/page/supporters/).** Une petite mention particulière au [soutien indéfectible](https://news.gandi.net/fr/2020/02/les-projets-soutenus-partenaires-des-20-ans-gandi/) de **Gandi** qui nous offre l'hébergement de notre plateforme et qui, à l'occasion de ses 20 ans, a organisé un concours de T-shirts dont une partie des bénéfices vont nous être reversés.
 

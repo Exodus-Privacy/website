@@ -42,7 +42,6 @@ draft: false
     If you don't know where to begin, how to use GitHub or if you want simply to discuss, feel free to <a href="https://forum.exodus-privacy.eu.org/">sign up on our forum</a> or come and <a href="https://web.libera.chat/?nick=webguest?#exodus-privacy">talk to the team on IRC</a>.
 </p>
 
-
 <a name="finance"></a>
 
 ## Help us to finance Exodus Privacy

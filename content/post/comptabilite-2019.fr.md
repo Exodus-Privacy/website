@@ -10,7 +10,7 @@ tags: [comptabilite]
 
 * Comptabilité en double entrée. Chaque ligne est un compte.
 
-## Comptes au 2019 / 08 :
+## Comptes au 2019 / 08
 
 |    | **Aou** |
 |:---|---:|
@@ -48,7 +48,8 @@ tags: [comptabilite]
  equity:opening balances          |         0
 ──────────────────────────────────|───────────
                                   |        0
-## Comptes au 2019 / 07 :
+
+## Comptes au 2019 / 07
 
 |    | **Jui**|
 |:---|---:|
@@ -84,7 +85,7 @@ tags: [comptabilite]
 ──────────────────────────────────|──────────
                                   |        0
 
-## Comptes au 2019 / 06 :
+## Comptes au 2019 / 06
 
 |    | **Jun**|
 |:---|---:|
@@ -132,8 +133,8 @@ tags: [comptabilite]
 ─────────────────────────────────|──────────
                                  |        0
 
+## Comptes au 2019 / 05
 
-## Comptes au 2019 / 05 :
 |    | **Mai**|
 |:---|---:|
  Assets: Au Trappiste           |       0
@@ -176,7 +177,7 @@ tags: [comptabilite]
 ────────────────────────────────|──────────
                                 |       0
 
-## Comptes au 2019 / 04:
+## Comptes au 2019 / 04
 
 |    | **Avr** |
 |:---|---:|
@@ -217,7 +218,8 @@ tags: [comptabilite]
  Société Générale                |       0
 ─────────────────────────────────|────────
                                  |       0
-## Comptes au 2019 / 03:
+
+## Comptes au 2019 / 03
 
 |     |  **Mar**
 |:---|---:|
@@ -253,7 +255,8 @@ tags: [comptabilite]
  Société Générale                |   10.20€
 ─────────────────────────────────|─────────
                                  |        0
-## Comptes au 2019 / 02 :
+
+## Comptes au 2019 / 02
 
 |    | **Fev** |
 |:---|---:|
@@ -291,7 +294,7 @@ tags: [comptabilite]
 ─────────────────────────────────|─────────
                                  |        0
 
-## Comptes au 2019 / 01 :
+## Comptes au 2019 / 01
 
 |    | **Jan** |
 |:---|---:|

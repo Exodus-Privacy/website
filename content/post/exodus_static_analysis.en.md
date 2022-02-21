@@ -12,6 +12,7 @@ Android applications are developed in JVM compatible languages like Java, Kotlin
 Google provides `dexdump` which is a program meant to parse `.dex` files. In the Java world, compiled code is contained in `.class` files (one per class), in the Android world, compiled code is stored in `.dex` files (one or more per program). An Android application is contained in an `.apk` file which is a signed ZIP archive. The `.apk` file contains the application program (`.dex` files) and application assets like fonts, pictures, etc.
 
 When we run `dexdump` on an `.apk` file, we have such output:
+
 ```
 Class #0            -
   Class descriptor  : 'Landroid/databinding/Observable;'
@@ -38,9 +39,11 @@ Class #1            -
   Class descriptor  : 'Landroid/databinding/BaseObservable;'
 [...]
 ```
+
 This output is not really human-friendly but for each class declared in the application we have a `Class #x` and a `Class descriptor`. The class descriptor is the JVM representation of application name-spaces (fully qualified class name). In this example, `Class #0` is `android.databinding.Observable` with `android.databinding` the package name and `Observable` the name of the declared class.
 
 We can cleanup the `dexdump` output by selecting `Class descriptor` and sorting them:
+
 ```
 $ dexdump my.apk | grep "Class descriptor" | sort | uniq
   Class descriptor  : 'Landroid/databinding/adapters/AbsListViewBindingAdapter;'
@@ -69,6 +72,7 @@ By now, εxodus knows [152 trackers](https://reports.exodus-privacy.eu.org/track
 </center>
 
 So, lets use `grep` to see if `my.apk` contains Flurry's classes
+
 ```
 $ dexdump my.apk | grep "Class descriptor" | sort | uniq | grep -E "com.flurry." | head -n 10
   Class descriptor  : 'Lcom/flurry/android/Constants;'
@@ -82,6 +86,7 @@ $ dexdump my.apk | grep "Class descriptor" | sort | uniq | grep -E "com.flurry."
   Class descriptor  : 'Lcom/flurry/android/FlurryEventRecordStatus;'
   Class descriptor  : 'Lcom/flurry/android/FlurryGamingAgent;'
 ```
+
 as we can see, `my.apk` contains Flurry's classes.
 
 Thus, when you [submit](https://reports.exodus-privacy.eu.org/analysis/submit/) an application for analysis, εxodus downloads it from Google Play, extracts the `.apk` file, call `dexdump` on the `.dex` files, stores the filtered output into a file which will be used during reports update in order to speed up the analysis, takes the detection rule of each known tracker and see if class names are matching. If a detection rule matches one or more class names, we consider the tracker embedded, otherwise, we consider it as missing.

@@ -22,7 +22,6 @@ Nous stockons l'ensemble des APK pour d'éventuels besoins de recalculs, par exe
 Par ailleurs, cela nous permet également d'être transparent·e·s : si une personne souhaite contester nos résultats, elle peut télécharger le fichier qui a servi de base à l'analyse.
 Enfin, cela peut être nécessaire si jamais un jour nous changeons de modalité d'analyse.
 
-
 ### Qu'avons-nous fait ?
 
 Nous avons rapidement communiqué sur les réseaux sociaux (Mastodon et Twitter) pour annoncer l'impossibilité de soumettre une nouvelle analyse et informer que nous cherchions une solution. La communauté qui nous suit a fait preuve de bienveillance et de compréhension, un grand merci à elle.
@@ -37,6 +36,7 @@ Pour les plus techniques de nos lectrices et lecteurs, voici les commandes pass�
 # sed -i 's/^.\//' /tmp/filelist.txt
 # rsync -azuP --files-from=/tmp/filelist.txt -e 'ssh -p <port> -i fichier_id' /home/exodus/storage/exodus <machine_cible>:/backups/backupsAPK/.
 ```
+
 Nous sommes passé·e·s par une liste de fichiers parce que la copie directe en sortie de `find` aurait vite saturé, le `find` étant plus rapide que la copie.
 
 Il faut également supprimer le `./` au début du nom des fichiers, c'est ce que fait la commande `sed`.
