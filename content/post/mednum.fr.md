@@ -5,31 +5,31 @@ draft: false
 tags: [médiation numérique]
 ---
 
-Peut-être avez-vous vu passer en avril dernier un questionnaire destiné aux médiateur·ices numériques ? Cette enquête est la première étape de la création d'un kit pédagogique destiné aux personnes qui souhaitent animer des ateliers autour de cette thématique. Nous vous proposons ici de vous raconter la genèse du projet, ainsi que ce que nous ont appris les 166 réponses au questionnaire. 
+Peut-être avez-vous vu passer en avril dernier un questionnaire destiné aux médiateur·ices numériques ? Cette enquête est la première étape de la création d'un kit pédagogique destiné aux personnes qui souhaitent animer des ateliers autour de cette thématique. Nous vous proposons ici de vous raconter la genèse du projet, ainsi que ce que nous ont appris les 166 réponses au questionnaire.
 
 ### Pourquoi vouloir créer un kit pédagogique pour les médiateur·ices numériques ?
 
-Notre but est de rendre nos découvertes et notre expertise accessible au plus grand nombre. Pour cela, nous pouvons nous appuyer sur un réseau important de médiateurs et médiatrices numériques. Nous savons que des bibliothécaires, des bénévoles, des enseignant·es ou animateur·ices d'Espaces Publics Numériques utilisent régulièrement nos outils et proposent des actions de sensibilisation. Nous avons à coeur d'adapter nos outils à leurs besoins. 
+Notre but est de rendre nos découvertes et notre expertise accessible au plus grand nombre. Pour cela, nous pouvons nous appuyer sur un réseau important de médiateurs et médiatrices numériques. Nous savons que des bibliothécaires, des bénévoles, des enseignant·es ou animateur·ices d'Espaces Publics Numériques utilisent régulièrement nos outils et proposent des actions de sensibilisation. Nous avons à coeur d'adapter nos outils à leurs besoins.
 
-Nous avons déjà travaillé avec des professionnel·les de la médiation numérique pour [améliorer le design de notre plateforme](https://framablog.org/2019/11/29/collaborer-pour-un-design-plus-accessible-lexemple-dexodus-privacy/), mais nous souhaitions aller plus loin en proposant un kit pédagogique à destination des médiatrices et médiateurs numériques. Il permettrait ainsi à des bénévoles ou professionnel·les de pouvoir animer facilement un atelier autour de la vie privée et des smartphones, sans avoir besoin de le créer de toute pièce. 
+Nous avons déjà travaillé avec des professionnel·les de la médiation numérique pour [améliorer le design de notre plateforme](https://framablog.org/2019/11/29/collaborer-pour-un-design-plus-accessible-lexemple-dexodus-privacy/), mais nous souhaitions aller plus loin en proposant un kit pédagogique à destination des médiatrices et médiateurs numériques. Il permettrait ainsi à des bénévoles ou professionnel·les de pouvoir animer facilement un atelier autour de la vie privée et des smartphones, sans avoir besoin de le créer de toute pièce.
 
 ### Recenser les besoins des médiateur·ices numériques
 
 Afin de savoir si cette idée pouvait correspondre à un vrai besoin, nous avons proposé un questionnaire en ligne pendant deux semaines en avril 2020. Il comptait plusieurs questions sur :
-    
+
 * Les ateliers déjà animés par la personne répondante ;
 * Son avis sur un kit pédagogique : son intérêt, le public visé et ce qui devrait, dans l'idéal, le composer ;
-* le type de lieu de médiation numérique concerné. 
+* le type de lieu de médiation numérique concerné.
 
 Nous avons eu 168 réponses, 166 étaient exploitables. Les structures les plus représentées étaient les associations et les bibliothèques, suivie des écoles et des Espaces publics numériques. L'information ayant été diffusée via nos réseaux et relais, il va de soi que nous avons sûrement touché des personnes déjà sensibles aux questions de vie privée et les résultats présentent indéniablement un biais. L'intégralité des résultats se trouve en bas de ce billet, mais nous vous en proposons une synthèse.
 
-![](/media/post/mednum/mednum1.jpg)
+![Réponses à la question 'avez-vous déjà animé un atelier... ?'](/media/post/mednum/mednum1.jpg)
 
-Les questions autour de la vie privée et des smartphones intéressent les médiateur·ices numériques qui ont répondu. Pour autant, ce n'est pas un sujet facile à aborder : la question est complexe, il est difficile de savoir par où commencer, il n'y a pas de solution miracle et il n'est pas aisé de se dégager du temps pour cela. 
+Les questions autour de la vie privée et des smartphones intéressent les médiateur·ices numériques qui ont répondu. Pour autant, ce n'est pas un sujet facile à aborder : la question est complexe, il est difficile de savoir par où commencer, il n'y a pas de solution miracle et il n'est pas aisé de se dégager du temps pour cela.
 
-La proposition d'un kit pédagogique a eu des retours positifs, puisqu'une grande majorité des répondant·es se sont déclaré·es intéressé·es. Sont souhaités à la fois des outils pour aider la personne en charge de l'animation et des supports et ressources pour les participant·es, avec une attention portée à des supports attractifs, comme des vidéos. 
+La proposition d'un kit pédagogique a eu des retours positifs, puisqu'une grande majorité des répondant·es se sont déclaré·es intéressé·es. Sont souhaités à la fois des outils pour aider la personne en charge de l'animation et des supports et ressources pour les participant·es, avec une attention portée à des supports attractifs, comme des vidéos.
 
-Les publics-cible sont assez larges, mais visent en priorité des personnes débutantes ou à l'aise avec l'outil numérique et moins des personnes expertes. 
+Les publics-cible sont assez larges, mais visent en priorité des personnes débutantes ou à l'aise avec l'outil numérique et moins des personnes expertes.
 
 ### Et maintenant ?
 
@@ -43,7 +43,6 @@ Après cette phase de collecte des besoins, nous avons décidé de poursuivre le
 La coordination du projet et la création des contenus pédagogiques vont être portés au sein d'Exodus Privacy, mais nous avons décidé de faire appel à des prestataires extérieurs sur des aspects pour lesquels nous ne sommes pas assez compétent·es. Vont travailler sur ce projet  l'artiste et graphiste [_Lila*](https://lila.ink/) pour les créations graphiques et la mise en page et [NetFreaks](https://twitter.com/NetFreaksFr) pour le motion-design et le montage des vidéos. Nous sommes très content·es de les avoir avec nous !
 
 Notre association ne fonctionnant qu'avec les dons (pour nous soutenir, c'est [par ici](https://exodus-privacy.eu.org/fr/page/contribute/)), nous avons soumis un dossier de financement auprès de la [fondation Afnic pour un la solidarité numérique](https://www.fondation-afnic.fr/fr/Accueil.htm)... Nous aurons la réponse dans quelques mois ! D'ici-là, croisons les doigts...
-
 
 ### Les résultats bruts du questionnaire
 
@@ -71,9 +70,9 @@ Si vous avez déjà animé un atelier (58 réponses), en étiez-vous satisfait·
 * Oui : 32
 * Non, pas totalement : 25
 * Non : 1
-	
+
 Si non, pourquoi (réponses libres) ?
-	
+
 * Manque de temps : 6
 * Sujet vaste et complexe, manque de solutions simples : 6
 * Difficultés à faire saisir les enjeux, manque de preuves tangibles : 5
@@ -81,13 +80,13 @@ Si non, pourquoi (réponses libres) ?
 * Difficultés techniques : 2
 
 Si nous créons un kit pédagogique, l’utiliseriez-vous ?
-	
+
 * Oui : 123
 * Peut-être : 42
 * Non : 1
 
 De quoi avez-vous besoin ? (Plusieurs réponses possibles)
-	
+
 * Des outils à conseiller aux participant·e·s : 132
 * Un ou des déroulés d’ateliers : 127
 * Un support écrit à remettre aux participant·e·s : 103
@@ -127,4 +126,3 @@ Dans quelle structure faites-vous de la médiation numérique ? (plusieurs rép
 * Administrations : 3
 * Centre social : 2
 * Réseau de solidarité internationale : 1
-

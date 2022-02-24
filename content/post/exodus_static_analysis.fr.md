@@ -9,7 +9,7 @@ L'analyse statique des applications Android est au cœur de la plateforme εxodu
 
 Les applications Android sont développées dans des langages compatibles JVM comme Java, Kotlin, etc. Les programmes exécutés sur JVM présentent de nombreuses différences par rapport aux programmes C ou Go, la principale étant que les noms de classes sont lisibles directement dans le fichier binaire du programme sans nécessiter de décompilation. JVM identifie un type par son nom de classe pleinement qualifié comme `org.exodus.Report`, `org.exodus` est le nom du package et `Report` est le nom de la classe.
 
-Google fournit `dexdump`, qui est un programme destiné à analyser les fichiers `.dex`. Dans le monde Java, le code compilé est contenu dans des fichiers `.class` (un par classe), dans le monde Android, le code compilé est stocké dans des fichiers `.dex` (un ou plusieurs par programme). Une application Android est contenue dans un fichier `.apk` qui est une archive ZIP signée. Le fichier `.apk` contient le programme d'application (fichiers` .dex`) et les ressources de l'application comme les polices, les images, etc.
+Google fournit `dexdump`, qui est un programme destiné à analyser les fichiers `.dex`. Dans le monde Java, le code compilé est contenu dans des fichiers `.class` (un par classe), dans le monde Android, le code compilé est stocké dans des fichiers `.dex` (un ou plusieurs par programme). Une application Android est contenue dans un fichier `.apk` qui est une archive ZIP signée. Le fichier `.apk` contient le programme d'application (fichiers `.dex`) et les ressources de l'application comme les polices, les images, etc.
 
 Lorsque nous exécutons `dexdump` sur un fichier `.apk`, nous avons une sortie similaire à la suivante :
 

@@ -107,7 +107,7 @@ Do not insist when somebody declines a solicitation. If you are accused of oppre
 If you are harassed or face discrimination, or if you witness harassment or discrimination toward other people, or if you fear an incident occurring during Exodus Privacy's activities, you can contact a member of the bureau by email at <bureau@exodus-privacy.eu.org> or via any other way (IRC query, forum private message…).
 Every report done in good faith will be taken seriously. The bureau will respect, as often as possible, requests for anonymity in order to protect victims form further abuses.
 
-## To reach us, choose your way:
+## To reach us, choose your way
 
 <div class="row">
     <div class="col-md-4 text-center">

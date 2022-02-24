@@ -15,7 +15,7 @@ We used to do that job in [a GitHub issue](https://github.com/Exodus-Privacy/exo
 
 This led us to the development of a simple platform named **[ETIP](https://etip.exodus-privacy.eu.org), for "Exodus Tracker Investigation Platform"**. This platform was built using `Django`, the same framework we use for the εxodus platform.
 
-##### How does it work
+#### How does it work
 
 Everyone can look at the list of trackers present in [ETIP](https://etip.exodus-privacy.eu.org). Anyone who has evidence of a new tracker can [request an account](https://github.com/Exodus-Privacy/etip#contribute-to-the-identification-of-trackers) and then create a profile for the new tracker. There are many fields such as a name, signatures to identify the tracker, categories, etc. Only the name and the website are firstly required.
 

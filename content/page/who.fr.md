@@ -107,7 +107,7 @@ N’insistez pas lorsqu’une personne décline une sollicitation. Si on vous re
 Si vous êtes harcelé·e ou victime de discrimination, ou si vous êtes témoin de harcèlement ou de discrimination à l’égard d’autre(s) personnes, ou si vous craignez la survenue d’un incident dans le cadre des activités d’Exodus Privacy vous pouvez contacter un·e membre du bureau, par mail à <bureau@exodus-privacy.eu.org> ou bien par tout autre moyen (IRC, message privé sur le forum…).
 Tous les rapports faits de bonne foi seront pris au sérieux. Le bureau respectera dans la mesure du possible les demandes d’anonymat afin de protéger les victimes d’abus supplémentaires.
 
-## Les différents moyens de nous joindre :
+## Les différents moyens de nous joindre
 
 <div class="row">
     <div class="col-md-4 text-center">

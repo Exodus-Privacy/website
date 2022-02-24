@@ -116,7 +116,6 @@ The main goal of Exodus Privacy is to raise awareness of the extent of tracking 
   </div>
 </div>
 
-
 You can also find us on 3 social networks:
 <div class="row">
   <div class="col-md-4 text-center">

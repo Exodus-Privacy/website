@@ -15,14 +15,18 @@ With the help of Hugo the website is easyly multilingual. So feel free to fork t
 - [Install Hugo](https://gohugo.io/getting-started/installing) (compatible versions: >=0.40, <= 0.54)
 - Fork the Exodus Privacy website repository
 - Start the development web server
+
 ```
 git clone https://github.com/<your user>/website.git
 cd website
 hugo server -D
 ```
-- Go to http://localhost:1313 to see and navigate on the website
+
+- Go to <http://localhost:1313> to see and navigate on the website
 - Make your changes and push them to your repository
 - Create a Pull Request (PR)
+
+Please note that our Markdown files must comply with [mardownlint](https://github.com/DavidAnson/markdownlint) (see [.markdownlint.json](./.markdownlint.json) for our custom configuration).
 
 ## License
 
