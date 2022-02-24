@@ -46,5 +46,5 @@ Si vous êtes intéressé·es, merci de remplir le [formulaire en cliquant ici](
 
 En complément, nous vous proposons une  rencontre en ligne autour de ce kit avec une présentation et une séance de questions réponses aux dates suivantes :
 
-* mardi 1er mars de 14h à 15h
-* mardi 1er mars de 21h à 22h.
+* mardi 1er mars de 14h à 15h [en ligne](https://bbb.faimaison.net/b/met-tpe-7ox-3jk)
+* mardi 1er mars de 21h à 22h [en ligne](https://bbb.faimaison.net/b/met-tpe-7ox-3jk)

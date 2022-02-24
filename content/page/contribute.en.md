@@ -58,17 +58,7 @@ draft: false
 </div>
 
 <div class="row">
-    <div class="col-md-6 text-center">
-        <div class="card-body">
-            <h5>Bitcoin</h5>
-            <a href="bitcoin:1exodusdyqXD81tS8SkcLhyFj9ioxWsaZ?label=exodus">
-                <samp class="small">1exodusdyqXD81tS8SkcLhyFj9ioxWsaZ</samp>
-                <br>
-                <img src="/media/page/contribute/bitcoin.png" width="120" alt="QR code and bitcoin link" caption="QR code and bitcoin link">
-            </a>
-        </div>
-    </div>
-    <div class="col-md-6 text-center">
+    <div class="col-md-12 text-center">
         <div class="card-body">
             <h5>Ğ1</h5>
             <a href="duniter:DegD5SFHyPDeVCjxG6v7DUqbJGipXoaS8rVQxMQHUZEy?label=exodus">
