@@ -43,8 +43,3 @@ Il était important pour nous de proposer dans ce kit à la fois des contenus, m
 Le kit destiné à animer un atelier d'1h30 pour public débutant est prêt et **nous cherchons des personnes pour le tester entre maintenant et le mois de mai 2022** ! Le but de ce test étant d'améliorer le contenu du kit, nous vous demanderons également de remplir un questionnaire à l'issue de l'atelier et, si vous êtes disponibles, de participer à un entretien téléphonique durant au maximum 30 minutes.
 
 Si vous êtes intéressé·es, merci de remplir le [formulaire en cliquant ici](https://framaforms.org/prototype-debutantes-kit-pedagogique-exodus-privacy-1645120139) !
-
-En complément, nous vous proposons une  rencontre en ligne autour de ce kit avec une présentation et une séance de questions réponses aux dates suivantes :
-
-* mardi 1er mars de 14h à 15h [en ligne](https://bbb.faimaison.net/b/met-tpe-7ox-3jk)
-* mardi 1er mars de 21h à 22h [en ligne](https://bbb.faimaison.net/b/met-tpe-7ox-3jk)
