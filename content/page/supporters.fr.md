@@ -24,6 +24,14 @@ draft: false
         </a>
     </div>
     <div class="col-lg-4 col-sm-6 text-center">
+        <a href="https://debamax.com/fr/">
+            <img src="/media/partners/debamax.svg" width="120px" height="120px"class="mt-3 ml-auto mr-auto"/>
+            <div class="card-body">
+                <h6 class="card-title">DEBAMAX</h6>
+            </div>
+        </a>
+    </div>
+    <div class="col-lg-4 col-sm-6 text-center">
         <a href="https://defensive-lab.agency/">
             <img src="/media/partners/logo_DLA.svg" width="120px" height="120px"class="mt-3 ml-auto mr-auto"/>
             <div class="card-body">
