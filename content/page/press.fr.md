@@ -7,6 +7,10 @@ draft: false
 
 ## Presse francophone
 
+### 2022
+
+* **Next Inpact** - *23 Fév 2022* - [Exodus Privacy lance un kit pédagogique de sensibilisation à la vie privée numérique](https://www.nextinpact.com/lebrief/49910/exodus-privacy)
+
 ### 2021
 
 * **France 2** - *29 Avr 2021* - [Un espion dans la poche ?](https://www.francetvinfo.fr/internet/telephonie/video-un-espion-dans-la-poche_4507625.html)
