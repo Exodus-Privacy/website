@@ -44,6 +44,27 @@ draft: false
 
 <a name="finance"></a>
 
+## How to become a member
+
+You can join the association by sending us an email to `bureau@exodus-privacy.eu.org` using the following the model:
+
+```
+Hi,
+I the undersigned [pseudo], whish to join the Exodus Privacy association as of today.
+I will be reachable:
+* by email at [my-adress@example.com]
+* on IRC with pseudo [pseudo]
+* on the forum with pseudo [pseudo]
+* [any other place you think is appropriate here]
+
+[Introduce yourself briefly here]
+
+regards,
+[pseudo]
+```
+
+Membership is to be renewed every year. The membership fee remains free.
+
 ## Help us to finance Exodus Privacy
 
 <div class="row">

@@ -44,6 +44,27 @@ draft: false
 
 <a name="finance"></a>
 
+## Devenir membre de l'association
+
+Pour cela vous pouvez adhérer à l'association en nous envoyant un mail à `bureau@exodus-privacy.eu.org` en suivant ce modèle :
+
+```
+Bonjour,
+Je soussigné·e [pseudo] souhaite rejoindre l'association Exodus Privacy à compter de ce jour.
+Je serai joignable :
+* par email à [mon-adresse@example.com]
+* sur IRC sous le pseudo [pseudo]
+* sur le forum sous le pseudo [pseudo]
+* [tout autre lieu qui vous semble approprié ici]
+
+[Se présenter succinctement ici]
+
+Cordialement,
+[pseudo]
+```
+
+L’adhésion est à renouveler tous les ans. La cotisation, elle, reste gratuite.
+
 ## Nous aider à financer Exodus Privacy
 
 <div class="row">
