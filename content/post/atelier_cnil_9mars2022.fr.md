@@ -2,12 +2,13 @@
 title: Compte rendu de l'atelier CNIL du 9 mars
 date: 2022-03-15
 draft: no
-tags: []
+tags: [CNIL]
 ---
 
 Le laboratoire d’innovation de la CNIL a organisé une série de trois ateliers dans le cadre du Partenariat pour un Gouvernement Ouvert. Un atelier était dédié aux syndicats, un atelier pour les associations défenseuses des libertés publiques et un atelier avec les acteurs de l’open source. Exodus Privacy a été invité, ce 9 mars 2022, au deuxième atelier au côté d’associations tel que La Quadrature du Net, Noyb (None Of Your Business), AccessNow entre autres.
 
-Trois principales questions ont été posées lors de cette demi-journée : 
+Trois principales questions ont été posées lors de cette demi-journée :
+
 - Quels sont les leviers pour une meilleure prise en compte des questions de libertés par la société civile ?
 - Quels sont les leviers d’actions pour les individus et comment les activer / renforcer (ex. exercice des droits) ?
 - Et comment mettre en œuvre un dialogue régulier entre la CNIL et les associations ?

@@ -2,6 +2,7 @@
 title: "Retour sur notre rencontre avec la CNIL"
 date: 2018-02-28 19:56:18
 draft: false
+tags: [CNIL]
 ---
 
 Le 14 février 2018, Exodus Privacy a été invitée par la CNIL (_Commission Nationale de l’Informatique et des Libertés_) dans ses locaux à se présenter et présenter ses activités.
