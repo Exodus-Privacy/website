@@ -46,7 +46,7 @@ draft: false
 
 ## How to become a member
 
-You can join the association by sending us an email to `bureau@exodus-privacy.eu.org` using the following the model:
+You can join the association by sending us an email to [bureau@exodus-privacy.eu.org](mailto:bureau@exodus-privacy.eu.org) using the following the model:
 
 ```
 Hi,
