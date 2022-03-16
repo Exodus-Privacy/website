@@ -46,7 +46,7 @@ draft: false
 
 ## Devenir membre de l'association
 
-Pour cela vous pouvez adhérer à l'association en nous envoyant un mail à `bureau@exodus-privacy.eu.org` en suivant ce modèle :
+Pour cela vous pouvez adhérer à l'association en nous envoyant un mail à [bureau@exodus-privacy.eu.org](mailto:bureau@exodus-privacy.eu.org) en suivant ce modèle :
 
 ```
 Bonjour,
