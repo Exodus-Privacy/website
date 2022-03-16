@@ -59,7 +59,7 @@ I will be reachable:
 
 [Introduce yourself briefly here]
 
-regards,
+Regards,
 [pseudo]
 ```
 
