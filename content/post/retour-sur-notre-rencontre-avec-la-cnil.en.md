@@ -2,6 +2,7 @@
 title: "Feedback on our meeting with the CNIL"
 date: 2018-02-28 19:56:18
 draft: false
+tags: [CNIL]
 ---
 
 On February 14, 2018, Exodus Privacy was invited by the CNIL (_"Commission Nationale de l'Informatique et des Libertés" in French, "National Commission for Computing and Liberties" in English_) to its premises to present itself and its activities.
