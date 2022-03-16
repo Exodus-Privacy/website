@@ -50,7 +50,7 @@ You can join the association by sending us an email to `bureau@exodus-privacy.eu
 
 ```
 Hi,
-I the undersigned [pseudo], whish to join the Exodus Privacy association as of today.
+I the undersigned [pseudo], wish to join the Exodus Privacy association as of today.
 I will be reachable:
 * by email at [my-adress@example.com]
 * on IRC with pseudo [pseudo]
