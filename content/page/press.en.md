@@ -106,7 +106,7 @@ draft: false
 * **Next Inpact** - *Nov 25 2017* - [Rencontre avec Exodus Privacy, qui révèle les trackers](https://www.nextinpact.com/news/105655-rencontre-avec-exodus-privacy-qui-revele-trackers-applications-android.htm)
 
 * **Le Monde** - *Nov 24 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
- 
+
 ## Scientifict publications in French
 
 * **INRIA** — *Apr 25 2022* — [Jeux vidéo sur mobile : protéger la vie pvivée en ligne](https://www.inria.fr/fr/jeux-video-smartphones-securite-donnees-personnelles-internet)
