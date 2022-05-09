@@ -81,6 +81,8 @@ Our application is designed **to list the applications already installed on your
 
 The application is available on [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/) and [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy).
 
+⚠️ Warning: The app is currently not available on Google Play Store, we are working to put it back online as soon as possible. However, it remains available on F-Droid.
+
 <div class="row">
   <div class="col-md-6 text-center">
   {{< fig src="/media/page/what/exodus-app-en-1.png" caption="Overview 1 of the εxodus Android application - List of installed applications" >}}
