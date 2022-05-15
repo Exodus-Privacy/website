@@ -112,4 +112,4 @@ draft: false
 
 ## Parutions scientifiques anglophones
 
-* **INRIA** – *25 apr 2022* – [The price to play](https://dl.acm.org/doi/abs/10.1145/3485447.3512279)
+* **INRIA** - *25 Avr 2022* - [The price to play](https://dl.acm.org/doi/abs/10.1145/3485447.3512279)
