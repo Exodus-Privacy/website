@@ -65,7 +65,7 @@ draft: false
 
 ## Parutions scientifiques francophones
 
-* **INRIA** — *25 avr 2022* — [Jeux vidéo sur mobile : protéger la vie privée en ligne](https://www.inria.fr/fr/jeux-video-smartphones-securite-donnees-personnelles-internet)
+* **INRIA** - *25 Avr 2022* - [Jeux vidéo sur mobile : protéger la vie privée en ligne](https://www.inria.fr/fr/jeux-video-smartphones-securite-donnees-personnelles-internet)
 
 ## Presse anglophone
 
