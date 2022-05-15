@@ -110,6 +110,6 @@ draft: false
 * **BoingBoing** - *25 Nov 2017* - [Researchers craft Android app that reveals to find horrific menagerie](https://boingboing.net/2017/11/25/la-la-la-cant-hear-you.html)
 * **The Intercept** - *24 Nov 2017* - [Staggering Variety of Clandestine Trackers Found in Popular](https://theintercept.com/2017/11/24/staggering-variety-of-clandestine-trackers-found-in-popular-android-apps/)
 
-## Parutions Scientifiques anglophone
+## Parutions scientifiques anglophones
 
 * **INRIA** – *25 apr 2022* – [The price to play](https://dl.acm.org/doi/abs/10.1145/3485447.3512279)
