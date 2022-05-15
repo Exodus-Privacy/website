@@ -109,4 +109,4 @@ draft: false
 
 ## Scientifict publications in French
 
-* **INRIA** — *Apr 25 2022* — [Jeux vidéo sur mobile : protéger la vie pvivée en ligne](https://www.inria.fr/fr/jeux-video-smartphones-securite-donnees-personnelles-internet)
+* **INRIA** - *Apr 25 2022* - [Jeux vidéo sur mobile : protéger la vie pvivée en ligne](https://www.inria.fr/fr/jeux-video-smartphones-securite-donnees-personnelles-internet)
