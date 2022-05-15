@@ -49,7 +49,7 @@ draft: false
 
 ## Scientifict publications in English
 
-* **INRIA** — *Apr 25 2022* — [The price to play](https://dl.acm.org/doi/abs/10.1145/3485447.3512279)
+* **INRIA** - *Apr 25 2022* - [The price to play](https://dl.acm.org/doi/abs/10.1145/3485447.3512279)
 
 ## French press
 
