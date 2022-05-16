@@ -102,7 +102,6 @@ draft: false
 * **Numerama** - *Dec 8 2017* - [Lutter contre les mouchards des apps, une cause citoyenne](https://www.numerama.com/politique/313309-lutter-contre-les-mouchards-des-apps-une-cause-citoyenne-voici-lhistoire-dexodus-privacy.html)
 * **Tom's Guide** - *Dec 5 2017* - [Trois quarts des apps Android espionnent les utilisateurs](https://www.tomsguide.fr/actualite/applications-android-espionnage-utilisateurs,60333.html)
 * **LCI** - *Nov 29 2017* - [Ce qu'il faut savoir sur les trackers présents dans nos applications mobiles](https://www.lci.fr/high-tech/une-invasion-de-trackers-dans-nos-applications-le-bon-coin-allo-cine-mobiles-android-iphone-2071872.html)
-
 * **Next Inpact** - *Nov 25 2017* - [Rencontre avec Exodus Privacy, qui révèle les trackers](https://www.nextinpact.com/news/105655-rencontre-avec-exodus-privacy-qui-revele-trackers-applications-android.htm)
 
 * **Le Monde** - *Nov 24 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
