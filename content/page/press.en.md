@@ -47,6 +47,10 @@ draft: false
 * **BoingBoing** - *Nov 25 2017* - [Researchers craft Android app that reveals to find horrific menagerie](https://boingboing.net/2017/11/25/la-la-la-cant-hear-you.html)
 * **The Intercept** - *Nov 24 2017* - [Staggering Variety of Clandestine Trackers Found in Popular](https://theintercept.com/2017/11/24/staggering-variety-of-clandestine-trackers-found-in-popular-android-apps/)
 
+## Scientifict publications in English
+
+* **INRIA** - *Apr 25 2022* - [The price to play](https://dl.acm.org/doi/abs/10.1145/3485447.3512279)
+
 ## French press
 
 ### 2021
@@ -100,3 +104,7 @@ draft: false
 * **LCI** - *Nov 29 2017* - [Ce qu'il faut savoir sur les trackers présents dans nos applications mobiles](https://www.lci.fr/high-tech/une-invasion-de-trackers-dans-nos-applications-le-bon-coin-allo-cine-mobiles-android-iphone-2071872.html)
 * **Next Inpact** - *Nov 25 2017* - [Rencontre avec Exodus Privacy, qui révèle les trackers](https://www.nextinpact.com/news/105655-rencontre-avec-exodus-privacy-qui-revele-trackers-applications-android.htm)
 * **Le Monde** - *Nov 24 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
+
+## Scientifict publications in French
+
+* **INRIA** - *Apr 25 2022* - [Jeux vidéo sur mobile : protéger la vie pvivée en ligne](https://www.inria.fr/fr/jeux-video-smartphones-securite-donnees-personnelles-internet)

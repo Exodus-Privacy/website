@@ -63,6 +63,10 @@ draft: false
 * **Next Inpact** - *25 Nov 2017* - [Rencontre avec Exodus Privacy, qui révèle les trackers](https://www.nextinpact.com/news/105655-rencontre-avec-exodus-privacy-qui-revele-trackers-applications-android.htm)
 * **Le Monde** - *24 Nov 2017* - [Des mouchards cachés dans vos applications pour smartphones](http://www.lemonde.fr/pixels/article/2017/11/24/des-mouchards-caches-dans-vos-applications-pour-smartphones_5219892_4408996.html)
 
+## Parutions scientifiques francophones
+
+* **INRIA** - *25 Avr 2022* - [Jeux vidéo sur mobile : protéger la vie privée en ligne](https://www.inria.fr/fr/jeux-video-smartphones-securite-donnees-personnelles-internet)
+
 ## Presse anglophone
 
 ### 2021
@@ -105,3 +109,7 @@ draft: false
 * **Gizmodo** - *28 Nov 2017* - [Study: Vast Majority of Google Play Apps Are Covertly Tracking Users](https://gizmodo.com/study-vast-majority-of-google-play-apps-are-covertly-t-1820821682)
 * **BoingBoing** - *25 Nov 2017* - [Researchers craft Android app that reveals to find horrific menagerie](https://boingboing.net/2017/11/25/la-la-la-cant-hear-you.html)
 * **The Intercept** - *24 Nov 2017* - [Staggering Variety of Clandestine Trackers Found in Popular](https://theintercept.com/2017/11/24/staggering-variety-of-clandestine-trackers-found-in-popular-android-apps/)
+
+## Parutions scientifiques anglophones
+
+* **INRIA** - *25 Avr 2022* - [The price to play](https://dl.acm.org/doi/abs/10.1145/3485447.3512279)
