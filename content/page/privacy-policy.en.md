@@ -10,9 +10,10 @@ The Exodus Android application does not collect any personal information.
 
 The application requires the following permissions:
 
-* *QUERY_ALL_PACKAGES*: This permission allows the application to see all installed applications on your device.
-* *INTERNET*: This permission is required so that the application can query the reports on the main εxodus instance <https://reports.exodus-privacy.eu.org/>. It is not used for any other purpose.
 * *ACCESS_NETWORK_STATE*: This permission allows the application to know whether you are connected to the Internet before making any request.
+* *FOREGROUND_SERVICE*: This permission allows the application to execute a foreground service to get list of trackers and list of reports.
+* *INTERNET*: This permission is required so that the application can query the reports on the main εxodus instance <https://reports.exodus-privacy.eu.org/>. It is not used for any other purpose.
+* *QUERY_ALL_PACKAGES*: This permission allows the application to see all installed applications on your device.
 
 The application transmits the list of installed applications on the device, mixed with a number of random applications (not present on the device) in order to anonymize the list. This list is not kept by the εxodus server.
 
