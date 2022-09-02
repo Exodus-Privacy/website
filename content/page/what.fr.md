@@ -82,8 +82,6 @@ Le but de cette application est de **lister les applications que vous avez insta
 
 L'application est disponible sur [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/) et [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy).
 
-⚠️ Attention : L'application n'est actuellement plus disponible sur le Google Play Store, nous travaillons à l'y remettre le plus rapidement possible. Elle reste cependant disponible sur F-Droid.
-
 <div class="row">
   <div class="col-md-6 text-center">
   {{< fig src="/media/page/what/exodus-app-fr-1.png" caption="Aperçu 1 de l’application Android d’εxodus" >}}
