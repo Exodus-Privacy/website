@@ -1,6 +1,6 @@
 ---
 title: "Our summary of 2020"
-date: 2022-09-18
+date: 2020-12-17
 draft: false
 tags: [summary]
 ---

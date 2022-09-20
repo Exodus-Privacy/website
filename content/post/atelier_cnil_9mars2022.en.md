@@ -1,6 +1,6 @@
 ---
 title: Debriefing of the CNIL workshop of Match 9th
-date: 2022-09-19
+date: 2022-03-15
 draft: no
 tags: [CNIL]
 ---
