@@ -24,11 +24,11 @@ The kit is composed of:
 
 To create this kit, we worked with [_Lila*](https://lila.ink/), illustrator and graphic designer. We needed her in order to define the kit's graphic universe, create some illustrations and format the support material.
 
-Relative to the graphic universe, she enabled us to define more precisely what we wanted, feels like us, reaches a diverse audience and looks attractive. _Lila* selected for us a wide range of graphic creations so that we could come up with keywords and reach an agreement on main directions. To be honest, this wasn't an exercise we were used to, it was really interesting. We were able to defined the following lines: drawing inspiration from cut-ups, a contrasted color palette based on our signature purple, solid colors. _Lila* then made us a few proposals, permitting us to hone in our wishes even more.
+Relative to the graphic universe, she enabled us to define more precisely what we wanted, feels like us, reaches a diverse audience and looks attractive. `_Lila*` selected for us a wide range of graphic creations so that we could come up with keywords and reach an agreement on main directions. To be honest, this wasn't an exercise we were used to, it was really interesting. We were able to defined the following lines: drawing inspiration from cut-ups, a contrasted color palette based on our signature purple, solid colors. `_Lila*` then made us a few proposals, permitting us to hone in our wishes even more.
 
 ![Diaporama sample](/media/post/kitpeda/kitpeda1.png)
 
-Once we had defined the graphic setting, _Lila* could work on the creations, notably the illustrations allowing Héloïse, motion designer from NetFreaks, to put this universe into movement in a video.
+Once we had defined the graphic setting, `_Lila*` could work on the creations, notably the illustrations allowing Héloïse, motion designer from NetFreaks, to put this universe into movement in a video.
 
 ## Creating the content
 
