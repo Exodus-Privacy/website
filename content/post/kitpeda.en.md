@@ -43,5 +43,3 @@ It was important for us to offer in this kit content as well as an animation gui
 The kit for a 1h30-long workshop towards a beginner audience is ready and **we are looking for people to try it out before May 2020**! The purpose of this test is to provide feedback and improve the content so we will also ask you to fill out a survey after the workshop and, if you are able to, participate in a phone interview less than 30 minutes long.
 
 If you wish to participate, please fill out the [form by clicking here](https://framaforms.org/prototype-debutantes-kit-pedagogique-exodus-privacy-1645120139)!
-
-

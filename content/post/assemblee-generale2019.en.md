@@ -36,8 +36,8 @@ Lastly, we elected the new bureau, constituted like last year of the following p
 
 ## Detailed votes
 
-* Activity report approved by majority (10 in favor, 1 abstention, 0 against) 
-* Financial report approved by majority (10 in favor, 1 abstention, 0 against) 
+* Activity report approved by majority (10 in favor, 1 abstention, 0 against)
+* Financial report approved by majority (10 in favor, 1 abstention, 0 against)
 * Budget and strategy stances approved unanimously
 * Statutes modifications approved unanimously
 * Election of the bureau approved unanimously
