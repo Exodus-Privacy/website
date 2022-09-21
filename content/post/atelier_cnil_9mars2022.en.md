@@ -5,7 +5,7 @@ draft: no
 tags: [CNIL]
 ---
 
-The CNIL innovation laboratory held a series of three workshops within the framework of the Partnership for an Open Government. A workshop was dedicated to syndicates, one to associations fighting for public liberties and one with open source participants. Exodus Privacy was invited on March 9th 2022 to participate in the second workshop, alongside with other associations such as La Quadrature du Net, Noyb (None Of Your Business) and AccessNow among others.
+The CNIL innovation laboratory held a series of three workshops within the framework of the Partnership for an Open Government. A workshop was dedicated to syndicates, one to associations fighting for public liberties and one with open source participants. Exodus Privacy was invited on March 9th, 2022 to participate in the second workshop, alongside with other associations such as La Quadrature du Net, Noyb (None Of Your Business) and AccessNow among others.
 
 Three main questions were asked during this half-day:
 

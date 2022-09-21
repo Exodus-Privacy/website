@@ -5,7 +5,7 @@ draft: false
 tags: [digital mediation]
 ---
 
-Exodus Privacy has the goal of raising awareness around digital privacy issues in smartphones. To that end, volunteers from the association have been animating workshops and speeches with various audiences since 2017. In 2020, we decided to ask the [Afnic Foundation for Digital Solidarity](https://www.fondation-afnic.fr/fr/Accueil.htm) for funding, in order to create an education kit allowing volunteers or professionals to animate workshop on privacy and smartphone issues. [Before that, we asked that audience a questionnaire](/en/post/mednum/) to confirm the pertinence of this kit.
+Exodus Privacy has the goal of raising awareness around digital privacy issues in smartphones. To that end, volunteers from the association have been animating workshops and speeches with various audiences since 2017. In 2020, we decided to ask the [Afnic Foundation for Digital Solidarity](https://www.fondation-afnic.fr/fr/Accueil.htm) for funding, in order to create an education kit allowing volunteers or professionals to animate workshop on privacy and smartphone issues. [Before that, we asked that audience a questionnaire](/en/post/mednum/) to confirm the relevance of this kit.
 
 The Afnic Foundation decided to trust us and give us the funding we asked for. We moved forward a lot: a first prototype is out and ready to be tested! In this post, we would like to offer some feedback on the work we've been doing for over a year and the test modalities.
 
@@ -28,7 +28,7 @@ Relative to the graphic universe, she enabled us to define more precisely what w
 
 ![Diaporama sample](/media/post/kitpeda/kitpeda1.png)
 
-Once we had defined the graphic setting, _Lila* could work on the creations, notably the illustrations allowing Héloïse, motion designer from NetFreaks, to put this universe in move in a video.
+Once we had defined the graphic setting, _Lila* could work on the creations, notably the illustrations allowing Héloïse, motion designer from NetFreaks, to put this universe into movement in a video.
 
 ## Creating the content
 
