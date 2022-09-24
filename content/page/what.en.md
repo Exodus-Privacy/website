@@ -77,7 +77,7 @@ If you are curious or want to help us to improve εxodus, you can file issues or
 
 ## εxodus Android Application
 
-Our application is designed **to list the applications already installed on your mobile phone** (both from [Google Play](https://play.google.com/store) or [F-Droid](f-droid.org/)) and report the trackers embedded in each application.
+Our application is designed **to list the applications already installed on your mobile phone** (both from [Google Play](https://play.google.com/store) or [F-Droid](https://f-droid.org/)) and report the trackers embedded in each application.
 
 The application is available on [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/) and [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy).
 
