@@ -76,8 +76,8 @@ draft: false
 
 ### 2022
 
-* **The Markup** - *27 juin 2021* - [Meet SmartLINK, the App Tracking Nearly a Quarter Million Immigrants](https://themarkup.org/the-breakdown/2022/06/27/meet-smartlink-the-app-tracking-nearly-a-quarter-million-immigrants)
-* **Phone Arena** - *1 juin 2021* - [Android privacy: how to see if an app is tracking you and what data it collects](https://www.phonearena.com/news/android-privacy-how-to-see-if-an-app-is-tracking-you-and-what-data-it-collects_id139314)
+* **The Markup** - *27 juin 2022* - [Meet SmartLINK, the App Tracking Nearly a Quarter Million Immigrants](https://themarkup.org/the-breakdown/2022/06/27/meet-smartlink-the-app-tracking-nearly-a-quarter-million-immigrants)
+* **Phone Arena** - *1 juin 2022* - [Android privacy: how to see if an app is tracking you and what data it collects](https://www.phonearena.com/news/android-privacy-how-to-see-if-an-app-is-tracking-you-and-what-data-it-collects_id139314)
 
 ### 2021
 
