@@ -72,7 +72,6 @@ draft: false
 * **01net** - *Feb. 26, 2021* - [LastPass : l'appli Android du gestionnaire de mots de passe vous espionne à votre insu](https://www.01net.com/actualites/lastpass-l-appli-android-du-gestionnaire-de-mots-de-passe-vous-espionne-a-votre-insu-2036172.html)
 * **Geek junior** - *Feb. 9, 2021* - [Le Kit numérique pour protéger tes données sur internet](https://www.geekjunior.fr/kit-proteger-donnes-internet-11758/)
 
-
 ### 2020
 
 * **France Inter** - *Nov. 23, 2020* - [Le Code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers)
