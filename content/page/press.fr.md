@@ -9,6 +9,9 @@ draft: false
 
 ### 2022
 
+* **La Croix** - *19 août 2022* - [Sur Internet, souriez, vous êtes profilés !](https://www.la-croix.com/Sciences-et-ethique/Internet-souriez-vous-etes-profiles-2022-08-19-1201229468) [payant]
+* **Sud Ouest** - *31 juill. 2022* - [La Rochelle : que fait-on de vos données de stationnement ?](https://www.sudouest.fr/premium/formats-longs/la-rochelle-que-fait-on-de-vos-donnees-de-stationnement-11719098.php) [payant]
+* **Futura** - *9 mai 2022* - [Protection des données : appliquez-vous les bonnes pratiques ?](https://www.futura-sciences.com/tech/actualites/securite-protection-donnees-appliquez-vous-bonnes-pratiques-98201/)
 * **Next Inpact** - *23 févr. 2022* - [Exodus Privacy lance un kit pédagogique de sensibilisation à la vie privée numérique](https://www.nextinpact.com/lebrief/49910/exodus-privacy)
 
 ### 2021
@@ -16,11 +19,13 @@ draft: false
 * **France 2** - *29 avr. 2021* - [Un espion dans la poche ?](https://www.francetvinfo.fr/internet/telephonie/video-un-espion-dans-la-poche_4507625.html)
 * **ZDNet** - *01 mars 2021* - [Des gestionnaires de mots de passe épinglés pour leur utilisation de trackers](https://www.zdnet.fr/actualites/des-gestionnaires-de-mot-de-passe-epingles-pour-leurs-utilisations-de-trackers-39918681.htm)
 * **01net** - *26 févr. 2021* - [LastPass : l'appli Android du gestionnaire de mots de passe vous espionne à votre insu](https://www.01net.com/actualites/lastpass-l-appli-android-du-gestionnaire-de-mots-de-passe-vous-espionne-a-votre-insu-2036172.html)
+* **Geek junior** - *Feb. 9, 2021* - [Le Kit numérique pour protéger tes données sur internet](https://www.geekjunior.fr/kit-proteger-donnes-internet-11758/)
 
 ### 2020
 
 * **France Inter** - *23 nov. 2020* - [Le Code a changé](https://www.franceinter.fr/emissions/le-code-a-change/ils-cherchent-les-trucs-bizarres-qu-il-y-a-dans-vos-telephones-rencontre-avec-des-traqueurs-de-trackers)
 * **La revue européenne des médias et du numérique** - *juill. 2020* - [Covid-19. Enjeux techniques de l’application de traçage numérique StopCovid](https://la-rem.eu/2020/07/covid-19-enjeux-techniques-de-lapplication-de-tracage-numerique-stopcovid/)
+* **Numérama** - *June 2, 2020* - [StopCovid demande l’accès à la géolocalisation sur Android, mais s’engage à ne pas l’utiliser](https://www.numerama.com/tech/627965-stopcovid-demande-lacces-a-la-geolocalisation-sur-android-mais-sengage-a-ne-pas-lutiliser.html)
 * **Silicon FR** - *7 mai 2020* - [SILL 2020 : quels mouvements dans le socle interministériel des logiciels libres ?](https://www.silicon.fr/sill-2020-quels-mouvements-dans-le-socle-interministeriel-de-logiciels-libres-339273.html)
 * **Numérama** - *28 janv. 2020* - [Vous développez des apps mobiles ? La CNIL vous guide pour respecter le RGPD](https://www.numerama.com/tech/602162-vous-developpez-des-apps-mobiles-la-cnil-vous-guide-pour-respecter-le-rgpd.html)
 
@@ -68,6 +73,11 @@ draft: false
 * **INRIA** - *25 avr. 2022* - [Jeux vidéo sur mobile : protéger la vie privée en ligne](https://www.inria.fr/fr/jeux-video-smartphones-securite-donnees-personnelles-internet)
 
 ## Presse anglophone
+
+### 2022
+
+* **The Markup** - *27 juin 2022* - [Meet SmartLINK, the App Tracking Nearly a Quarter Million Immigrants](https://themarkup.org/the-breakdown/2022/06/27/meet-smartlink-the-app-tracking-nearly-a-quarter-million-immigrants)
+* **Phone Arena** - *1 juin 2022* - [Android privacy: how to see if an app is tracking you and what data it collects](https://www.phonearena.com/news/android-privacy-how-to-see-if-an-app-is-tracking-you-and-what-data-it-collects_id139314)
 
 ### 2021
 
