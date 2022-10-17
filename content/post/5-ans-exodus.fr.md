@@ -24,7 +24,7 @@ Comme tout ce que nous faisons, ce Kit (double Kit en réalité) est libre de dr
 
 Et l'avenir ? Toujours plus de pisteurs détectés, toujours plus d'applications analysées  (grâce à vous puisque c'est vous qui alimentez la plateforme). Maintenant que les restrictions se lèvent, peut-être pourrons-nous, à nouveau, venir à votre rencontre. Nous en serions ravi⋅es.
 
-Quelque chiffres:
+Quelques chiffres:
     - Nombre d'applications analysées à ce jour : 145175
     - Nombre de rapports : 302930
     - Nombres de pisteurs connus: 428
