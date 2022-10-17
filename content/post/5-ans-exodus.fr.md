@@ -36,6 +36,3 @@ Je ne pourrais finir ce billet sans quelques remerciements. Tout d'abord, les b�
 Et pour conclure, je ne suis que la personne présidente en exercice, mais je ne suis pas plus ni moins que les bénévoles de l'association. C'est vers  eulles que je veux hurler un grand **MERCI D'ÊTRE LÀ**. En particulier Codimp, pnu, Esther, Imriel, MeTal_PoU, Jean-Baptiste, Porkepix, CapsLock, Jvoisin, DavidLibeau, Philémon, Lovis IX, Val-R, xakan, ainsi que ceulles qui sont passé et ceulles qui nous rejoindront.
 
 Bisous si consentis.
-
-
-
