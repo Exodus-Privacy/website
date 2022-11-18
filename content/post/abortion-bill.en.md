@@ -1,0 +1,85 @@
+---
+title: "Consequences of abortion bill on privacy in U.S. and E.U."
+date: 2022-11-18
+drafts: false
+---
+
+#### Recalling the abortion topic and situation
+
+The U.S. Supreme Court overturned Roe v. Wade on June 24, removing the right to abortion at the federal level and leaving it up to each U.S. state to decide whether to allow or criminalize it. Since this, 17 states forbid or limit abortion. Some members of the anti-abortion movement in the United States want to “restrict people from crossing state lines for abortions”, reports The Washington Post[^1]. This is of course a problem for the US democracy that has different implications that go far beyond that.
+
+First, but this is not the goal of this post, this story is also a warning for other countries as it reveals that even if, most of the time, democracies go forward regarding people’s rights, a return to the past is always possible, even for important humans rights that we may too easily take for granted. A first incident happenned on June 30th when an Australian girl from Brisbane, during a stopover in Los Angeles, was asked “Have you recently had an abortion?”. She said "no" but this answer seemed suspicious and she was placed in a detention room, interrogated twice, frisked, fingerprinted and photographed. Finally she learned that she would not be allowed to enter US territory, and that she would be deported on the next flight back to Brisbane...[^2]
+Apple and Disney have announced their intention to finance the trip of American women forced to have abortions outside their state[^3]. But already, a draft by the Texas Freedom Caucus, a parliamentary group in the Texas lower house, threatens law firms by evoking the future introduction of a bill aimed at allowing civil and criminal convictions of companies that bear the costs incurred for an out-of-state abortion[^4].
+
+Some laws passed even before the Supreme Court ruling, such as in Texas in September, encouraging ordinary citizens to sue women suspected of having abortions or those who helped them - even a taxi or Uber driver who allegedly took them to the clinic, for example[^5].
+The second implication is related to privacy and of course we will talk more about this in this blog post.
+
+#### Social media tracking and censorship
+
+The Supreme court decision was immediately followed by a huge amount of messages from social media users, in which they offer to send abortion pills to people whose access to abortion has been removed or will soon be removed. But these posts are not tolerated by Facebook and Instagram and are suppressed very quickly, sometimes a few seconds after their publication, making users think that some bots are tracking and accessing their messages' contents. In fact, Meta (owner of Facebook and Instagram applications) forbids messages regarding the sale, gift and transfer of firearms, marijuana and… pharmaceutical products (and therefore abortion pills). Of course we can debate on Meta putting at the same level pills and firearms. It seems also that the Meta censorship system from its basis is not working correctly: a journalist of The Verge proposed firearms and marijuana in some messages but unlike his abortion pills messages, those were not flagged and suppressed[^6]. Are the bots more powerful on abortion pills? Or is an army of anti-abortion fans scanning messages regarding abortion and reporting all they find to Meta censors? Or is the explanation elsewhere? In August, Forbes revealed that Meta had disclosed private messages to Norfolk police department, conducting to sue a 17-year-old girl for allegedly having an abortion. The Lincoln Journal Star, a local Nebraska newspaper, indicates that a 22-year-old man has pleaded guilty to a misdemeanor after being charged with helping to bury the teenage girl's fetus[^7].
+
+#### The extent of the tracking uncovered to some users
+
+This topic regarding messages content on social media is very interesting as U.S. law forces digital companies like Facebook to give access to their full users' data on request to governmental forces. And as we already know, social media knows their users better than their family or even themselves. So filtering or Big Data algorithms could be used by state police to flag and track people who underwent abortion outside of the state or worst, people who think (or are in the process of thinking) of doing so in the future. Worst science fiction scenarii in the manner of Inception movie are starting to become true. Regarding this, some naive people discover the extent of Google users’ spying when Google said recently that all their users' GPS waypoints that are related to an abortion center will be automatically erased from their servers[^8]. Meaning that Police could not claim unexisting (because erased) data. In addition, Google knows and memorizes a large history of geolocation data of their users, and not surprisingly, it also knows precisely to which building, company, trade or care center these coordinates correspond. To sum up, Google obviously knows from what address you start moving and what address is your destination, it knows what corresponds to these addresses (home, companies…). Maybe it was not a big deal when we thought that their business was to sell shoes and other goods, but their data reveals much more than your shopping. This is not new but this abortion scandal may have revealed it to more people.
+
+In addition, social media platforms may filter content related directly or indirectly to abortion in users’ states where abortion is not allowed. Some explanations, articles, documentaries on abortion may be censored just to respect the law… VPN services (secured connection that may be used to hide connection location) will have beautiful days ahead. The account of Abortion Finder, a site that allows women who wish to have an abortion to find a health professional, was briefly suspended from Instagram and then reinstated… Oops[^9].
+
+To improve their brand image, Meta promised to cover the costs of its employees having to travel outside their home state for an abortion, and Google claimed that its employees who live in states where abortion is banned may request to be transferred to other locations. Sadly, moving will be the only simple and safe way to deal with these freedom restrictions for women that are concerned and worried about it.
+
+If tech companies worries sincerely about their users' safety, they need to stop collecting our data now, and to not have it when the warrants arrive. At least they must collect less data, encrypt it, not share it with dubious actors, not force users to authenticate, etc. Of course this will negatively impact their business model but maybe it is time for them to change their retribution model. Society is evolving, they must also evolve if they have consideration for their customers.
+
+#### Smartphones and Apps
+
+Another side of this situation is smartphone apps. Some may have guessed the level of knowledge of social media on their users, but maybe some forgot that apps on their smartphone are collecting a lot of sensible information. Again, some apps may use some tracker from facebook that are hidden in some freeware libraries and frameworks they include in their app to save development time. Facebook and Google are everywhere. Android smartphones are at risk but Apple’s smartphones are also at risk even if less exposed. 
+
+One sensible type of App that was heavily discussed regarding the abortion law was menstrual cycle tracking apps (55 million active users). Highly appreciated by women for tracking their sexual health and their fertility, their data stored in the cloud may be shared to a moving and huge list of partners. This data sharing is, of course, a source of revenue for these apps that may be free or have free plans. Paying is also not a guarantee of confidentiality, but it shall be very clear in users’ mind that “when it's free, you are the product”… In the U.S., health-related information collected by apps is not inherently protected by any law, HIPAA law only protects information collected and owned by a medical provider. A lot of companies are willing to pay huge amounts of money for this very intimate data. It could be for marketing (selling services, health devices, or any innovative use). Of course, as said before, state police could request this data. Menstrual cycle can show that a woman is pregnant, for how long, and can also reveal that suddenly she is not pregnant anymore, possibly violating the state’s law. 
+
+In this context, many american women started deleting their apps and requesting past data erasure. But who can certify that past data is fully erased and impossible to undelete? Some women started to use the Clue app that is based in E.U. (Berlin) thinking that GDPR is protecting them. Unfortunately, GDPR here is not really a protection because of what we already flagged above: firstly even a E.U. company has to respond positively to a legitimate legal request from US authorities, secondly, the storage of an E.U. app may not be simple and may use servers located outside Europe. Here again there is a big risk that state police may request this data.
+
+Some startup companies saw in this situation the possibility to make more money. The Stardust app saw its installs increase by 6,000% over one weekend after announcing that it would protect user data with end-to-end encryption. The reality was that the company has yet to implement these measures and has several privacy shortcomings (like sharing mobile numbers with a third-party analytics company)…
+
+Reading privacy policies of those apps is tedious, they can change frequently, and ultimately they can be deemed illegal by state authorities.
+
+Finally a good solution may only be to use an app that processes and stores this sensible data locally (in the smartphone) like Apple Health. But again, a change in the app code could make this strategy evolve negatively regarding privacy. Any full open source app could be the only less-risky solution. Except Euki and Mozilla Foundation-backed Drip app, all others are storing user health data in the cloud. Some apps only share anonymized data (stripped of identifying user information) with third parties; but some techniques like machine learning can allow re-identification of these data. Most apps may share information in order to “comply with or respond to law enforcement”. The extraterritoriality of U.S. laws could lead, then, some non-U.S. apps to be obliged to share their data with state police. Finally, and this is obvious, a good data is a data that is not shared (or collected !).
+
+A low-tech solution using a thermometer, a calendar, and a pencil remains the safest even if it is less attractive.
+
+The FTC sued Kochava on Monday, August 29, 2022 for selling the geolocation information of "hundreds of thousands" of cell phones to anti-abortion groups.  These groups have used geolocation data to identify women who have visited abortion clinics[^10]. The worst future is already now!
+
+#### Shop and e-shops
+
+Some users flag that shops/e-shops that store your buying history may also be a risk. Your purchase history of menstrual hygiene products can also be requested by state police to reveal an illegal abortion. Some propose to desynchronize your purchases of menstrual hygiene products, pay in cash, and cancel your loyalty card (because it is identifying the buyer). 
+
+#### Recommandations for users
+
+This abortion law do not impact the freedom of women, it may also impact their health[^11] [^12]. So it is important to give some advice to enable users to protect themselves.
+
+As usual we can advise to use search engines that consume less data, such as DuckDuckGo and Startpage, use encrypted messaging services such as Signal or ProtonMail, and virtual private networks (VPN) to hide your real location, not browse while identified on some services like Google, clear cookies at browser exit, configure your browser to request web sites not to track you... Use open source app solutions, or cloudless solutions is also a good classic advice. Avoid using social network to discuss or disclose any sensible topics that you may not want to be turned against you later on. Remember that the internet does not forget anything, nothing is really private and something that you said 10 years ago could be an issue in a far future.
+
+#### Last words…
+
+When we consider the global picture, it finally reveals cruelly the real nature of the world we live in today. We accepted because of facility, ignorance, money and comfort to leave a very detailed numeric double of ourselves. 
+
+In a healthy society, this should not be a huge problem. On the other hand, in a world where all drifts and evolutions are possible, the digital Human is at the mercy of any legal, neutral or occult force. It has become incredibly complicated, even impossible in these conditions, to protect yourself in the event of abuse. 
+
+The other aspect to remember is also that the Digital Humans could experience the quick or progressive suppression of all democratic life. This story therefore reveals the fragility, sometimes wanted by the authorities, of our democracies. Is this electroshock enough for us to take back our digital destiny? 
+
+The 5 stages of acceptance are often said to be shock and denial, anger, bargaining, depression, and finally acceptance. We are, I think, between anger and bargaining. Depression therefore awaits us, the penultimate step towards the real implementation of a set of solutions by the citizens.
+
+Already, disparate groups, made up of people who have not or no longer menstruate, are implementing a simple and effective technique for jamming the tracking: downloading several apps, entering false data, diverting the use of menstrual calendars in order to degrade the quality of the data, to scramble the signals, defeating detecting algorithms of pregnancies law violations. This is a way of taking control of their digital tools to offer a resistance lesson to the establishment of state surveillance… The Electronic Frontier Foundation (EFF) published a guide to help women: “What Companies Can Do Now to Protect Digital Rights In A Post-Roe World”. Step 5, already?
+
+
+[^1]: [The Washington Post “*Antiabortion lawmakers want to block patients from crossing state lines*”](https://www.washingtonpost.com/politics/2022/06/29/abortion-state-lines/)
+[^2]: [The mirror “*Woman shocked during travel via US when asked if she'd had abortion by airport staff*“](https://www.mirror.co.uk/news/us-news/woman-shocked-during-travel-via-27475576)
+[^3]: [Reuters “*Disney, other U.S. companies offer abortion travel benefit after Roe decision*”](https://www.reuters.com/world/us/disney-other-us-companies-offer-abortion-travel-benefit-supreme-court-strikes-2022-06-24/)
+[^4]: [Reuters “*Texas lawmaker leaves BakerHostetler for new law firm after proposal to penalize abortion aid*”](https://www.reuters.com/legal/legalindustry/texas-lawmaker-leaves-bakerhostetler-new-law-firm-after-proposal-penalize-2022-08-18/)
+[^5]: [The New York Times “*Citizens, Not the State, Will Enforce New Abortion Law in Texas*“](https://www.nytimes.com/2021/07/09/us/abortion-law-regulations-texas.html)
+[^6]: [The Verge “*Facebook and Instagram will remove posts offering abortion pills*“](https://www.theverge.com/2022/6/28/23186708/facebook-instagram-abortion-pills-posts-ban-mifepristone-misoprostol)
+[^7]: [Forbes “*Facebook Gave Nebraska Cops A Teen’s DMs. They Used Them To Prosecute Her For Having An Abortion.*”](https://www.forbes.com/sites/emilybaker-white/2022/08/08/facebook-abortion-teen-dms/?sh=7a5cac11579c)
+[^8]: [The New York Times “*Google Says It Will Delete Location Data When Users Visit Abortion Clinics*”](https://www.nytimes.com/2022/07/01/technology/google-abortion-location-data.html)
+[^9]: [NBC News “*Instagram restricts some abortion resource posts and hashtags*“](https://www.nbcnews.com/tech/internet/instagram-restricts-abortion-resource-posts-hashtags-rcna35522)
+[^10]: [FTC “*FTC Sues Kochava for Selling Data that Tracks People at Reproductive Health Clinics, Places of Worship, and Other Sensitive Locations*”](https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-sues-kochava-selling-data-tracks-people-reproductive-health-clinics-places-worship-other)
+[^11]: [JAMA Oncology “*The Implications of the Supreme Court Decision to Overturn Roe v Wade for Women With Pregnancy-Associated Cancers*”](https://jamanetwork.com/journals/jamaoncology/fullarticle/2795172?guestAccessKey=1e7079a1-17fb-4265-81ed-169b633bae1c&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=081122)
+[^12]: [WAFB9 “*Mother claims she was denied an abortion despite baby’s condition*”](https://www.wafb.com/2022/08/15/mother-claims-she-was-denied-an-abortion-despite-babys-condition/)
+
+
