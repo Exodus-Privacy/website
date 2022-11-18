@@ -30,9 +30,9 @@ If tech companies worries sincerely about their users' safety, they need to stop
 
 #### Smartphones and Apps
 
-Another side of this situation is smartphone apps. Some may have guessed the level of knowledge of social media on their users, but maybe some forgot that apps on their smartphone are collecting a lot of sensible information. Again, some apps may use some tracker from facebook that are hidden in some freeware libraries and frameworks they include in their app to save development time. Facebook and Google are everywhere. Android smartphones are at risk but Apple’s smartphones are also at risk even if less exposed. 
+Another side of this situation is smartphone apps. Some may have guessed the level of knowledge of social media on their users, but maybe some forgot that apps on their smartphone are collecting a lot of sensible information. Again, some apps may use some tracker from facebook that are hidden in some freeware libraries and frameworks they include in their app to save development time. Facebook and Google are everywhere. Android smartphones are at risk but Apple’s smartphones are also at risk even if less exposed.
 
-One sensible type of App that was heavily discussed regarding the abortion law was menstrual cycle tracking apps (55 million active users). Highly appreciated by women for tracking their sexual health and their fertility, their data stored in the cloud may be shared to a moving and huge list of partners. This data sharing is, of course, a source of revenue for these apps that may be free or have free plans. Paying is also not a guarantee of confidentiality, but it shall be very clear in users’ mind that “when it's free, you are the product”… In the U.S., health-related information collected by apps is not inherently protected by any law, HIPAA law only protects information collected and owned by a medical provider. A lot of companies are willing to pay huge amounts of money for this very intimate data. It could be for marketing (selling services, health devices, or any innovative use). Of course, as said before, state police could request this data. Menstrual cycle can show that a woman is pregnant, for how long, and can also reveal that suddenly she is not pregnant anymore, possibly violating the state’s law. 
+One sensible type of App that was heavily discussed regarding the abortion law was menstrual cycle tracking apps (55 million active users). Highly appreciated by women for tracking their sexual health and their fertility, their data stored in the cloud may be shared to a moving and huge list of partners. This data sharing is, of course, a source of revenue for these apps that may be free or have free plans. Paying is also not a guarantee of confidentiality, but it shall be very clear in users’ mind that “when it's free, you are the product”… In the U.S., health-related information collected by apps is not inherently protected by any law, HIPAA law only protects information collected and owned by a medical provider. A lot of companies are willing to pay huge amounts of money for this very intimate data. It could be for marketing (selling services, health devices, or any innovative use). Of course, as said before, state police could request this data. Menstrual cycle can show that a woman is pregnant, for how long, and can also reveal that suddenly she is not pregnant anymore, possibly violating the state’s law.
 
 In this context, many american women started deleting their apps and requesting past data erasure. But who can certify that past data is fully erased and impossible to undelete? Some women started to use the Clue app that is based in E.U. (Berlin) thinking that GDPR is protecting them. Unfortunately, GDPR here is not really a protection because of what we already flagged above: firstly even a E.U. company has to respond positively to a legitimate legal request from US authorities, secondly, the storage of an E.U. app may not be simple and may use servers located outside Europe. Here again there is a big risk that state police may request this data.
 
@@ -48,7 +48,7 @@ The FTC sued Kochava on Monday, August 29, 2022 for selling the geolocation info
 
 #### Shop and e-shops
 
-Some users flag that shops/e-shops that store your buying history may also be a risk. Your purchase history of menstrual hygiene products can also be requested by state police to reveal an illegal abortion. Some propose to desynchronize your purchases of menstrual hygiene products, pay in cash, and cancel your loyalty card (because it is identifying the buyer). 
+Some users flag that shops/e-shops that store your buying history may also be a risk. Your purchase history of menstrual hygiene products can also be requested by state police to reveal an illegal abortion. Some propose to desynchronize your purchases of menstrual hygiene products, pay in cash, and cancel your loyalty card (because it is identifying the buyer).
 
 #### Recommandations for users
 
@@ -58,16 +58,15 @@ As usual we can advise to use search engines that consume less data, such as Duc
 
 #### Last words…
 
-When we consider the global picture, it finally reveals cruelly the real nature of the world we live in today. We accepted because of facility, ignorance, money and comfort to leave a very detailed numeric double of ourselves. 
+When we consider the global picture, it finally reveals cruelly the real nature of the world we live in today. We accepted because of facility, ignorance, money and comfort to leave a very detailed numeric double of ourselves.
 
-In a healthy society, this should not be a huge problem. On the other hand, in a world where all drifts and evolutions are possible, the digital Human is at the mercy of any legal, neutral or occult force. It has become incredibly complicated, even impossible in these conditions, to protect yourself in the event of abuse. 
+In a healthy society, this should not be a huge problem. On the other hand, in a world where all drifts and evolutions are possible, the digital Human is at the mercy of any legal, neutral or occult force. It has become incredibly complicated, even impossible in these conditions, to protect yourself in the event of abuse.
 
-The other aspect to remember is also that the Digital Humans could experience the quick or progressive suppression of all democratic life. This story therefore reveals the fragility, sometimes wanted by the authorities, of our democracies. Is this electroshock enough for us to take back our digital destiny? 
+The other aspect to remember is also that the Digital Humans could experience the quick or progressive suppression of all democratic life. This story therefore reveals the fragility, sometimes wanted by the authorities, of our democracies. Is this electroshock enough for us to take back our digital destiny?
 
 The 5 stages of acceptance are often said to be shock and denial, anger, bargaining, depression, and finally acceptance. We are, I think, between anger and bargaining. Depression therefore awaits us, the penultimate step towards the real implementation of a set of solutions by the citizens.
 
 Already, disparate groups, made up of people who have not or no longer menstruate, are implementing a simple and effective technique for jamming the tracking: downloading several apps, entering false data, diverting the use of menstrual calendars in order to degrade the quality of the data, to scramble the signals, defeating detecting algorithms of pregnancies law violations. This is a way of taking control of their digital tools to offer a resistance lesson to the establishment of state surveillance… The Electronic Frontier Foundation (EFF) published a guide to help women: “What Companies Can Do Now to Protect Digital Rights In A Post-Roe World”. Step 5, already?
-
 
 [^1]: [The Washington Post “*Antiabortion lawmakers want to block patients from crossing state lines*”](https://www.washingtonpost.com/politics/2022/06/29/abortion-state-lines/)
 [^2]: [The mirror “*Woman shocked during travel via US when asked if she'd had abortion by airport staff*“](https://www.mirror.co.uk/news/us-news/woman-shocked-during-travel-via-27475576)
@@ -81,5 +80,3 @@ Already, disparate groups, made up of people who have not or no longer menstruat
 [^10]: [FTC “*FTC Sues Kochava for Selling Data that Tracks People at Reproductive Health Clinics, Places of Worship, and Other Sensitive Locations*”](https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-sues-kochava-selling-data-tracks-people-reproductive-health-clinics-places-worship-other)
 [^11]: [JAMA Oncology “*The Implications of the Supreme Court Decision to Overturn Roe v Wade for Women With Pregnancy-Associated Cancers*”](https://jamanetwork.com/journals/jamaoncology/fullarticle/2795172?guestAccessKey=1e7079a1-17fb-4265-81ed-169b633bae1c&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=081122)
 [^12]: [WAFB9 “*Mother claims she was denied an abortion despite baby’s condition*”](https://www.wafb.com/2022/08/15/mother-claims-she-was-denied-an-abortion-despite-babys-condition/)
-
-
