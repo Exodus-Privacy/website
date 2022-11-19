@@ -9,6 +9,7 @@ drafts: false
 The U.S. Supreme Court overturned Roe v. Wade on June 24, removing the right to abortion at the federal level and leaving it up to each U.S. state to decide whether to allow or criminalize it. Since this, 17 states forbid or limit abortion. Some members of the anti-abortion movement in the United States want to “restrict people from crossing state lines for abortions”, reports The Washington Post[^1]. This is of course a problem for the US democracy that has different implications that go far beyond that.
 
 First, but this is not the goal of this post, this story is also a warning for other countries as it reveals that even if, most of the time, democracies go forward regarding people’s rights, a return to the past is always possible, even for important humans rights that we may too easily take for granted. A first incident happenned on June 30th when an Australian girl from Brisbane, during a stopover in Los Angeles, was asked “Have you recently had an abortion?”. She said "no" but this answer seemed suspicious and she was placed in a detention room, interrogated twice, frisked, fingerprinted and photographed. Finally she learned that she would not be allowed to enter US territory, and that she would be deported on the next flight back to Brisbane...[^2]
+
 Apple and Disney have announced their intention to finance the trip of American women forced to have abortions outside their state[^3]. But already, a draft by the Texas Freedom Caucus, a parliamentary group in the Texas lower house, threatens law firms by evoking the future introduction of a bill aimed at allowing civil and criminal convictions of companies that bear the costs incurred for an out-of-state abortion[^4].
 
 Some laws passed even before the Supreme Court ruling, such as in Texas in September, encouraging ordinary citizens to sue women suspected of having abortions or those who helped them - even a taxi or Uber driver who allegedly took them to the clinic, for example[^5].
@@ -50,9 +51,9 @@ The FTC sued Kochava on Monday, August 29, 2022 for selling the geolocation info
 
 Some users flag that shops/e-shops that store your buying history may also be a risk. Your purchase history of menstrual hygiene products can also be requested by state police to reveal an illegal abortion. Some propose to desynchronize your purchases of menstrual hygiene products, pay in cash, and cancel your loyalty card (because it is identifying the buyer).
 
-#### Recommandations for users
+#### Recommendations for users
 
-This abortion law do not impact the freedom of women, it may also impact their health[^11] [^12]. So it is important to give some advice to enable users to protect themselves.
+This abortion law does not only impact the freedom of women, it may also impact their health[^11] [^12]. So it is important to give some advice to enable users to protect themselves.
 
 As usual we can advise to use search engines that consume less data, such as DuckDuckGo and Startpage, use encrypted messaging services such as Signal or ProtonMail, and virtual private networks (VPN) to hide your real location, not browse while identified on some services like Google, clear cookies at browser exit, configure your browser to request web sites not to track you... Use open source app solutions, or cloudless solutions is also a good classic advice. Avoid using social network to discuss or disclose any sensible topics that you may not want to be turned against you later on. Remember that the internet does not forget anything, nothing is really private and something that you said 10 years ago could be an issue in a far future.
 
@@ -66,7 +67,7 @@ The other aspect to remember is also that the Digital Humans could experience th
 
 The 5 stages of acceptance are often said to be shock and denial, anger, bargaining, depression, and finally acceptance. We are, I think, between anger and bargaining. Depression therefore awaits us, the penultimate step towards the real implementation of a set of solutions by the citizens.
 
-Already, disparate groups, made up of people who have not or no longer menstruate, are implementing a simple and effective technique for jamming the tracking: downloading several apps, entering false data, diverting the use of menstrual calendars in order to degrade the quality of the data, to scramble the signals, defeating detecting algorithms of pregnancies law violations. This is a way of taking control of their digital tools to offer a resistance lesson to the establishment of state surveillance… The Electronic Frontier Foundation (EFF) published a guide to help women: “What Companies Can Do Now to Protect Digital Rights In A Post-Roe World”. Step 5, already?
+Already, disparate groups, made up of people who do not or no longer menstruate, are implementing a simple and effective technique for jamming the tracking: downloading several apps, entering false data, diverting the use of menstrual calendars in order to degrade the quality of the data, to scramble the signals, defeating detecting algorithms of pregnancies law violations. This is a way of taking control of their digital tools to offer a resistance lesson to the establishment of state surveillance… The Electronic Frontier Foundation (EFF) published a guide to help women: “What Companies Can Do Now to Protect Digital Rights In A Post-Roe World”. Step 5, already?
 
 [^1]: [The Washington Post “*Antiabortion lawmakers want to block patients from crossing state lines*”](https://www.washingtonpost.com/politics/2022/06/29/abortion-state-lines/)
 [^2]: [The mirror “*Woman shocked during travel via US when asked if she'd had abortion by airport staff*“](https://www.mirror.co.uk/news/us-news/woman-shocked-during-travel-via-27475576)
