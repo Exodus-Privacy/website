@@ -12,7 +12,7 @@ Tout d'abord, mais ce n'est pas le but de cet article, ces faits sont un avertis
 
 Apple et Disney ont annoncé leur intention de financer les trajets d'américaines forcées à avorter en-dehors de leur État[^3]. Mais une ébauche rédigée par le Texas Freedom Caucus, un groupe parlementaire de la chambre basse texane, menace d'ores et déjà les cabinets juridiques en évoquant une future législation permettant la condamnation civile et criminelle d'entreprises qui prendraient en charge les frais causés par des avortements hors de leur État[^4].
 
-Des lois sont passées avant même la décision de la Cour suprême, comme au Texas en Septembre, encourageant les citoyens à traduire en justice des femmes soupçonnées d'avoir avorté ou les personnes qui les auraient aidées - même un taxi ou conducteur Uber qui les aurait supposémment amenées à la clinique, par exemple[^5]. 
+Des lois sont passées avant même la décision de la Cour suprême, comme au Texas en Septembre, encourageant les citoyens à traduire en justice des femmes soupçonnées d'avoir avorté ou les personnes qui les auraient aidées - même un taxi ou conducteur Uber qui les aurait supposémment amenées à la clinique, par exemple[^5].
 
 La seconde conséquence est liée à la vie privée, et bien entendu nous en parlerons plus en détail dans cet article.
 
@@ -58,7 +58,7 @@ Cette loi sur l'avortement n'impacte pas que la liberté des femmes, elle peut a
 
 Comme d'habitude, nous pouvons conseiller d'utiliser des moteurs de recherche qui recueillent moins de données, comme DuckDuckGo et Startpage, des services de messagerie chiffrés comme Signal ou ProtonMail, des réseaux privés virtuels (VPN) pour cacher votre localisation réelle, de ne pas naviguer en étant identifié⋅e sur des services comme Google, supprimer les cookies à la fermeture du navigateur, configurer votre navigateur pour indiquer aux sites de ne pas vous traquer... Utiliser des solutions logicielles libres ou en local (cloudless) est aussi un bon conseil classique. Évitez d'utiliser les réseaux sociaux pour discuter ou dévoiler des sujets sensibles qui pourraient se retourner contre vous plus tard. N'oubliez pas qu'Internet n'oublie rien, rien n'est réellement privé et quelque chose que vous avez dit il y a dix ans pourrait se révéler un problème dans un futur lointain.
 
-#### Un dernier mot...
+#### Un dernier mot
 
 Une vision globale de la situation nous révèle cruellement la vraie nature du monde dans lequel nous vivons. Nous avons accepté, par facilité, ignorance, confort et appât du gain de laisser un double numérique très détaillé de nous-mêmes.
 
