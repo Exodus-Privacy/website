@@ -65,7 +65,7 @@ In a healthy society, this should not be a huge problem. On the other hand, in a
 
 The other aspect to remember is also that the Digital Humans could experience the quick or progressive suppression of all democratic life. This story therefore reveals the fragility, sometimes wanted by the authorities, of our democracies. Is this electroshock enough for us to take back our digital destiny?
 
-The 5 stages of acceptance are often said to be shock and denial, anger, bargaining, depression, and finally acceptance. We are, I think, between anger and bargaining. Depression therefore awaits us, the penultimate step towards the real implementation of a set of solutions by the citizens.
+The 5 stages of grief are often said to be shock and denial, anger, bargaining, depression, and finally acceptance. We are, I think, between anger and bargaining. Depression therefore awaits us, the penultimate step towards the real implementation of a set of solutions by the citizens.
 
 Already, disparate groups, made up of people who do not or no longer menstruate, are implementing a simple and effective technique for jamming the tracking: downloading several apps, entering false data, diverting the use of menstrual calendars in order to degrade the quality of the data, to scramble the signals, defeating detecting algorithms of pregnancies law violations. This is a way of taking control of their digital tools to offer a resistance lesson to the establishment of state surveillance… The Electronic Frontier Foundation (EFF) published a guide to help women: “What Companies Can Do Now to Protect Digital Rights In A Post-Roe World”. Step 5, already?
 
