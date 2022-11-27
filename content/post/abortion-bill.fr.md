@@ -12,7 +12,7 @@ Tout d'abord, mais ce n'est pas le but de cet article, ces faits sont un avertis
 
 Apple et Disney ont annoncé leur intention de financer les trajets d'américaines forcées à avorter en-dehors de leur État[^3]. Mais une ébauche rédigée par le Texas Freedom Caucus, un groupe parlementaire de la chambre basse texane, menace d'ores et déjà les cabinets juridiques en évoquant une future législation permettant la condamnation civile et criminelle d'entreprises qui prendraient en charge les frais causés par des avortements hors de leur État[^4].
 
-Des lois sont passées avant même la décision de la Cour suprême, comme au Texas en Septembre, encourageant les citoyens à traduire en justice des femmes soupçonnées d'avoir avorté ou les personnes qui les auraient aidées - même un taxi ou conducteur Uber qui les aurait supposémment amenées à la clinique, par exemple[^5].
+Des lois sont passées avant même la décision de la Cour suprême, comme au Texas en septembre, encourageant les citoyens à traduire en justice des femmes soupçonnées d'avoir avorté ou les personnes qui les auraient aidées - même un taxi ou conducteur Uber qui les aurait supposémment amenées à la clinique, par exemple[^5].
 
 La seconde conséquence est liée à la vie privée, et bien entendu nous en parlerons plus en détail dans cet article.
 
