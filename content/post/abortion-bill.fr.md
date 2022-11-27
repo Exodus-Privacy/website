@@ -46,7 +46,7 @@ Au final, une bonne solution pourrait être d'utiliser des applications qui stoc
 
 Une solution low-tech utilisant un thermomètre, un calendrier et un crayon reste la plus sûre même si elle est moins séduisante.
 
-La FTC a intenté un procès à Kochava le 29 août 2022 pour avoir vendu les informations de géolocalisation de "centaines de milliers" de téléphones portables à des groupes anti-avortement. Ces groupes ont utilisé des données géographiques pour identifier des femmes ayant visité des cliniques d'avortement[^10]. Le pire futur est déjà là.
+La FTC a intenté un procès à Kochava le 29 août 2022 pour avoir vendu les informations de géolocalisation de « centaines de milliers » de téléphones portables à des groupes anti-avortement. Ces groupes ont utilisé des données géographiques pour identifier des femmes ayant visité des cliniques d'avortement[^10]. Le pire futur est déjà là.
 
 #### Boutiques et e-commerces
 
