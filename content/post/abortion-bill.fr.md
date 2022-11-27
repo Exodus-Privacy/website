@@ -1,5 +1,5 @@
 ---
-title: "Conséquences sur la vie privée de la législation sur l'avortement aux États-Unis et dans l'union européenne"
+title: "Conséquences sur la vie privée de la législation sur l'avortement aux États-Unis et dans l'Union Européenne"
 date: 2022-11-18
 drafts: false
 ---
