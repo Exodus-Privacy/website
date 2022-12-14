@@ -61,9 +61,9 @@ As usual we can advise to use search engines that collect less data, such as Duc
 
 When we consider the global picture, it finally reveals cruelly the real nature of the world we live in today. We accepted because of facility, ignorance, money and comfort to leave a very detailed digital double of ourselves.
 
-In a healthy society, this should not be a huge problem. On the other hand, in a world where all drifts and evolutions are possible, the digital Human is at the mercy of any legal, neutral or occult force. It has become incredibly complicated, even impossible in these conditions, to protect yourself in the event of abuse.
+In a healthy society, this should not be a huge problem. On the other hand, in a world where all drifts and evolutions are possible, the modern, digital human is at the mercy of any legal, neutral or occult force. It has become incredibly complicated, even impossible in these conditions, to protect yourself in the event of abuse.
 
-The other aspect to remember is also that the Digital Humans could experience the quick or progressive suppression of all democratic life. This story therefore reveals the fragility, sometimes wanted by the authorities, of our democracies. Is this electroshock enough for us to take back our digital destiny?
+The other aspect to remember is also that the digital humans could experience the quick or progressive suppression of all democratic life. This story therefore reveals the fragility, sometimes wanted by the authorities, of our democracies. Is this electroshock enough for us to take back our digital destiny?
 
 The 5 stages of grief are often said to be shock and denial, anger, bargaining, depression, and finally acceptance. We seem to be now between anger and bargaining. Depression therefore awaits us, before, we can hope, the real implementation of a set of solutions by the citizens.
 

@@ -62,7 +62,7 @@ Comme d'habitude, nous pouvons conseiller d'utiliser des moteurs de recherche qu
 
 Une vision globale de la situation nous révèle cruellement la vraie nature du monde dans lequel nous vivons. Nous avons accepté, par facilité, ignorance, confort et appât du gain de laisser un double numérique très détaillé de nous-mêmes.
 
-Dans une société saine, cela ne devrait pas poser trop de problèmes. Mais d'un autre côté, dans un monde où toutes les dérives et les évolutions sont possibles, l'humain⋅e numérique est à la merci de toutes les forces légales, neutres ou occultes. Il est devenu incroyablement compliqué, voire impossible dans ces conditions, de se protéger contre les abus.
+Dans une société saine, cela ne devrait pas poser trop de problèmes. Mais d'un autre côté, dans un monde où toutes les dérives et les évolutions sont possibles, l'humain⋅e numérique est à la merci de toutes les forces légales, neutres ou privées. Il est devenu incroyablement compliqué, voire impossible dans ces conditions, de se protéger contre les abus.
 
 L'autre aspect à retenir est aussi que les humain⋅es numériques pourraient assister à une suppression rapide ou progressive de toute vie démocratique. Cette histoire révèle donc la fragilité, parfois recherchée par les autorités, de nos démocraties. Cet électrochoc nous suffira-t-il pour reprendre en main notre destinée numérique ?
 
