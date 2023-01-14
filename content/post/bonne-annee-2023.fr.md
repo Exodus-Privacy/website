@@ -20,7 +20,6 @@ Peu de rencontres ou de conférences, par manque de temps bénévole.
 
 En revanche côté interne plein de petits miracles se sont produits. Nous avons, par exemple (et ce n'est pas un mince exploit), réussi à changer de banque, sous l'impulsion et avec l'énergie de notre trésorier.
 
-
 Pour finir je voudrais remercier toutes les personnes qui de près ou de loin agissent, certaines dans l'ombre, à faire fonctionner cette association. Merci également aux personnes qui utilisent nos résultats pour leur propres travaux, académiques bien souvent. Au passage, un petit mail, ça fait toujours plaisir.
 
 Bonne et heureuse année 2023,
