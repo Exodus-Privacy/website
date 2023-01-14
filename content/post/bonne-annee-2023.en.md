@@ -6,7 +6,7 @@ draft: false
 
 Here we are, our planet just finished another revolution around its star and started a new one.
 
-In all our names, please allow me to wish you a good and happy new year 2023.
+On behalf of all of us, please allow me to wish you a good and happy new year 2023.
 
 From the outside, the year 2022 wasn't extremely active for the association.
 Not a lot of meetings and talks, because of the lack of volunteer time.
