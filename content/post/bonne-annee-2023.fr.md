@@ -11,12 +11,12 @@ Au nom de toutes et tous permettez-moi de vous souhaiter une belle et heureuse a
 L'année 2022 n'a pas été, côté extérieur, extrêmement active pour l'association.
 Peu de rencontres ou de conférences, par manque de temps bénévole.
 
-  - De nouveaux membres sont arrivés et c'est très bénéfique à l'association. Encore un peu timides en réunion, c'est normal, on tâte le terrain, mais j'espère bientôt actifs dans tous les domaines qu'offre Exodus Privacy. Il y a tant à faire ;
-  - La plateforme continue son « petit bonhomme de chemin » ;
-  - L'infrastructure évolue, se détachant peu à peu des tous premiers serveurs mis en place au commencement de l'aventure ;
-  - Les finances sont saines grâce à notre trésorier ;
-  - Nous essayons de mieux et plus communiquer. Ce n'est pas tellement dans notre nature, peut-être les nouveaux membres  nous aideront-iels sur ce point ;
-  - Les kits pédagogiques avancent, nous espérons finir bientôt ;
+- De nouveaux membres sont arrivés et c'est très bénéfique à l'association. Encore un peu timides en réunion, c'est normal, on tâte le terrain, mais j'espère bientôt actifs dans tous les domaines qu'offre Exodus Privacy. Il y a tant à faire ;
+- La plateforme continue son « petit bonhomme de chemin » ;
+- L'infrastructure évolue, se détachant peu à peu des tous premiers serveurs mis en place au commencement de l'aventure ;
+- Les finances sont saines grâce à notre trésorier ;
+- Nous essayons de mieux et plus communiquer. Ce n'est pas tellement dans notre nature, peut-être les nouveaux membres  nous aideront-iels sur ce point ;
+- Les kits pédagogiques avancent, nous espérons finir bientôt ;
 
 En revanche côté interne plein de petits miracles se sont produits. Nous avons, par exemple (et ce n'est pas un mince exploit), réussi à changer de banque, sous l'impulsion et avec l'énergie de notre trésorier.
 
