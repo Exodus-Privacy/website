@@ -1,6 +1,6 @@
 ---
 title: Bilan comptable 2022
-date: 2022-02-04
+date: 2023-02-04
 draft: no
 tags: [comptabilité]
 ---
