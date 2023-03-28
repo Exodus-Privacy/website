@@ -26,5 +26,4 @@ Fondée en 2017 par une poignée d'Hacktiviste, elle propose une plateforme ([ht
 
 A ce jour plus de 340 000 rapports pour plus de 160 00 applications analysées sont disponible dans la base de données.
 
-
 Exodus-Privacy tient à remercier ses soutiens, Gandi, Octopuce, Codeurs en Liberté, la fondation Afnic, DEBAMAX, Defensy Lab Agency, F-Droid et Code Lutin, sans qui notre aventure ne saurait être possible.
