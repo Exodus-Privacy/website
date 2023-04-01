@@ -12,7 +12,7 @@ Afin de diversifier ses activités et pour augmenter ses revenus, l'association 
 
 Ce lancement d'une collection de NFT, dans l'objectif d'augmenter la visibilité de l'association, répond à un principe très simple :
 
-    Chacun des rapports de la plateforme εxodus pourra se voir attaché un NFT rendant ainsi le dit rapport propriété du créateur de l'application analysée, que le propriétaire soit une entreprise ou un particulier.
+Chacun des rapports de la plateforme εxodus pourra se voir attaché un NFT rendant ainsi le dit rapport propriété du créateur de l'application analysée, que le propriétaire soit une entreprise ou un particulier.
 
 ### Modalités
 
