@@ -7,7 +7,7 @@ tags: [kit, medum]
 
 **Vous avez envie d'animer des ateliers numériques autour de la vie privée et des smartphones et ne savez pas par où commencer ? Vous avez envie de sensibiliser les gens autour de vous ? Pas besoin de préparer un atelier, on l'a fait pour vous (et vous pouvez le télécharger en bas de ce billet) !**
 
-![Capture extraite de la vidéo](/media/kitpeda/video.png)
+![Capture extraite de la vidéo](/media/post/kitdebutant/video.png)
 
 Exodus Privacy anime des ateliers et des conférences autour de la vie privée et des smartphones depuis 2017, autant vous dire qu'on a l'habitude ! Et comme on aime bien partager (librement, bien sûr), on a concentré toute notre expertise dans ce kit clé en main qui contient de quoi animer un atelier d'1h30 pour une dizaine de personnes débutantes. Il contient :
 
@@ -16,7 +16,7 @@ Exodus Privacy anime des ateliers et des conférences autour de la vie privée e
 * un diaporama
 * une fiche-résumé à remettre aux participant·es, qui récapitule les principaux éléments vus pendant l'atelier.
 
-![Capture extraite du déroulé](/media/kitpeda/deroule.png)
+![Capture extraite du déroulé](/media/post/kitdebutant/deroule.png)
 
 Ainsi, vous pourrez sensibiliser les participant·es à ce qu'est une application, un pisteur, une permission... Et leur proposer des outils (comme notre plateforme ou notre application) pour comprendre et agir.
 
