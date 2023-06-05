@@ -22,14 +22,14 @@ Ainsi, vous pourrez sensibiliser les participant·es à ce qu'est une applicatio
 
 L'atelier est facile à prendre en main, et comme tout ce que nous faisons, publié sous licence libre : partagez-le, modifiez-le, utilisez-en seulement un bout… Du moment que vous nous citez, vous en faites ce que vous voulez !
 
-Ce kit n'aurait pas vu le jour sans les personnes et organisations suivantes, on en profite pour les remercier : 
+Ce kit n'aurait pas vu le jour sans les personnes et organisations suivantes, on en profite pour les remercier :
 
 * [La fondation Afnic pour la solidarité numérique](https://www.fondation-afnic.fr) qui a financé ce kit
 * [_Lila*](https://lila.ink/) qui a créé tous les visuels et qui a fait la mise en page
 * Heloïse de [NetFreaks](https://twitter.com/netfreaksfr) qui a fait le motion design de la vidéo
 * Les personnes qui ont testé le premier prototype de ce kit et qui nous ont fait des retours critiques !
 
-Si ce kit vous intéresse, vous pouvez : 
+Si ce kit vous intéresse, vous pouvez :
 
 * [le télécharger ici](https://github.com/Exodus-Privacy/kit-pedagogique/archive/refs/heads/main.zip)
 * participer à une démonstration sur BigBlueButton le mardi 20 juin à 21h  sur [BigBlueButton](https://bbb.faimaison.net/b/jul-ipo-h1s-gdk).
