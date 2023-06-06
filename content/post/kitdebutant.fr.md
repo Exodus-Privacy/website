@@ -31,5 +31,5 @@ Ce kit n'aurait pas vu le jour sans les personnes et organisations suivantes, on
 
 Si ce kit vous intéresse, vous pouvez :
 
-* [le télécharger ici](https://github.com/Exodus-Privacy/kit-pedagogique/archive/refs/heads/main.zip)
+* [le télécharger ici](https://github.com/Exodus-Privacy/kit-pedagogique/releases/download/kit-debutant-v1/Kit-debutant.zip)
 * participer à une démonstration sur BigBlueButton le mardi 20 juin à 21h  sur [BigBlueButton](https://bbb.faimaison.net/b/jul-ipo-h1s-gdk).
