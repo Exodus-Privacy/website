@@ -24,7 +24,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
         <img class="w-25 rounded-circle" src="/media/avatar/codimp.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>Codimp</code></h6>
-            <a rel="me" href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a rel="me" href="https://social.lithio.fr/codimp"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/codeurimpulsif"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/codeurimpulsif"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">Guardian of εxodus's infrastructure, board member, Secretary</p>
