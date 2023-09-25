@@ -30,7 +30,6 @@ draft: false
   <div class="card-body">
     <h5 class="card-title">Популяризация</h5>
     <p class="card-text">Раскройте свой разум с познавательным содержимым!</p>
-    <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">PeerTube</a>
     <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">YouTube</a>
     <p class="mt-3"><a href="#videos">подробнее</a></p>
   </div>
@@ -106,15 +105,8 @@ draft: false
 </div>
 </div>
 
-Также мы публикуем наглядные видео, объясняющие как и зачем происходит массовый трекинг на смартфонах. Видео доступны на двух платформах:
+Также мы публикуем наглядные видео, объясняющие как и зачем происходит массовый трекинг на смартфонах.
 <div class="row justify-content-md-center">
-    <div class="col-md-4 text-center">
-        <img src="/media/logo/peertube.svg" height="48px" class="mt-3 ml-auto mr-auto"/>
-        <div class="card-body">
-            <h5 class="card-title"><code>@exodus</code></h5>
-            <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">Смотреть!</a>
-        </div>
-    </div>
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">

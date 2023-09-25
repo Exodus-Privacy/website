@@ -111,7 +111,7 @@ L’adhésion est à renouveler tous les ans. La cotisation, elle, reste gratuit
 
 ## Nous aider à nous faire connaître
 
-Le but principal d’Exodus Privacy est d’<b>avertir les utilisateurs du pistage effectué par les applications mobiles</b>. Pour ce faire, nous animons 3 comptes sur les réseaux sociaux et 2 chaînes vidéos :
+Le but principal d’Exodus Privacy est d’<b>avertir les utilisateurs du pistage effectué par les applications mobiles</b>. Pour ce faire, nous animons 3 comptes sur les réseaux sociaux et une chaîne vidéo :
 <div class="row">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
@@ -136,13 +136,6 @@ Le but principal d’Exodus Privacy est d’<b>avertir les utilisateurs du pista
     </div>
 </div>
 <div class="row justify-content-md-center">
-    <div class="col-md-4 text-center">
-        <img src="/media/logo/peertube.svg" height="48px" class="mt-2 ml-auto mr-auto"/>
-        <div class="card-body">
-            <h5 class="card-title"><code>@exodus</code></h5>
-            <a href="https://video.exodus-privacy.eu.org/accounts/lovis_ix/videos" class="btn btn-primary">Regardez !</a>
-        </div>
-    </div>
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
