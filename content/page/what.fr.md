@@ -31,7 +31,6 @@ draft: false
     <div class="card-body">
       <h5 class="card-title">Vulgarisation</h5>
       <p class="card-text">Ouvrez votre esprit avec du contenu agréable&nbsp;!</p>
-      <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">sur PeerTube</a>
       <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">sur YouTube</a>
       <p class="mt-3"><a href="#videos">plus de détails</a></p>
     </div>
@@ -99,15 +98,8 @@ L’application ne fait aucune analyse sur votre ordiphone mais va chercher les 
 
 ## Supports de vulgarisation
 
-Le but principal d’Exodus Privacy est d’avertir les utilisateurs du pistage fait par les applications mobiles. Pour ce faire, nous avons créé des vidéos de vulgarisation expliquant comment et pourquoi les pisteurs sont présents dans les ordiphones. Ces vidéos sont disponibles sur 2 plateformes :
+Le but principal d’Exodus Privacy est d’avertir les utilisateurs du pistage fait par les applications mobiles. Pour ce faire, nous avons créé des vidéos de vulgarisation expliquant comment et pourquoi les pisteurs sont présents dans les ordiphones.
 <div class="row justify-content-md-center">
-  <div class="col-md-4 text-center">
-    <img src="/media/logo/peertube.svg" height="42px" class="mt-3 ml-auto mr-auto"/>
-    <div class="card-body">
-      <h5 class="card-title"><code>@exodus</code></h5>
-      <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">Regardez !</a>
-    </div>
-  </div>
   <div class="col-md-4 text-center">
     <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
     <div class="card-body">
