@@ -31,7 +31,6 @@ draft: false
     <div class="card-body">
       <h5 class="card-title">Learn more</h5>
       <p class="card-text">Learn more about the issue with some nice videos!</p>
-      <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">PeerTube</a>
       <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">YouTube</a>
       <p class="mt-3"><a href="#videos">more details</a></p>
     </div>
@@ -98,15 +97,8 @@ The application does not analyse the applications installed directly on your sma
 
 ## Outreach: Learn More
 
-The main goal of Exodus Privacy is to raise awareness of the extent of tracking by and in mobile applications. To this end, we have created videos explaining how and why tracking massively occurs on smartphones. You can watch these videos on 2 platforms:
+The main goal of Exodus Privacy is to raise awareness of the extent of tracking by and in mobile applications. To this end, we have created videos explaining how and why tracking massively occurs on smartphones.
 <div class="row justify-content-md-center">
-  <div class="col-md-4 text-center">
-    <img src="/media/logo/peertube.svg" height="42px" class="mt-3 ml-auto mr-auto"/>
-    <div class="card-body">
-      <h5 class="card-title"><code>@exodus</code></h5>
-      <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">Watch!</a>
-    </div>
-  </div>
   <div class="col-md-4 text-center">
     <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
     <div class="card-body">
