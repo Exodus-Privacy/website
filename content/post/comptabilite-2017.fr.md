@@ -10,7 +10,8 @@ tags: [comptabilite]
 
 * Comptablitié en double entrée. Chaque ligne est un compte.
 
-## Balance changes in 2017 / 11:
+## Balance changes in 2017 / 11
+
 <pre>
                        ║                            Nov
 ═══════════════════════╬════════════════════════════════
@@ -21,8 +22,8 @@ tags: [comptabilite]
 ───────────────────────╫────────────────────────────────
                        ║                              0</pre>
 
+## Balance changes in 2017 / 12
 
-## Balance changes in 2017 / 12:
 <pre>
                        ║                      Dec
 ═══════════════════════╬══════════════════════════

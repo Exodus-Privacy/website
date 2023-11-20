@@ -1,0 +1,26 @@
+---
+name: CI
+
+on:
+  push:
+    branches:
+      - hugo
+  pull_request:
+    branches:
+      - hugo
+  workflow_dispatch:
+
+jobs:
+  lint:
+    name: Lint all Markdown files
+    runs-on: ubuntu-20.04
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Lint changelog file
+      uses: docker://avtodev/markdown-lint:v1
+      with:
+        config: './.markdownlint.json'
+        args: '.'
+        ignore: './themes'

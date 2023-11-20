@@ -18,7 +18,7 @@ The activity report made it possible to trace the history of the association:
 
 In less than a year, Exodus Privacy has acquired undeniable scientific and technical credibility. But the aim of the association being to reach the general public, it is necessary to concentrate the efforts of the association on this point, in particular by developing materials intended for the general public and links with digital mediators.
 
-After the unanimous approval of the activity report, we discussed the financial report of the association. In particular, we decided to financially support [Framasoft] (https://framasoft.org/fr/), because their services are regularly useful to us! The financial report was approved by a majority of the votes cast, the treasurer having preferred to abstain.
+After the unanimous approval of the activity report, we discussed the financial report of the association. In particular, we decided to financially support [Framasoft](https://framasoft.org/fr/), because their services are regularly useful to us! The financial report was approved by a majority of the votes cast, the treasurer having preferred to abstain.
 
 Finally, the general assembly ended with the election of the new board. Lovis_IX (treasurer), Codimp (secretary), U+039b and MeTaL_PoU (president) were elected.
 

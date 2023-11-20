@@ -10,7 +10,7 @@ Le 24 novembre 2017, Exodus Privacy rendait publique la [plateforme εxodus](htt
 * 152 pisteurs découverts
 * plus de 37 000 applications analysées, dans de nombreuses langues, dont l’hébreu, le japonais, le coréen…
 * plus de 41 000 rapports générés
-* plus de 1000 vues sur 3 vidéos publiées sur 2 plateformes : [Peertube](https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos) et [Youtube](https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ)
+* plus de 1000 vues sur 3 vidéos publiées sur 2 plateformes : [Peertube](https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos) et [Youtube](https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ)
 * plus de 13 000 secondes de conférences, notamment à [la journée du conseil scientifique de l’Afnic](https://www.youtube.com/watch?v=SlibjEJKO6Y&feature=youtu.be#t=6h21m09s), [Pas Sage en Seine](https://passageenseine.fr/) ou [les Rencontres mondiales du logiciel libre](http://www.canalc2.tv/video/15194)
 * 148 Mo de base de données
 * 750 Go d’APK dans les sauvegardes
@@ -18,7 +18,7 @@ Le 24 novembre 2017, Exodus Privacy rendait publique la [plateforme εxodus](htt
 * beaucoup d’[articles de presse](https://exodus-privacy.eu.org/fr/page/press/) dans plus de 20 langues qui mentionnent les travaux d’Exodus Privacy
 * plein d’URLs : [notre site](https://exodus-privacy.eu.org), [la plateforme εxodus](https://reports.exodus-privacy.eu.org/), [notre forum](https://forum.exodus-privacy.eu.org/), [le dépôt Github](https://github.com/Exodus-Privacy), [notre blog](https://exodus-privacy.eu.org/fr/post/)…
 
-Nous sommes très fièr•e•s de cette première année et en profitons pour remercier toutes les personnes grâce à qui cela a été possible :
+Nous sommes très fièr·e·s de cette première année et en profitons pour remercier toutes les personnes grâce à qui cela a été possible :
 
 * Schoumi [que vous pouvez soutenir ici](https://liberapay.com/Schoumi) qui a développé l’application Exodus
 * Valère qui a créé l’extension [Exodify](https://exodus-privacy.eu.org/fr/post/derivated_projects/) pour Firefox, Chrome et Chromium.

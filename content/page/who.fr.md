@@ -8,80 +8,73 @@ draft: false
 
 Exodus Privacy est une association française à but non-lucratif, régie par la loi de 1901. Cette organisation est animée par des hacktivistes dont le but est la protection de la vie privée.
 
-## Principaux contributeurs
+## Principaux contributeurs et principales contributrices
 
 <div class="row justify-content-md-center">
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+        <img class="w-25 rounded-circle" src="/media/avatar/capslock.jpg">
         <div class="card-body">
-            <h6 class="card-title"><code>MeTaL_PoU</code></h6>
-            <a href="https://mastodon.opportunis.me/@MeTaL_PoU"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/metal_pou"><i class="fab fa-2x fa-twitter"></i></a>
-            <p class="small">Présidente d’Exodus Privacy et créatrice des contenus pédagogiques.</p>
+            <h6 class="card-title"><code>CapsLock</code></h6>
+            <a rel="me" href="https://toot.aquilenet.fr/@CapsLock"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://twitter.com/TheRealCapsLock"><i class="fab fa-2x fa-twitter"></i></a>
+            <a href="https://github.com/TheCapsLock"><i class="fab fa-github fa-2x"></i></a>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h6 class="card-title"><code>Lovis_IX</code></h6>
-            <a href="https://pleroma.foucry.net/users/Jacques"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://github.com/jfoucry"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Roi des serveurs et des sauvegardes.</p>
-        </div>
-    </div>
-    <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h6 class="card-title"><code>U039b</code></h6>
-            <a href="https://mastodon.social/@U039b"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/U039b"><i class="fab fa-2x fa-twitter"></i></a>
-            <a href="https://github.com/U039b"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Développeuse principale d’εxodus.</p>
-        </div>
-    </div>
-    <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h6 class="card-title"><code>Gu1nn3zz</code></h6>
-            <a href="https://github.com/Gu1nness"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">En charge du développement d’εxodus et de la traduction.</p>
-        </div>
-    </div>
-    <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h6 class="card-title"><code>dashcom</code></h6>
-            <a href="https://mamot.fr/@dashcom"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/dashcom_"><i class="fab fa-2x fa-twitter"></i></a>
-            <p class="small">En charge de la communication.</p>
-        </div>
-    </div>
-    <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+        <img class="w-25 rounded-circle" src="/media/avatar/codimp.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>Codimp</code></h6>
-            <a href="https://mastodon.social/@codeurimpulsif"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a rel="me" href="https://social.lithio.fr/codimp"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/codeurimpulsif"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/codeurimpulsif"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">Maître de l’infrastructure d’εxodus.</p>
+            <p class="small">Gardien·ne de l’infrastructure d’εxodus, membre du bureau, secrétaire</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+        <img class="w-25 rounded-circle" src="/media/avatar/imriel.png">
+        <div class="card-body">
+            <h6 class="card-title"><code>Imriel</code></h6>
+            <a rel="me" href="https://tech.lgbt/@imriel"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://github.com/imrhiel"><i class="fab fa-github fa-2x"></i></a>
+            <p class="small">Membre du bureau, trésorier</p>
+        </div>
+    </div>
+    <div class="col-md-3 mt-3 text-center">
+        <img class="w-25 rounded-circle" src="/media/avatar/lovis_ix.png">
+        <div class="card-body">
+            <h6 class="card-title"><code>Lovis_IX</code></h6>
+            <a rel="me" href="https://social.zdx.fr/@lovisix"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://github.com/jfoucry"><i class="fab fa-github fa-2x"></i></a>
+            <p class="small">Roi des serveurs et des sauvegardes, membre du bureau, président en exercice</p>
+        </div>
+    </div>
+    <div class="col-md-3 mt-3 text-center">
+        <img class="w-25 rounded-circle" src="/media/avatar/metal_pou.jpg">
+        <div class="card-body">
+            <h6 class="card-title"><code>MeTaL_PoU</code></h6>
+            <a rel="me" href="https://pouet.chapril.org/@JulieBrillet"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://twitter.com/metal_pou"><i class="fab fa-2x fa-twitter"></i></a>
+            <p class="small">Présidente d’Exodus Privacy de 2018 à 2021 et créatrice des contenus pédagogiques</p>
+        </div>
+    </div>
+    <div class="col-md-3 mt-3 text-center">
+        <img class="w-25 rounded-circle" src="/media/avatar/pnu.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>pnu</code></h6>
+            <a rel="me" href="https://pouet.chapril.org/@pnu"><i class="fab fa-2x fa-mastodon"></i></a>
             <a href="https://twitter.com/simon_pnu"><i class="fab fa-2x fa-twitter"></i></a>
             <a href="https://github.com/pnu-s"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">En charge du dévelopement d’εxodus.</p>
+            <p class="small">En charge du dévelopement d’εxodus, membre du bureau</p>
         </div>
     </div>
     <div class="col-md-3 mt-3 text-center">
-        <i class="far fa-3x fa-user mt-2 ml-auto mr-auto text-primary"></i>
+        <img class="w-25 rounded-circle" src="/media/avatar/u039b.jpg">
         <div class="card-body">
-            <h6 class="card-title"><code>Schoumi</code></h6>
-            <a href="https://twitter.com/schoumi"><i class="fab fa-2x fa-twitter"></i></a>
-            <a href="https://github.com/Schoumi"><i class="fab fa-github fa-2x"></i></a>
-            <p class="small">En charge de l’application Android d’εxodus.</p>
+            <h6 class="card-title"><code>U039b</code></h6>
+            <a rel="me" href="https://mastodon.social/@U039b"><i class="fab fa-2x fa-mastodon"></i></a>
+            <a href="https://twitter.com/U039b"><i class="fab fa-2x fa-twitter"></i></a>
+            <a href="https://github.com/U039b"><i class="fab fa-github fa-2x"></i></a>
+            <p class="small">Développeuse principale d’εxodus, vice-présidente</p>
         </div>
     </div>
 </div>
@@ -96,7 +89,7 @@ N’insistez pas lorsqu’une personne décline une sollicitation. Si on vous re
 Si vous êtes harcelé·e ou victime de discrimination, ou si vous êtes témoin de harcèlement ou de discrimination à l’égard d’autre(s) personnes, ou si vous craignez la survenue d’un incident dans le cadre des activités d’Exodus Privacy vous pouvez contacter un·e membre du bureau, par mail à <bureau@exodus-privacy.eu.org> ou bien par tout autre moyen (IRC, message privé sur le forum…).
 Tous les rapports faits de bonne foi seront pris au sérieux. Le bureau respectera dans la mesure du possible les demandes d’anonymat afin de protéger les victimes d’abus supplémentaires.
 
-## Les différents moyens de nous joindre :
+## Les différents moyens de nous joindre
 
 <div class="row">
     <div class="col-md-4 text-center">
@@ -123,18 +116,25 @@ Tous les rapports faits de bonne foi seront pris au sérieux. Le bureau respecte
 </div>
 
 <div class="row justify-content-md-center">
-    <div class="col-md-5 text-center">
+    <div class="col-md-4 text-center">
         <i class="fa fa-3x fa-envelope mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>contact@exodus-privacy.eu.org</code></h6>
             <a href="mailto:contact@exodus-privacy.eu.org" class="btn btn-sm btn-primary">Contactez-nous !</a>
         </div>
     </div>
-    <div class="col-md-5 text-center">
+    <div class="col-md-4 text-center">
         <i class="fa fa-3x fa-comments mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>#exodus-privacy</code></h6>
-            <a href="https://matrix.to/#/#exodus-privacy:matrix.org" class="btn btn-sm btn-primary">Discutons !</a>
+            <a href="https://web.libera.chat/?nick=webguest?#exodus-privacy" class="btn btn-sm btn-primary">Discutons sur IRC !</a>
+        </div>
+    </div>
+    <div class="col-md-4 text-center">
+        <i class="fa fa-3x fa-comment mt-2 ml-auto mr-auto text-primary"></i>
+        <div class="card-body">
+            <h6 class="card-title"><code>#exodus-privacy</code></h6>
+            <a href="https://matrix.to/#/#exodus-privacy:matrix.org" class="btn btn-sm btn-primary">Discutons sur Matrix !</a>
         </div>
     </div>
 </div>

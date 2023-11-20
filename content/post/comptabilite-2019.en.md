@@ -10,7 +10,7 @@ tags: [accounting]
 
 * Each line is an account
 
-## Balance changes in 2019 / 08:
+## Balance changes in 2019 / 08
 
 |    | **Aug** |
 |:---|---:|
@@ -49,7 +49,7 @@ tags: [accounting]
 ──────────────────────────────────|───────────
                                   |        0
 
-## Balance changes in 2019 / 07:
+## Balance changes in 2019 / 07
 
 |    | **Jul** |
 |:---|---:|
@@ -85,7 +85,7 @@ tags: [accounting]
 ──────────────────────────────────|──────────
                                   |        0
 
-## Balance changes in 2019 /06:
+## Balance changes in 2019 /06
 
 |    | **Jun** |
 |:---|---:|
@@ -133,7 +133,7 @@ tags: [accounting]
 ─────────────────────────────────|──────────
                                  |        0
 
-## Balance changes in 2019 /05:
+## Balance changes in 2019 /05
 
 |    | **May** |
 |:---|---:|
@@ -178,7 +178,7 @@ tags: [accounting]
 ────────────────────────────────|──────────
                                 |       0
 
-## Balance changes in 2019 / 04:
+## Balance changes in 2019 / 04
 
 |    | **Apr** |
 |:---|---:|
@@ -219,7 +219,8 @@ tags: [accounting]
  Société Générale                |       0
 ─────────────────────────────────|────────
                                  |       0
-## Balance changes in 2019 / 03:
+
+## Balance changes in 2019 / 03
 
 |     |  **Mar**
 |:---|---:|
@@ -255,7 +256,8 @@ tags: [accounting]
  Société Générale                |   10.20€
 ─────────────────────────────────|─────────
                                  |        0
-## Balance changes in 2019 / 02:
+
+## Balance changes in 2019 / 02
 
 |    | **Feb** |
 |:---|---:|
@@ -293,7 +295,7 @@ tags: [accounting]
 ─────────────────────────────────|─────────
                                  |        0
 
-## Balance changes in 2019 / 01:
+## Balance changes in 2019 / 01
 
 |    | **Jan** |
 |:---|---:|

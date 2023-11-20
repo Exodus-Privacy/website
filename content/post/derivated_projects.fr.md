@@ -13,7 +13,7 @@ Cette extension est disponible pour :
 * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/exodify/)
 * [Chrome/Chromium](https://chrome.google.com/webstore/detail/exodify/imfbjeceaelpdlhbeembaocakecajhlm)
 
-{{< fig src="/media/capture-playstore.png" caption="Screenshot of Exodify">}}
+{{< fig src="/media/post/derivated_projects/capture-playstore.png" caption="Screenshot of Exodify">}}
 
 Vous pouvez télécharger Exodify directement depuis votre navigateur, dans les préférences des extensions, ou bien allez voir les sources du projet sur [https://github.com/FacettsOpen/exodify](https://github.com/FacettsOpen/exodify)
 

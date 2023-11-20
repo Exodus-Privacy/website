@@ -27,7 +27,7 @@ An app being a program, it is made of computer code, called source code. This so
 When downloading the APK, it is possible to decompile it, in other words, get the source code (even if it is illegal in some countries because it violates intellectual property). One can then modify this source code to add, change or delete features. It's like modifying a recipe for a cake: you're changing the final product even if the cake looks exactly the same. All that's left is to repackage the modified app and distribute it so users can use the counterfeit app.
 
 <center>
-{{< fig src="/media/scatterscam_big_picture.png" caption="Credits: Defensive Lab Agency" >}}
+{{< fig src="/media/post/scam/scatterscam_big_picture.png" caption="Credits: Defensive Lab Agency" >}}
 </center>
 
 #### How does Defensive Lab Agency detect them?
@@ -40,10 +40,10 @@ Scattercam, the detection tool offered by Defensive Lab Agency, works this way: 
 
 Yes, as the report on Scatterscam shows:
 
-https://scatterscam.defensive-lab.agency/report/orgeuexodus_privacyexodusprivacy/
+<https://scatterscam.defensive-lab.agency/report/orgeuexodus_privacyexodusprivacy/>
 
 <center>
-{{< fig src="/media/scatterscam_exodus.png" caption="Report for the app εxodus on Scatterscam" >}}
+{{< fig src="/media/post/scam/scatterscam_exodus.png" caption="Report for the app εxodus on Scatterscam" >}}
 </center>
 
 #### Is it negligible?
@@ -52,7 +52,7 @@ As of today, there are no data which allow us to measure the extent of this prob
 
 For example, Scatterscam detected 48 counterfeits for the Silence app:
 
-https://scatterscam.defensive-lab.agency/report/orgsmssecuresmssecure/
+<https://scatterscam.defensive-lab.agency/report/orgsmssecuresmssecure/>
 
 #### How can I protect myself?
 

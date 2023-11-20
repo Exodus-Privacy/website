@@ -7,13 +7,16 @@ draft: false
 
 L'association Exodus Privacy propose régulièrement des conférences et interventions présentant son travail et ses résultats, en français ou en anglais. Si vous organisez un événement et souhaitez nous inviter, n'hésitez pas à [nous contacter](/fr/page/who/).
 
-
 ## Prochains événements
-* [FR] "Soirée de conversation autour du Libre : εxodus - la plateforme d’audit de la vie privée des applications Android", organisée par [Parinux](https://parinux.org/Soiree-de-Conversations-autour-du-Libre-SCL-du-jeudi-14-janvier-2021), en ligne, 14 janvier 2021
 
 ## Evénements passés
 
+### 2021
+
+* [FR] "Soirée de conversation autour du Libre : εxodus - la plateforme d’audit de la vie privée des applications Android", organisée par [Parinux](https://parinux.org/Soiree-de-Conversations-autour-du-Libre-SCL-du-jeudi-14-janvier-2021), en ligne, 14 janvier 2021
+
 ### 2020
+
 * [FR] Journée _Facture numérique et contributions citoyennes_ organisée par [Ping](https://www.pingbase.net/) et le conseil départemental de Loire-Atlantique, Atelier partagé du Breil, Nantes, 6 février 2020
 * [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), Bibliothèque universitaire de Nantes, 11 février 2020
 * [FR] [Festival des Libertés numériques](https://fdln.insa-rennes.fr/), Bibliothèque universitaire de l'INSA de Rennes, 3 février 2020
@@ -21,6 +24,7 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 * [FR] Conférence et atelier pour [42l](https://42l.fr/), Paris, 18 janvier 2020 [(vidéo)](https://video.tedomum.net/videos/watch/2035a814-ecfe-4e67-8b6f-6d4438477efe)
 
 ### 2019
+
 * [FR] [Entrée libre](https://www.centredesabeilles.fr/entree-libre/), Quimper, 27 août 2019 [(video)](https://peer.hostux.social/videos/watch/491e4aa0-51d8-460a-a535-a9bbb6a03618)
 * [FR] [Pas Sage en Seine](https://passageenseine.fr/), Choisy-Le-Roi, 28, 29 et 30 juin 2019
 * [FR] Journée "Culture Numérique" à la bibliothèque universitaire de Nantes, Nantes, 20 juin 2019
@@ -31,6 +35,7 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 * [EN] [Devroom "Decentralized Internet and Privacy" du FOSDEM](https://fosdem.org/2019/schedule/track/decentralized_internet_and_privacy/), Bruxelles (Belgique), février 2019 [(video)](https://video.exodus-privacy.eu.org/videos/watch/596cadb2-6055-437a-bd86-3b0e98458ca1)
 
 ### 2018
+
 * [FR] [Journée de la Sécurité Informatique en Normandie](http://jsecin.insa-rouen.fr/), Rouen, novembre 2018
 * [FR] Rencontre avec Exodus Privacy, Rezé, novembre 2018
 * [FR] [Rencontres Mondiales du Logiciel Libre 2018](https://2018.rmll.info/), Strasbourg, juillet 2018 [(video)](http://www.canalc2.tv/video/15194)
@@ -43,5 +48,6 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 * [FR] Rencontre avec les équipes du [LINC](https://linc.cnil.fr/) de la CNIL, Paris, février 2018 [(article)](/fr/post/retour-sur-notre-rencontre-avec-la-cnil/)
 
 ### 2017
+
 * [EN] Présentation au [34c3](https://events.ccc.de/congress/2017/wiki/index.php/Main_Page) à la teahouse de [La Quadrature du Net](https://www.laquadrature.net/), Leipzig (Allemagne), décembre 2017
 * [FR] [Café Vie Privée](https://cafevieprivee-nantes.fr/), Rezé, octobre 2017

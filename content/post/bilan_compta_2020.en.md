@@ -5,8 +5,6 @@ draft: no
 tags: [Accounting]
 ---
 
-Here is [the 2020 balance sheet (PDF format)](/media/compta2020.en.pdf)
-
+Here is [the 2020 balance sheet (PDF format)](/media/post/bilan_compta_2020/compta2020.en.pdf)
 
 A big thank you to all of our donors, partners and providers for your support and your trust.
-

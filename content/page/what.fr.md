@@ -8,7 +8,7 @@ draft: false
 
 <div class="row">
   <div class="col-md-4 text-center">
-    <img src="/media/logo.png" width="60px" class="mt-3 ml-auto mr-auto"/>
+    <img src="/media/logo/exodus.png" width="60px" class="mt-3 ml-auto mr-auto"/>
     <div class="card-body">
       <h5 class="card-title">εxodus</h5>
       <p class="card-text">Découvrez les ingrédients du gâteau&nbsp;!</p>
@@ -31,7 +31,6 @@ draft: false
     <div class="card-body">
       <h5 class="card-title">Vulgarisation</h5>
       <p class="card-text">Ouvrez votre esprit avec du contenu agréable&nbsp;!</p>
-      <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">sur PeerTube</a>
       <a href="https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ" class="btn btn-primary">sur YouTube</a>
       <p class="mt-3"><a href="#videos">plus de détails</a></p>
     </div>
@@ -53,19 +52,19 @@ Le [site web d’εxodus](http://reports.exodus-privacy.eu.org/) vous permet de 
 * d'obtenir [une liste d'outils et pratiques](https://reports.exodus-privacy.eu.org/fr/info/next/) destinés à mieux maîtriser votre intimité sur mobile
 
 <center>
-{{< fig src="/media/report-overview-fr.png" caption="Aperçu d’un rapport" >}}
+{{< fig src="/media/page/what/report-overview-fr.png" caption="Aperçu d’un rapport" >}}
 </center>
 
 Chaque rapport vous indique quels sont les pisteurs embarqués dans l’application. En cliquant sur le nom d’un pisteur, vous serez redirigé vers les détails de ce pisteur et la liste des applications qui l’utilisent. Si la description du pisteur est vide ou incomplète, n’hésitez pas à vous référer au projet [ETIP](https://github.com/Exodus-Privacy/etip/).
 
 <center>
-{{< fig src="/media/report-trackers-fr.png" caption="Aperçu de la liste de pisteurs détectés" >}}
+{{< fig src="/media/page/what/report-trackers-fr.png" caption="Aperçu de la liste de pisteurs détectés" >}}
 </center>
 
 Un rapport vous donne aussi la liste des permissions requises par l’application pour fonctionner correctement sur votre ordiphone. Certaines de ces permissions sont labellisées comme *dangereuse* (*"Dangerous"*), cela signifie que, du point de vue de Google, l’application pourrait faire de *mauvaises choses* en utilisant ces permissions. εxodus utilise la classification des permissions de Google.
 
 <center>
-{{< fig src="/media/report-perms-fr.png" caption="Aperçu de la liste des permissions" >}}
+{{< fig src="/media/page/what/report-perms-fr.png" caption="Aperçu de la liste des permissions" >}}
 </center>
 
 Nous avons écrit des articles pédagogiques pour informer sur les pisteurs et les permissions et donner aux personnes utilisatrices de smartphones les outils pour mieux maîtriser leur intimité sur mobile. Ils sont accessibles dans la page [Mieux comprendre](https://reports.exodus-privacy.eu.org/fr/info/understand/) de la plateforme εxodus.
@@ -84,10 +83,10 @@ L'application est disponible sur [F-Droid](https://f-droid.org/packages/org.eu.e
 
 <div class="row">
   <div class="col-md-6 text-center">
-  {{< fig src="/media/exodus-app-fr-1.png" caption="Aperçu 1 de l’application Android d’εxodus" >}}
+  {{< fig src="/media/page/what/exodus-app-fr-1.png" caption="Aperçu 1 de l’application Android d’εxodus" >}}
   </div>
   <div class="col-md-6 text-center">
-  {{< fig src="/media/exodus-app-fr-2.png" caption="Aperçu 2 de l’application Android d’εxodus" >}}
+  {{< fig src="/media/page/what/exodus-app-fr-2.png" caption="Aperçu 2 de l’application Android d’εxodus" >}}
   </div>
 </div>
 
@@ -99,15 +98,8 @@ L’application ne fait aucune analyse sur votre ordiphone mais va chercher les 
 
 ## Supports de vulgarisation
 
-Le but principal d’Exodus Privacy est d’avertir les utilisateurs du pistage fait par les applications mobiles. Pour ce faire, nous avons créé des vidéos de vulgarisation expliquant comment et pourquoi les pisteurs sont présents dans les ordiphones. Ces vidéos sont disponibles sur 2 plateformes :
+Le but principal d’Exodus Privacy est d’avertir les utilisateurs du pistage fait par les applications mobiles. Pour ce faire, nous avons créé des vidéos de vulgarisation expliquant comment et pourquoi les pisteurs sont présents dans les ordiphones.
 <div class="row justify-content-md-center">
-  <div class="col-md-4 text-center">
-    <img src="/media/peertube.svg" height="42px" class="mt-3 ml-auto mr-auto"/>
-    <div class="card-body">
-      <h5 class="card-title"><code>@exodus</code></h5>
-      <a href="https://video.exodus-privacy.eu.org/video-channels/2ab4458d-0b3c-485a-aeaf-792cd0842bc8/videos" class="btn btn-primary">Regardez !</a>
-    </div>
-  </div>
   <div class="col-md-4 text-center">
     <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
     <div class="card-body">
