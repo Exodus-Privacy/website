@@ -9,8 +9,8 @@ draft: false
 
 ### 2023
 
-* **L'Humanité** - *2 Jui 2023* - [Louis IX, traqueur de traceurs dans les téléphones](https://www.humanite.fr/social-et-economie/informatique/louis-ix-traqueur-de-traceurs-dans-les-telephones-797224)
 * **Heidi New** - *20 nov 2023* - [Qui sont ces data brokers qui s’arrachent nos données comme si c’était de l’or?](https://www.heidi.news/explorations/razzia-sur-vos-data/qui-sont-ces-data-brokers-qui-s-arrachent-nos-donnees-comme-si-c-etait-de-l-or)
+* **L'Humanité** - *2 juin 2023* - [Louis IX, traqueur de traceurs dans les téléphones](https://www.humanite.fr/social-et-economie/informatique/louis-ix-traqueur-de-traceurs-dans-les-telephones-797224)
 
 ### 2022
 
