@@ -7,6 +7,11 @@ draft: false
 
 ## Presse francophone
 
+### 2023
+
+* **Heidi New** - *20 nov 2023* - [Qui sont ces data brokers qui s’arrachent nos données comme si c’était de l’or?](https://www.heidi.news/explorations/razzia-sur-vos-data/qui-sont-ces-data-brokers-qui-s-arrachent-nos-donnees-comme-si-c-etait-de-l-or)
+* **L'Humanité** - *2 juin 2023* - [Louis IX, traqueur de traceurs dans les téléphones](https://www.humanite.fr/social-et-economie/informatique/louis-ix-traqueur-de-traceurs-dans-les-telephones-797224)
+
 ### 2022
 
 * **La Croix** - *19 août 2022* - [Sur Internet, souriez, vous êtes profilés !](https://www.la-croix.com/Sciences-et-ethique/Internet-souriez-vous-etes-profiles-2022-08-19-1201229468) [payant]
