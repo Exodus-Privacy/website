@@ -1,7 +1,6 @@
 ---
 title: "Nouvelles orientations pour 2024 (et l'infini…)"
 date: 2023-12-22
-draft: true
 tags: [orientations, 2024]
 ---
 Regardez, regardez, c'est 2024 qui arrive (ou qui est déjà arrivé selon le temps
