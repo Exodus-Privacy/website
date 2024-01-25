@@ -9,7 +9,7 @@ Regardez, regardez, c'est 2024 qui arrive (ou qui est déjà arrivé selon le te
 
 Nous n'allons que très peu regarder dans le rétroviseur 2023, il ne s'est pas passé énormément de chose pour nous « cette année-là… ». Citons tout de même les JDLL et la trombine de l'incarnation de la présidence dans l'Humanité du 2 juin.
 
-La GRANDE fierté de Exodus Privacy de 2023 est, le 6 juin, le débarquement du « Kit pédagogique première partie ». La deuxième partie est dans les tuyaux.
+La GRANDE fierté de Exodus Privacy de 2023 est, le 6 juin, le débarquement du [« kit pédagogique première partie »](/fr/post/kitdebutant/). La deuxième partie est dans les tuyaux.
 
 Une Assemblée Générale Ordinaire des plus banales (vous n'avez qu'à lire le bilan moral, il est disponible pour toutes et tous). Le bilan financier est, en revanche, bien plus intéressant puisqu'on y apprend que la super personne trésorière a réussi à vendre nos bitcoins. Ce ne fut pas une mince affaire.
 
