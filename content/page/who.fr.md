@@ -25,7 +25,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
         <div class="card-body">
             <h6 class="card-title"><code>Codimp</code></h6>
             <a rel="me" href="https://social.lithio.fr/codimp"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/codeurimpulsif"><i class="fab fa-2x fa-twitter"></i></a>
+            <a href="https://lithio.fr"><i class="fas fa-2x fa-globe"></i></a>
             <a href="https://github.com/codeurimpulsif"><i class="fab fa-github fa-2x"></i></a>
             <p class="small">Gardien·ne de l’infrastructure d’εxodus, membre du bureau, secrétaire</p>
         </div>
