@@ -36,7 +36,7 @@ L’Association se compose de personnes :
 
 Les personnes membres s’engagent à respecter les principes déﬁnis dans l’article 2 des présents statuts. La durée de l’adhésion est d’un an à compter de la demande, renouvelable par demande écrite.
 
-Les membres s’engagent à respecter les statuts de l’Association, ainsi que son Code de Conduite consultable sur le site de l’Association https://exodus-privacy.eu.org.
+Les membres s’engagent à respecter les statuts de l’Association, ainsi que son Code de Conduite consultable sur le site de l’Association <https://exodus-privacy.eu.org>.
 
 ### Article 5
 
