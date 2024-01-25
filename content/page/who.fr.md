@@ -79,7 +79,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
     </div>
 </div>
 
-## Code de conduite
+## <a name="coc"></a>Code de conduite
 
 Le but d’Exodus Privacy est la sensibilisation au pistage par les applications Android, par le biais d’outils d’analyse et de supports pédagogiques destinés au grand public. Ce code de conduite se veut un outil permettant à chacun·e de s’exprimer librement et sans risque au sein d’Exodus Privacy.
 Exodus Privacy refuse toute forme de discrimination ou de harcèlement concernant le genre des personnes, leurs compétences et connaissances, leur handicap, leur origine, leur orientation sexuelle, leur apparence physique, leur âge, leur religion, leurs addictions (liste non exhaustive)… et sous quelque forme que ce soit (parole, image, blague, texte…). Les communications écrites et orales doivent être inclusives ou non genrées. Personne ne peut présupposer le genre d’une personne et encore moins lui en imposer un.
@@ -89,7 +89,7 @@ N’insistez pas lorsqu’une personne décline une sollicitation. Si on vous re
 Si vous êtes harcelé·e ou victime de discrimination, ou si vous êtes témoin de harcèlement ou de discrimination à l’égard d’autre(s) personnes, ou si vous craignez la survenue d’un incident dans le cadre des activités d’Exodus Privacy vous pouvez contacter un·e membre du bureau, par mail à <bureau@exodus-privacy.eu.org> ou bien par tout autre moyen (IRC, message privé sur le forum…).
 Tous les rapports faits de bonne foi seront pris au sérieux. Le bureau respectera dans la mesure du possible les demandes d’anonymat afin de protéger les victimes d’abus supplémentaires.
 
-## Les différents moyens de nous joindre
+## <a name="contact"></a>Les différents moyens de nous joindre
 
 <div class="row">
     <div class="col-md-4 text-center">
