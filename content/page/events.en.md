@@ -9,6 +9,8 @@ Exodus Privacy is regulary performing talks about its works and results, in Fren
 
 ## Next events
 
+No events are planned for now!
+
 ## Past events
 
 ### 2021

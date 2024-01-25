@@ -3,7 +3,14 @@ title: "Contribute"
 date: 2018-01-11 16:53:09
 draft: false
 ---
-# How to contribute
+
+# Contribute
+
+## Code of conduct
+
+See [our code of conduct](/en/page/coc/).
+
+## How to contribute
 
 <div class="row">
     <div class="col-md-4 text-center">

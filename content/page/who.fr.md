@@ -11,7 +11,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
 ## Principaux contributeurs et principales contributrices
 
 <div class="row justify-content-md-center">
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/capslock.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>CapsLock</code></h6>
@@ -20,7 +20,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <a href="https://github.com/TheCapsLock"><i class="fab fa-github fa-2x"></i></a>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/codimp.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>Codimp</code></h6>
@@ -30,7 +30,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <p class="small">Gardien·ne de l’infrastructure d’εxodus, membre du bureau, secrétaire</p>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/imriel.png">
         <div class="card-body">
             <h6 class="card-title"><code>Imriel</code></h6>
@@ -39,7 +39,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <p class="small">Membre du bureau, trésorier</p>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/lovis_ix.png">
         <div class="card-body">
             <h6 class="card-title"><code>Lovis_IX</code></h6>
@@ -48,7 +48,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <p class="small">Roi des serveurs et des sauvegardes, membre du bureau, président en exercice</p>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/metal_pou.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>MeTaL_PoU</code></h6>
@@ -57,7 +57,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <p class="small">Présidente d’Exodus Privacy de 2018 à 2021 et créatrice des contenus pédagogiques</p>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/pnu.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>pnu</code></h6>
@@ -67,7 +67,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <p class="small">En charge du dévelopement d’εxodus, membre du bureau</p>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/u039b.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>U039b</code></h6>
@@ -79,15 +79,13 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
     </div>
 </div>
 
-## <a name="coc"></a>Code de conduite
+## Statuts
 
-Le but d’Exodus Privacy est la sensibilisation au pistage par les applications Android, par le biais d’outils d’analyse et de supports pédagogiques destinés au grand public. Ce code de conduite se veut un outil permettant à chacun·e de s’exprimer librement et sans risque au sein d’Exodus Privacy.
-Exodus Privacy refuse toute forme de discrimination ou de harcèlement concernant le genre des personnes, leurs compétences et connaissances, leur handicap, leur origine, leur orientation sexuelle, leur apparence physique, leur âge, leur religion, leurs addictions (liste non exhaustive)… et sous quelque forme que ce soit (parole, image, blague, texte…). Les communications écrites et orales doivent être inclusives ou non genrées. Personne ne peut présupposer le genre d’une personne et encore moins lui en imposer un.
+TBA
 
-Exodus Privacy attend de ses membres une politesse, un savoir-vivre dans tous les espaces d’expression d’Exodus Privacy, qu’ils soient en ligne ou hors-ligne. Les discriminations et harcèlements quels qu’ils soient peuvent donner lieu à une sanction allant jusqu’à l’exclusion définitive de l’association, ainsi que tous les lieux d’échange (canaux IRC, forum…) prononcée après délibération du bureau d’Exodus Privacy.
-N’insistez pas lorsqu’une personne décline une sollicitation. Si on vous reproche un comportement oppressant ou blessant, excusez-vous et essayez de comprendre ce qui a pu poser problème.
-Si vous êtes harcelé·e ou victime de discrimination, ou si vous êtes témoin de harcèlement ou de discrimination à l’égard d’autre(s) personnes, ou si vous craignez la survenue d’un incident dans le cadre des activités d’Exodus Privacy vous pouvez contacter un·e membre du bureau, par mail à <bureau@exodus-privacy.eu.org> ou bien par tout autre moyen (IRC, message privé sur le forum…).
-Tous les rapports faits de bonne foi seront pris au sérieux. Le bureau respectera dans la mesure du possible les demandes d’anonymat afin de protéger les victimes d’abus supplémentaires.
+## Code de conduite
+
+Voir [notre code de conduite](/en/page/coc/).
 
 ## <a name="contact"></a>Les différents moyens de nous joindre
 
@@ -131,3 +129,7 @@ Tous les rapports faits de bonne foi seront pris au sérieux. Le bureau respecte
         </div>
     </div>
 </div>
+
+## Nos soutiens
+
+Voir [nos soutiens](/fr/page/supporters/).
