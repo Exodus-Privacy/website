@@ -4,10 +4,10 @@ name: CI
 on:
   push:
     branches:
-      - hugo
+      - main
   pull_request:
     branches:
-      - hugo
+      - main
   workflow_dispatch:
 
 jobs:

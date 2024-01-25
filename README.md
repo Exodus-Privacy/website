@@ -1,5 +1,7 @@
 # Exodus Privacy website
 
+[![CI](https://github.com/Exodus-Privacy/website/actions/workflows/main.yml/badge.svg)](https://github.com/Exodus-Privacy/website/actions/workflows/main.yml)
+
 This is the official repository for the Hugo-powered website of Exodus Privacy.
 
 With the help of Hugo the website is easyly multilingual. So feel free to fork this repository and make contributions or translations in your language.
