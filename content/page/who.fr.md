@@ -81,7 +81,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
 
 ## Statuts
 
-TBA
+Voir [les statuts de l'association](/fr/page/statutes/).
 
 ## Code de conduite
 
