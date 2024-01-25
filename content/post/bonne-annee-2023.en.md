@@ -2,6 +2,7 @@
 title: "Happy new year 2023"
 date: 2023-01-14
 draft: false
+tags: [summary]
 ---
 
 Here we are, our planet just finished another revolution around its star and started a new one.

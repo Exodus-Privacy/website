@@ -2,7 +2,7 @@
 title: "Exodus Privacy fête ses 5 ans"
 date: 2022-10-17
 draft: false
-tags: [anniversaire]
+tags: [anniversaire, bilan]
 ---
 
 5 ans ! 5 ans après ce déjeuner dans un restaurant japonais avec des ami·es que nous n'attendions pas mais qui furent très précieux pour notre réflexion.

@@ -2,6 +2,7 @@
 title: "New Trackers detected by the  εxodus platform"
 date: 2018-03-05 15:27:01
 draft: false
+tags: [trackers]
 ---
 
 We recently added 50 new trackers in our database and recomputed all the reports.
