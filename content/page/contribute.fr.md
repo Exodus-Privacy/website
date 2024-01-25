@@ -46,7 +46,7 @@ Voir [notre code de conduite](/fr/page/coc/).
 </div>
 
 <p>
-    Si vous ne savez pas par où commencer, comment utiliser GitHub ou bien si vous voulez simplement discuter avec l’équipe, n’hésitez pas à ouvrir un compte sur <a href="https://forum.exodus-privacy.eu.org/">notre forum</a> ou à passer sur <a href="https://web.libera.chat/?nick=webguest?#exodus-privacy">IRC</a>.
+    Si vous ne savez pas par où commencer, comment utiliser GitHub ou bien si vous voulez simplement discuter avec l’équipe, n’hésitez pas à passer sur <a href="https://web.libera.chat/?nick=webguest?#exodus-privacy">IRC</a>.
 </p>
 
 <a name="finance"></a>
