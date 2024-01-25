@@ -130,11 +130,4 @@ Every report done in good faith will be taken seriously. The bureau will respect
             <a href="https://web.libera.chat/?nick=webguest?#exodus-privacy" class="btn btn-sm btn-primary">Lets chat on IRC!</a>
         </div>
     </div>
-    <div class="col-md-4 text-center">
-        <i class="fa fa-3x fa-comment mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h6 class="card-title"><code>#exodus-privacy</code></h6>
-            <a href="https://matrix.to/#/#exodus-privacy:matrix.org" class="btn btn-sm btn-primary">Lets chat on Matrix!</a>
-        </div>
-    </div>
 </div>
