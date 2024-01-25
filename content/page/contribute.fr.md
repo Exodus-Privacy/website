@@ -8,7 +8,7 @@ draft: false
 
 ## Code de conduite
 
-Voir [notre code de conduite](/en/page/coc/).
+Voir [notre code de conduite](/fr/page/coc/).
 
 ## Comment contribuer
 

@@ -85,7 +85,7 @@ TBA
 
 ## Code de conduite
 
-Voir [notre code de conduite](/en/page/coc/).
+Voir [notre code de conduite](/fr/page/coc/).
 
 ## <a name="contact"></a>Les différents moyens de nous joindre
 
