@@ -86,19 +86,6 @@ Membership is to be renewed every year. The membership fee remains free.
 </div>
 
 <div class="row">
-    <div class="col-md-12 text-center">
-        <div class="card-body">
-            <h5>Ğ1</h5>
-            <a href="duniter:DegD5SFHyPDeVCjxG6v7DUqbJGipXoaS8rVQxMQHUZEy?label=exodus">
-                <samp class="small">DegD5SFHyPDeVCjxG6v7DUqbJGipXoaS8rVQxMQHUZEy</samp>
-                <br>
-                <img src="/media/page/contribute/duniter.png" width="120" alt="QR code and Duniter link" caption="QR code and Duniter link">
-            </a>
-        </div>
-    </div>
-</div>
-
-<div class="row">
     <div class="col-md-4 mb-4 text-center">
         <a href="https://liberapay.com/exodus/donate">
             <img src="/media/page/contribute/liberapay.png" caption="Logo and Liberapay link" alt="Logo and Liberapay link" width="148px" height="51px">
@@ -118,7 +105,8 @@ Membership is to be renewed every year. The membership fee remains free.
 
 ## And help us by spreading the word about us
 
-The main interest of Exodus Privacy is to <b>make people aware of the tracking done by mobile applications</b>. To do so, we animate 3 social network accounts and a video channel:
+The main interest of Exodus Privacy is to <b>make people aware of the tracking done by mobile applications</b>. To do so, we animate 2 social network accounts and a video channel:
+
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
@@ -134,8 +122,6 @@ The main interest of Exodus Privacy is to <b>make people aware of the tracking d
             <a href="https://facebook.com/exodusprivacy" class="btn btn-primary">Follow us!</a>
         </div>
     </div>
-</div>
-<div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">

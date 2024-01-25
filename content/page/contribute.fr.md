@@ -86,19 +86,6 @@ L’adhésion est à renouveler tous les ans. La cotisation, elle, reste gratuit
 </div>
 
 <div class="row">
-    <div class="col-md-12 text-center">
-        <div class="card-body">
-            <h5>Ğ1</h5>
-            <a href="duniter:DegD5SFHyPDeVCjxG6v7DUqbJGipXoaS8rVQxMQHUZEy?label=exodus">
-                <samp class="small">DegD5SFHyPDeVCjxG6v7DUqbJGipXoaS8rVQxMQHUZEy</samp>
-                <br>
-                <img src="/media/page/contribute/duniter.png" width="120" alt="QR code et lien Duniter" caption="QR code et lien Duniter">
-            </a>
-        </div>
-    </div>
-</div>
-
-<div class="row">
     <div class="col-md-4 mb-4 text-center">
         <a href="https://liberapay.com/exodus/donate">
             <img src="/media/page/contribute/liberapay.png" caption="Logo et lien Liberapay" alt="Logo et lien Liberapay" width="148px" height="51px">
@@ -118,7 +105,8 @@ L’adhésion est à renouveler tous les ans. La cotisation, elle, reste gratuit
 
 ## Nous aider à nous faire connaître
 
-Le but principal d’Exodus Privacy est d’<b>avertir les utilisateurs du pistage effectué par les applications mobiles</b>. Pour ce faire, nous animons 3 comptes sur les réseaux sociaux et une chaîne vidéo :
+Le but principal d’Exodus Privacy est d’<b>avertir les utilisateurs du pistage effectué par les applications mobiles</b>. Pour ce faire, nous animons 2 comptes sur les réseaux sociaux et une chaîne vidéo :
+
 <div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
@@ -134,8 +122,6 @@ Le but principal d’Exodus Privacy est d’<b>avertir les utilisateurs du pista
             <a href="https://facebook.com/exodusprivacy" class="btn btn-primary">Suivez-nous !</a>
         </div>
     </div>
-</div>
-<div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">

@@ -11,16 +11,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
 ## Principaux contributeurs et principales contributrices
 
 <div class="row justify-content-md-center">
-    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
-        <img class="w-25 rounded-circle" src="/media/avatar/capslock.jpg">
-        <div class="card-body">
-            <h6 class="card-title"><code>CapsLock</code></h6>
-            <a rel="me" href="https://toot.aquilenet.fr/@CapsLock"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/TheRealCapsLock"><i class="fab fa-2x fa-twitter"></i></a>
-            <a href="https://github.com/TheCapsLock"><i class="fab fa-github fa-2x"></i></a>
-        </div>
-    </div>
-    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/codimp.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>Codimp</code></h6>
@@ -30,7 +21,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <p class="small">Gardien·ne de l’infrastructure d’εxodus, membre du bureau, secrétaire</p>
         </div>
     </div>
-    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/imriel.png">
         <div class="card-body">
             <h6 class="card-title"><code>Imriel</code></h6>
@@ -39,7 +30,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <p class="small">Membre du bureau, trésorier</p>
         </div>
     </div>
-    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/lovis_ix.png">
         <div class="card-body">
             <h6 class="card-title"><code>Lovis_IX</code></h6>
@@ -48,16 +39,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <p class="small">Roi des serveurs et des sauvegardes, membre du bureau, président en exercice</p>
         </div>
     </div>
-    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
-        <img class="w-25 rounded-circle" src="/media/avatar/metal_pou.jpg">
-        <div class="card-body">
-            <h6 class="card-title"><code>MeTaL_PoU</code></h6>
-            <a rel="me" href="https://pouet.chapril.org/@JulieBrillet"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/metal_pou"><i class="fab fa-2x fa-twitter"></i></a>
-            <p class="small">Présidente d’Exodus Privacy de 2018 à 2021 et créatrice des contenus pédagogiques</p>
-        </div>
-    </div>
-    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/pnu.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>pnu</code></h6>
@@ -67,7 +49,7 @@ Exodus Privacy est une association française à but non-lucratif, régie par la
             <p class="small">En charge du dévelopement d’εxodus, membre du bureau</p>
         </div>
     </div>
-    <div class="col-xl-3 col-lg-4 col-md-6 col-12 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/u039b.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>U039b</code></h6>

@@ -11,16 +11,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
 ## Main contributors
 
 <div class="row justify-content-md-center">
-    <div class="col-md-3 mt-3 text-center">
-        <img class="w-25 rounded-circle" src="/media/avatar/capslock.jpg">
-        <div class="card-body">
-            <h6 class="card-title"><code>CapsLock</code></h6>
-            <a rel="me" href="https://toot.aquilenet.fr/@CapsLock"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/TheRealCapsLock"><i class="fab fa-2x fa-twitter"></i></a>
-            <a href="https://github.com/TheCapsLock"><i class="fab fa-github fa-2x"></i></a>
-        </div>
-    </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/codimp.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>Codimp</code></h6>
@@ -30,7 +21,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
             <p class="small">Guardian of εxodus's infrastructure, board member, Secretary</p>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/imriel.png">
         <div class="card-body">
             <h6 class="card-title"><code>Imriel</code></h6>
@@ -39,7 +30,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
             <p class="small">Board member, account manager</p>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/lovis_ix.png">
         <div class="card-body">
             <h6 class="card-title"><code>Lovis_IX</code></h6>
@@ -48,16 +39,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
             <p class="small">King of our servers and backups, board member, current President</p>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
-        <img class="w-25 rounded-circle" src="/media/avatar/metal_pou.jpg">
-        <div class="card-body">
-            <h6 class="card-title"><code>MeTaL_PoU</code></h6>
-            <a rel="me" href="https://pouet.chapril.org/@JulieBrillet"><i class="fab fa-2x fa-mastodon"></i></a>
-            <a href="https://twitter.com/metal_pou"><i class="fab fa-2x fa-twitter"></i></a>
-            <p class="small">President of Exodus Privacy from 2018 to 2021 and creator of pedagogic contents</p>
-        </div>
-    </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/pnu.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>pnu</code></h6>
@@ -67,7 +49,7 @@ Exodus Privacy is a French (1901 law) non-profit organization. This organization
             <p class="small">In charge of εxodus development, board member</p>
         </div>
     </div>
-    <div class="col-md-3 mt-3 text-center">
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
         <img class="w-25 rounded-circle" src="/media/avatar/u039b.jpg">
         <div class="card-body">
             <h6 class="card-title"><code>U039b</code></h6>
