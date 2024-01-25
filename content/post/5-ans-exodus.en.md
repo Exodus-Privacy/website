@@ -2,7 +2,7 @@
 title: "Exodus-Privacy celebrates its 5th birthday"
 date: 2022-10-17
 draft: false
-tags: [birthday]
+tags: [birthday, summary]
 ---
 
 5 years! 5 years since that lunch in a Japanese restaurant with friends we weren't expecting but who were a precious help in our thought process.

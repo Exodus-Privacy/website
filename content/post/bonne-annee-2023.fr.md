@@ -2,6 +2,7 @@
 title: "Bonne année 2023"
 date: 2023-01-14
 draft: false
+tags: [bilan]
 ---
 
 Voilà, notre planète vient à nouveau de finir une révolution autour de son étoile et d'en commencer une autre.

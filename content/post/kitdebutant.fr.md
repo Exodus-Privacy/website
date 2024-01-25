@@ -2,7 +2,7 @@
 title: "Un kit smartphones et vie privée pour animer un atelier !"
 date: 2023-06-06
 draft: false
-tags: [kit, mednum]
+tags: [médiation numérique]
 ---
 
 **Vous avez envie d'animer des ateliers numériques autour de la vie privée et des smartphones et ne savez pas par où commencer ? Vous avez envie de sensibiliser les gens autour de vous ? Pas besoin de préparer un atelier, on l'a fait pour vous (et vous pouvez le télécharger en bas de ce billet) !**
