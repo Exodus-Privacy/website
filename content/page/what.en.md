@@ -108,20 +108,13 @@ The main goal of Exodus Privacy is to raise awareness of the extent of tracking 
   </div>
 </div>
 
-You can also find us on 3 social networks:
-<div class="row">
+You can also find us on 2 social networks:
+<div class="row justify-content-md-center">
   <div class="col-md-4 text-center">
     <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
     <div class="card-body">
       <h5 class="card-title"><code>@exodus</code></h5>
       <a href="https://framapiaf.org/@exodus" class="btn btn-primary">Follow us!</a>
-    </div>
-  </div>
-  <div class="col-md-4 text-center">
-    <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
-    <div class="card-body">
-      <h5 class="card-title"><code>@ExodusPrivacy</code></h5>
-      <a href="https://twitter.com/ExodusPrivacy" class="btn btn-primary">Follow us!</a>
     </div>
   </div>
   <div class="col-md-4 text-center">

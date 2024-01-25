@@ -119,19 +119,12 @@ Membership is to be renewed every year. The membership fee remains free.
 ## And help us by spreading the word about us
 
 The main interest of Exodus Privacy is to <b>make people aware of the tracking done by mobile applications</b>. To do so, we animate 3 social network accounts and a video channel:
-<div class="row">
+<div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://framapiaf.org/@exodus" class="btn btn-primary">Follow us!</a>
-        </div>
-    </div>
-    <div class="col-md-4 text-center">
-        <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h5 class="card-title"><code>@ExodusPrivacy</code></h5>
-            <a href="https://twitter.com/ExodusPrivacy" class="btn btn-primary">Follow us!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">

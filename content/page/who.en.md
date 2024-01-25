@@ -89,19 +89,12 @@ See [our code of conduct](/en/page/coc/).
 
 ## <a name="contact"></a>To reach us, choose your way
 
-<div class="row">
+<div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>@exodus</code></h6>
             <a href="https://framapiaf.org/@exodus" class="btn btn-sm btn-primary">Follow us!</a>
-        </div>
-    </div>
-    <div class="col-md-4 text-center">
-        <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h6 class="card-title"><code>@ExodusPrivacy</code></h6>
-            <a href="https://twitter.com/ExodusPrivacy" class="btn btn-sm btn-primary">Follow us!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">

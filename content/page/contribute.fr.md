@@ -119,19 +119,12 @@ L’adhésion est à renouveler tous les ans. La cotisation, elle, reste gratuit
 ## Nous aider à nous faire connaître
 
 Le but principal d’Exodus Privacy est d’<b>avertir les utilisateurs du pistage effectué par les applications mobiles</b>. Pour ce faire, nous animons 3 comptes sur les réseaux sociaux et une chaîne vidéo :
-<div class="row">
+<div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://framapiaf.org/@exodus" class="btn btn-primary">Suivez-nous !</a>
-        </div>
-    </div>
-    <div class="col-md-4 text-center">
-        <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h5 class="card-title"><code>@ExodusPrivacy</code></h5>
-            <a href="https://twitter.com/ExodusPrivacy" class="btn btn-primary">Suivez-nous !</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
