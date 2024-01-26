@@ -2,10 +2,22 @@
 other = "Analyse les problèmes de vie privée dans les applications Android."
 
 [discover]
-other = "Découvrez ce que nous faisons"
+other = "Ce que nous faisons"
 
 [check]
 other = "Vérifier une application"
+
+[who]
+other = "Qui nous sommes"
+
+[press]
+other = "Dans la presse"
+
+[events]
+other = "Nos événements"
+
+[blog]
+other = "Notre blog"
 
 [recentPosts]
 other = "Derniers articles"

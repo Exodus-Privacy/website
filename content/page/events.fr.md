@@ -9,6 +9,8 @@ L'association Exodus Privacy propose régulièrement des conférences et interve
 
 ## Prochains événements
 
+Pas d'événements prévus pour le moment !
+
 ## Evénements passés
 
 ### 2021
