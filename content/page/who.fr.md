@@ -76,7 +76,7 @@ Voir [notre code de conduite](/fr/page/coc/).
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h6 class="card-title"><code>@exodus</code></h6>
-            <a href="https://framapiaf.org/@exodus" class="btn btn-sm btn-primary">Suivez-nous !</a>
+            <a rel="me" href="https://framapiaf.org/@exodus" class="btn btn-sm btn-primary">Suivez-nous !</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
