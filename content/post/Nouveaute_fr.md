@@ -29,7 +29,7 @@ d'éviter les tyrannies et la difficulté à renouveler ce poste qu'ont de
 nombreuses autres associations.
 
 Réflexions faites nous avons constaté que renouveler le poste restait
-difficile et que la première partie de la règle nous limitait finalement.
+difficile et que la deuxième partie de la règle nous limitait finalement.
 Toutes nos décisions étant collégiales (dans le cadre de nos réunions mensuelles
 ou de nos échanges sur IRC), le côté tyrannie avait peu de risque de se produire
 en notre seing. En revanche, préparer les réunions mensuelles est chronophage.
@@ -50,12 +50,12 @@ Et la suite me direz-vous ? À nouvelle gouvernance[^1] nouveaux objectifs.
 Pendant 3 ans (jusqu'à l'épidémie que l'on connait) nous étions sollicités pour
 faire des ateliers, des conférences, des entrevues, bar mitzvah… Mais il faut bien
 reconnaître que ce temps béni (oui oui) sont révolus. Alors comment porter la
-bonne parole ? Hé bien, c'est à nous de prendre notre bâton de pèlerinage pour
+bonne parole ? Hé bien, c'est à nous de prendre notre bâton de pèlerin pour
 vous rencontrer.
 
-Dis plus simple, c'est à chaque occasion (coquetèle, mariage, baptême,
+Dis plus simplement, c'est à chaque occasion (coquetèle, mariage, baptême,
 séminaire, salon, etc) de ne pas oublier que nous faisons partie d'Exodus
-Privacy et propose atelier, conférences, entrevues… aux personnes influentes
+Privacy et proposer atelier, conférences, entrevues… aux personnes influentes
 présentent. Chef d'entreprise, CEO, CTO, cadre, manager… Vous l'aurez compris
 c'est à nous trouver et gérer ces rencontres. Cela ne veut pas dire que nous ne
 répondront plus à vos sollicitations, bien au contraire.
