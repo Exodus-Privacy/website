@@ -5,7 +5,8 @@
         <p class="small text-center">
           {{now.Format "2006"}} - {{ with .Site.Copyright }}{{ . | markdownify}}{{ end }}
           -
-          <a href="{{.Site.Params.ghrepo}}" class="text-capitalize no-decoration text-white">
+          <a href="{{.Site.Params.ghrepo}}" target="_blank" rel="noreferrer" class="text-capitalize no-decoration text-white">
+            <i class="fab fa-github"></i>
             {{ .Site.Language.Params.Github }}
           </a>
         </p>

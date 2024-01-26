@@ -80,20 +80,13 @@ draft: false
 
 ## Популяризация
 
-Основная цель Exodus Privacy — предупредить пользователей о том, что мобильные приложения собирают пользовательские данные. Для этого мы ведём 3 аккаунта в социальных сетях:
-<div class="row">
+Основная цель Exodus Privacy — предупредить пользователей о том, что мобильные приложения собирают пользовательские данные. Для этого мы ведём 2 аккаунта в социальных сетях:
+<div class="row justify-content-md-center">
 <div class="col-md-4 text-center">
   <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
   <div class="card-body">
     <h5 class="card-title"><code>@exodus</code></h5>
     <a href="https://framapiaf.org/@exodus" class="btn btn-primary">Следуй за нами!</a>
-  </div>
-</div>
-<div class="col-md-4 text-center">
-  <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
-  <div class="card-body">
-    <h5 class="card-title"><code>@ExodusPrivacy</code></h5>
-    <a href="https://twitter.com/ExodusPrivacy" class="btn btn-primary">Следуй за нами!</a>
   </div>
 </div>
 <div class="col-md-4 text-center">

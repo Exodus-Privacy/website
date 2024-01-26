@@ -2,7 +2,7 @@
 title: "Digital mediation, privacy and smartphones, feedback on a questionnaire"
 date: 2020-06-15 09:01:00
 draft: false
-tags: [Digital mediation]
+tags: [digital mediation]
 ---
 
 Perhaps you saw a questionnaire for digital mediators last April? This survey is the first step in the creation of a pedagogical kit for people who wish to lead workshops on this theme. We propose here to tell you about the genesis of the project, as well as what we learned from the 166 answers to the questionnaire.

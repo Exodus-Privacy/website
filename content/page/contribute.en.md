@@ -3,7 +3,14 @@ title: "Contribute"
 date: 2018-01-11 16:53:09
 draft: false
 ---
-# How to contribute
+
+# Contribute
+
+## Code of conduct
+
+See [our code of conduct](/en/page/coc/).
+
+## How to contribute
 
 <div class="row">
     <div class="col-md-4 text-center">
@@ -39,7 +46,7 @@ draft: false
 </div>
 
 <p>
-    If you don't know where to begin, how to use GitHub or if you want simply to discuss, feel free to <a href="https://forum.exodus-privacy.eu.org/">sign up on our forum</a> or come and <a href="https://web.libera.chat/?nick=webguest?#exodus-privacy">talk to the team on IRC</a>.
+    If you don't know where to begin, how to use GitHub or if you want simply to discuss, feel free to <a href="https://web.libera.chat/?nick=webguest?#exodus-privacy">talk to the team on IRC</a>.
 </p>
 
 <a name="finance"></a>
@@ -68,7 +75,7 @@ Membership is to be renewed every year. The membership fee remains free.
 ## Help us to finance Exodus Privacy
 
 <div class="row">
-    <div class="col-md-12 text-center">
+    <div class="col-md-6 text-center">
         <div class="card-body">
             <h5>Goodies</h5>
             <a href="https://shop.spreadshirt.fr/exodus-privacy/all">
@@ -76,55 +83,36 @@ Membership is to be renewed every year. The membership fee remains free.
             </a>
         </div>
     </div>
-</div>
-
-<div class="row">
-    <div class="col-md-12 text-center">
-        <div class="card-body">
-            <h5>Ğ1</h5>
-            <a href="duniter:DegD5SFHyPDeVCjxG6v7DUqbJGipXoaS8rVQxMQHUZEy?label=exodus">
-                <samp class="small">DegD5SFHyPDeVCjxG6v7DUqbJGipXoaS8rVQxMQHUZEy</samp>
-                <br>
-                <img src="/media/page/contribute/duniter.png" width="120" alt="QR code and Duniter link" caption="QR code and Duniter link">
+    <div class="col-md-6 mb-4 text-center">
+        <h5>Donations</h5>
+        <div class="mt-2">
+            <a href="https://liberapay.com/exodus/donate">
+                <img src="/media/page/contribute/liberapay.png" caption="Logo and Liberapay link" alt="Logo and Liberapay link" width="148px" height="51px">
+            </a>
+        </div>
+        <div class="mt-2">
+            <a href="https://donorbox.org/exodus">
+                <img src="/media/page/contribute/donorbox.png" caption="Logo and Donorbox link" alt "Logo and Donorbox link" width="148px" height="51px">
+            </a>
+        </div>
+        <div class="mt-2">
+            <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=EUR&business=paypal@exodus-privacy.eu.org&item_name=Exodus%20donation">
+                <img src="/media/page/contribute/paypal.png" caption"Logo and Paypal link" alt="Logo and Paypal link" width="148px" height="51px">
             </a>
         </div>
     </div>
 </div>
 
-<div class="row">
-    <div class="col-md-4 mb-4 text-center">
-        <a href="https://liberapay.com/exodus/donate">
-            <img src="/media/page/contribute/liberapay.png" caption="Logo and Liberapay link" alt="Logo and Liberapay link" width="148px" height="51px">
-        </a>
-    </div>
-    <div class="col-md-4 mb-4 text-center">
-        <a href="https://donorbox.org/exodus">
-            <img src="/media/page/contribute/donorbox.png" caption="Logo and Donorbox link" alt "Logo and Donorbox link" width="148px" height="51px">
-        </a>
-    </div>
-    <div class="col-md-4 mb-4 text-center">
-        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=EUR&business=paypal@exodus-privacy.eu.org&item_name=Exodus%20donation">
-            <img src="/media/page/contribute/paypal.png" caption"Logo and Paypal link" alt="Logo and Paypal link" width="148px" height="51px">
-        </a>
-    </div>
-</div>
-
 ## And help us by spreading the word about us
 
-The main interest of Exodus Privacy is to <b>make people aware of the tracking done by mobile applications</b>. To do so, we animate 3 social network accounts and a video channel:
-<div class="row">
+The main interest of Exodus Privacy is to <b>make people aware of the tracking done by mobile applications</b>. To do so, we animate 2 social network accounts and a video channel:
+
+<div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-mastodon mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
             <h5 class="card-title"><code>@exodus</code></h5>
             <a href="https://framapiaf.org/@exodus" class="btn btn-primary">Follow us!</a>
-        </div>
-    </div>
-    <div class="col-md-4 text-center">
-        <i class="fab fa-3x fa-twitter mt-2 ml-auto mr-auto text-primary"></i>
-        <div class="card-body">
-            <h5 class="card-title"><code>@ExodusPrivacy</code></h5>
-            <a href="https://twitter.com/ExodusPrivacy" class="btn btn-primary">Follow us!</a>
         </div>
     </div>
     <div class="col-md-4 text-center">
@@ -134,8 +122,6 @@ The main interest of Exodus Privacy is to <b>make people aware of the tracking d
             <a href="https://facebook.com/exodusprivacy" class="btn btn-primary">Follow us!</a>
         </div>
     </div>
-</div>
-<div class="row justify-content-md-center">
     <div class="col-md-4 text-center">
         <i class="fab fa-3x fa-youtube-square mt-2 ml-auto mr-auto text-primary"></i>
         <div class="card-body">
