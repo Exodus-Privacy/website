@@ -75,31 +75,31 @@ L’adhésion est à renouveler tous les ans. La cotisation, elle, reste gratuit
 ## Nous aider à financer Exodus Privacy
 
 <div class="row">
-    <div class="col-md-12 text-center">
+    <div class="col-md-6 text-center">
         <div class="card-body">
-            <h5>Notre boutique</h5>
+            <h5>Goodies</h5>
             <a href="https://shop.spreadshirt.fr/exodus-privacy/all">
                 <img src="/media/page/contribute/sweatEP.jpg" caption="our spreadshirt shop" alt="Spreadshirt shop" width="172px" height="172px">
             </a>
         </div>
     </div>
-</div>
-
-<div class="row">
-    <div class="col-md-4 mb-4 text-center">
-        <a href="https://liberapay.com/exodus/donate">
-            <img src="/media/page/contribute/liberapay.png" caption="Logo et lien Liberapay" alt="Logo et lien Liberapay" width="148px" height="51px">
-        </a>
-    </div>
-    <div class="col-md-4 mb-4 text-center">
-        <a href="https://donorbox.org/exodus">
-            <img src="/media/page/contribute/donorbox.png" caption="Logo et lien Donorbox" alt "Logo et lien Donorbox" width="148px" height="51px">
-        </a>
-    </div>
-    <div class="col-md-4 mb-4 text-center">
-        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=EUR&business=paypal@exodus-privacy.eu.org&item_name=Exodus%20donation">
-            <img src="/media/page/contribute/paypal.png" caption"Logo et lien Paypal" alt="Logo et lien Paypal" width="148px" height="51px">
-        </a>
+    <div class="col-md-6 mb-4 text-center">
+        <h5>Dons</h5>
+        <div class="mt-2">
+            <a href="https://liberapay.com/exodus/donate">
+                <img src="/media/page/contribute/liberapay.png" caption="Logo et lien Liberapay" alt="Logo et lien Liberapay" width="148px" height="51px">
+            </a>
+        </div>
+        <div class="mt-2">
+            <a href="https://donorbox.org/exodus">
+                <img src="/media/page/contribute/donorbox.png" caption="Logo et lien Donorbox" alt "Logo et lien Donorbox" width="148px" height="51px">
+            </a>
+        </div>
+        <div class="mt-2">
+            <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=EUR&business=paypal@exodus-privacy.eu.org&item_name=Exodus%20donation">
+                <img src="/media/page/contribute/paypal.png" caption"Logo et lien Paypal" alt="Logo et lien Paypal" width="148px" height="51px">
+            </a>
+        </div>
     </div>
 </div>
 
