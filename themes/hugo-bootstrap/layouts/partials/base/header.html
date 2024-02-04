@@ -10,10 +10,11 @@
     <ul class="nav navbar-nav ml-auto">
       {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
+      {{- $active := strings.Contains $currentPage.RelPermalink .URL }}
           <li class="nav-item mr-xl-3 ml-xl-3 mr-lg-2 ml-lg-2 mr-0 ml-0">
             <a class="nav-link menu-item" href="{{ .URL | absLangURL }}">
-              {{ .Pre }}
-              <span class="text-capitalize no-decoration {{ $.Site.Params.navbarLinkFgColorClass | default $.Site.Data.Defaults.navbarLinkFgColorClass }}">{{ .Name }}</span>
+              {{ .Pre }} 
+              <span class="text-capitalize no-decoration {{ if $active }}nav_active_link{{ end }} {{ $.Site.Params.navbarLinkFgColorClass | default $.Site.Data.Defaults.navbarLinkFgColorClass }}">{{ .Name }}</span>
             </a>
           </li>
       {{end}}
@@ -34,3 +35,11 @@
     {{ end }}
   </div>
 </nav>
+
+<style>
+  .nav_active_link {
+    text-decoration: underline; 
+    text-underline-offset: 8px; 
+    font-weight: 700; 
+  }
+</style>
