@@ -111,4 +111,4 @@ See [our supporters](/en/page/supporters/).
 
 ## Other contributors 
 
-{{<all-contributors >}} 
+{{<all-contributors >}}
