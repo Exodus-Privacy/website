@@ -108,3 +108,7 @@ See [our code of conduct](/en/page/coc/).
 ## Our supporters
 
 See [our supporters](/en/page/supporters/).
+
+## Other contributors 
+
+<div class="row justify-content-md-center"> {{<all-contributors >}} </div>

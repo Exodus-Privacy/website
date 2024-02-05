@@ -1,0 +1,14 @@
+<div>
+    {{ $data := getJSON "https://api.github.com/repos/Exodus-Privacy/website/contributors" }}
+    {{ range $data }}
+    {{ $user := getJSON .url }}
+    <div class="col-lg-4 col-sm-6 col-12 mt-3 text-center">
+        <img class="w-25 rounded-circle" src="{{ .avatar_url }}">
+        <div class="card-body">
+            <h6 class="card-title"><code>{{ $user.name }} {{ if not $user.name}} {{ .login }} {{end }}</code></h6>
+            <a target="_blank" href="{{ .html_url }}"><i class="fab fa-github fa-2x"></i></a>
+            <p class="small">{{ $user.bio }}</p>
+        </div>
+    </div>
+    {{end}}
+</div>

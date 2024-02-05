@@ -108,3 +108,7 @@ Voir [notre code de conduite](/fr/page/coc/).
 ## Nos soutiens
 
 Voir [nos soutiens](/fr/page/supporters/).
+
+# Autres contributeurs
+
+<div class="row justify-content-md-center"> {{<all-contributors >}} </div>
