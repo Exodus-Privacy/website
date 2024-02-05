@@ -109,6 +109,6 @@ See [our code of conduct](/en/page/coc/).
 
 See [our supporters](/en/page/supporters/).
 
-## Other contributors 
+## Other contributors
 
 {{<all-contributors >}}
