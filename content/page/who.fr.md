@@ -111,4 +111,4 @@ Voir [nos soutiens](/fr/page/supporters/).
 
 # Autres contributeurs
 
-<div class="row justify-content-md-center"> {{<all-contributors >}} </div>
+{{<all-contributors >}} 

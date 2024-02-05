@@ -1,4 +1,4 @@
-<div>
+<div class="row justify-content-md-center">
     {{ $data := getJSON "https://api.github.com/repos/Exodus-Privacy/website/contributors" }}
     {{ range $data }}
     {{ $user := getJSON .url }}
