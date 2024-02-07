@@ -53,6 +53,8 @@ See [our code of conduct](/en/page/coc/).
 
 ## How to become a member
 
+Becoming a member allows you to participate in monthly meetings and the functioning of the organization. If this isn't possible for you, you can instead check other ways to support us on this page.
+
 You can join the association by sending us an email to [bureau@exodus-privacy.eu.org](mailto:bureau@exodus-privacy.eu.org) using the following the model:
 
 ```
@@ -61,7 +63,6 @@ I the undersigned [pseudo], wish to join the Exodus Privacy association as of to
 I will be reachable:
 * by email at [my-adress@example.com]
 * on IRC with pseudo [pseudo]
-* on the forum with pseudo [pseudo]
 * [any other place you think is appropriate here]
 
 [Introduce yourself briefly here]
