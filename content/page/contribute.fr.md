@@ -53,6 +53,8 @@ Voir [notre code de conduite](/fr/page/coc/).
 
 ## Devenir membre de l'association
 
+Devenir membre de l'association permet de participer aux réunions mensuelles et au fonctionnement de l'association. Si ce n'est pas possible pour vous, vous pouvez plutôt consulter les autres moyens de nous soutenir sur cette page.
+
 Pour cela vous pouvez adhérer à l'association en nous envoyant un mail à [bureau@exodus-privacy.eu.org](mailto:bureau@exodus-privacy.eu.org) en suivant ce modèle :
 
 ```
@@ -61,7 +63,6 @@ Je soussigné·e [pseudo] souhaite rejoindre l'association Exodus Privacy à com
 Je serai joignable :
 * par email à [mon-adresse@example.com]
 * sur IRC sous le pseudo [pseudo]
-* sur le forum sous le pseudo [pseudo]
 * [tout autre lieu qui vous semble approprié ici]
 
 [Se présenter succinctement ici]
