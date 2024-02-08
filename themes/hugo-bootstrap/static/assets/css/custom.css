@@ -2,3 +2,9 @@
 div.post-container a:not(.btn) {
   text-decoration: underline !important;
 }
+
+.nav_active_link {
+  text-decoration: underline;
+  text-underline-offset: 8px; 
+  font-weight: 700; 
+}
