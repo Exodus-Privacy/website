@@ -19,7 +19,7 @@ Voir [notre code de conduite](/fr/page/coc/).
                 J’ <i class="far fa-heart text-primary"></i> coder
             </h3>
             <p class="card-text">
-                Si vous aimez coder en Python ou en Java, jetez un œil au <a href="https://github.com/exodus-privacy/exodus">dépôt <i class="fab fa-github text-primary"></i> εxodus </a> ou à celui de <a href="https://github.com/Exodus-Privacy/exodus-android-app"><i class="fab fa-github text-primary"></i> l’application εxodus</a>.
+                Si vous aimez coder en Python ou en Kotlin, jetez un œil au <a href="https://github.com/exodus-privacy/exodus">dépôt <i class="fab fa-github text-primary"></i> εxodus </a> ou à celui de <a href="https://github.com/Exodus-Privacy/exodus-android-app"><i class="fab fa-github text-primary"></i> l’application εxodus</a>.
             </p>
         </div>
     </div>
