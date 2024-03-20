@@ -14,9 +14,9 @@ The application requires the following permissions:
 * *REORDER_TASKS*: This permission allows the application to reorder tasks executed during reports and trackers refresh.
 * *INTERNET*: This permission is required so that the application can query the reports on the main εxodus instance <https://reports.exodus-privacy.eu.org/>. It is not used for any other purpose.
 * *QUERY_ALL_PACKAGES*: This permission allows the application to see all installed applications on your device.
-* *POST_NOTIFICATIONS*: This permission allows the application to post notifications. **This permission is only used on Android 13.**
+* *POST_NOTIFICATIONS*: This permission allows the application to post notifications. **This permission is only used on Android 13 and above.**
 
-The application transmits the list of installed applications on the device, mixed with a number of random applications (not present on the device) in order to anonymize the list. This list is not kept by the εxodus server.
+The application transmits the list of installed applications on the device. This list is not kept by the εxodus server.
 
 On the εxodus API server, we keep some information for 16 days, for abuse prevention: IP address, date, time, requested URL and user-agent.
 
