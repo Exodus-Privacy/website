@@ -16,11 +16,11 @@ The application requires the following permissions:
 * *QUERY_ALL_PACKAGES*: This permission allows the application to see all installed applications on your device.
 * *POST_NOTIFICATIONS*: This permission allows the application to post notifications. **This permission is only used on Android 13 and above.**
 
-We use PackageManager API to get application IDs, and we get app ID about from all apps installed (applications installed by the user and enabled on the device).
+We use PackageManager API to get applications handle (ID of app) from all apps installed (applications installed by the user and enabled on the device).
 
-The application transmits the list of applications IDs on the device to the εxodus server. This list is not kept by the server.
+The application transmits the list of applications handle on the device to the εxodus server. This list is not kept by the server.
 
-The only usage of applications IDs is to our API return only reports about applications installed on the device.
+The only usage of applications handle is to our API returns only reports about applications installed on the device user.
 
 On the εxodus API server, we keep some information for 16 days, for abuse prevention: IP address, date, time, requested URL and user-agent.
 
