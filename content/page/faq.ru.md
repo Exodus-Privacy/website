@@ -14,7 +14,7 @@ draft: false
 * [Есть ли в ваших отчетах ложноположительные и ложноотрицательные результаты?](#negatives)
 * [Что нам делать, если мы хотим вам помочь?](#help)
 * [Есть ли в самом Android-приложении εxodus какие-либо трекеры?](#exodus)
-* [Why do you have a YouTube channel when this platform belongs to Google?](#youtube)
+* [Зачем вам канал на YouTube, если эта платформа принадлежит Google?](#youtube)
 
 ---
 
