@@ -1,0 +1,26 @@
+[description]
+other = "Анализирует проблемы конфиденциальности в приложениях Android."
+
+[discover]
+other = "Что мы делаем"
+
+[check]
+other = "Проверьте приложение"
+
+[who]
+other = "Кто мы"
+
+[press]
+other = "В прессе"
+
+[events]
+other = "Наши мероприятия"
+
+[blog]
+other = "Наш блог"
+
+[recentPosts]
+other = "Недавние посты"
+
+[tagCloud]
+other = "Облако тегов"
