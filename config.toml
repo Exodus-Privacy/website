@@ -61,6 +61,32 @@ name = "FAQ"
 url = "/page/faq/"
 weight = 5
 
+[languages.ru]
+languageName = "Русский"
+copyright = "Exodus Privacy - Французская некоммерческая ассоциация"
+[languages.ru.params]
+github = "Исходный код"
+[[languages.ru.menu.main]]
+name = "Что"
+url = "/page/what/"
+weight = 1
+[[languages.ru.menu.main]]
+name = "Кто"
+url = "/page/who/"
+weight = 2
+[[languages.ru.menu.main]]
+name = "Помочь"
+url = "/page/contribute/"
+weight = 3
+[[languages.ru.menu.main]]
+name = "Blog"
+url = "/post/"
+weight = 4
+[[languages.ru.menu.main]]
+name = "FAQ"
+url = "/page/faq/"
+weight = 5
+
 [params]
 navbarBgColorClass = "bg-primary"
 showBlogHeader = true
