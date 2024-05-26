@@ -16,7 +16,10 @@ L'application nécessite les autorisations suivantes:
 * *QUERY_ALL_PACKAGES* : Cette autorisation permet à l'application de connaitre les applications installées sur l'appareil.
 * *POST_NOTIFICATIONS* : Cette permission permet à l'application de pouvoir publier des notifications. **Cette autorisation est nécessaire uniquement sur Android 13 et supérieures.**
 
-L'application transmet la liste des applications installées sur l'appareil. Cette liste n'est pas conservée par le serveur εxodus.
+Nous utilisons l'API PackageManager pour obtenir l'identifiant de toutes les applications installées et n'ayant pas été désactivées.
+
+L'application transmet la liste des identifiants des applications installées sur l'appareil au serveur εxodus. Cette liste n'est pas conservée par le serveur εxodus.
+Celle-ci est nécessaire afin de ne renvoyer à l'appareil que les rapports des applications installées sur ce dernier et n'étant pas désactivées.
 
 Sur le serveur d'API εxodus, nous conservons quelques informations durant 16 jours, pour prévenir tout abus : adresse IP, date, heure, l'URL demandée et le user-agent.
 
