@@ -19,7 +19,7 @@ L'application nécessite les autorisations suivantes:
 Nous utilisons l'API PackageManager pour obtenir l'identifiant de toutes les applications installées (applications installées par l'utilisateur et non désactivées par ce dernier).
 
 L'application transmet la liste des identifiants des applications installées sur l'appareil au serveur εxodus. Cette liste n'est pas conservée par le serveur εxodus.
-Celle-ci est nécessaire afin de ne renvoyer a l'appareil que les rapports des applications installées sur ce dernier.
+Celle-ci est nécessaire afin de ne renvoyer à l'appareil que les rapports des applications installées sur ce dernier et n'étant pas désactivées.
 
 Sur le serveur d'API εxodus, nous conservons quelques informations durant 16 jours, pour prévenir tout abus : adresse IP, date, heure, l'URL demandée et le user-agent.
 
