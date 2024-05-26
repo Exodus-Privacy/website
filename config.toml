@@ -6,6 +6,7 @@ canonifyurls = true
 paginate = 25
 theme = "hugo-bootstrap"
 defaultContentLanguageInSubdir= true
+DefaultContentLanguage = "en"
 
 [languages]
 
