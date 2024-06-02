@@ -11,6 +11,7 @@ defaultContentLanguageInSubdir= true
 
 [languages.en]
 languageName = "English"
+languageCode = "en-us"
 copyright = "Exodus Privacy - French non-profit"
 [languages.en.params]
 github = "Source Code"
@@ -37,6 +38,7 @@ weight = 5
 
 [languages.fr]
 languageName = "Français"
+languageCode = "fr-fr"
 copyright = "Exodus Privacy - Association française à but non-lucratif"
 [languages.fr.params]
 github = "Code Source"
