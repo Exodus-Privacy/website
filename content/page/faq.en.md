@@ -104,7 +104,7 @@ On March 6, 2025, we decided to block requests from /e/OS "App Lounge" clients t
 
 If you have provided your name as the developer of the app, it will be publicly displayed on the app page of the aforementioned stores. Also note that if you sign your app with a certificate, the name you provided there will also be publicly displayed.
 
-All this informations are used by εxodus to verify the origin of the applications and are therefore displayed on the pages of each report.
+All these information are used by εxodus to verify the origin of the applications and are therefore displayed on the pages of each report.
 
 You can, of course, send us a request by email to correct or delete your name. Please note, however, that if you have not changed your name in the aforementioned locations, it will be displayed again during future analyses of your application.
 
