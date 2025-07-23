@@ -16,6 +16,7 @@ draft: false
 * [L'application Android Exodus Privacy embarque-t'elle des pisteurs ?](#exodus)
 * [Pourquoi avez-vous une chaîne YouTube alors que cette plateforme appartient à Google ?](#youtube)
 * [J'ai un smartphone avec /e/OS et mon application App Lounge n'arrive plus à accéder aux rapports d'εxodus, pourquoi ?](#eos)
+* [Je développe une application Android, pourquoi mon nom figure t-il sur εxodus ?](#gdpr)
 
 ---
 
@@ -94,6 +95,18 @@ Depuis quelques années des serveurs de /e/OS faisaient des requêtes sur notre 
 Malgré cela, c'est le magasin d'applications "App Lounge" de /e/OS qui s'est mis à faire des requêtes vers notre API, directement depuis les smartphones /e/OS, engendrant un DDoS de notre infrastructure.
 
 Le 6 mars 2025 nous avons donc pris la décision de bloquer les requêtes des clients "App Lounge" de /e/OS afin de soulager nos serveurs. Seuls les clients App Lounge sont bloqués, votre adresse n'est pas bannie et vous pouvez toujours consulter la plateforme εxodus.
+
+---
+
+**Je développe une application Android, pourquoi mon nom figure t-il sur εxodus ?  <a class="anchor" name="gdpr"></a>**
+
+εxodus analyse les applications Android en provenance du Google Play Store et de F-Droid.
+
+Si vous avez indiqué votre nom en tant que personne ayant développé l'application, celui-ci apparaît publiquement sur la page de l'application des magasins précédemment mentionnés. Notez également que si vous signez votre application avec un certificat, le nom que vous y avez renseigné est également publique.
+
+Toutes ces informations sont utilisées par εxodus pour vérifier la provenance des applications et sont donc affichés sur les pages de chaque rapport.
+
+Vous pouvez bien sûr nous envoyer une demande de rectification ou suppression de votre nom par mail. Sachez cependant que si vous n'avez pas changé ce nom aux endroits précédement mentionnés, celui-ci sera de nouveau affiché lors de futures analyses de votre application.
 
 <style>
 a.anchor {
