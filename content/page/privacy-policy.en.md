@@ -23,4 +23,4 @@ These application handles are used for the API to return only reports related to
 
 On the εxodus API server, we keep some information for 16 days, for abuse prevention: IP address, date, time, requested URL and user-agent.
 
-The application does not contain any tracker, you can check it on its report: <https://reports.exodus-privacy.eu.org/en/reports/org.eu.exodus_privacy.exodusprivacy/latest/>
+The application does not contain any tracker, you can check it on [its report](https://reports.exodus-privacy.eu.org/en/reports/org.eu.exodus_privacy.exodusprivacy/latest/).

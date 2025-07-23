@@ -23,4 +23,4 @@ Celle-ci est nécessaire afin de ne renvoyer à l'appareil que les rapports des 
 
 Sur le serveur d'API εxodus, nous conservons quelques informations durant 16 jours, pour prévenir tout abus : adresse IP, date, heure, l'URL demandée et le user-agent.
 
-L'application ne contient aucun pisteur, vous pouvez le vérifier dans son rapport : <https://reports.exodus-privacy.eu.org/en/reports/org.eu.exodus_privacy.exodusprivacy/latest/>
+L'application ne contient aucun pisteur, vous pouvez le vérifier dans [son rapport](https://reports.exodus-privacy.eu.org/en/reports/org.eu.exodus_privacy.exodusprivacy/latest/).
