@@ -15,6 +15,8 @@ draft: false
 * [Comment faire si l'on souhaite vous aider ?](#aider)
 * [L'application Android Exodus Privacy embarque-t'elle des pisteurs ?](#exodus)
 * [Pourquoi avez-vous une chaîne YouTube alors que cette plateforme appartient à Google ?](#youtube)
+* [J'ai un smartphone avec /e/OS et mon application App Lounge n'arrive plus à accéder aux rapports d'εxodus, pourquoi ?](#eos)
+* [Je développe une application Android, pourquoi mon nom figure t-il sur εxodus ?](#gdpr)
 
 ---
 
@@ -81,6 +83,30 @@ Non, bien sûr, vous pouvez allez voir [son propre rapport d'analyse](https://re
 L'objectif d'Exodus Privacy est de toucher le plus grand nombre, les personnes les moins technophiles et les plus enclines à ignorer ce qui se passe dans leur ordiphone. Pour toucher ce public, il est nécessaire d'aller à lui, car il ne viendra pas à nous. Nous avons donc une chaîne YouTube et un page Facebook.
 
 Vous pouvez retrouver les liens de nos différents supports dans [la page suivante](/fr/page/what/#videos).
+
+---
+
+**J'ai un smartphone avec /e/OS et mon application App Lounge n'arrive plus à accéder aux rapports d'εxodus, pourquoi ?  <a class="anchor" name="eos"></a>**
+
+Il est possible que nous ayons bloqué votre client App Lounge.
+
+Depuis quelques années des serveurs de /e/OS faisaient des requêtes sur notre API avec une clé que nous leur avions fournit. Cependant en octobre 2024, les requêtes de /e/ devenant trop importantes pour nos serveurs (et notre demande de mettre un meilleur cache de leur côté ayant échouée), nous leur avons indiqué que cela ne serait plus possible et leur avons laissé plusieurs mois pour changer de solution (comme héberger une instance d'εxodus chez eux). En effet, malgré leur proposition de financement, nous n'avons pas les moyens humains ni la volonté d'être prestataire de service pour des entreprises.
+
+Malgré cela, c'est le magasin d'applications "App Lounge" de /e/OS qui s'est mis à faire des requêtes vers notre API, directement depuis les smartphones /e/OS, engendrant un DDoS de notre infrastructure.
+
+Le 6 mars 2025 nous avons donc pris la décision de bloquer les requêtes des clients "App Lounge" de /e/OS afin de soulager nos serveurs. Seuls les clients App Lounge sont bloqués, votre adresse n'est pas bannie et vous pouvez toujours consulter la plateforme εxodus.
+
+---
+
+**Je développe une application Android, pourquoi mon nom figure t-il sur εxodus ?  <a class="anchor" name="gdpr"></a>**
+
+εxodus analyse les applications Android en provenance du Google Play Store et de F-Droid.
+
+Si vous avez indiqué votre nom en tant que personne ayant développé l'application, celui-ci apparaît publiquement sur la page de l'application des magasins précédemment mentionnés. Notez également que si vous signez votre application avec un certificat, le nom que vous y avez renseigné est également public.
+
+Toutes ces informations sont utilisées par εxodus pour vérifier la provenance des applications et sont donc affichées sur les pages de chaque rapport.
+
+Vous pouvez bien sûr nous envoyer une demande de rectification ou suppression de votre nom par mail. Sachez cependant que si vous n'avez pas changé ce nom aux endroits précédement mentionnés, celui-ci sera de nouveau affiché lors de futures analyses de votre application.
 
 <style>
 a.anchor {
