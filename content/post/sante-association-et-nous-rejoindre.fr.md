@@ -1,6 +1,6 @@
 ---
 title: "Santé de l'association et pourquoi nous rejoindre"
-date: 2025-08-29
+date: 2025-09-01
 draft: false
 tags: [sante, rejoindre]
 ---
